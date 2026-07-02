@@ -1,4 +1,4 @@
-# TUT-Syllabus-API
+
 東京工科大学の[学外シラバス](https://kyo-web.teu.ac.jp/campussy)をWebAPIとして提供するプロジェクトです。
 
 Github Actionsを用いて定期実行されるPythonソースファイルにより、学外シラバスのデータ(時間割コード、講義概要など)を取得し、JSON形式で本レポジトリにコミット&プッシュします。
