@@ -1,0 +1,81 @@
+{
+    "filters": {
+        "lecturer": "各教員",
+        "lecturerKey": "727c477ffd32"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "ES00301",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "各教員"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/ES00301.json"
+        },
+        {
+            "lectureCode": "K605301",
+            "courseName": "創成課題[1]",
+            "lecturer": [
+                "各教員"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月2",
+                "金2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２",
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/K605301.json"
+        },
+        {
+            "lectureCode": "ES00201",
+            "courseName": "創成課題II[BS]",
+            "lecturer": [
+                "各教員"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/ES00201.json"
+        }
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "filters": {
+        "lecturer": "清水潤",
+        "lecturerKey": "b08048659122"
+    },
+    "count": 14,
+    "lectures": [
+        {
+            "lectureCode": "GH3001",
+            "courseName": "医療技術学研究企画",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "櫻井進",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH3001.json"
+        },
+        {
+            "lectureCode": "GH3003",
+            "courseName": "医療技術学研究II",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "櫻井進",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/04\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH3003.json"
+        },
+        {
+            "lectureCode": "W34054",
+            "courseName": "卒業研究[PT4]",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34054.json"
+        },
+        {
+            "lectureCode": "GH1001",
+            "courseName": "医療技術学概論",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "十島純子",
+                "櫻井進",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH1001.json"
+        },
+        {
+            "lectureCode": "GH1002",
+            "courseName": "臨床検査学研究方法論",
+            "lecturer": [
+                "佐々木聰",
+                "栗原由利子",
+                "十島純子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH1002.json"
+        },
+        {
+            "lectureCode": "GH1006",
+            "courseName": "病態情報検査学",
+            "lecturer": [
+                "佐々木聰",
+                "横田恭子",
+                "廣田雅子",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH1006.json"
+        },
+        {
+            "lectureCode": "U12080",
+            "courseName": "疾病治療論I",
+            "lecturer": [
+                "日向奈惠",
+                "横田恭子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/U12080.json"
+        },
+        {
+            "lectureCode": "W2207",
+            "courseName": "内科系臨床医学I",
+            "lecturer": [
+                "日向奈惠",
+                "横田恭子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2207.json"
+        },
+        {
+            "lectureCode": "T27612",
+            "courseName": "フレッシャーズゼミ[理学2]",
+            "lecturer": [
+                "忽那俊樹",
+                "清水潤",
+                "斎藤寛樹",
+                "田中周"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2022\/05\/18",
+            "path": "\/api\/v1\/archive\/2022\/all\/T27612.json"
+        },
+        {
+            "lectureCode": "U60207",
+            "courseName": "神経内科学",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/03\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/U60207.json"
+        },
+        {
+            "lectureCode": "GH3002",
+            "courseName": "医療技術学研究I",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "櫻井進",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH3002.json"
+        },
+        {
+            "lectureCode": "GH3004",
+            "courseName": "医療技術学研究III",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH3004.json"
+        },
+        {
+            "lectureCode": "U60206",
+            "courseName": "一般臨床医学",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2022\/03\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/U60206.json"
+        },
+        {
+            "lectureCode": "U60205",
+            "courseName": "リハビリテーション医学",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/U60205.json"
+        }
+    ]
+}

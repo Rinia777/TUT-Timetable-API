@@ -1,0 +1,36 @@
+{
+    "lectureCode": "GGC13001",
+    "courseName": "非線形信号解析",
+    "lecturer": [
+        "董然"
+    ],
+    "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+    "courseType": "講義科目",
+    "courseStart": "2022年度後期",
+    "classPeriod": [
+        "火2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+        "1年",
+        "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+        "片柳研究所Ｅ２０３"
+    ],
+    "courceDetails": {
+        "courseOverview": "世の中にある時系列データのほとんどは非線形信号であるが，周波数領域での解析では，信号を線形的に取り扱うフーリエ変換がまだ主流となっている．本講義は，近年，非線形信号解析に優れた性能をもつヒルベルト・ファン変換(Hilbert-HuangTransform:HHT)について説明する．また，実際の非線形データを例として，周波数領域での非線形解析の演習をしながら講義を行う．",
+        "outcomesMeasuredBy": "様々な時系列データに対して，ヒルベルト・ファン変換を適用し，周波数領域でのデータ解析・分析能力を身につくことで，非線形信号処理に関する知識を習得することを目指す．",
+        "learningOutcomes": "",
+        "teachingMethod": "本講義は講義形式とプログラミング演習で行うため，ノートPCを毎回持参すること．講義内で説明した非線形信号処理の手法を，実際の工学的問題に適用し，プログラミング言語でコードを作成してもらう．",
+        "notices": "プログラミング（Pythonなどの高級プログラミング言語）ができること．英語論文の読み方について，事前に学んでおくこと．",
+        "preparatoryStudy": "授業前には講義資料を予習すること．",
+        "gradingGuidelines": "2回から3回のレポート（80%）および受講態度等を総合的に判断して評価を行う．",
+        "textbook": "指定しない．",
+        "referenceMaterials": "ヒルベルト・ファン変換を提案したHuangらが執筆したHHTの教科書：Huang,NordenEh.Hilbert-Huangtransformanditsapplications.Vol.16.WorldScientific,2014.上記の手法を紹介する参考書以外に，HHTを用いた非線形信号解析に関連する論文も講義内で随時紹介する．",
+        "courseSchedule": "第1回：ガイダンス，信号処理の基礎知識第2回：フーリエ級数とフーリエ変換第3回：経験的モード分解とその実装第4回：ヒルベルト変換とヒルベルト・ファン変換第5回：瞬時周波数空間の非線形信号解析第6回：多変量経験的モード分解とその応用第7回：まとめと最新関連研究紹介",
+        "courseDataUpdatedAt": "2022\/01\/10"
+    },
+    "updateAt": "2022\/01\/10"
+}

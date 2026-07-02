@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "野条美貴",
+        "lecturerKey": "47468301cd90"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "R1190",
+            "courseName": "キャリアデザインI[デザイン]",
+            "lecturer": [
+                "野条美貴",
+                "本郷信二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/R1190.json"
+        }
+    ]
+}

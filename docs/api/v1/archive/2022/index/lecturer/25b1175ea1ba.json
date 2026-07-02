@@ -1,0 +1,108 @@
+{
+    "filters": {
+        "lecturer": "篠山雅美",
+        "lecturerKey": "25b1175ea1ba"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "R2080",
+            "courseName": "キャリアデザインII［デザイン］",
+            "lecturer": [
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/R2080.json"
+        },
+        {
+            "lectureCode": "R3030",
+            "courseName": "キャリアデザインIV[デザイン]",
+            "lecturer": [
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/03\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/R3030.json"
+        },
+        {
+            "lectureCode": "R2090",
+            "courseName": "キャリアデザインIII［デザイン］",
+            "lecturer": [
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/09\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/R2090.json"
+        },
+        {
+            "lectureCode": "R3040",
+            "courseName": "キャリアデザインV[デザイン]",
+            "lecturer": [
+                "本郷信二",
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/09\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/R3040.json"
+        }
+    ]
+}

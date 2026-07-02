@@ -1,0 +1,5092 @@
+{
+    "department": "HS",
+    "count": 523,
+    "lectures": [
+        {
+            "courseName": "キネシオロジー",
+            "lecturer": [
+                "吉田真一",
+                "石黒圭応",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U61101.json"
+        },
+        {
+            "courseName": "キネシオロジー演習",
+            "lecturer": [
+                "吉田真一",
+                "石黒圭応",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U61201.json"
+        },
+        {
+            "courseName": "クリニカル・キネシオロジー演習",
+            "lecturer": [
+                "吉田真一",
+                "石黒圭応",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U33010.json"
+        },
+        {
+            "courseName": "グローバルマインドと作業療法",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43160.json"
+        },
+        {
+            "courseName": "コミュニケーション演習I",
+            "lecturer": [
+                "原田浩美",
+                "石津希代子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63214.json"
+        },
+        {
+            "courseName": "コミュニケーション演習II",
+            "lecturer": [
+                "原田浩美",
+                "池田泰子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63215.json"
+        },
+        {
+            "courseName": "コミュニケーション論[医療]",
+            "lecturer": [
+                "奥正廣"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1000.json"
+        },
+        {
+            "courseName": "コンピュータリテラシー演習II",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2001.json"
+        },
+        {
+            "courseName": "コンピュータリテラシー演習I[臨工]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1920.json"
+        },
+        {
+            "courseName": "コンピュータリテラシー演習[作業言語]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1962.json"
+        },
+        {
+            "courseName": "コンピュータリテラシー演習[理学]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1961.json"
+        },
+        {
+            "courseName": "コンピュータリテラシー演習[看護]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1910.json"
+        },
+        {
+            "courseName": "コンピュータリテラシー演習[臨検]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1950.json"
+        },
+        {
+            "courseName": "コンピュータ概論II[医療]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2200.json"
+        },
+        {
+            "courseName": "コンピュータ概論I[月3]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2101.json"
+        },
+        {
+            "courseName": "コンピュータ概論I[月4]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2102.json"
+        },
+        {
+            "courseName": "システム制御工学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2301.json"
+        },
+        {
+            "courseName": "スポーツ・コンディショニング[医療]",
+            "lecturer": [
+                "内藤通昭"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1500.json"
+        },
+        {
+            "courseName": "スポーツ・コンディショニング実習",
+            "lecturer": [
+                "巴伸一"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1600.json"
+        },
+        {
+            "courseName": "スポーツ科学理学療法学演習",
+            "lecturer": [
+                "中山孝",
+                "吉田真一",
+                "斎藤寛樹",
+                "伊藤咲子",
+                "乙戸崇寛"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33140.json"
+        },
+        {
+            "courseName": "チーム医療概論",
+            "lecturer": [
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53110.json"
+        },
+        {
+            "courseName": "パリアティブケア",
+            "lecturer": [
+                "清好志恵",
+                "生山笑",
+                "妹尾弘子",
+                "田辺大介"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14140.json"
+        },
+        {
+            "courseName": "ファミリーサポート論",
+            "lecturer": [
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14120.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[作業]",
+            "lecturer": [
+                "澤田辰徳",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T27621.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[理学1]",
+            "lecturer": [
+                "宮﨑貴朗",
+                "吉田真一",
+                "石黒圭応",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T27611.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[理学2]",
+            "lecturer": [
+                "忽那俊樹",
+                "清水潤",
+                "斎藤寛樹",
+                "田中周"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T27612.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[理学3]",
+            "lecturer": [
+                "中山孝",
+                "日下さと美",
+                "土屋順子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T27613.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[理学4]",
+            "lecturer": [
+                "十島純子",
+                "渡部祥輝",
+                "太箸俊宏",
+                "高木健志"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T27614.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[看護1]",
+            "lecturer": [
+                "野澤美江子",
+                "大野祐子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2711.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[看護2]",
+            "lecturer": [
+                "西尾奈緒美",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2712.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[看護3]",
+            "lecturer": [
+                "厚澤博美",
+                "生田奈美可"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2713.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[看護4]",
+            "lecturer": [
+                "飯塚敏子",
+                "田辺大介",
+                "若林和枝"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2714.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[臨工1]",
+            "lecturer": [
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2721.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[臨工2]",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2722.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[臨工3]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2723.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[臨検1]",
+            "lecturer": [
+                "榎本みのり",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2751.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[臨検2]",
+            "lecturer": [
+                "佐々木聰",
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2752.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[臨検3]",
+            "lecturer": [
+                "吉田祥子",
+                "市川由理"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2753.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[言語]",
+            "lecturer": [
+                "生井友紀子",
+                "川上勝也"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T27631.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[作業1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T12621.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[作業2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T12622.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[理学1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T12611.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[理学2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T12612.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[理学3]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T12613.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[理学4]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T12614.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[理学5]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T12615.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨工1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1221.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨工2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1222.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨工3]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1223.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨工4]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1224.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨工5]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1225.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨検1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1251.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨検2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1252.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨検3]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1253.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨検4]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1254.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[臨検5]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1255.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[言語1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T12631.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII[言語2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T12632.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[作業1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T11621.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[作業2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T11622.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[理学1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T11611.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[理学2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T11612.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[理学3]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T11613.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[理学4]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T11614.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[理学5]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T11615.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[看護1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1111.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[看護2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1112.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[看護3]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1113.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[看護4]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1114.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[看護5]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1115.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨工1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1121.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨工2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1122.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨工3]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1123.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨工4]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1124.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨工5]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1125.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨検1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1151.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨検2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1152.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨検3]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1153.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨検4]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1154.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[臨検5]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1155.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[言語1]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T11631.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI[言語2]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T11632.json"
+        },
+        {
+            "courseName": "ヘルスアセスメント",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12030.json"
+        },
+        {
+            "courseName": "ベーシックセミナーI",
+            "lecturer": [
+                "大場一央"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63103.json"
+        },
+        {
+            "courseName": "ベーシックセミナーII",
+            "lecturer": [
+                "原田浩美"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63104.json"
+        },
+        {
+            "courseName": "マニュアルセラピー",
+            "lecturer": [
+                "中山孝",
+                "斎藤寛樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33120.json"
+        },
+        {
+            "courseName": "マニュアルセラピー実習",
+            "lecturer": [
+                "中山孝",
+                "斎藤寛樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33130.json"
+        },
+        {
+            "courseName": "メンタルヘルスと作業療法",
+            "lecturer": [
+                "石橋仁美",
+                "中川和美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43130.json"
+        },
+        {
+            "courseName": "リスク管理論",
+            "lecturer": [
+                "日下さと美",
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33030.json"
+        },
+        {
+            "courseName": "リハビリテーションケア",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14130.json"
+        },
+        {
+            "courseName": "リハビリテーション医学",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60205.json"
+        },
+        {
+            "courseName": "リハビリテーション工学",
+            "lecturer": [
+                "石黒圭応"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60211.json"
+        },
+        {
+            "courseName": "リハビリテーション概論",
+            "lecturer": [
+                "原田浩美",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63107.json"
+        },
+        {
+            "courseName": "リプロダクティブ・ヘルスケア",
+            "lecturer": [
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14110.json"
+        },
+        {
+            "courseName": "一般検査学・寄生虫学",
+            "lecturer": [
+                "栗原由利子",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W5102.json"
+        },
+        {
+            "courseName": "一般検査学実習",
+            "lecturer": [
+                "栗原由利子",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52100.json"
+        },
+        {
+            "courseName": "一般臨床医学",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60206.json"
+        },
+        {
+            "courseName": "人体構造学",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1105.json"
+        },
+        {
+            "courseName": "人体構造機能学演習",
+            "lecturer": [
+                "岡部正隆"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1107.json"
+        },
+        {
+            "courseName": "人体機能学",
+            "lecturer": [
+                "田代文夫"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1106.json"
+        },
+        {
+            "courseName": "人体解剖学I",
+            "lecturer": [
+                "寺島達夫"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2101.json"
+        },
+        {
+            "courseName": "人体解剖学II",
+            "lecturer": [
+                "寺島達夫"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2102.json"
+        },
+        {
+            "courseName": "人間発達学（作業療法）",
+            "lecturer": [
+                "伊藤公一",
+                "石橋仁美",
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門基礎科目作業療法学基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U62101.json"
+        },
+        {
+            "courseName": "人間発達学（理学療法）",
+            "lecturer": [
+                "土屋順子",
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U61202.json"
+        },
+        {
+            "courseName": "体外循環学演習",
+            "lecturer": [
+                "笠井亮佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2205.json"
+        },
+        {
+            "courseName": "作業療法セミナー",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44040.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[10]",
+            "lecturer": [
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W4405A.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[1]",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44051.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[2]",
+            "lecturer": [
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44052.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[3]",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44053.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[4]",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44054.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[5]",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44055.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[6]",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44056.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[7]",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44057.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[8]",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44058.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[9]",
+            "lecturer": [
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44059.json"
+        },
+        {
+            "courseName": "作業療法原論",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62201.json"
+        },
+        {
+            "courseName": "作業療法原論演習[2019以前]",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43200.json"
+        },
+        {
+            "courseName": "作業療法学概論",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62101.json"
+        },
+        {
+            "courseName": "作業療法実践論",
+            "lecturer": [
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62208.json"
+        },
+        {
+            "courseName": "作業療法研究法",
+            "lecturer": [
+                "友利幸之介",
+                "大野勘太",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43010.json"
+        },
+        {
+            "courseName": "作業療法管理学",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44010.json"
+        },
+        {
+            "courseName": "作業療法見学実習",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62210.json"
+        },
+        {
+            "courseName": "作業評価学",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62202.json"
+        },
+        {
+            "courseName": "保健医療福祉総論",
+            "lecturer": [
+                "高加國夫"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U54020.json"
+        },
+        {
+            "courseName": "保健医療福祉論I",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1102.json"
+        },
+        {
+            "courseName": "保健医療福祉論[2021以前]",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1122.json"
+        },
+        {
+            "courseName": "保健統計学",
+            "lecturer": [
+                "東郷史治"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12050.json"
+        },
+        {
+            "courseName": "倫理学[医療]",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0400.json"
+        },
+        {
+            "courseName": "健康学習論",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12140.json"
+        },
+        {
+            "courseName": "健康食品総論",
+            "lecturer": [
+                "栗原由利子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W54050.json"
+        },
+        {
+            "courseName": "先端作業療法I",
+            "lecturer": [
+                "伊藤公一",
+                "酒井弘美",
+                "澤田辰徳",
+                "友利幸之介",
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43170.json"
+        },
+        {
+            "courseName": "先端作業療法II",
+            "lecturer": [
+                "石橋仁美",
+                "池田晋平",
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43180.json"
+        },
+        {
+            "courseName": "先端医療総合講義[作業]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44060.json"
+        },
+        {
+            "courseName": "先端医療総合講義[理学]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34010.json"
+        },
+        {
+            "courseName": "先端医療総合講義[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14100.json"
+        },
+        {
+            "courseName": "先端医療総合講義[臨工]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2408.json"
+        },
+        {
+            "courseName": "先端医療総合講義[臨検]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W54070.json"
+        },
+        {
+            "courseName": "免疫検査学",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52120.json"
+        },
+        {
+            "courseName": "免疫検査学実習",
+            "lecturer": [
+                "伊藤さやか",
+                "廣田雅子",
+                "奥橋佑基",
+                "伊藤さやか"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53070.json"
+        },
+        {
+            "courseName": "公衆衛生学[看護]",
+            "lecturer": [
+                "鎌倉光宏",
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1101.json"
+        },
+        {
+            "courseName": "公衆衛生学[臨工]",
+            "lecturer": [
+                "梅田勝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2404.json"
+        },
+        {
+            "courseName": "公衆衛生学[臨検]",
+            "lecturer": [
+                "梅田勝",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U52030.json"
+        },
+        {
+            "courseName": "公衆衛生学実習",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U52040.json"
+        },
+        {
+            "courseName": "公衆衛生学演習",
+            "lecturer": [
+                "梅田勝",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60216.json"
+        },
+        {
+            "courseName": "公衆衛生学演習[理学]",
+            "lecturer": [
+                "梅田勝",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U33030.json"
+        },
+        {
+            "courseName": "公衆衛生看護学I",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12180.json"
+        },
+        {
+            "courseName": "公衆衛生看護学II",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13180.json"
+        },
+        {
+            "courseName": "公衆衛生看護学III",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14150.json"
+        },
+        {
+            "courseName": "公衆衛生看護学実習I",
+            "lecturer": [
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14170.json"
+        },
+        {
+            "courseName": "公衆衛生看護学実習II",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14180.json"
+        },
+        {
+            "courseName": "公衆衛生看護学実習II[2011-13年]",
+            "lecturer": [
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14200.json"
+        },
+        {
+            "courseName": "公衆衛生看護学実習I[2011-13年]",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14190.json"
+        },
+        {
+            "courseName": "公衆衛生看護管理論",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14160.json"
+        },
+        {
+            "courseName": "内科系臨床医学I",
+            "lecturer": [
+                "日向奈惠",
+                "横田恭子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2207.json"
+        },
+        {
+            "courseName": "内科系臨床医学II",
+            "lecturer": [
+                "柴崎芳一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2309.json"
+        },
+        {
+            "courseName": "内部障害系理学療法学",
+            "lecturer": [
+                "日下さと美",
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33080.json"
+        },
+        {
+            "courseName": "内部障害系理学療法学実習",
+            "lecturer": [
+                "日下さと美",
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33090.json"
+        },
+        {
+            "courseName": "内部障害系理学療法評価学",
+            "lecturer": [
+                "日下さと美"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61203.json"
+        },
+        {
+            "courseName": "化学の世界[医療]",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3100.json"
+        },
+        {
+            "courseName": "化学の世界[臨検]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3150.json"
+        },
+        {
+            "courseName": "医動物学（含む実習）",
+            "lecturer": [
+                "荒木潤",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52060.json"
+        },
+        {
+            "courseName": "医学概論[リハビリ]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60101.json"
+        },
+        {
+            "courseName": "医学概論[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1111.json"
+        },
+        {
+            "courseName": "医学概論[臨工]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2109.json"
+        },
+        {
+            "courseName": "医学概論[臨検]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U5107.json"
+        },
+        {
+            "courseName": "医用工学実習",
+            "lecturer": [
+                "兵後充史",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U52060.json"
+        },
+        {
+            "courseName": "医用工学概論",
+            "lecturer": [
+                "武田朴",
+                "兵後充史",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U52050.json"
+        },
+        {
+            "courseName": "医用工学特別演習",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之",
+                "笠井亮佑",
+                "上條史記"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2403.json"
+        },
+        {
+            "courseName": "医用機器安全管理学",
+            "lecturer": [
+                "阿部盛夫",
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2303.json"
+        },
+        {
+            "courseName": "医用機器安全管理学実習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2304.json"
+        },
+        {
+            "courseName": "医用機器演習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2305.json"
+        },
+        {
+            "courseName": "医用機械工学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2209.json"
+        },
+        {
+            "courseName": "医用治療機器学",
+            "lecturer": [
+                "小野哲章",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2201.json"
+        },
+        {
+            "courseName": "医用画像機器学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2302.json"
+        },
+        {
+            "courseName": "医療リスクマネジメント",
+            "lecturer": [
+                "大塚喜人",
+                "横田浩充",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U54010.json"
+        },
+        {
+            "courseName": "医療・看護情報学",
+            "lecturer": [
+                "瀬戸山陽子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12150.json"
+        },
+        {
+            "courseName": "医療入門演習",
+            "lecturer": [
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2102.json"
+        },
+        {
+            "courseName": "医療安全・人間工学概論[作業]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43190.json"
+        },
+        {
+            "courseName": "医療安全・人間工学概論[理学]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33200.json"
+        },
+        {
+            "courseName": "医療安全・人間工学概論[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13160.json"
+        },
+        {
+            "courseName": "医療安全・人間工学概論[臨工]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2401.json"
+        },
+        {
+            "courseName": "医療情報処理演習I",
+            "lecturer": [
+                "奥橋佑基",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52190.json"
+        },
+        {
+            "courseName": "医療情報処理演習II",
+            "lecturer": [
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W54040.json"
+        },
+        {
+            "courseName": "医療情報演習",
+            "lecturer": [
+                "野田雅司"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U34010.json"
+        },
+        {
+            "courseName": "医療科学の基礎II",
+            "lecturer": [
+                "下村美文",
+                "田仲浩平",
+                "加納敬",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2900.json"
+        },
+        {
+            "courseName": "医療科学の基礎I[臨工]",
+            "lecturer": [
+                "宮地寛登"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2820.json"
+        },
+        {
+            "courseName": "医療科学の基礎[看護]",
+            "lecturer": [
+                "都丸亜希子",
+                "下村美文"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2810.json"
+        },
+        {
+            "courseName": "医療科学の基礎[臨検]",
+            "lecturer": [
+                "佐々木聰"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2850.json"
+        },
+        {
+            "courseName": "医療経済学[リハビリ]",
+            "lecturer": [
+                "磯伸彦"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60210.json"
+        },
+        {
+            "courseName": "医療経済学[臨工]",
+            "lecturer": [
+                "磯伸彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2207.json"
+        },
+        {
+            "courseName": "卒業研究II[CE10]",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2407A.json"
+        },
+        {
+            "courseName": "卒業研究II[CE11]",
+            "lecturer": [
+                "加納敬"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2407B.json"
+        },
+        {
+            "courseName": "卒業研究II[CE12]",
+            "lecturer": [
+                "上條史記"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2407C.json"
+        },
+        {
+            "courseName": "卒業研究II[CE13]",
+            "lecturer": [
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2407D.json"
+        },
+        {
+            "courseName": "卒業研究II[CE1]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24071.json"
+        },
+        {
+            "courseName": "卒業研究II[CE2]",
+            "lecturer": [
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24072.json"
+        },
+        {
+            "courseName": "卒業研究II[CE3]",
+            "lecturer": [
+                "柴崎芳一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24073.json"
+        },
+        {
+            "courseName": "卒業研究II[CE4]",
+            "lecturer": [
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24074.json"
+        },
+        {
+            "courseName": "卒業研究II[CE5]",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24075.json"
+        },
+        {
+            "courseName": "卒業研究II[CE6]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24076.json"
+        },
+        {
+            "courseName": "卒業研究II[CE8]",
+            "lecturer": [
+                "荻野稔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24078.json"
+        },
+        {
+            "courseName": "卒業研究II[CE9]",
+            "lecturer": [
+                "笠井亮佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24079.json"
+        },
+        {
+            "courseName": "卒業研究I[CE10]",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2406A.json"
+        },
+        {
+            "courseName": "卒業研究I[CE11]",
+            "lecturer": [
+                "加納敬"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2406B.json"
+        },
+        {
+            "courseName": "卒業研究I[CE12]",
+            "lecturer": [
+                "上條史記"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2406C.json"
+        },
+        {
+            "courseName": "卒業研究I[CE13]",
+            "lecturer": [
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2406D.json"
+        },
+        {
+            "courseName": "卒業研究I[CE1]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24061.json"
+        },
+        {
+            "courseName": "卒業研究I[CE2]",
+            "lecturer": [
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24062.json"
+        },
+        {
+            "courseName": "卒業研究I[CE3]",
+            "lecturer": [
+                "柴崎芳一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24063.json"
+        },
+        {
+            "courseName": "卒業研究I[CE4]",
+            "lecturer": [
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24064.json"
+        },
+        {
+            "courseName": "卒業研究I[CE5]",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24065.json"
+        },
+        {
+            "courseName": "卒業研究I[CE6]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24066.json"
+        },
+        {
+            "courseName": "卒業研究I[CE7]",
+            "lecturer": [
+                "宮地寛登"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24067.json"
+        },
+        {
+            "courseName": "卒業研究I[CE8]",
+            "lecturer": [
+                "荻野稔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24068.json"
+        },
+        {
+            "courseName": "卒業研究I[CE9]",
+            "lecturer": [
+                "笠井亮佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24069.json"
+        },
+        {
+            "courseName": "卒業研究[PT10]",
+            "lecturer": [
+                "吉田真一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W3405A.json"
+        },
+        {
+            "courseName": "卒業研究[PT11]",
+            "lecturer": [
+                "土屋順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W3405B.json"
+        },
+        {
+            "courseName": "卒業研究[PT12]",
+            "lecturer": [
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W3405C.json"
+        },
+        {
+            "courseName": "卒業研究[PT13]",
+            "lecturer": [
+                "斎藤寛樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W3405D.json"
+        },
+        {
+            "courseName": "卒業研究[PT14]",
+            "lecturer": [
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W3405E.json"
+        },
+        {
+            "courseName": "卒業研究[PT1]",
+            "lecturer": [
+                "中山孝"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34051.json"
+        },
+        {
+            "courseName": "卒業研究[PT2]",
+            "lecturer": [
+                "石黒圭応"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34052.json"
+        },
+        {
+            "courseName": "卒業研究[PT3]",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34053.json"
+        },
+        {
+            "courseName": "卒業研究[PT4]",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34054.json"
+        },
+        {
+            "courseName": "卒業研究[PT5]",
+            "lecturer": [
+                "宮﨑貴朗"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34055.json"
+        },
+        {
+            "courseName": "卒業研究[PT6]",
+            "lecturer": [
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34056.json"
+        },
+        {
+            "courseName": "卒業研究[PT7]",
+            "lecturer": [
+                "日下さと美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34057.json"
+        },
+        {
+            "courseName": "卒業研究[PT8]",
+            "lecturer": [
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34058.json"
+        },
+        {
+            "courseName": "卒業研究[PT9]",
+            "lecturer": [
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34059.json"
+        },
+        {
+            "courseName": "口腔外科学",
+            "lecturer": [
+                "澁井武夫",
+                "結城百合子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63204.json"
+        },
+        {
+            "courseName": "呼吸療法学演習",
+            "lecturer": [
+                "加納敬"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2204.json"
+        },
+        {
+            "courseName": "哲学[医療]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0100.json"
+        },
+        {
+            "courseName": "国際看護学",
+            "lecturer": [
+                "宇根川杏子",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14080.json"
+        },
+        {
+            "courseName": "在宅看護学",
+            "lecturer": [
+                "大木正隆",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13080.json"
+        },
+        {
+            "courseName": "在宅看護学実習",
+            "lecturer": [
+                "大木正隆",
+                "一色喜保",
+                "浅海くるみ",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14010.json"
+        },
+        {
+            "courseName": "在宅看護学実習[2013年以前]",
+            "lecturer": [
+                "大木正隆",
+                "一色喜保",
+                "浅海くるみ",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14220.json"
+        },
+        {
+            "courseName": "在宅看護学概論",
+            "lecturer": [
+                "大木正隆",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12090.json"
+        },
+        {
+            "courseName": "地域リハビリテーション論[2019以前]",
+            "lecturer": [
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43280.json"
+        },
+        {
+            "courseName": "地域理学療法学",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33170.json"
+        },
+        {
+            "courseName": "地域生活支援と作業療法演習",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43110.json"
+        },
+        {
+            "courseName": "地域看護学",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W1105.json"
+        },
+        {
+            "courseName": "地域看護学実習",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14020.json"
+        },
+        {
+            "courseName": "基礎作業学実習",
+            "lecturer": [
+                "伊藤公一",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62102.json"
+        },
+        {
+            "courseName": "基礎医学実習",
+            "lecturer": [
+                "下村美文",
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2206.json"
+        },
+        {
+            "courseName": "基礎微生物学",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U5106.json"
+        },
+        {
+            "courseName": "基礎理学療法学実習I",
+            "lecturer": [
+                "中山孝",
+                "吉田真一",
+                "渡部祥輝",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61101.json"
+        },
+        {
+            "courseName": "基礎理学療法学実習II",
+            "lecturer": [
+                "中山孝",
+                "吉田真一",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61102.json"
+        },
+        {
+            "courseName": "基礎病理学",
+            "lecturer": [
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U5105.json"
+        },
+        {
+            "courseName": "基礎看護学実習I",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12000.json"
+        },
+        {
+            "courseName": "基礎看護学実習II",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12170.json"
+        },
+        {
+            "courseName": "基礎看護技術I",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W1103.json"
+        },
+        {
+            "courseName": "基礎看護技術II",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W1104.json"
+        },
+        {
+            "courseName": "基礎看護技術III",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12010.json"
+        },
+        {
+            "courseName": "外科系臨床医学I",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2208.json"
+        },
+        {
+            "courseName": "外科系臨床医学II",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2310.json"
+        },
+        {
+            "courseName": "失語・高次脳機能障害学I",
+            "lecturer": [
+                "浦野雅世",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63201.json"
+        },
+        {
+            "courseName": "失語・高次脳機能障害学II",
+            "lecturer": [
+                "浦野雅世",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63203.json"
+        },
+        {
+            "courseName": "失語・高次脳機能障害学演習I",
+            "lecturer": [
+                "内山美保",
+                "川上勝也",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63202.json"
+        },
+        {
+            "courseName": "失語・高次脳機能障害学演習II",
+            "lecturer": [
+                "内山美保",
+                "川上勝也",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63204.json"
+        },
+        {
+            "courseName": "宗教学[医療]",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0500.json"
+        },
+        {
+            "courseName": "実践医学特別演習",
+            "lecturer": [
+                "下村美文",
+                "日向奈惠",
+                "荻野稔",
+                "加納敬",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2405.json"
+        },
+        {
+            "courseName": "実践医学統合講義",
+            "lecturer": [
+                "鈴木みゆき",
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2404.json"
+        },
+        {
+            "courseName": "家族看護学",
+            "lecturer": [
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12160.json"
+        },
+        {
+            "courseName": "家族社会学[リハビリ]",
+            "lecturer": [
+                "柳采延"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60208.json"
+        },
+        {
+            "courseName": "家族社会学[看護]",
+            "lecturer": [
+                "柳采延"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1104.json"
+        },
+        {
+            "courseName": "小児看護学I",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12110.json"
+        },
+        {
+            "courseName": "小児看護学II",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13020.json"
+        },
+        {
+            "courseName": "小児看護学実習",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13110.json"
+        },
+        {
+            "courseName": "小児看護学概論",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12050.json"
+        },
+        {
+            "courseName": "小児科学",
+            "lecturer": [
+                "小原明"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60204.json"
+        },
+        {
+            "courseName": "就労支援と作業療法",
+            "lecturer": [
+                "石橋仁美",
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43120.json"
+        },
+        {
+            "courseName": "工学基礎演習",
+            "lecturer": [
+                "加用一者",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2106.json"
+        },
+        {
+            "courseName": "工学実験I",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2211.json"
+        },
+        {
+            "courseName": "工学実験II",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2212.json"
+        },
+        {
+            "courseName": "工学演習I",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2302.json"
+        },
+        {
+            "courseName": "工学演習II",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2401.json"
+        },
+        {
+            "courseName": "形成外科学",
+            "lecturer": [
+                "佐藤伸弘",
+                "市川佑一"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63202.json"
+        },
+        {
+            "courseName": "微生物検査学I",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W5103.json"
+        },
+        {
+            "courseName": "微生物検査学II",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W5104.json"
+        },
+        {
+            "courseName": "微生物検査学実習I",
+            "lecturer": [
+                "岡崎充宏",
+                "花尾麻美",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52110.json"
+        },
+        {
+            "courseName": "微生物検査学実習II",
+            "lecturer": [
+                "岡崎充宏",
+                "花尾麻美",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53060.json"
+        },
+        {
+            "courseName": "心理学[月4]",
+            "lecturer": [
+                "沼田真美"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0301.json"
+        },
+        {
+            "courseName": "心理学[言語]",
+            "lecturer": [
+                "沼田真美"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0302.json"
+        },
+        {
+            "courseName": "応用コンピュータI",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2500.json"
+        },
+        {
+            "courseName": "応用コンピュータII",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2600.json"
+        },
+        {
+            "courseName": "情報工学特論",
+            "lecturer": [
+                "生駒洋子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2402.json"
+        },
+        {
+            "courseName": "感染制御ケア",
+            "lecturer": [
+                "片渕盛将"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W1106.json"
+        },
+        {
+            "courseName": "成人・高齢者看護技術演習",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美",
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13050.json"
+        },
+        {
+            "courseName": "成人看護学I",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12120.json"
+        },
+        {
+            "courseName": "成人看護学II",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13040.json"
+        },
+        {
+            "courseName": "成人看護学実習",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 5,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13120.json"
+        },
+        {
+            "courseName": "成人看護学概論",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12060.json"
+        },
+        {
+            "courseName": "政治学[医療]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0700.json"
+        },
+        {
+            "courseName": "救急総論",
+            "lecturer": [
+                "〆谷直人",
+                "坂本大",
+                "栗原由利子",
+                "岡崎充宏",
+                "廣田雅子",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53120.json"
+        },
+        {
+            "courseName": "数学基礎[木1]",
+            "lecturer": [
+                "須田拓馬"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3301.json"
+        },
+        {
+            "courseName": "数学基礎[木3]",
+            "lecturer": [
+                "須田拓馬"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3302.json"
+        },
+        {
+            "courseName": "数学基礎[木4]",
+            "lecturer": [
+                "須田拓馬"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3303.json"
+        },
+        {
+            "courseName": "数学（微分積分）",
+            "lecturer": [
+                "須田拓馬"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2108.json"
+        },
+        {
+            "courseName": "数学（応用解析学）",
+            "lecturer": [
+                "須田拓馬"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2215.json"
+        },
+        {
+            "courseName": "数学（線形代数）",
+            "lecturer": [
+                "須田拓馬"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2107.json"
+        },
+        {
+            "courseName": "整形外科学",
+            "lecturer": [
+                "熊本久大"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60214.json"
+        },
+        {
+            "courseName": "文章表現リテラシー",
+            "lecturer": [
+                "大場一央"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60209.json"
+        },
+        {
+            "courseName": "日常生活活動論",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏",
+                "田中周"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61210.json"
+        },
+        {
+            "courseName": "日常生活活動論実習",
+            "lecturer": [
+                "宮﨑貴朗",
+                "土屋順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33150.json"
+        },
+        {
+            "courseName": "早期体験実習",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門基礎科目作業療法学基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U62103.json"
+        },
+        {
+            "courseName": "栄養と健康[水4]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1400.json"
+        },
+        {
+            "courseName": "栄養と健康[理学作業]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60109.json"
+        },
+        {
+            "courseName": "栄養代謝学[看護]",
+            "lecturer": [
+                "加柴美里"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1108.json"
+        },
+        {
+            "courseName": "検査・測定学",
+            "lecturer": [
+                "中山孝",
+                "吉田真一",
+                "日下さと美",
+                "土屋順子",
+                "高木健志",
+                "乙戸崇寛"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61104.json"
+        },
+        {
+            "courseName": "検査・測定学演習",
+            "lecturer": [
+                "中山孝",
+                "吉田真一"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61105.json"
+        },
+        {
+            "courseName": "検査機器総論（含む実習）",
+            "lecturer": [
+                "佐々木聰"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U5108.json"
+        },
+        {
+            "courseName": "検査管理総論",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53090.json"
+        },
+        {
+            "courseName": "母性・小児看護技術演習",
+            "lecturer": [
+                "木内妙子",
+                "野澤美江子",
+                "白石裕子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13030.json"
+        },
+        {
+            "courseName": "母性看護学I",
+            "lecturer": [
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12100.json"
+        },
+        {
+            "courseName": "母性看護学II",
+            "lecturer": [
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13010.json"
+        },
+        {
+            "courseName": "母性看護学実習",
+            "lecturer": [
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13100.json"
+        },
+        {
+            "courseName": "母性看護学概論",
+            "lecturer": [
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12040.json"
+        },
+        {
+            "courseName": "法学[医療]",
+            "lecturer": [
+                "川上正隆"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0900.json"
+        },
+        {
+            "courseName": "活動・参加評価学[2019年以前]",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W42210.json"
+        },
+        {
+            "courseName": "災害看護学",
+            "lecturer": [
+                "石田千絵",
+                "三浦英恵",
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14040.json"
+        },
+        {
+            "courseName": "物理の世界[医療]",
+            "lecturer": [
+                "須田拓馬"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3202.json"
+        },
+        {
+            "courseName": "物理の世界[臨工]",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3201.json"
+        },
+        {
+            "courseName": "物理療法",
+            "lecturer": [
+                "石黒圭応",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61206.json"
+        },
+        {
+            "courseName": "物理療法実習",
+            "lecturer": [
+                "石黒圭応",
+                "太箸俊宏",
+                "田中周"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61207.json"
+        },
+        {
+            "courseName": "理学療法ゼミ",
+            "lecturer": [
+                "宮﨑貴朗",
+                "石黒圭応",
+                "日下さと美",
+                "忽那俊樹",
+                "渡部祥輝",
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33020.json"
+        },
+        {
+            "courseName": "理学療法学概論",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61103.json"
+        },
+        {
+            "courseName": "理学療法研究",
+            "lecturer": [
+                "中山孝",
+                "日下さと美",
+                "忽那俊樹",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33010.json"
+        },
+        {
+            "courseName": "理学療法総合演習",
+            "lecturer": [
+                "中山孝",
+                "忽那俊樹",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34020.json"
+        },
+        {
+            "courseName": "理学療法臨床実習II（検査測定）",
+            "lecturer": [
+                "宮﨑貴朗",
+                "吉田真一",
+                "石黒圭応",
+                "土屋順子",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61211.json"
+        },
+        {
+            "courseName": "理学療法臨床実習I（見学）",
+            "lecturer": [
+                "宮﨑貴朗",
+                "吉田真一",
+                "石黒圭応",
+                "土屋順子",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61106.json"
+        },
+        {
+            "courseName": "生体機能代行技術学",
+            "lecturer": [
+                "上條史記"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2206.json"
+        },
+        {
+            "courseName": "生体機能代行装置学実習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2306.json"
+        },
+        {
+            "courseName": "生体機能代行装置学演習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2307.json"
+        },
+        {
+            "courseName": "生体物性材料工学",
+            "lecturer": [
+                "宮地寛登"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2301.json"
+        },
+        {
+            "courseName": "生体計測機器学",
+            "lecturer": [
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2202.json"
+        },
+        {
+            "courseName": "生化学",
+            "lecturer": [
+                "佐々木聰"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U5104.json"
+        },
+        {
+            "courseName": "生化学実習",
+            "lecturer": [
+                "三上あかね",
+                "國枝泰希",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U52010.json"
+        },
+        {
+            "courseName": "生命倫理[リハビリ]",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60104.json"
+        },
+        {
+            "courseName": "生命倫理[看護]",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1103.json"
+        },
+        {
+            "courseName": "生命倫理[臨工]",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2103.json"
+        },
+        {
+            "courseName": "生活環境福祉学",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33160.json"
+        },
+        {
+            "courseName": "生活行為と作業療法[2019以前]",
+            "lecturer": [
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43230.json"
+        },
+        {
+            "courseName": "生活行為と作業療法演習[2019以前]",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43240.json"
+        },
+        {
+            "courseName": "生物の世界[医療]",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3000.json"
+        },
+        {
+            "courseName": "生物の世界[臨検]",
+            "lecturer": [
+                "佐々木聰"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3050.json"
+        },
+        {
+            "courseName": "生理学II[理学作業]",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60108.json"
+        },
+        {
+            "courseName": "生理学II[臨工]",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2201.json"
+        },
+        {
+            "courseName": "生理学I[リハビリ]",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60103.json"
+        },
+        {
+            "courseName": "生理学I[臨工]",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2104.json"
+        },
+        {
+            "courseName": "生理学[臨検]",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U5103.json"
+        },
+        {
+            "courseName": "生理学実習[理学作業]",
+            "lecturer": [
+                "十島純子",
+                "渡部祥輝",
+                "斎藤寛樹",
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60212.json"
+        },
+        {
+            "courseName": "生理学実習[臨検]",
+            "lecturer": [
+                "榎本みのり"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W5105.json"
+        },
+        {
+            "courseName": "生理検査学I",
+            "lecturer": [
+                "榎本みのり",
+                "市川由理",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52150.json"
+        },
+        {
+            "courseName": "生理検査学II",
+            "lecturer": [
+                "榎本みのり"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52160.json"
+        },
+        {
+            "courseName": "生理検査学実習I",
+            "lecturer": [
+                "榎本みのり",
+                "市川由理",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52170.json"
+        },
+        {
+            "courseName": "生理検査学実習II",
+            "lecturer": [
+                "榎本みのり",
+                "市川由理",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53081.json"
+        },
+        {
+            "courseName": "産業看護学",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13090.json"
+        },
+        {
+            "courseName": "産業看護演習",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13190.json"
+        },
+        {
+            "courseName": "画像検査学",
+            "lecturer": [
+                "市川由理",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52180.json"
+        },
+        {
+            "courseName": "画像評価学[理学作業]",
+            "lecturer": [
+                "竹内真一"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60215.json"
+        },
+        {
+            "courseName": "画像評価学[看護]",
+            "lecturer": [
+                "竹内真一"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12140.json"
+        },
+        {
+            "courseName": "疫学",
+            "lecturer": [
+                "五十嵐千代",
+                "大木正隆",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12010.json"
+        },
+        {
+            "courseName": "疾病治療論I",
+            "lecturer": [
+                "日向奈惠",
+                "横田恭子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12080.json"
+        },
+        {
+            "courseName": "疾病治療論II",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12090.json"
+        },
+        {
+            "courseName": "疾病治療論III",
+            "lecturer": [
+                "早田英二郎"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12100.json"
+        },
+        {
+            "courseName": "疾病治療論IV",
+            "lecturer": [
+                "小原明"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12110.json"
+        },
+        {
+            "courseName": "疾病治療論V",
+            "lecturer": [
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12120.json"
+        },
+        {
+            "courseName": "病態解析学",
+            "lecturer": [
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W54010.json"
+        },
+        {
+            "courseName": "病理・組織学演習",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U61203.json"
+        },
+        {
+            "courseName": "病理学[リハビリ]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60201.json"
+        },
+        {
+            "courseName": "病理学[臨工]",
+            "lecturer": [
+                "鈴木みゆき",
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2204.json"
+        },
+        {
+            "courseName": "病理検査学",
+            "lecturer": [
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52020.json"
+        },
+        {
+            "courseName": "病理検査学I",
+            "lecturer": [
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W5101.json"
+        },
+        {
+            "courseName": "病理検査学実習I",
+            "lecturer": [
+                "吉田祥子",
+                "奥橋佑基",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52030.json"
+        },
+        {
+            "courseName": "病理検査学実習II",
+            "lecturer": [
+                "吉田祥子",
+                "國枝泰希",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53020.json"
+        },
+        {
+            "courseName": "病理病態学I",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1110.json"
+        },
+        {
+            "courseName": "病理病態学II",
+            "lecturer": [
+                "吉森真由美",
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12070.json"
+        },
+        {
+            "courseName": "癒しのケア学[2021以前]",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1121.json"
+        },
+        {
+            "courseName": "発声発語系の構造・機能・病態",
+            "lecturer": [
+                "吉原俊雄"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63101.json"
+        },
+        {
+            "courseName": "発声発語障害学I",
+            "lecturer": [
+                "山下夕香里"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63208.json"
+        },
+        {
+            "courseName": "発声発語障害学II",
+            "lecturer": [
+                "山下夕香里"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63209.json"
+        },
+        {
+            "courseName": "発達と作業療法I",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62206.json"
+        },
+        {
+            "courseName": "発達と作業療法II",
+            "lecturer": [
+                "伊藤公一",
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43030.json"
+        },
+        {
+            "courseName": "発達心理学[看護]",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12020.json"
+        },
+        {
+            "courseName": "発達心理学[言語]",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63104.json"
+        },
+        {
+            "courseName": "発達障害系理学療法学演習",
+            "lecturer": [
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33110.json"
+        },
+        {
+            "courseName": "看護入門講座",
+            "lecturer": [
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W1101.json"
+        },
+        {
+            "courseName": "看護学概論",
+            "lecturer": [
+                "生田奈美可"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W1102.json"
+        },
+        {
+            "courseName": "看護工学",
+            "lecturer": [
+                "川口孝泰"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14070.json"
+        },
+        {
+            "courseName": "看護研究",
+            "lecturer": [
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13150.json"
+        },
+        {
+            "courseName": "看護管理学",
+            "lecturer": [
+                "長坂奎英"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14030.json"
+        },
+        {
+            "courseName": "看護総合セミナー",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W14090.json"
+        },
+        {
+            "courseName": "看護過程",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12020.json"
+        },
+        {
+            "courseName": "社会経済学",
+            "lecturer": [
+                "尾玉剛士"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12040.json"
+        },
+        {
+            "courseName": "神経内科学",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60207.json"
+        },
+        {
+            "courseName": "神経系の構造・機能・病態",
+            "lecturer": [
+                "永井知代子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63103.json"
+        },
+        {
+            "courseName": "神経系理学療法学",
+            "lecturer": [
+                "土屋順子",
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33040.json"
+        },
+        {
+            "courseName": "神経系理学療法学実習",
+            "lecturer": [
+                "土屋順子",
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33050.json"
+        },
+        {
+            "courseName": "神経系理学療法評価学",
+            "lecturer": [
+                "土屋順子",
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61202.json"
+        },
+        {
+            "courseName": "科学論[医療]",
+            "lecturer": [
+                "詫間直樹"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0600.json"
+        },
+        {
+            "courseName": "精神医学",
+            "lecturer": [
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60202.json"
+        },
+        {
+            "courseName": "精神機能作業療法学",
+            "lecturer": [
+                "石橋仁美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43080.json"
+        },
+        {
+            "courseName": "精神機能作業療法学演習",
+            "lecturer": [
+                "石橋仁美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43090.json"
+        },
+        {
+            "courseName": "精神機能評価学",
+            "lecturer": [
+                "石橋仁美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62205.json"
+        },
+        {
+            "courseName": "精神機能評価学演習",
+            "lecturer": [
+                "石橋仁美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43050.json"
+        },
+        {
+            "courseName": "精神看護学",
+            "lecturer": [
+                "妹尾弘子",
+                "田辺大介",
+                "田中有紀"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13070.json"
+        },
+        {
+            "courseName": "精神看護学実習",
+            "lecturer": [
+                "妹尾弘子",
+                "田辺大介"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13140.json"
+        },
+        {
+            "courseName": "精神看護学概論",
+            "lecturer": [
+                "妹尾弘子",
+                "田辺大介"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12080.json"
+        },
+        {
+            "courseName": "経済学[医療]",
+            "lecturer": [
+                "工藤昌宏"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0800.json"
+        },
+        {
+            "courseName": "統計学[医療]",
+            "lecturer": [
+                "須田拓馬"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T3400.json"
+        },
+        {
+            "courseName": "総合作業療法学",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43150.json"
+        },
+        {
+            "courseName": "義肢装具学",
+            "lecturer": [
+                "酒井弘美",
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43020.json"
+        },
+        {
+            "courseName": "義肢装具学実習",
+            "lecturer": [
+                "吉田真一",
+                "石黒圭応",
+                "田中周"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61209.json"
+        },
+        {
+            "courseName": "義肢装具学演習",
+            "lecturer": [
+                "中山孝",
+                "石黒圭応"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61208.json"
+        },
+        {
+            "courseName": "老年医学[作業]",
+            "lecturer": [
+                "海老原覚"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U43010.json"
+        },
+        {
+            "courseName": "老年医学[理学]",
+            "lecturer": [
+                "海老原覚"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U33020.json"
+        },
+        {
+            "courseName": "老年期理学療法学",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33100.json"
+        },
+        {
+            "courseName": "耳鼻咽喉科学",
+            "lecturer": [
+                "吉原俊雄"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63201.json"
+        },
+        {
+            "courseName": "聴覚心理学",
+            "lecturer": [
+                "米本清"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63209.json"
+        },
+        {
+            "courseName": "聴覚系の構造・機能・病態",
+            "lecturer": [
+                "吉原俊雄"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63102.json"
+        },
+        {
+            "courseName": "聴覚障害学I",
+            "lecturer": [
+                "石津希代子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63210.json"
+        },
+        {
+            "courseName": "聴覚障害学II",
+            "lecturer": [
+                "石津希代子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63212.json"
+        },
+        {
+            "courseName": "聴覚障害学演習I",
+            "lecturer": [
+                "原田浩美",
+                "石津希代子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63211.json"
+        },
+        {
+            "courseName": "聴覚障害学演習II",
+            "lecturer": [
+                "原田浩美",
+                "石津希代子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63213.json"
+        },
+        {
+            "courseName": "臨地実習",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 10,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53130.json"
+        },
+        {
+            "courseName": "臨床化学検査学I",
+            "lecturer": [
+                "佐々木聰"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52070.json"
+        },
+        {
+            "courseName": "臨床化学検査学II",
+            "lecturer": [
+                "栗原由利子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52080.json"
+        },
+        {
+            "courseName": "臨床化学検査学III",
+            "lecturer": [
+                "栗原由利子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53040.json"
+        },
+        {
+            "courseName": "臨床化学検査学実習I",
+            "lecturer": [
+                "栗原由利子",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52090.json"
+        },
+        {
+            "courseName": "臨床化学検査学実習II",
+            "lecturer": [
+                "栗原由利子",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53050.json"
+        },
+        {
+            "courseName": "臨床医学総論",
+            "lecturer": [
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52010.json"
+        },
+        {
+            "courseName": "臨床実習",
+            "lecturer": [
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2308.json"
+        },
+        {
+            "courseName": "臨床実習II",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44030.json"
+        },
+        {
+            "courseName": "臨床実習III（総合）[2020年]",
+            "lecturer": [
+                "宮﨑貴朗",
+                "吉田真一",
+                "石黒圭応",
+                "土屋順子",
+                "渡部祥輝",
+                "伊藤咲子",
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 6,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33180.json"
+        },
+        {
+            "courseName": "臨床実習IV（インターン）",
+            "lecturer": [
+                "宮﨑貴朗",
+                "吉田真一",
+                "石黒圭応",
+                "土屋順子",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 12,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W34080.json"
+        },
+        {
+            "courseName": "臨床実習I[2019以前]",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W44020.json"
+        },
+        {
+            "courseName": "臨床実習I[2020年]",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 7,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43140.json"
+        },
+        {
+            "courseName": "臨床工学セミナー",
+            "lecturer": [
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2402.json"
+        },
+        {
+            "courseName": "臨床工学セミナー[再]",
+            "lecturer": [
+                "苗村潔",
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W24021.json"
+        },
+        {
+            "courseName": "臨床工学概論",
+            "lecturer": [
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2101.json"
+        },
+        {
+            "courseName": "臨床工学演習",
+            "lecturer": [
+                "下村美文",
+                "宮地寛登",
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U13010.json"
+        },
+        {
+            "courseName": "臨床工学演習",
+            "lecturer": [
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2311.json"
+        },
+        {
+            "courseName": "臨床微生物・免疫学[看護1年]",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U1109.json"
+        },
+        {
+            "courseName": "臨床微生物・免疫学[看護2年]",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12060.json"
+        },
+        {
+            "courseName": "臨床微生物・免疫学[臨工]",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2205.json"
+        },
+        {
+            "courseName": "臨床微生物・免疫学[臨検2021年以前]",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U5109.json"
+        },
+        {
+            "courseName": "臨床心理学[リハビリ]",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60203.json"
+        },
+        {
+            "courseName": "臨床心理学[看護]",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12030.json"
+        },
+        {
+            "courseName": "臨床心理学[臨工]",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2208.json"
+        },
+        {
+            "courseName": "臨床栄養学",
+            "lecturer": [
+                "渡邉靜"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U13020.json"
+        },
+        {
+            "courseName": "臨床検査概論",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W5106.json"
+        },
+        {
+            "courseName": "臨床検査総合演習I",
+            "lecturer": [
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53100.json"
+        },
+        {
+            "courseName": "臨床検査総合演習II",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "市川由理",
+                "花尾麻美",
+                "櫻井進",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W54020.json"
+        },
+        {
+            "courseName": "臨床検査総合演習III",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "市川由理",
+                "花尾麻美",
+                "櫻井進",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W54030.json"
+        },
+        {
+            "courseName": "臨床検査総合演習[2018以前入学]",
+            "lecturer": [
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53140.json"
+        },
+        {
+            "courseName": "臨床歯科医学",
+            "lecturer": [
+                "澁井武夫",
+                "結城百合子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63203.json"
+        },
+        {
+            "courseName": "臨床生化学",
+            "lecturer": [
+                "宮地寛登"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2202.json"
+        },
+        {
+            "courseName": "臨床病理学",
+            "lecturer": [
+                "横田恭子",
+                "森崎隆幸"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53010.json"
+        },
+        {
+            "courseName": "臨床薬理学[理学作業]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60213.json"
+        },
+        {
+            "courseName": "臨床薬理学[看護]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U12130.json"
+        },
+        {
+            "courseName": "臨床薬理学[臨工]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2203.json"
+        },
+        {
+            "courseName": "臨床運動学演習[2019以前]",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U43020.json"
+        },
+        {
+            "courseName": "芸術論[医療]",
+            "lecturer": [
+                "黒川修一"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T0200.json"
+        },
+        {
+            "courseName": "英語インテンシブII[医療]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2400.json"
+        },
+        {
+            "courseName": "英語インテンシブI[医療]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T2300.json"
+        },
+        {
+            "courseName": "薬理学",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W54060.json"
+        },
+        {
+            "courseName": "血液学[1年]",
+            "lecturer": [
+                "横田恭子",
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W5107.json"
+        },
+        {
+            "courseName": "血液学[2年]",
+            "lecturer": [
+                "横田恭子",
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U52020.json"
+        },
+        {
+            "courseName": "血液検査学",
+            "lecturer": [
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52040.json"
+        },
+        {
+            "courseName": "血液検査学実習I",
+            "lecturer": [
+                "大畑雅彦",
+                "廣田雅子",
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52050.json"
+        },
+        {
+            "courseName": "血液検査学実習II",
+            "lecturer": [
+                "伊藤さやか",
+                "横田恭子",
+                "廣田雅子",
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W53030.json"
+        },
+        {
+            "courseName": "血液浄化学演習",
+            "lecturer": [
+                "荻野稔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W2203.json"
+        },
+        {
+            "courseName": "解剖学II[理学作業]",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60105.json"
+        },
+        {
+            "courseName": "解剖学I[理学作業]",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U601021.json"
+        },
+        {
+            "courseName": "解剖学I[言語]",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U601022.json"
+        },
+        {
+            "courseName": "解剖学[臨検]",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U5101.json"
+        },
+        {
+            "courseName": "解剖学実習",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U5102.json"
+        },
+        {
+            "courseName": "解剖学実習II[理学作業]",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60107.json"
+        },
+        {
+            "courseName": "解剖学実習I[理学作業]",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U60106.json"
+        },
+        {
+            "courseName": "言語学",
+            "lecturer": [
+                "峰岸真琴"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63206.json"
+        },
+        {
+            "courseName": "言語発達学",
+            "lecturer": [
+                "池田泰子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63106.json"
+        },
+        {
+            "courseName": "言語発達障害学I",
+            "lecturer": [
+                "池田泰子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63205.json"
+        },
+        {
+            "courseName": "言語発達障害学II",
+            "lecturer": [
+                "池田泰子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63206.json"
+        },
+        {
+            "courseName": "言語発達障害学III",
+            "lecturer": [
+                "池田泰子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63207.json"
+        },
+        {
+            "courseName": "言語聴覚基礎実習",
+            "lecturer": [
+                "石津希代子",
+                "内山美保"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63102.json"
+        },
+        {
+            "courseName": "言語聴覚障害学総論",
+            "lecturer": [
+                "原田浩美"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W63101.json"
+        },
+        {
+            "courseName": "評価実習[2019年以前]",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43260.json"
+        },
+        {
+            "courseName": "認知・学習心理学",
+            "lecturer": [
+                "眞邉一近"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63205.json"
+        },
+        {
+            "courseName": "認知機能作業療法学",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43070.json"
+        },
+        {
+            "courseName": "認知機能作業療法学演習[2019年以前]",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43250.json"
+        },
+        {
+            "courseName": "認知機能評価学",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62204.json"
+        },
+        {
+            "courseName": "認知機能評価学演習[2019年以前]",
+            "lecturer": [
+                "伊藤公一",
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43210.json"
+        },
+        {
+            "courseName": "認知症ケア",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13170.json"
+        },
+        {
+            "courseName": "身体機能作業療法学",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43060.json"
+        },
+        {
+            "courseName": "身体機能作業療法学[2019以前]",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43220.json"
+        },
+        {
+            "courseName": "身体機能作業療法学演習",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43100.json"
+        },
+        {
+            "courseName": "身体機能作業療法学総論",
+            "lecturer": [
+                "池田晋平",
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62209.json"
+        },
+        {
+            "courseName": "身体機能評価学",
+            "lecturer": [
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62203.json"
+        },
+        {
+            "courseName": "身体機能評価学演習",
+            "lecturer": [
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W62207.json"
+        },
+        {
+            "courseName": "運動器系理学療法学",
+            "lecturer": [
+                "中山孝",
+                "斎藤寛樹",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33060.json"
+        },
+        {
+            "courseName": "運動器系理学療法学実習",
+            "lecturer": [
+                "中山孝",
+                "斎藤寛樹",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W33070.json"
+        },
+        {
+            "courseName": "運動器系理学療法評価学",
+            "lecturer": [
+                "中山孝",
+                "斎藤寛樹",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61201.json"
+        },
+        {
+            "courseName": "運動学",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門基礎科目作業療法学基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U62102.json"
+        },
+        {
+            "courseName": "運動学実習",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門基礎科目作業療法学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U62201.json"
+        },
+        {
+            "courseName": "運動療法",
+            "lecturer": [
+                "日下さと美",
+                "土屋順子",
+                "渡部祥輝",
+                "斎藤寛樹",
+                "伊藤咲子",
+                "高木健志",
+                "田中周",
+                "乙戸崇寛"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61204.json"
+        },
+        {
+            "courseName": "運動療法実習",
+            "lecturer": [
+                "土屋順子",
+                "忽那俊樹",
+                "渡部祥輝",
+                "斎藤寛樹",
+                "伊藤咲子",
+                "高木健志",
+                "田中周"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W61205.json"
+        },
+        {
+            "courseName": "遺伝子検査学",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52130.json"
+        },
+        {
+            "courseName": "遺伝子検査学実習",
+            "lecturer": [
+                "三上あかね",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W52140.json"
+        },
+        {
+            "courseName": "集中実技II（スキー）[医療]",
+            "lecturer": [
+                "佐久間裕司"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1800.json"
+        },
+        {
+            "courseName": "集中実技I（野外活動）[医療]",
+            "lecturer": [
+                "佐久間裕司"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/T1700.json"
+        },
+        {
+            "courseName": "電子工学I",
+            "lecturer": [
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2213.json"
+        },
+        {
+            "courseName": "電子工学II",
+            "lecturer": [
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2214.json"
+        },
+        {
+            "courseName": "電気工学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2210.json"
+        },
+        {
+            "courseName": "電磁気学",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U2105.json"
+        },
+        {
+            "courseName": "音声学I",
+            "lecturer": [
+                "益子幸江"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63105.json"
+        },
+        {
+            "courseName": "音声学II",
+            "lecturer": [
+                "益子幸江"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63207.json"
+        },
+        {
+            "courseName": "音響学（演習含む）",
+            "lecturer": [
+                "籠宮隆之"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/U63208.json"
+        },
+        {
+            "courseName": "高齢期作業療法",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W43040.json"
+        },
+        {
+            "courseName": "高齢者看護学I",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12130.json"
+        },
+        {
+            "courseName": "高齢者看護学II",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13060.json"
+        },
+        {
+            "courseName": "高齢者看護学実習",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W13130.json"
+        },
+        {
+            "courseName": "高齢者看護学概論",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HS\/W12070.json"
+        }
+    ]
+}

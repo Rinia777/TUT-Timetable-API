@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "清好志恵",
+        "lecturerKey": "da70d0770d07"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W14140",
+            "courseName": "パリアティブケア",
+            "lecturer": [
+                "清好志恵",
+                "生山笑",
+                "妹尾弘子",
+                "田辺大介"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14140.json"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "鈴木昭浩",
+        "lecturerKey": "f81f65a8816c"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "K604501",
+            "courseName": "電波法規",
+            "lecturer": [
+                "鈴木昭浩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟１０１"
+            ],
+            "updateAt": "2022\/01\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/K604501.json"
+        }
+    ]
+}

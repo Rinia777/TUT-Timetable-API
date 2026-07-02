@@ -1,0 +1,89 @@
+{
+    "filters": {
+        "lecturer": "相川清明",
+        "lecturerKey": "c05cfff2f1b8"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "M200601",
+            "courseName": "メディア情報処理の基礎",
+            "lecturer": [
+                "千種康民",
+                "相川清明",
+                "大淵康成"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2022\/03\/28",
+            "path": "\/api\/v1\/archive\/2022\/all\/M200601.json"
+        },
+        {
+            "lectureCode": "M202001",
+            "courseName": "音声音響メディア処理論",
+            "lecturer": [
+                "相川清明"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2022\/01\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/M202001.json"
+        },
+        {
+            "lectureCode": "M101801",
+            "courseName": "メディアのための数学",
+            "lecturer": [
+                "松永信介",
+                "渡辺大地",
+                "相川清明"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2022\/08\/03",
+            "path": "\/api\/v1\/archive\/2022\/all\/M101801.json"
+        }
+    ]
+}

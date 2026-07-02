@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "志太正次郎",
+        "lecturerKey": "c1af400bf32f"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "GGE10401",
+            "courseName": "マーケティング戦略I",
+            "lecturer": [
+                "志太正次郎"
+            ],
+            "regularOrIntensive": "基礎科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2022\/04\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGE10401.json"
+        },
+        {
+            "lectureCode": "GGE10801",
+            "courseName": "マーケティング戦略II",
+            "lecturer": [
+                "志太正次郎"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2022\/04\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGE10801.json"
+        },
+        {
+            "lectureCode": "GGE11701",
+            "courseName": "事業計画論I",
+            "lecturer": [
+                "志太正次郎"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2022\/02\/09",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGE11701.json"
+        },
+        {
+            "lectureCode": "GGE11801",
+            "courseName": "事業計画論II",
+            "lecturer": [
+                "志太正次郎"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2022\/02\/09",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGE11801.json"
+        }
+    ]
+}

@@ -1,0 +1,3802 @@
+{
+    "filters": {
+        "regularOrIntensive": "教養教育科目社会人基礎",
+        "regularOrIntensiveKey": "33031180d624"
+    },
+    "count": 155,
+    "lectures": [
+        {
+            "lectureCode": "1105801",
+            "courseName": "インターンシップI[機]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/1105801.json"
+        },
+        {
+            "lectureCode": "1105802",
+            "courseName": "インターンシップI[電]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/1105802.json"
+        },
+        {
+            "lectureCode": "1105803",
+            "courseName": "インターンシップI[化]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/1105803.json"
+        },
+        {
+            "lectureCode": "1112701",
+            "courseName": "コーオプII",
+            "lecturer": [
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科,メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/06",
+            "path": "\/api\/v1\/archive\/2022\/all\/1112701.json"
+        },
+        {
+            "lectureCode": "R1201",
+            "courseName": "海外研修[フィリピンオンラインプログラム]2022年春実施",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/03",
+            "path": "\/api\/v1\/archive\/2022\/all\/R1201.json"
+        },
+        {
+            "lectureCode": "R1204",
+            "courseName": "海外研修[フィリピンオンラインプログラム]2022年夏実施",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/03",
+            "path": "\/api\/v1\/archive\/2022\/all\/R1204.json"
+        },
+        {
+            "lectureCode": "11120C01",
+            "courseName": "キャリア設計I[CS]",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/02\/09",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120C01.json"
+        },
+        {
+            "lectureCode": "11118M01",
+            "courseName": "アカデミックスキルズI[MS1]",
+            "lecturer": [
+                "永瀬竜道"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M01.json"
+        },
+        {
+            "lectureCode": "11118M02",
+            "courseName": "アカデミックスキルズI[MS2]",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M02.json"
+        },
+        {
+            "lectureCode": "11118M03",
+            "courseName": "アカデミックスキルズI[MS3]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M03.json"
+        },
+        {
+            "lectureCode": "11118M04",
+            "courseName": "アカデミックスキルズI[MS4]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M04.json"
+        },
+        {
+            "lectureCode": "11118M05",
+            "courseName": "アカデミックスキルズI[MS5]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M05.json"
+        },
+        {
+            "lectureCode": "11118M06",
+            "courseName": "アカデミックスキルズI[MS6]",
+            "lecturer": [
+                "松葉龍一"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M06.json"
+        },
+        {
+            "lectureCode": "11118M07",
+            "courseName": "アカデミックスキルズI[MS7]",
+            "lecturer": [
+                "安藤公彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M07.json"
+        },
+        {
+            "lectureCode": "11118M08",
+            "courseName": "アカデミックスキルズI[MS8]",
+            "lecturer": [
+                "廣田龍平"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M08.json"
+        },
+        {
+            "lectureCode": "11118M09",
+            "courseName": "アカデミックスキルズI[MS9]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M09.json"
+        },
+        {
+            "lectureCode": "11118M10",
+            "courseName": "アカデミックスキルズI[MS10]",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M10.json"
+        },
+        {
+            "lectureCode": "11118M11",
+            "courseName": "アカデミックスキルズI[MS11]",
+            "lecturer": [
+                "竹丸草子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M11.json"
+        },
+        {
+            "lectureCode": "11118M12",
+            "courseName": "アカデミックスキルズI[MS12]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118M12.json"
+        },
+        {
+            "lectureCode": "11120B1",
+            "courseName": "キャリア設計I[BS]",
+            "lecturer": [
+                "岩渕徳郎",
+                "江村文英"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/02\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120B1.json"
+        },
+        {
+            "lectureCode": "11079K31",
+            "courseName": "フレッシャーズゼミ[1]",
+            "lecturer": [
+                "茂庭昌弘"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K31.json"
+        },
+        {
+            "lectureCode": "11079K32",
+            "courseName": "フレッシャーズゼミ[2]",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K32.json"
+        },
+        {
+            "lectureCode": "11079K33",
+            "courseName": "フレッシャーズゼミ[3]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０３"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K33.json"
+        },
+        {
+            "lectureCode": "11079K34",
+            "courseName": "フレッシャーズゼミ[4]",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０４"
+            ],
+            "updateAt": "2022\/01\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K34.json"
+        },
+        {
+            "lectureCode": "11079K35",
+            "courseName": "フレッシャーズゼミ[5]",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０７"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K35.json"
+        },
+        {
+            "lectureCode": "11079K36",
+            "courseName": "フレッシャーズゼミ[6]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K36.json"
+        },
+        {
+            "lectureCode": "11079K37",
+            "courseName": "フレッシャーズゼミ[7]",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K37.json"
+        },
+        {
+            "lectureCode": "11079K38",
+            "courseName": "フレッシャーズゼミ[8]",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K38.json"
+        },
+        {
+            "lectureCode": "11079K39",
+            "courseName": "フレッシャーズゼミ[9]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１１"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K39.json"
+        },
+        {
+            "lectureCode": "11079K40",
+            "courseName": "フレッシャーズゼミ[10]",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K40.json"
+        },
+        {
+            "lectureCode": "11118B01",
+            "courseName": "アカデミックスキルズI[BS1]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B01.json"
+        },
+        {
+            "lectureCode": "11118B02",
+            "courseName": "アカデミックスキルズI[BS2]",
+            "lecturer": [
+                "深谷直弘"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B02.json"
+        },
+        {
+            "lectureCode": "11118B03",
+            "courseName": "アカデミックスキルズI[BS3]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B03.json"
+        },
+        {
+            "lectureCode": "11118B04",
+            "courseName": "アカデミックスキルズI[BS4]",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B04.json"
+        },
+        {
+            "lectureCode": "11118B05",
+            "courseName": "アカデミックスキルズI[BS5]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B05.json"
+        },
+        {
+            "lectureCode": "11118B06",
+            "courseName": "アカデミックスキルズI[BS6]",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B06.json"
+        },
+        {
+            "lectureCode": "11118B07",
+            "courseName": "アカデミックスキルズI[BS7]",
+            "lecturer": [
+                "竹丸草子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B07.json"
+        },
+        {
+            "lectureCode": "11118B08",
+            "courseName": "アカデミックスキルズI[BS8]",
+            "lecturer": [
+                "宮坂秋津",
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０５"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B08.json"
+        },
+        {
+            "lectureCode": "11118B09",
+            "courseName": "アカデミックスキルズI[BS9]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B09.json"
+        },
+        {
+            "lectureCode": "11118B10",
+            "courseName": "アカデミックスキルズI[BS10]",
+            "lecturer": [
+                "東晴美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B10.json"
+        },
+        {
+            "lectureCode": "11118B11",
+            "courseName": "アカデミックスキルズI[BS11]",
+            "lecturer": [
+                "永瀬竜道"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118B11.json"
+        },
+        {
+            "lectureCode": "R2080",
+            "courseName": "キャリアデザインII［デザイン］",
+            "lecturer": [
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/R2080.json"
+        },
+        {
+            "lectureCode": "11079K71",
+            "courseName": "フレッシャーズゼミ[1]",
+            "lecturer": [
+                "山下俊",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００５"
+            ],
+            "updateAt": "2022\/02\/07",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K71.json"
+        },
+        {
+            "lectureCode": "11079K72",
+            "courseName": "フレッシャーズゼミ[2]",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K72.json"
+        },
+        {
+            "lectureCode": "11079K73",
+            "courseName": "フレッシャーズゼミ[3]",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K73.json"
+        },
+        {
+            "lectureCode": "11079K74",
+            "courseName": "フレッシャーズゼミ[4]",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K74.json"
+        },
+        {
+            "lectureCode": "11079K75",
+            "courseName": "フレッシャーズゼミ[5]",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０３"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K75.json"
+        },
+        {
+            "lectureCode": "11079K76",
+            "courseName": "フレッシャーズゼミ[6]",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０４"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K76.json"
+        },
+        {
+            "lectureCode": "11079K77",
+            "courseName": "フレッシャーズゼミ[7]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０７"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K77.json"
+        },
+        {
+            "lectureCode": "11079K78",
+            "courseName": "フレッシャーズゼミ[8]",
+            "lecturer": [
+                "上野聡"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K78.json"
+        },
+        {
+            "lectureCode": "11079K79",
+            "courseName": "フレッシャーズゼミ[9]",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K79.json"
+        },
+        {
+            "lectureCode": "11118C01",
+            "courseName": "アカデミックスキルズI[CS1]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C01.json"
+        },
+        {
+            "lectureCode": "11118C02",
+            "courseName": "アカデミックスキルズI[CS2]",
+            "lecturer": [
+                "深谷直弘"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C02.json"
+        },
+        {
+            "lectureCode": "11118C03",
+            "courseName": "アカデミックスキルズI[CS3]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C03.json"
+        },
+        {
+            "lectureCode": "11118C04",
+            "courseName": "アカデミックスキルズI[CS4]",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C04.json"
+        },
+        {
+            "lectureCode": "11118C05",
+            "courseName": "アカデミックスキルズI[CS5]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C05.json"
+        },
+        {
+            "lectureCode": "11118C06",
+            "courseName": "アカデミックスキルズI[CS6]",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C06.json"
+        },
+        {
+            "lectureCode": "11118C07",
+            "courseName": "アカデミックスキルズI[CS7]",
+            "lecturer": [
+                "竹丸草子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C07.json"
+        },
+        {
+            "lectureCode": "11118C08",
+            "courseName": "アカデミックスキルズI[CS8]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2022\/01\/09",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C08.json"
+        },
+        {
+            "lectureCode": "11118C09",
+            "courseName": "アカデミックスキルズI[CS9]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C09.json"
+        },
+        {
+            "lectureCode": "11118C10",
+            "courseName": "アカデミックスキルズI[CS10]",
+            "lecturer": [
+                "東晴美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C10.json"
+        },
+        {
+            "lectureCode": "11118C11",
+            "courseName": "アカデミックスキルズI[CS11]",
+            "lecturer": [
+                "永瀬竜道"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C11.json"
+        },
+        {
+            "lectureCode": "11118C12",
+            "courseName": "アカデミックスキルズI[CS12]",
+            "lecturer": [
+                "宮坂秋津",
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０５"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11118C12.json"
+        },
+        {
+            "lectureCode": "R1180",
+            "courseName": "フレッシャーズゼミ[デザイン]",
+            "lecturer": [
+                "末房志野"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/R1180.json"
+        },
+        {
+            "lectureCode": "11120M01",
+            "courseName": "キャリア設計I[MS]",
+            "lecturer": [
+                "三上浩司"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M01.json"
+        },
+        {
+            "lectureCode": "R3030",
+            "courseName": "キャリアデザインIV[デザイン]",
+            "lecturer": [
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/03\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/R3030.json"
+        },
+        {
+            "lectureCode": "1112501",
+            "courseName": "サービスラーニングIV",
+            "lecturer": [
+                "佐藤宏樹",
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/06\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/1112501.json"
+        },
+        {
+            "lectureCode": "1112201",
+            "courseName": "サービスラーニングI",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2022\/06\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/1112201.json"
+        },
+        {
+            "lectureCode": "11079K01",
+            "courseName": "フレッシャーズゼミ[1]",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K01.json"
+        },
+        {
+            "lectureCode": "11079K02",
+            "courseName": "フレッシャーズゼミ[2]",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K02.json"
+        },
+        {
+            "lectureCode": "11079K03",
+            "courseName": "フレッシャーズゼミ[3]",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０３"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K03.json"
+        },
+        {
+            "lectureCode": "11079K04",
+            "courseName": "フレッシャーズゼミ[4]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０４"
+            ],
+            "updateAt": "2022\/01\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K04.json"
+        },
+        {
+            "lectureCode": "11079K05",
+            "courseName": "フレッシャーズゼミ[5]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０７"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K05.json"
+        },
+        {
+            "lectureCode": "11079K06",
+            "courseName": "フレッシャーズゼミ[6]",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K06.json"
+        },
+        {
+            "lectureCode": "11079K07",
+            "courseName": "フレッシャーズゼミ[7]",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K07.json"
+        },
+        {
+            "lectureCode": "11079K08",
+            "courseName": "フレッシャーズゼミ[8]",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K08.json"
+        },
+        {
+            "lectureCode": "11079K09",
+            "courseName": "フレッシャーズゼミ[9]",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０５"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K09.json"
+        },
+        {
+            "lectureCode": "11079K10",
+            "courseName": "フレッシャーズゼミ[10]",
+            "lecturer": [
+                "野田龍介"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１１"
+            ],
+            "updateAt": "2022\/01\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/11079K10.json"
+        },
+        {
+            "lectureCode": "1105901",
+            "courseName": "インターンシップII[機]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/1105901.json"
+        },
+        {
+            "lectureCode": "1105902",
+            "courseName": "インターンシップII[電]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/1105902.json"
+        },
+        {
+            "lectureCode": "1105903",
+            "courseName": "インターンシップII[化]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/1105903.json"
+        },
+        {
+            "lectureCode": "1112601",
+            "courseName": "コーオプI",
+            "lecturer": [
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部,コンピュータサイエンス学部,メディア学部",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/06",
+            "path": "\/api\/v1\/archive\/2022\/all\/1112601.json"
+        },
+        {
+            "lectureCode": "R1202",
+            "courseName": "海外研修[韓国オンラインプログラム]2022年春実施",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/03",
+            "path": "\/api\/v1\/archive\/2022\/all\/R1202.json"
+        },
+        {
+            "lectureCode": "11119M01",
+            "courseName": "アカデミックスキルズII[MS1]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M01.json"
+        },
+        {
+            "lectureCode": "11119M02",
+            "courseName": "アカデミックスキルズII[MS2]",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M02.json"
+        },
+        {
+            "lectureCode": "11119M03",
+            "courseName": "アカデミックスキルズII[MS3]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M03.json"
+        },
+        {
+            "lectureCode": "11119M04",
+            "courseName": "アカデミックスキルズII[MS4]",
+            "lecturer": [
+                "安藤公彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M04.json"
+        },
+        {
+            "lectureCode": "11119M05",
+            "courseName": "アカデミックスキルズII[MS5]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M05.json"
+        },
+        {
+            "lectureCode": "11119M06",
+            "courseName": "アカデミックスキルズII[MS6]",
+            "lecturer": [
+                "廣田龍平"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M06.json"
+        },
+        {
+            "lectureCode": "11119M07",
+            "courseName": "アカデミックスキルズII[MS7]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M07.json"
+        },
+        {
+            "lectureCode": "11119M08",
+            "courseName": "アカデミックスキルズII[MS8]",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M08.json"
+        },
+        {
+            "lectureCode": "11119M09",
+            "courseName": "アカデミックスキルズII[MS9]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M09.json"
+        },
+        {
+            "lectureCode": "11119M10",
+            "courseName": "アカデミックスキルズII[MS10]",
+            "lecturer": [
+                "永瀬竜道"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M10.json"
+        },
+        {
+            "lectureCode": "11119M11",
+            "courseName": "アカデミックスキルズII[MS11]",
+            "lecturer": [
+                "竹丸草子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M11.json"
+        },
+        {
+            "lectureCode": "11119M12",
+            "courseName": "アカデミックスキルズII[MS12]",
+            "lecturer": [
+                "東晴美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119M12.json"
+        },
+        {
+            "lectureCode": "11119B01",
+            "courseName": "アカデミックスキルズII[BSCS1]",
+            "lecturer": [
+                "永瀬竜道"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B01.json"
+        },
+        {
+            "lectureCode": "11119B02",
+            "courseName": "アカデミックスキルズII[BSCS2]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/01\/09",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B02.json"
+        },
+        {
+            "lectureCode": "11119B03",
+            "courseName": "アカデミックスキルズII[BSCS3]",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B03.json"
+        },
+        {
+            "lectureCode": "11119B04",
+            "courseName": "アカデミックスキルズII[BSCS4]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B04.json"
+        },
+        {
+            "lectureCode": "11119B05",
+            "courseName": "アカデミックスキルズII[BSCS5]",
+            "lecturer": [
+                "深谷直弘"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B05.json"
+        },
+        {
+            "lectureCode": "11119B06",
+            "courseName": "アカデミックスキルズII[BSCS6]",
+            "lecturer": [
+                "鈴木万希枝",
+                "宮坂秋津"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B06.json"
+        },
+        {
+            "lectureCode": "11119B07",
+            "courseName": "アカデミックスキルズII[BSCS7]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B07.json"
+        },
+        {
+            "lectureCode": "11119B08",
+            "courseName": "アカデミックスキルズII[BSCS8]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B08.json"
+        },
+        {
+            "lectureCode": "11119B09",
+            "courseName": "アカデミックスキルズII[BSCS9]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B09.json"
+        },
+        {
+            "lectureCode": "11119B10",
+            "courseName": "アカデミックスキルズII[BSCS10]",
+            "lecturer": [
+                "竹丸草子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B10.json"
+        },
+        {
+            "lectureCode": "11119B11",
+            "courseName": "アカデミックスキルズII[BSCS11]",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B11.json"
+        },
+        {
+            "lectureCode": "11119B12",
+            "courseName": "アカデミックスキルズII[BSCS12]",
+            "lecturer": [
+                "松葉龍一"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119B12.json"
+        },
+        {
+            "lectureCode": "R2090",
+            "courseName": "キャリアデザインIII［デザイン］",
+            "lecturer": [
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/09\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/R2090.json"
+        },
+        {
+            "lectureCode": "11119C01",
+            "courseName": "アカデミックスキルズII[BSCS13]",
+            "lecturer": [
+                "永瀬竜道"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C01.json"
+        },
+        {
+            "lectureCode": "11119C02",
+            "courseName": "アカデミックスキルズII[BSCS14]",
+            "lecturer": [
+                "松葉龍一"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C02.json"
+        },
+        {
+            "lectureCode": "11119C03",
+            "courseName": "アカデミックスキルズII[BSCS15]",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C03.json"
+        },
+        {
+            "lectureCode": "11119C04",
+            "courseName": "アカデミックスキルズII[BSCS16]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C04.json"
+        },
+        {
+            "lectureCode": "11119C05",
+            "courseName": "アカデミックスキルズII[BSCS17]",
+            "lecturer": [
+                "深谷直弘"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C05.json"
+        },
+        {
+            "lectureCode": "11119C06",
+            "courseName": "アカデミックスキルズII[BSCS18]",
+            "lecturer": [
+                "鈴木万希枝",
+                "宮坂秋津"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C06.json"
+        },
+        {
+            "lectureCode": "11119C07",
+            "courseName": "アカデミックスキルズII[BSCS19]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C07.json"
+        },
+        {
+            "lectureCode": "11119C08",
+            "courseName": "アカデミックスキルズII[BSCS20]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C08.json"
+        },
+        {
+            "lectureCode": "11119C09",
+            "courseName": "アカデミックスキルズII[BSCS21]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C09.json"
+        },
+        {
+            "lectureCode": "11119C10",
+            "courseName": "アカデミックスキルズII[BSCS22]",
+            "lecturer": [
+                "竹丸草子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C10.json"
+        },
+        {
+            "lectureCode": "11119C11",
+            "courseName": "アカデミックスキルズII[BSCS23]",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C11.json"
+        },
+        {
+            "lectureCode": "11119C12",
+            "courseName": "アカデミックスキルズII[BSCS24]",
+            "lecturer": [
+                "東晴美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11119C12.json"
+        },
+        {
+            "lectureCode": "R1190",
+            "courseName": "キャリアデザインI[デザイン]",
+            "lecturer": [
+                "野条美貴",
+                "本郷信二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/R1190.json"
+        },
+        {
+            "lectureCode": "R3040",
+            "courseName": "キャリアデザインV[デザイン]",
+            "lecturer": [
+                "本郷信二",
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/09\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/R3040.json"
+        },
+        {
+            "lectureCode": "1112401",
+            "courseName": "サービスラーニングIII",
+            "lecturer": [
+                "佐藤宏樹",
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2022\/09\/07",
+            "path": "\/api\/v1\/archive\/2022\/all\/1112401.json"
+        },
+        {
+            "lectureCode": "1112301",
+            "courseName": "サービスラーニングII",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１"
+            ],
+            "updateAt": "2022\/09\/07",
+            "path": "\/api\/v1\/archive\/2022\/all\/1112301.json"
+        },
+        {
+            "lectureCode": "11121C01",
+            "courseName": "キャリア設計II[CS]",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/02\/14",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121C01.json"
+        },
+        {
+            "lectureCode": "11121B1",
+            "courseName": "キャリア設計II[BS]",
+            "lecturer": [
+                "岩渕徳郎",
+                "江村文英"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６",
+                "片柳研究所Ｅ１０４",
+                "片柳研究所Ｅ２０２",
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2022\/02\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121B1.json"
+        },
+        {
+            "lectureCode": "11120M15",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "羽田久一"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M15.json"
+        },
+        {
+            "lectureCode": "11120M17",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M17.json"
+        },
+        {
+            "lectureCode": "11120M18",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M18.json"
+        },
+        {
+            "lectureCode": "11120M20",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M20.json"
+        },
+        {
+            "lectureCode": "11120M21",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "榎本美香"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M21.json"
+        },
+        {
+            "lectureCode": "11120M22",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "藤澤公也"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M22.json"
+        },
+        {
+            "lectureCode": "11120M23",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "吉岡英樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M23.json"
+        },
+        {
+            "lectureCode": "11120M24",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "大淵康成"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M24.json"
+        },
+        {
+            "lectureCode": "11120M25",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "竹島由里子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M25.json"
+        },
+        {
+            "lectureCode": "11120M26",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "進藤美希"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M26.json"
+        },
+        {
+            "lectureCode": "11120M27",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "安原広和"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M27.json"
+        },
+        {
+            "lectureCode": "11120M28",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "伊藤彰教"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M28.json"
+        },
+        {
+            "lectureCode": "11120M29",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "森川美幸"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M29.json"
+        },
+        {
+            "lectureCode": "11120M30",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "藤崎実"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M30.json"
+        },
+        {
+            "lectureCode": "11120M31",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "盛川浩志"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M31.json"
+        },
+        {
+            "lectureCode": "11120M32",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "松吉俊"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11120M32.json"
+        },
+        {
+            "lectureCode": "11121M01",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "柿本正憲"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M01.json"
+        },
+        {
+            "lectureCode": "11121M02",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "大淵康成"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M02.json"
+        },
+        {
+            "lectureCode": "11121M03",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "伊藤謙一郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M03.json"
+        },
+        {
+            "lectureCode": "11121M04",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "菊池司"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M04.json"
+        },
+        {
+            "lectureCode": "11121M05",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "椿郁子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M05.json"
+        },
+        {
+            "lectureCode": "11121M06",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "太田高志"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M06.json"
+        },
+        {
+            "lectureCode": "11121M08",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "千種康民"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M08.json"
+        },
+        {
+            "lectureCode": "11121M09",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "三上浩司"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M09.json"
+        },
+        {
+            "lectureCode": "11121M10",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "川島基展"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M10.json"
+        },
+        {
+            "lectureCode": "11121M11",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "永田明徳"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M11.json"
+        },
+        {
+            "lectureCode": "11121M12",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M12.json"
+        },
+        {
+            "lectureCode": "11121M13",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M13.json"
+        },
+        {
+            "lectureCode": "11121M14",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "寺澤卓也"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11121M14.json"
+        }
+    ]
+}

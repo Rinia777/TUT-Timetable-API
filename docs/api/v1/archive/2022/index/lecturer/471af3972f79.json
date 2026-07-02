@@ -1,0 +1,417 @@
+{
+    "filters": {
+        "lecturer": "亀田弘之",
+        "lecturerKey": "471af3972f79"
+    },
+    "count": 18,
+    "lectures": [
+        {
+            "lectureCode": "C40111",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/C40111.json"
+        },
+        {
+            "lectureCode": "GGC90109",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90109.json"
+        },
+        {
+            "lectureCode": "GGC90307",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90307.json"
+        },
+        {
+            "lectureCode": "GGC904z1",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC904z1.json"
+        },
+        {
+            "lectureCode": "C30302",
+            "courseName": "先進情報専門演習II[IT・5]",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "講義・演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2022\/01\/07",
+            "path": "\/api\/v1\/archive\/2022\/all\/C30302.json"
+        },
+        {
+            "lectureCode": "11050C03",
+            "courseName": "フレッシャーズゼミI[3]CS",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11050C03.json"
+        },
+        {
+            "lectureCode": "GGC12001",
+            "courseName": "関数型プログラミング入門",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2022\/01\/07",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC12001.json"
+        },
+        {
+            "lectureCode": "C20701",
+            "courseName": "コンピュータ概論III[A]",
+            "lecturer": [
+                "亀田弘之",
+                "瀬之口潤輔"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2022\/01\/07",
+            "path": "\/api\/v1\/archive\/2022\/all\/C20701.json"
+        },
+        {
+            "lectureCode": "C20702",
+            "courseName": "コンピュータ概論III[B]",
+            "lecturer": [
+                "亀田弘之",
+                "瀬之口潤輔"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/C20702.json"
+        },
+        {
+            "lectureCode": "C30701",
+            "courseName": "実践コンピュータ技術[2018以前]",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/02\/09",
+            "path": "\/api\/v1\/archive\/2022\/all\/C30701.json"
+        },
+        {
+            "lectureCode": "C40160",
+            "courseName": "卒業課題I[後期]CS",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/C40160.json"
+        },
+        {
+            "lectureCode": "C40211",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/C40211.json"
+        },
+        {
+            "lectureCode": "GGC90161",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90161.json"
+        },
+        {
+            "lectureCode": "GGC90210",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90210.json"
+        },
+        {
+            "lectureCode": "GGC90361",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90361.json"
+        },
+        {
+            "lectureCode": "GGC90407",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90407.json"
+        },
+        {
+            "lectureCode": "C30910",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/C30910.json"
+        },
+        {
+            "lectureCode": "11051C03",
+            "courseName": "フレッシャーズゼミII[3]CS",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11051C03.json"
+        }
+    ]
+}

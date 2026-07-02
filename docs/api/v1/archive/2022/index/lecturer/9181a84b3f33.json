@@ -1,0 +1,192 @@
+{
+    "filters": {
+        "lecturer": "田中周",
+        "lecturerKey": "9181a84b3f33"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "T27612",
+            "courseName": "フレッシャーズゼミ[理学2]",
+            "lecturer": [
+                "忽那俊樹",
+                "清水潤",
+                "斎藤寛樹",
+                "田中周"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2022\/05\/18",
+            "path": "\/api\/v1\/archive\/2022\/all\/T27612.json"
+        },
+        {
+            "lectureCode": "W61204",
+            "courseName": "運動療法",
+            "lecturer": [
+                "日下さと美",
+                "土屋順子",
+                "渡部祥輝",
+                "斎藤寛樹",
+                "伊藤咲子",
+                "高木健志",
+                "田中周",
+                "乙戸崇寛"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2022\/03\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/W61204.json"
+        },
+        {
+            "lectureCode": "W61207",
+            "courseName": "物理療法実習",
+            "lecturer": [
+                "石黒圭応",
+                "太箸俊宏",
+                "田中周"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５１１水治室",
+                "Ｍ６０７物療室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/07\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/W61207.json"
+        },
+        {
+            "lectureCode": "W61210",
+            "courseName": "日常生活活動論",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏",
+                "田中周"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2022\/03\/11",
+            "path": "\/api\/v1\/archive\/2022\/all\/W61210.json"
+        },
+        {
+            "lectureCode": "W61209",
+            "courseName": "義肢装具学実習",
+            "lecturer": [
+                "吉田真一",
+                "石黒圭応",
+                "田中周"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６０６木工室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/01\/20",
+            "path": "\/api\/v1\/archive\/2022\/all\/W61209.json"
+        },
+        {
+            "lectureCode": "W61205",
+            "courseName": "運動療法実習",
+            "lecturer": [
+                "土屋順子",
+                "忽那俊樹",
+                "渡部祥輝",
+                "斎藤寛樹",
+                "伊藤咲子",
+                "高木健志",
+                "田中周"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/01\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W61205.json"
+        }
+    ]
+}

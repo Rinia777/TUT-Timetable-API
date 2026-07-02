@@ -1,0 +1,37 @@
+{
+    "filters": {
+        "lecturer": "中嶋亮介",
+        "lecturerKey": "54e3d3e867a1"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S3080",
+            "courseName": "専門スキル演習(デジタルコンテンツデザイン)",
+            "lecturer": [
+                "中嶋亮介",
+                "松村誠一郎"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１６デザインクリエーションルーム３",
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2022\/03\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/S3080.json"
+        }
+    ]
+}

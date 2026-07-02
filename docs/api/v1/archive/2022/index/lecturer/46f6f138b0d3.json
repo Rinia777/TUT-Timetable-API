@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "籠宮隆之",
+        "lecturerKey": "46f6f138b0d3"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U63208",
+            "courseName": "音響学（演習含む）",
+            "lecturer": [
+                "籠宮隆之"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義・演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１９１１発声発語検査室"
+            ],
+            "updateAt": "2022\/03\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/U63208.json"
+        }
+    ]
+}

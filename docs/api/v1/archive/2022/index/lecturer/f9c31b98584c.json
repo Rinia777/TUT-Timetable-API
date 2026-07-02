@@ -1,0 +1,109 @@
+{
+    "filters": {
+        "lecturer": "浦聡美",
+        "lecturerKey": "f9c31b98584c"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "K001105",
+            "courseName": "工学英語B[1Q1限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1",
+                "木1"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３"
+            ],
+            "updateAt": "2022\/02\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/K001105.json"
+        },
+        {
+            "lectureCode": "K001107",
+            "courseName": "工学英語B[2Q1限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1",
+                "木1"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３"
+            ],
+            "updateAt": "2022\/02\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/K001107.json"
+        },
+        {
+            "lectureCode": "K001106",
+            "courseName": "工学英語B[1Q2限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火2",
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３"
+            ],
+            "updateAt": "2022\/02\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/K001106.json"
+        },
+        {
+            "lectureCode": "K001108",
+            "courseName": "工学英語B[2Q2限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火2",
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３"
+            ],
+            "updateAt": "2022\/02\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/K001108.json"
+        }
+    ]
+}

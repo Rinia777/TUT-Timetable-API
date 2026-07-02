@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "中村文人",
+        "lecturerKey": "93a3f06b3751"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "1109898",
+            "courseName": "AcademicEnglishI[再2]",
+            "lecturer": [
+                "中村文人"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2022\/10\/06",
+            "path": "\/api\/v1\/archive\/2022\/all\/1109898.json"
+        },
+        {
+            "lectureCode": "1109698",
+            "courseName": "PracticalEnglishI[再2]",
+            "lecturer": [
+                "中村文人"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2022\/10\/06",
+            "path": "\/api\/v1\/archive\/2022\/all\/1109698.json"
+        }
+    ]
+}

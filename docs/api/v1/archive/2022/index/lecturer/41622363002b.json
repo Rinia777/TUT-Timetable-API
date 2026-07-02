@@ -1,0 +1,132 @@
+{
+    "filters": {
+        "lecturer": "中島健太",
+        "lecturerKey": "41622363002b"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "S3220",
+            "courseName": "視覚伝達デザインコース専門演習II",
+            "lecturer": [
+                "中島健太",
+                "葛原俊秀",
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/S3220.json"
+        },
+        {
+            "lectureCode": "GF1001",
+            "courseName": "デザイン特論",
+            "lecturer": [
+                "伊藤丙雄",
+                "酒百宏一",
+                "本郷信二",
+                "松村誠一郎",
+                "宮元三恵",
+                "中島健太",
+                "田村吾郎",
+                "深澤健作",
+                "伊藤英高",
+                "加藤一葉",
+                "末房志野",
+                "酒井正",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2022\/04\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/GF1001.json"
+        },
+        {
+            "lectureCode": "S3170",
+            "courseName": "アニメーション論",
+            "lecturer": [
+                "中島健太"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2022\/01\/23",
+            "path": "\/api\/v1\/archive\/2022\/all\/S3170.json"
+        },
+        {
+            "lectureCode": "S3260",
+            "courseName": "視覚伝達デザインコース専門演習III",
+            "lecturer": [
+                "菊池眞之",
+                "中島健太",
+                "葛原俊秀",
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2022\/08\/18",
+            "path": "\/api\/v1\/archive\/2022\/all\/S3260.json"
+        }
+    ]
+}

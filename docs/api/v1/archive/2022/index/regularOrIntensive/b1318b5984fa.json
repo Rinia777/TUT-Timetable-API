@@ -1,0 +1,163 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門科目看護の統合",
+        "regularOrIntensiveKey": "b1318b5984fa"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "W13160",
+            "courseName": "医療安全・人間工学概論[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13160.json"
+        },
+        {
+            "lectureCode": "W13150",
+            "courseName": "看護研究",
+            "lecturer": [
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/20",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13150.json"
+        },
+        {
+            "lectureCode": "W14030",
+            "courseName": "看護管理学",
+            "lecturer": [
+                "長坂奎英"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/02\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14030.json"
+        },
+        {
+            "lectureCode": "W14040",
+            "courseName": "災害看護学",
+            "lecturer": [
+                "石田千絵",
+                "三浦英恵",
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14040.json"
+        },
+        {
+            "lectureCode": "W14070",
+            "courseName": "看護工学",
+            "lecturer": [
+                "川口孝泰"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/26",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14070.json"
+        },
+        {
+            "lectureCode": "W14080",
+            "courseName": "国際看護学",
+            "lecturer": [
+                "宇根川杏子",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14080.json"
+        },
+        {
+            "lectureCode": "W14090",
+            "courseName": "看護総合セミナー",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14090.json"
+        }
+    ]
+}

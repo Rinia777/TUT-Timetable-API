@@ -1,0 +1,315 @@
+{
+    "filters": {
+        "lecturer": "荻野稔",
+        "lecturerKey": "28382f8a5cd2"
+    },
+    "count": 11,
+    "lectures": [
+        {
+            "lectureCode": "W24068",
+            "courseName": "卒業研究I[CE8]",
+            "lecturer": [
+                "荻野稔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W24068.json"
+        },
+        {
+            "lectureCode": "U13010",
+            "courseName": "臨床工学演習",
+            "lecturer": [
+                "下村美文",
+                "宮地寛登",
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/U13010.json"
+        },
+        {
+            "lectureCode": "W2305",
+            "courseName": "医用機器演習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2021\/12\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2305.json"
+        },
+        {
+            "lectureCode": "W2307",
+            "courseName": "生体機能代行装置学演習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2021\/12\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2307.json"
+        },
+        {
+            "lectureCode": "W2304",
+            "courseName": "医用機器安全管理学実習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ７０１臨床工学科実習室１",
+                "Ｍ７０２臨床工学科実習室２",
+                "Ｍ７０３生体医工学実習室",
+                "Ｍ７０４工学実習室",
+                "Ｍ７０９工学実習室２"
+            ],
+            "updateAt": "2021\/12\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2304.json"
+        },
+        {
+            "lectureCode": "W2306",
+            "courseName": "生体機能代行装置学実習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ７０１臨床工学科実習室１",
+                "Ｍ７０２臨床工学科実習室２",
+                "Ｍ７０３生体医工学実習室",
+                "Ｍ７０４工学実習室",
+                "Ｍ７０９工学実習室２"
+            ],
+            "updateAt": "2021\/12\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2306.json"
+        },
+        {
+            "lectureCode": "W2308",
+            "courseName": "臨床実習",
+            "lecturer": [
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/12\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2308.json"
+        },
+        {
+            "lectureCode": "W2311",
+            "courseName": "臨床工学演習",
+            "lecturer": [
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ７０１臨床工学科実習室１"
+            ],
+            "updateAt": "2022\/01\/14",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2311.json"
+        },
+        {
+            "lectureCode": "W24078",
+            "courseName": "卒業研究II[CE8]",
+            "lecturer": [
+                "荻野稔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W24078.json"
+        },
+        {
+            "lectureCode": "W2203",
+            "courseName": "血液浄化学演習",
+            "lecturer": [
+                "荻野稔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2203.json"
+        },
+        {
+            "lectureCode": "W2405",
+            "courseName": "実践医学特別演習",
+            "lecturer": [
+                "下村美文",
+                "日向奈惠",
+                "荻野稔",
+                "加納敬",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2405.json"
+        }
+    ]
+}

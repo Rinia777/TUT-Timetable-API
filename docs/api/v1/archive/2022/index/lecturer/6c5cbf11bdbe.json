@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "加茂秀隆",
+        "lecturerKey": "6c5cbf11bdbe"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11100B11",
+            "courseName": "IntegratedEnglishI[11]BS電電応化",
+            "lecturer": [
+                "加茂秀隆"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/02\/09",
+            "path": "\/api\/v1\/archive\/2022\/all\/11100B11.json"
+        },
+        {
+            "lectureCode": "11015B07",
+            "courseName": "AcademicEnglishI[B2]BS",
+            "lecturer": [
+                "加茂秀隆"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11015B07.json"
+        },
+        {
+            "lectureCode": "11101B11",
+            "courseName": "IntegratedEnglishII[11]BS電電応化",
+            "lecturer": [
+                "加茂秀隆"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/02\/09",
+            "path": "\/api\/v1\/archive\/2022\/all\/11101B11.json"
+        },
+        {
+            "lectureCode": "11016B07",
+            "courseName": "AcademicEnglishII[B2]BS",
+            "lecturer": [
+                "加茂秀隆"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11016B07.json"
+        }
+    ]
+}

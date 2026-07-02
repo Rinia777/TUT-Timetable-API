@@ -1,0 +1,215 @@
+{
+    "filters": {
+        "lecturer": "武博",
+        "lecturerKey": "c4fd4d1eccac"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "C21201",
+            "courseName": "プログラミングC1",
+            "lecturer": [
+                "福西広晃",
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2022\/02\/07",
+            "path": "\/api\/v1\/archive\/2022\/all\/C21201.json"
+        },
+        {
+            "lectureCode": "11041C2",
+            "courseName": "情報リテラシー演習[B]CS",
+            "lecturer": [
+                "伏見卓恭",
+                "松岡丈平",
+                "武博"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０１",
+                "講義棟Ａ２０２",
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11041C2.json"
+        },
+        {
+            "lectureCode": "C10901",
+            "courseName": "プログラミング基礎I[A]CS",
+            "lecturer": [
+                "生野壮一郎",
+                "松岡丈平",
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２",
+                "研究棟Ａ４０３",
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2022\/02\/02",
+            "path": "\/api\/v1\/archive\/2022\/all\/C10901.json"
+        },
+        {
+            "lectureCode": "GGC90155",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90155.json"
+        },
+        {
+            "lectureCode": "GGC90220",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90220.json"
+        },
+        {
+            "lectureCode": "GGC90355",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90355.json"
+        },
+        {
+            "lectureCode": "GGC90415",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGC90415.json"
+        },
+        {
+            "lectureCode": "C11002",
+            "courseName": "プログラミング基礎II[B]CS",
+            "lecturer": [
+                "井上亮文",
+                "董然",
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２",
+                "研究棟Ａ４０３",
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/C11002.json"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "filters": {
+        "lecturer": "水野元貴",
+        "lecturerKey": "5571ee45a9cc"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "W54020",
+            "courseName": "臨床検査総合演習II",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "市川由理",
+                "花尾麻美",
+                "櫻井進",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1",
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2022\/03\/17",
+            "path": "\/api\/v1\/archive\/2022\/all\/W54020.json"
+        },
+        {
+            "lectureCode": "W54030",
+            "courseName": "臨床検査総合演習III",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "市川由理",
+                "花尾麻美",
+                "櫻井進",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/03\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/W54030.json"
+        }
+    ]
+}

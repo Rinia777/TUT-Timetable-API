@@ -1,0 +1,53 @@
+{
+    "filters": {
+        "courseType": "",
+        "courseTypeKey": "unknown"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "C30701",
+            "courseName": "実践コンピュータ技術[2018以前]",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/02\/09",
+            "path": "\/api\/v1\/archive\/2022\/all\/C30701.json"
+        },
+        {
+            "lectureCode": "C30801",
+            "courseName": "実践ネットワーク技術[2018以前]",
+            "lecturer": [
+                "大石邦夫"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/01\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/C30801.json"
+        }
+    ]
+}

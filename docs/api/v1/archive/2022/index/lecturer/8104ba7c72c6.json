@@ -1,0 +1,153 @@
+{
+    "filters": {
+        "lecturer": "越野圭美",
+        "lecturerKey": "8104ba7c72c6"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "11102C08",
+            "courseName": "IntegratedEnglishIII[8]CS機械",
+            "lecturer": [
+                "越野圭美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2022\/01\/28",
+            "path": "\/api\/v1\/archive\/2022\/all\/11102C08.json"
+        },
+        {
+            "lectureCode": "11100C09",
+            "courseName": "IntegratedEnglishI[9]CS機械",
+            "lecturer": [
+                "越野圭美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2022\/01\/28",
+            "path": "\/api\/v1\/archive\/2022\/all\/11100C09.json"
+        },
+        {
+            "lectureCode": "11015C01",
+            "courseName": "AcademicEnglishI[A1]CS",
+            "lecturer": [
+                "越野圭美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11015C01.json"
+        },
+        {
+            "lectureCode": "11103C08",
+            "courseName": "IntegratedEnglishIV[8]CS機械",
+            "lecturer": [
+                "越野圭美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2022\/01\/28",
+            "path": "\/api\/v1\/archive\/2022\/all\/11103C08.json"
+        },
+        {
+            "lectureCode": "11101C09",
+            "courseName": "IntegratedEnglishII[9]CS機械",
+            "lecturer": [
+                "越野圭美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2022\/01\/28",
+            "path": "\/api\/v1\/archive\/2022\/all\/11101C09.json"
+        },
+        {
+            "lectureCode": "11016C01",
+            "courseName": "AcademicEnglishII[A1]CS",
+            "lecturer": [
+                "越野圭美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11016C01.json"
+        }
+    ]
+}

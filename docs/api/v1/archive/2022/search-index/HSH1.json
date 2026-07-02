@@ -1,0 +1,926 @@
+{
+    "department": "HSH1",
+    "count": 92,
+    "lectures": [
+        {
+            "courseName": "パリアティブケア",
+            "lecturer": [
+                "清好志恵",
+                "生山笑",
+                "妹尾弘子",
+                "田辺大介"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14140.json"
+        },
+        {
+            "courseName": "ファミリーサポート論",
+            "lecturer": [
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14120.json"
+        },
+        {
+            "courseName": "ヘルスアセスメント",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12030.json"
+        },
+        {
+            "courseName": "リハビリテーションケア",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14130.json"
+        },
+        {
+            "courseName": "リプロダクティブ・ヘルスケア",
+            "lecturer": [
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14110.json"
+        },
+        {
+            "courseName": "人体構造学",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1105.json"
+        },
+        {
+            "courseName": "人体構造機能学演習",
+            "lecturer": [
+                "岡部正隆"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1107.json"
+        },
+        {
+            "courseName": "人体機能学",
+            "lecturer": [
+                "田代文夫"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1106.json"
+        },
+        {
+            "courseName": "保健医療福祉論I",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1102.json"
+        },
+        {
+            "courseName": "保健医療福祉論[2021以前]",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1122.json"
+        },
+        {
+            "courseName": "保健統計学",
+            "lecturer": [
+                "東郷史治"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12050.json"
+        },
+        {
+            "courseName": "健康学習論",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12140.json"
+        },
+        {
+            "courseName": "先端医療総合講義[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14100.json"
+        },
+        {
+            "courseName": "公衆衛生学[看護]",
+            "lecturer": [
+                "鎌倉光宏",
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1101.json"
+        },
+        {
+            "courseName": "公衆衛生看護学I",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12180.json"
+        },
+        {
+            "courseName": "公衆衛生看護学II",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13180.json"
+        },
+        {
+            "courseName": "公衆衛生看護学III",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14150.json"
+        },
+        {
+            "courseName": "公衆衛生看護学実習I",
+            "lecturer": [
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14170.json"
+        },
+        {
+            "courseName": "公衆衛生看護学実習II",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14180.json"
+        },
+        {
+            "courseName": "公衆衛生看護学実習II[2011-13年]",
+            "lecturer": [
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14200.json"
+        },
+        {
+            "courseName": "公衆衛生看護学実習I[2011-13年]",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14190.json"
+        },
+        {
+            "courseName": "公衆衛生看護管理論",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14160.json"
+        },
+        {
+            "courseName": "医学概論[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1111.json"
+        },
+        {
+            "courseName": "医療・看護情報学",
+            "lecturer": [
+                "瀬戸山陽子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12150.json"
+        },
+        {
+            "courseName": "医療安全・人間工学概論[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13160.json"
+        },
+        {
+            "courseName": "国際看護学",
+            "lecturer": [
+                "宇根川杏子",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14080.json"
+        },
+        {
+            "courseName": "在宅看護学",
+            "lecturer": [
+                "大木正隆",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13080.json"
+        },
+        {
+            "courseName": "在宅看護学実習",
+            "lecturer": [
+                "大木正隆",
+                "一色喜保",
+                "浅海くるみ",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14010.json"
+        },
+        {
+            "courseName": "在宅看護学実習[2013年以前]",
+            "lecturer": [
+                "大木正隆",
+                "一色喜保",
+                "浅海くるみ",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14220.json"
+        },
+        {
+            "courseName": "在宅看護学概論",
+            "lecturer": [
+                "大木正隆",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12090.json"
+        },
+        {
+            "courseName": "地域看護学",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W1105.json"
+        },
+        {
+            "courseName": "地域看護学実習",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14020.json"
+        },
+        {
+            "courseName": "基礎看護学実習I",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12000.json"
+        },
+        {
+            "courseName": "基礎看護学実習II",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12170.json"
+        },
+        {
+            "courseName": "基礎看護技術I",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W1103.json"
+        },
+        {
+            "courseName": "基礎看護技術II",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W1104.json"
+        },
+        {
+            "courseName": "基礎看護技術III",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12010.json"
+        },
+        {
+            "courseName": "家族看護学",
+            "lecturer": [
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12160.json"
+        },
+        {
+            "courseName": "家族社会学[看護]",
+            "lecturer": [
+                "柳采延"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1104.json"
+        },
+        {
+            "courseName": "小児看護学I",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12110.json"
+        },
+        {
+            "courseName": "小児看護学II",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13020.json"
+        },
+        {
+            "courseName": "小児看護学実習",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13110.json"
+        },
+        {
+            "courseName": "小児看護学概論",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12050.json"
+        },
+        {
+            "courseName": "感染制御ケア",
+            "lecturer": [
+                "片渕盛将"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W1106.json"
+        },
+        {
+            "courseName": "成人・高齢者看護技術演習",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美",
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13050.json"
+        },
+        {
+            "courseName": "成人看護学I",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12120.json"
+        },
+        {
+            "courseName": "成人看護学II",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13040.json"
+        },
+        {
+            "courseName": "成人看護学実習",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 5,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13120.json"
+        },
+        {
+            "courseName": "成人看護学概論",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12060.json"
+        },
+        {
+            "courseName": "栄養代謝学[看護]",
+            "lecturer": [
+                "加柴美里"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1108.json"
+        },
+        {
+            "courseName": "母性・小児看護技術演習",
+            "lecturer": [
+                "木内妙子",
+                "野澤美江子",
+                "白石裕子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13030.json"
+        },
+        {
+            "courseName": "母性看護学I",
+            "lecturer": [
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12100.json"
+        },
+        {
+            "courseName": "母性看護学II",
+            "lecturer": [
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13010.json"
+        },
+        {
+            "courseName": "母性看護学実習",
+            "lecturer": [
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13100.json"
+        },
+        {
+            "courseName": "母性看護学概論",
+            "lecturer": [
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12040.json"
+        },
+        {
+            "courseName": "災害看護学",
+            "lecturer": [
+                "石田千絵",
+                "三浦英恵",
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14040.json"
+        },
+        {
+            "courseName": "生命倫理[看護]",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1103.json"
+        },
+        {
+            "courseName": "産業看護学",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13090.json"
+        },
+        {
+            "courseName": "産業看護演習",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13190.json"
+        },
+        {
+            "courseName": "画像評価学[看護]",
+            "lecturer": [
+                "竹内真一"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12140.json"
+        },
+        {
+            "courseName": "疫学",
+            "lecturer": [
+                "五十嵐千代",
+                "大木正隆",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12010.json"
+        },
+        {
+            "courseName": "疾病治療論I",
+            "lecturer": [
+                "日向奈惠",
+                "横田恭子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12080.json"
+        },
+        {
+            "courseName": "疾病治療論II",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12090.json"
+        },
+        {
+            "courseName": "疾病治療論III",
+            "lecturer": [
+                "早田英二郎"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12100.json"
+        },
+        {
+            "courseName": "疾病治療論IV",
+            "lecturer": [
+                "小原明"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12110.json"
+        },
+        {
+            "courseName": "疾病治療論V",
+            "lecturer": [
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12120.json"
+        },
+        {
+            "courseName": "病理病態学I",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1110.json"
+        },
+        {
+            "courseName": "病理病態学II",
+            "lecturer": [
+                "吉森真由美",
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12070.json"
+        },
+        {
+            "courseName": "癒しのケア学[2021以前]",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1121.json"
+        },
+        {
+            "courseName": "発達心理学[看護]",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12020.json"
+        },
+        {
+            "courseName": "看護入門講座",
+            "lecturer": [
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W1101.json"
+        },
+        {
+            "courseName": "看護学概論",
+            "lecturer": [
+                "生田奈美可"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W1102.json"
+        },
+        {
+            "courseName": "看護工学",
+            "lecturer": [
+                "川口孝泰"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14070.json"
+        },
+        {
+            "courseName": "看護研究",
+            "lecturer": [
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13150.json"
+        },
+        {
+            "courseName": "看護管理学",
+            "lecturer": [
+                "長坂奎英"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14030.json"
+        },
+        {
+            "courseName": "看護総合セミナー",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W14090.json"
+        },
+        {
+            "courseName": "看護過程",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12020.json"
+        },
+        {
+            "courseName": "社会経済学",
+            "lecturer": [
+                "尾玉剛士"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12040.json"
+        },
+        {
+            "courseName": "精神看護学",
+            "lecturer": [
+                "妹尾弘子",
+                "田辺大介",
+                "田中有紀"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13070.json"
+        },
+        {
+            "courseName": "精神看護学実習",
+            "lecturer": [
+                "妹尾弘子",
+                "田辺大介"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13140.json"
+        },
+        {
+            "courseName": "精神看護学概論",
+            "lecturer": [
+                "妹尾弘子",
+                "田辺大介"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12080.json"
+        },
+        {
+            "courseName": "臨床工学演習",
+            "lecturer": [
+                "下村美文",
+                "宮地寛登",
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U13010.json"
+        },
+        {
+            "courseName": "臨床微生物・免疫学[看護1年]",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U1109.json"
+        },
+        {
+            "courseName": "臨床微生物・免疫学[看護2年]",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12060.json"
+        },
+        {
+            "courseName": "臨床心理学[看護]",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12030.json"
+        },
+        {
+            "courseName": "臨床栄養学",
+            "lecturer": [
+                "渡邉靜"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U13020.json"
+        },
+        {
+            "courseName": "臨床薬理学[看護]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/U12130.json"
+        },
+        {
+            "courseName": "認知症ケア",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13170.json"
+        },
+        {
+            "courseName": "高齢者看護学I",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12130.json"
+        },
+        {
+            "courseName": "高齢者看護学II",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13060.json"
+        },
+        {
+            "courseName": "高齢者看護学実習",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W13130.json"
+        },
+        {
+            "courseName": "高齢者看護学概論",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2022\/HSH1\/W12070.json"
+        }
+    ]
+}

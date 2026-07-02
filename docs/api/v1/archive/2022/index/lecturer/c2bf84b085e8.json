@@ -1,0 +1,113 @@
+{
+    "filters": {
+        "lecturer": "中川明博",
+        "lecturerKey": "c2bf84b085e8"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "R1010",
+            "courseName": "哲学[デザイン]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/R1010.json"
+        },
+        {
+            "lectureCode": "T0100",
+            "courseName": "哲学[医療]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/T0100.json"
+        },
+        {
+            "lectureCode": "1108001",
+            "courseName": "哲学と思考[合A]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/1108001.json"
+        },
+        {
+            "lectureCode": "1108002",
+            "courseName": "哲学と思考[合B]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/1108002.json"
+        }
+    ]
+}

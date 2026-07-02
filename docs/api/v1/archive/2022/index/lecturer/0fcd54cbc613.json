@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "lecturer": "朝熊悠",
+        "lecturerKey": "0fcd54cbc613"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11102B03",
+            "courseName": "IntegratedEnglishIII[3]BS電電応化",
+            "lecturer": [
+                "朝熊悠"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/11102B03.json"
+        },
+        {
+            "lectureCode": "11100B01",
+            "courseName": "IntegratedEnglishI[1]BS電電応化",
+            "lecturer": [
+                "朝熊悠"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/11100B01.json"
+        },
+        {
+            "lectureCode": "11103B03",
+            "courseName": "IntegratedEnglishIV[3]BS電電応化",
+            "lecturer": [
+                "朝熊悠"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/11103B03.json"
+        },
+        {
+            "lectureCode": "11101B01",
+            "courseName": "IntegratedEnglishII[1]BS電電応化",
+            "lecturer": [
+                "朝熊悠"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/02\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/11101B01.json"
+        }
+    ]
+}

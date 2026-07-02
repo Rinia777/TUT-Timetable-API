@@ -1,0 +1,322 @@
+{
+    "filters": {
+        "lecturer": "遠藤泰志",
+        "lecturerKey": "1307ff736452"
+    },
+    "count": 13,
+    "lectures": [
+        {
+            "lectureCode": "ES00304",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/ES00304.json"
+        },
+        {
+            "lectureCode": "B21901",
+            "courseName": "食品化学",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/01\/31",
+            "path": "\/api\/v1\/archive\/2022\/all\/B21901.json"
+        },
+        {
+            "lectureCode": "B30501",
+            "courseName": "食品実験I",
+            "lecturer": [
+                "遠藤泰志",
+                "今井伸二郎",
+                "野嶽勇一",
+                "関洋子"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０１",
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2022\/02\/02",
+            "path": "\/api\/v1\/archive\/2022\/all\/B30501.json"
+        },
+        {
+            "lectureCode": "GGB12601",
+            "courseName": "食品分析学特論",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2022\/01\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB12601.json"
+        },
+        {
+            "lectureCode": "ES00404",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/ES00404.json"
+        },
+        {
+            "lectureCode": "GGB90155",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB90155.json"
+        },
+        {
+            "lectureCode": "GGB90223",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB90223.json"
+        },
+        {
+            "lectureCode": "GGB90355",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB90355.json"
+        },
+        {
+            "lectureCode": "GGB90420",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB90420.json"
+        },
+        {
+            "lectureCode": "B30601",
+            "courseName": "食品実験II",
+            "lecturer": [
+                "遠藤泰志",
+                "今井伸二郎",
+                "野嶽勇一",
+                "関洋子"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2022\/02\/02",
+            "path": "\/api\/v1\/archive\/2022\/all\/B30601.json"
+        },
+        {
+            "lectureCode": "B33402",
+            "courseName": "食品開発概論",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "専門教育科目食品・化粧品専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2022\/01\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/B33402.json"
+        },
+        {
+            "lectureCode": "ES00204",
+            "courseName": "創成課題II[BS]",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/ES00204.json"
+        },
+        {
+            "lectureCode": "B21101",
+            "courseName": "分析化学",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/B21101.json"
+        }
+    ]
+}

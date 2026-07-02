@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "lecturer": "山戸眞子",
+        "lecturerKey": "107eaa4e5017"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11098K63",
+            "courseName": "AcademicEnglishI[3]電電",
+            "lecturer": [
+                "山戸眞子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11098K63.json"
+        },
+        {
+            "lectureCode": "11098K72",
+            "courseName": "AcademicEnglishI[2]応化",
+            "lecturer": [
+                "山戸眞子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11098K72.json"
+        },
+        {
+            "lectureCode": "11099K63",
+            "courseName": "AcademicEnglishII[3]電電",
+            "lecturer": [
+                "山戸眞子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11099K63.json"
+        },
+        {
+            "lectureCode": "11099K72",
+            "courseName": "AcademicEnglishII[2]応化",
+            "lecturer": [
+                "山戸眞子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/11099K72.json"
+        }
+    ]
+}

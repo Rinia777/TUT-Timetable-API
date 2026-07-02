@@ -1,0 +1,87 @@
+{
+    "filters": {
+        "lecturer": "沼田真美",
+        "lecturerKey": "85d2e7ac2ded"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "T0301",
+            "courseName": "心理学[月4]",
+            "lecturer": [
+                "沼田真美"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/02\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/T0301.json"
+        },
+        {
+            "lectureCode": "R1050",
+            "courseName": "心理学[デザイン]",
+            "lecturer": [
+                "沼田真美"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/02\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/R1050.json"
+        },
+        {
+            "lectureCode": "T0302",
+            "courseName": "心理学[言語]",
+            "lecturer": [
+                "沼田真美"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/02\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/T0302.json"
+        }
+    ]
+}

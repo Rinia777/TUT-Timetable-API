@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "野田雅司",
+        "lecturerKey": "7c2de3854ef6"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U34010",
+            "courseName": "医療情報演習",
+            "lecturer": [
+                "野田雅司"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/U34010.json"
+        }
+    ]
+}

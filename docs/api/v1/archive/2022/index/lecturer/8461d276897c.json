@@ -1,0 +1,143 @@
+{
+    "filters": {
+        "lecturer": "外山稔",
+        "lecturerKey": "8461d276897c"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "W63201",
+            "courseName": "失語・高次脳機能障害学I",
+            "lecturer": [
+                "浦野雅世",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2022\/03\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63201.json"
+        },
+        {
+            "lectureCode": "W63202",
+            "courseName": "失語・高次脳機能障害学演習I",
+            "lecturer": [
+                "内山美保",
+                "川上勝也",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2022\/03\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63202.json"
+        },
+        {
+            "lectureCode": "W63203",
+            "courseName": "失語・高次脳機能障害学II",
+            "lecturer": [
+                "浦野雅世",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１９１１発声発語検査室"
+            ],
+            "updateAt": "2022\/03\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63203.json"
+        },
+        {
+            "lectureCode": "W63204",
+            "courseName": "失語・高次脳機能障害学演習II",
+            "lecturer": [
+                "内山美保",
+                "川上勝也",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１９１１発声発語検査室"
+            ],
+            "updateAt": "2022\/03\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63204.json"
+        },
+        {
+            "lectureCode": "U63107",
+            "courseName": "リハビリテーション概論",
+            "lecturer": [
+                "原田浩美",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2022\/05\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/U63107.json"
+        }
+    ]
+}

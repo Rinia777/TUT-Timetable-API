@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "大野祐子",
+        "lecturerKey": "bc6cfbe5cd8c"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "T2711",
+            "courseName": "フレッシャーズゼミ[看護1]",
+            "lecturer": [
+                "野澤美江子",
+                "大野祐子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０３１１教室"
+            ],
+            "updateAt": "2022\/05\/18",
+            "path": "\/api\/v1\/archive\/2022\/all\/T2711.json"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "岸野吏志",
+        "lecturerKey": "fb0b754ef731"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "U12130",
+            "courseName": "臨床薬理学[看護]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/02",
+            "path": "\/api\/v1\/archive\/2022\/all\/U12130.json"
+        },
+        {
+            "lectureCode": "U2203",
+            "courseName": "臨床薬理学[臨工]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/02",
+            "path": "\/api\/v1\/archive\/2022\/all\/U2203.json"
+        },
+        {
+            "lectureCode": "U60213",
+            "courseName": "臨床薬理学[理学作業]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/02",
+            "path": "\/api\/v1\/archive\/2022\/all\/U60213.json"
+        },
+        {
+            "lectureCode": "W54060",
+            "courseName": "薬理学",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/02",
+            "path": "\/api\/v1\/archive\/2022\/all\/W54060.json"
+        }
+    ]
+}

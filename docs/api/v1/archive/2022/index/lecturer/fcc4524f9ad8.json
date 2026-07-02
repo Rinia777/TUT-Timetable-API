@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "岡部正隆",
+        "lecturerKey": "fcc4524f9ad8"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U1107",
+            "courseName": "人体構造機能学演習",
+            "lecturer": [
+                "岡部正隆"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/U1107.json"
+        }
+    ]
+}

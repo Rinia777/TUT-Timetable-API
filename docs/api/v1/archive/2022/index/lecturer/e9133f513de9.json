@@ -1,0 +1,589 @@
+{
+    "filters": {
+        "lecturer": "佐藤拓己",
+        "lecturerKey": "e9133f513de9"
+    },
+    "count": 21,
+    "lectures": [
+        {
+            "lectureCode": "ES00327",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/ES00327.json"
+        },
+        {
+            "lectureCode": "GGB90107",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB90107.json"
+        },
+        {
+            "lectureCode": "B20301",
+            "courseName": "生命科学III",
+            "lecturer": [
+                "佐藤淳",
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "専門基礎教育科目生物学",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/B20301.json"
+        },
+        {
+            "lectureCode": "GGB12701",
+            "courseName": "アンチエイジングフード特論",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2022\/02\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB12701.json"
+        },
+        {
+            "lectureCode": "11050B12",
+            "courseName": "フレッシャーズゼミI[12]BS",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/11050B12.json"
+        },
+        {
+            "lectureCode": "ES00427",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/ES00427.json"
+        },
+        {
+            "lectureCode": "GGB90160",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB90160.json"
+        },
+        {
+            "lectureCode": "GGB90207",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB90207.json"
+        },
+        {
+            "lectureCode": "GGB90360",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB90360.json"
+        },
+        {
+            "lectureCode": "GGB90423",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/10\/05",
+            "path": "\/api\/v1\/archive\/2022\/all\/GGB90423.json"
+        },
+        {
+            "lectureCode": "B32001",
+            "courseName": "食品衛生学",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2022\/02\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/B32001.json"
+        },
+        {
+            "lectureCode": "B10301",
+            "courseName": "生物・化学基礎実験II[月AD]",
+            "lecturer": [
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅",
+                "後藤早希"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/14",
+            "path": "\/api\/v1\/archive\/2022\/all\/B10301.json"
+        },
+        {
+            "lectureCode": "B10302",
+            "courseName": "生物・化学基礎実験II[月AE]",
+            "lecturer": [
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅",
+                "後藤早希"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/B10302.json"
+        },
+        {
+            "lectureCode": "11051B12",
+            "courseName": "フレッシャーズゼミII[12]BS",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2022\/03\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/11051B12.json"
+        },
+        {
+            "lectureCode": "B10305",
+            "courseName": "生物・化学基礎実験II[木AD]",
+            "lecturer": [
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅",
+                "後藤早希"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/B10305.json"
+        },
+        {
+            "lectureCode": "B10306",
+            "courseName": "生物・化学基礎実験II[木AE]",
+            "lecturer": [
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅",
+                "後藤早希"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/B10306.json"
+        },
+        {
+            "lectureCode": "B10307",
+            "courseName": "生物・化学基礎実験II[金BD]",
+            "lecturer": [
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅",
+                "後藤早希"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/B10307.json"
+        },
+        {
+            "lectureCode": "B10308",
+            "courseName": "生物・化学基礎実験II[金BE]",
+            "lecturer": [
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅",
+                "後藤早希"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水2",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/B10308.json"
+        },
+        {
+            "lectureCode": "ES00224",
+            "courseName": "創成課題II[BS]",
+            "lecturer": [
+                "佐藤拓己"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/ES00224.json"
+        },
+        {
+            "lectureCode": "B10303",
+            "courseName": "生物・化学基礎実験II[火BD]",
+            "lecturer": [
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅",
+                "後藤早希"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4",
+                "火5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/B10303.json"
+        },
+        {
+            "lectureCode": "B10304",
+            "courseName": "生物・化学基礎実験II[火BE]",
+            "lecturer": [
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅",
+                "後藤早希"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火4",
+                "火5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/B10304.json"
+        }
+    ]
+}

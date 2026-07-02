@@ -1,0 +1,158 @@
+{
+    "filters": {
+        "lecturer": "大木正隆",
+        "lecturerKey": "c38dea80f437"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "W14010",
+            "courseName": "在宅看護学実習",
+            "lecturer": [
+                "大木正隆",
+                "一色喜保",
+                "浅海くるみ",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/01\/20",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14010.json"
+        },
+        {
+            "lectureCode": "W14220",
+            "courseName": "在宅看護学実習[2013年以前]",
+            "lecturer": [
+                "大木正隆",
+                "一色喜保",
+                "浅海くるみ",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/01\/20",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14220.json"
+        },
+        {
+            "lectureCode": "W13080",
+            "courseName": "在宅看護学",
+            "lecturer": [
+                "大木正隆",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2022\/01\/14",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13080.json"
+        },
+        {
+            "lectureCode": "W12160",
+            "courseName": "家族看護学",
+            "lecturer": [
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2022\/03\/14",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12160.json"
+        },
+        {
+            "lectureCode": "U12010",
+            "courseName": "疫学",
+            "lecturer": [
+                "五十嵐千代",
+                "大木正隆",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2022\/01\/31",
+            "path": "\/api\/v1\/archive\/2022\/all\/U12010.json"
+        },
+        {
+            "lectureCode": "W12090",
+            "courseName": "在宅看護学概論",
+            "lecturer": [
+                "大木正隆",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2022\/07\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12090.json"
+        }
+    ]
+}

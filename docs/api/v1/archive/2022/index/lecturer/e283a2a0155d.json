@@ -1,0 +1,646 @@
+{
+    "filters": {
+        "lecturer": "篠原一彦",
+        "lecturerKey": "e283a2a0155d"
+    },
+    "count": 24,
+    "lectures": [
+        {
+            "lectureCode": "GH3001",
+            "courseName": "医療技術学研究企画",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "櫻井進",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH3001.json"
+        },
+        {
+            "lectureCode": "GH3003",
+            "courseName": "医療技術学研究II",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "櫻井進",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/04\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH3003.json"
+        },
+        {
+            "lectureCode": "W24061",
+            "courseName": "卒業研究I[CE1]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W24061.json"
+        },
+        {
+            "lectureCode": "GH1001",
+            "courseName": "医療技術学概論",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "十島純子",
+                "櫻井進",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH1001.json"
+        },
+        {
+            "lectureCode": "U1111",
+            "courseName": "医学概論[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/02\/01",
+            "path": "\/api\/v1\/archive\/2022\/all\/U1111.json"
+        },
+        {
+            "lectureCode": "U2109",
+            "courseName": "医学概論[臨工]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/02\/01",
+            "path": "\/api\/v1\/archive\/2022\/all\/U2109.json"
+        },
+        {
+            "lectureCode": "U5107",
+            "courseName": "医学概論[臨検]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/02\/01",
+            "path": "\/api\/v1\/archive\/2022\/all\/U5107.json"
+        },
+        {
+            "lectureCode": "U60101",
+            "courseName": "医学概論[リハビリ]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/02\/01",
+            "path": "\/api\/v1\/archive\/2022\/all\/U60101.json"
+        },
+        {
+            "lectureCode": "W14100",
+            "courseName": "先端医療総合講義[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4",
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14100.json"
+        },
+        {
+            "lectureCode": "W2408",
+            "courseName": "先端医療総合講義[臨工]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4",
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2408.json"
+        },
+        {
+            "lectureCode": "W34010",
+            "courseName": "先端医療総合講義[理学]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4",
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34010.json"
+        },
+        {
+            "lectureCode": "W44060",
+            "courseName": "先端医療総合講義[作業]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4",
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W44060.json"
+        },
+        {
+            "lectureCode": "W54070",
+            "courseName": "先端医療総合講義[臨検]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4",
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W54070.json"
+        },
+        {
+            "lectureCode": "W13160",
+            "courseName": "医療安全・人間工学概論[看護]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13160.json"
+        },
+        {
+            "lectureCode": "W2401",
+            "courseName": "医療安全・人間工学概論[臨工]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2401.json"
+        },
+        {
+            "lectureCode": "W33200",
+            "courseName": "医療安全・人間工学概論[理学]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33200.json"
+        },
+        {
+            "lectureCode": "W43190",
+            "courseName": "医療安全・人間工学概論[作業]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W43190.json"
+        },
+        {
+            "lectureCode": "W2310",
+            "courseName": "外科系臨床医学II",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2310.json"
+        },
+        {
+            "lectureCode": "GH1007",
+            "courseName": "医療安全管理論",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH1007.json"
+        },
+        {
+            "lectureCode": "GH3002",
+            "courseName": "医療技術学研究I",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "櫻井進",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH3002.json"
+        },
+        {
+            "lectureCode": "GH3004",
+            "courseName": "医療技術学研究III",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "廣田雅子",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/GH3004.json"
+        },
+        {
+            "lectureCode": "W24071",
+            "courseName": "卒業研究II[CE1]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W24071.json"
+        },
+        {
+            "lectureCode": "U12090",
+            "courseName": "疾病治療論II",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/U12090.json"
+        },
+        {
+            "lectureCode": "W2208",
+            "courseName": "外科系臨床医学I",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W2208.json"
+        }
+    ]
+}

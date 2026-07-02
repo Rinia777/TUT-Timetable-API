@@ -1,0 +1,71 @@
+{
+    "filters": {
+        "lecturer": "伊藤さやか",
+        "lecturerKey": "963d0e49d014"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "W53030",
+            "courseName": "血液検査学実習II",
+            "lecturer": [
+                "伊藤さやか",
+                "横田恭子",
+                "廣田雅子",
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/W53030.json"
+        },
+        {
+            "lectureCode": "W53070",
+            "courseName": "免疫検査学実習",
+            "lecturer": [
+                "伊藤さやか",
+                "廣田雅子",
+                "奥橋佑基",
+                "伊藤さやか"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３",
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2022\/01\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/W53070.json"
+        }
+    ]
+}

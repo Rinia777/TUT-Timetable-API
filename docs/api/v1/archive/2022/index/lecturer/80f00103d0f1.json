@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "工藤綾",
+        "lecturerKey": "80f00103d0f1"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "1111201",
+            "courseName": "スペイン語I[水4]",
+            "lecturer": [
+                "工藤綾"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/01\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/1111201.json"
+        },
+        {
+            "lectureCode": "1111202",
+            "courseName": "スペイン語I[水5]",
+            "lecturer": [
+                "工藤綾"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2022\/02\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/1111202.json"
+        }
+    ]
+}

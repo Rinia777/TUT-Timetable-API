@@ -1,0 +1,195 @@
+{
+    "filters": {
+        "lecturer": "原田浩美",
+        "lecturerKey": "438ecc28804a"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "W63214",
+            "courseName": "コミュニケーション演習I",
+            "lecturer": [
+                "原田浩美",
+                "石津希代子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2022\/05\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63214.json"
+        },
+        {
+            "lectureCode": "W63101",
+            "courseName": "言語聴覚障害学総論",
+            "lecturer": [
+                "原田浩美"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2022\/05\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63101.json"
+        },
+        {
+            "lectureCode": "W63211",
+            "courseName": "聴覚障害学演習I",
+            "lecturer": [
+                "原田浩美",
+                "石津希代子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１７教室"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63211.json"
+        },
+        {
+            "lectureCode": "W63215",
+            "courseName": "コミュニケーション演習II",
+            "lecturer": [
+                "原田浩美",
+                "池田泰子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2022\/05\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63215.json"
+        },
+        {
+            "lectureCode": "U63107",
+            "courseName": "リハビリテーション概論",
+            "lecturer": [
+                "原田浩美",
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2022\/05\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/U63107.json"
+        },
+        {
+            "lectureCode": "W63104",
+            "courseName": "ベーシックセミナーII",
+            "lecturer": [
+                "原田浩美"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2022\/05\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63104.json"
+        },
+        {
+            "lectureCode": "W63213",
+            "courseName": "聴覚障害学演習II",
+            "lecturer": [
+                "原田浩美",
+                "石津希代子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2022\/05\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W63213.json"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "filters": {
+        "lecturer": "白石裕子",
+        "lecturerKey": "d24e41e81d0a"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "W14120",
+            "courseName": "ファミリーサポート論",
+            "lecturer": [
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/04\/20",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14120.json"
+        },
+        {
+            "lectureCode": "W12050",
+            "courseName": "小児看護学概論",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2022\/04\/20",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12050.json"
+        },
+        {
+            "lectureCode": "W13020",
+            "courseName": "小児看護学II",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室",
+                "３１０１６教室",
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室",
+                "３１８４３看護実習室４"
+            ],
+            "updateAt": "2022\/01\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13020.json"
+        },
+        {
+            "lectureCode": "W13030",
+            "courseName": "母性・小児看護技術演習",
+            "lecturer": [
+                "木内妙子",
+                "野澤美江子",
+                "白石裕子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火5",
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室",
+                "３１０１６教室",
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室",
+                "３１８４３看護実習室４"
+            ],
+            "updateAt": "2022\/03\/17",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13030.json"
+        },
+        {
+            "lectureCode": "W13110",
+            "courseName": "小児看護学実習",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2022\/01\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13110.json"
+        },
+        {
+            "lectureCode": "W13150",
+            "courseName": "看護研究",
+            "lecturer": [
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/01\/20",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13150.json"
+        },
+        {
+            "lectureCode": "W12110",
+            "courseName": "小児看護学I",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2022\/01\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12110.json"
+        }
+    ]
+}

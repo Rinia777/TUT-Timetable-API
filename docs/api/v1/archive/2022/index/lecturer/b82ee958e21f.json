@@ -1,0 +1,30 @@
+{
+    "filters": {
+        "lecturer": "長坂奎英",
+        "lecturerKey": "b82ee958e21f"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W14030",
+            "courseName": "看護管理学",
+            "lecturer": [
+                "長坂奎英"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2022\/02\/04",
+            "path": "\/api\/v1\/archive\/2022\/all\/W14030.json"
+        }
+    ]
+}

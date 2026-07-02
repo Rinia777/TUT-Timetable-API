@@ -1,0 +1,158 @@
+{
+    "filters": {
+        "lecturer": "西尾奈緒美",
+        "lecturerKey": "f9b7f391a085"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "T2712",
+            "courseName": "フレッシャーズゼミ[看護2]",
+            "lecturer": [
+                "西尾奈緒美",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室",
+                "３１１１１教室"
+            ],
+            "updateAt": "2022\/05\/18",
+            "path": "\/api\/v1\/archive\/2022\/all\/T2712.json"
+        },
+        {
+            "lectureCode": "W13040",
+            "courseName": "成人看護学II",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室",
+                "３１０１６教室",
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2022\/01\/18",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13040.json"
+        },
+        {
+            "lectureCode": "W13050",
+            "courseName": "成人・高齢者看護技術演習",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美",
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室",
+                "３１０１６教室",
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13050.json"
+        },
+        {
+            "lectureCode": "W13120",
+            "courseName": "成人看護学実習",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 5,
+            "classroom": [],
+            "updateAt": "2022\/01\/18",
+            "path": "\/api\/v1\/archive\/2022\/all\/W13120.json"
+        },
+        {
+            "lectureCode": "W12120",
+            "courseName": "成人看護学I",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室",
+                "３１０１７教室",
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2022\/04\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12120.json"
+        }
+    ]
+}

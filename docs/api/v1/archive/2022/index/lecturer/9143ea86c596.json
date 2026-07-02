@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "市川佑一",
+        "lecturerKey": "9143ea86c596"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U63202",
+            "courseName": "形成外科学",
+            "lecturer": [
+                "佐藤伸弘",
+                "市川佑一"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4",
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2022\/03\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/U63202.json"
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門科目看護の基礎",
+        "regularOrIntensiveKey": "acaa38dd2782"
+    },
+    "count": 15,
+    "lectures": [
+        {
+            "lectureCode": "W12070",
+            "courseName": "高齢者看護学概論",
+            "lecturer": [
+                "若林和枝"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2022\/01\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12070.json"
+        },
+        {
+            "lectureCode": "W1102",
+            "courseName": "看護学概論",
+            "lecturer": [
+                "生田奈美可"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2022\/01\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W1102.json"
+        },
+        {
+            "lectureCode": "W1101",
+            "courseName": "看護入門講座",
+            "lecturer": [
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2022\/02\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W1101.json"
+        },
+        {
+            "lectureCode": "W12030",
+            "courseName": "ヘルスアセスメント",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12030.json"
+        },
+        {
+            "lectureCode": "W12010",
+            "courseName": "基礎看護技術III",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12010.json"
+        },
+        {
+            "lectureCode": "W12050",
+            "courseName": "小児看護学概論",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2022\/04\/20",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12050.json"
+        },
+        {
+            "lectureCode": "W1103",
+            "courseName": "基礎看護技術I",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W1103.json"
+        },
+        {
+            "lectureCode": "W12060",
+            "courseName": "成人看護学概論",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2022\/03\/14",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12060.json"
+        },
+        {
+            "lectureCode": "W12040",
+            "courseName": "母性看護学概論",
+            "lecturer": [
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12040.json"
+        },
+        {
+            "lectureCode": "W1106",
+            "courseName": "感染制御ケア",
+            "lecturer": [
+                "片渕盛将"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W1106.json"
+        },
+        {
+            "lectureCode": "W12080",
+            "courseName": "精神看護学概論",
+            "lecturer": [
+                "妹尾弘子",
+                "田辺大介"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12080.json"
+        },
+        {
+            "lectureCode": "W1105",
+            "courseName": "地域看護学",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保",
+                "江川優子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2022\/03\/16",
+            "path": "\/api\/v1\/archive\/2022\/all\/W1105.json"
+        },
+        {
+            "lectureCode": "W12090",
+            "courseName": "在宅看護学概論",
+            "lecturer": [
+                "大木正隆",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2022\/07\/08",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12090.json"
+        },
+        {
+            "lectureCode": "W12020",
+            "courseName": "看護過程",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義・演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2022\/07\/12",
+            "path": "\/api\/v1\/archive\/2022\/all\/W12020.json"
+        },
+        {
+            "lectureCode": "W1104",
+            "courseName": "基礎看護技術II",
+            "lecturer": [
+                "飯塚敏子",
+                "宮首由美子",
+                "生田奈美可",
+                "佐藤智子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2022\/05\/10",
+            "path": "\/api\/v1\/archive\/2022\/all\/W1104.json"
+        }
+    ]
+}

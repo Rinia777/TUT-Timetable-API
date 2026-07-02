@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "目黒良門",
+        "lecturerKey": "bec57045d801"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S3030",
+            "courseName": "マネジメント",
+            "lecturer": [
+                "目黒良門",
+                "目黒良門"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/03\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/S3030.json"
+        },
+        {
+            "lectureCode": "S3020",
+            "courseName": "マーケティング論",
+            "lecturer": [
+                "目黒良門",
+                "目黒良門"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2022\/03\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/S3020.json"
+        }
+    ]
+}
