@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "鈴木希(兼任講師)",
+        "lecturerKey": "ae4223cba76a"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L620C09",
+            "courseName": "IntegratedEnglishIII[9]CS機械",
+            "lecturer": [
+                "鈴木希(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620C09.json"
+        },
+        {
+            "lectureCode": "L621C09",
+            "courseName": "IntegratedEnglishIV[9]CS機械",
+            "lecturer": [
+                "鈴木希(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621C09.json"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "filters": {
+        "lecturer": "中島敏博(教養学環)",
+        "lecturerKey": "28e09cf149e6"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "L9240202",
+            "courseName": "サービスラーニングIV（国内短期派遣）",
+            "lecturer": [
+                "中島敏博(教養学環)",
+                "大山昌彦(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L9240202.json"
+        },
+        {
+            "lectureCode": "L9240102",
+            "courseName": "サービスラーニングIII（国内短期派遣）",
+            "lecturer": [
+                "中島敏博(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "null",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L9240102.json"
+        },
+        {
+            "lectureCode": "L9240101",
+            "courseName": "サービスラーニングIII（八王子）",
+            "lecturer": [
+                "神子島健(教養学環)",
+                "佐藤宏樹(兼任講師)",
+                "中島敏博(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "null",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L9240101.json"
+        }
+    ]
+}

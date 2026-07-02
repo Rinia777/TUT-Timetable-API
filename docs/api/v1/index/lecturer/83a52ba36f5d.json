@@ -1,0 +1,87 @@
+{
+    "filters": {
+        "lecturer": "進藤美希(メディア学部メディア学科)",
+        "lecturerKey": "83a52ba36f5d"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "M4002121",
+            "courseName": "卒業研究II[前期]",
+            "lecturer": [
+                "進藤美希(メディア学部メディア学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/13",
+            "path": "\/api\/v1\/all\/M4002121.json"
+        },
+        {
+            "lectureCode": "M2011S2",
+            "courseName": "メディア専門演習I[広告マーケティングと経済分析]",
+            "lecturer": [
+                "進藤美希(メディア学部メディア学科)",
+                "榊俊吾(メディア学部メディア学科)",
+                "藤崎実(メディア学部メディア学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/13",
+            "path": "\/api\/v1\/all\/M2011S2.json"
+        },
+        {
+            "lectureCode": "M3001S1",
+            "courseName": "メディア専門演習II[広告マーケティングと経済分析]2023年以前入学者",
+            "lecturer": [
+                "進藤美希(メディア学部メディア学科)",
+                "榊俊吾(メディア学部メディア学科)",
+                "藤崎実(メディア学部メディア学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/M3001S1.json"
+        }
+    ]
+}

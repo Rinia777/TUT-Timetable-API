@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "竹内真一(兼任講師)",
+        "lecturerKey": "9891b71af824"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U60215",
+            "courseName": "画像評価学",
+            "lecturer": [
+                "竹内真一(兼任講師)"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/U60215.json"
+        }
+    ]
+}

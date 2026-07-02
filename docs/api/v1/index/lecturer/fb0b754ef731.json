@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "lecturer": "岸野吏志",
+        "lecturerKey": "fb0b754ef731"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "U1213",
+            "courseName": "臨床薬理学[看護]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/04",
+            "path": "\/api\/v1\/all\/U1213.json"
+        },
+        {
+            "lectureCode": "U2203",
+            "courseName": "臨床薬理学[臨工]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/04",
+            "path": "\/api\/v1\/all\/U2203.json"
+        },
+        {
+            "lectureCode": "U5205",
+            "courseName": "臨床薬理学[臨検]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/04",
+            "path": "\/api\/v1\/all\/U5205.json"
+        },
+        {
+            "lectureCode": "U60211",
+            "courseName": "臨床薬理学[理学作業]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/04",
+            "path": "\/api\/v1\/all\/U60211.json"
+        }
+    ]
+}

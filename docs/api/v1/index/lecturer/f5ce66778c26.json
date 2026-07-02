@@ -1,0 +1,176 @@
+{
+    "filters": {
+        "lecturer": "山形寛",
+        "lecturerKey": "f5ce66778c26"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "W140512",
+            "courseName": "卒業研究[NU12]",
+            "lecturer": [
+                "山形寛"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/W140512.json"
+        },
+        {
+            "lectureCode": "W140612",
+            "courseName": "統合看護実習[12]",
+            "lecturer": [
+                "山形寛"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/W140612.json"
+        },
+        {
+            "lectureCode": "W1304",
+            "courseName": "成人看護学II",
+            "lecturer": [
+                "小田和美",
+                "山形寛"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W1304.json"
+        },
+        {
+            "lectureCode": "W1305",
+            "courseName": "成人看護技術演習",
+            "lecturer": [
+                "小田和美",
+                "山形寛"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W1305.json"
+        },
+        {
+            "lectureCode": "W1313",
+            "courseName": "成人看護学実習I",
+            "lecturer": [
+                "小田和美",
+                "山形寛"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W1313.json"
+        },
+        {
+            "lectureCode": "W1314",
+            "courseName": "成人看護学実習II",
+            "lecturer": [
+                "小田和美",
+                "山形寛"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W1314.json"
+        },
+        {
+            "lectureCode": "W1326",
+            "courseName": "成人看護学実習[2021以前]",
+            "lecturer": [
+                "小田和美",
+                "山形寛"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 5,
+            "classroom": [],
+            "updateAt": "2026\/01\/25",
+            "path": "\/api\/v1\/all\/W1326.json"
+        }
+    ]
+}

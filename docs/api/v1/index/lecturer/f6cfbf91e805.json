@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "関口暁宣(工学部機械工学科)",
+        "lecturerKey": "f6cfbf91e805"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "K500402",
+            "courseName": "線形代数(M)【再履修クラス】",
+            "lecturer": [
+                "関口暁宣(工学部機械工学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/K500402.json"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "filters": {
+        "lecturer": "伊東雅之(医療保健学部臨床工学科)",
+        "lecturerKey": "b629b6515254"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U2111",
+            "courseName": "工学基礎演習[2022年以前]",
+            "lecturer": [
+                "加用一者(教養学環)",
+                "伊東雅之(医療保健学部臨床工学科)",
+                "内田庸助(医療保健学部臨床工学科)"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火",
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/U2111.json"
+        }
+    ]
+}

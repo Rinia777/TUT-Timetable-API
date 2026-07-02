@@ -1,0 +1,139 @@
+{
+    "filters": {
+        "lecturer": "友利幸之介(医療保健学部リハビリテーション学科作業療法学専攻)",
+        "lecturerKey": "8060f70b04a4"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "W624505",
+            "courseName": "作業療法卒業研究I[5]",
+            "lecturer": [
+                "友利幸之介(医療保健学部リハビリテーション学科作業療法学専攻)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W624505.json"
+        },
+        {
+            "lectureCode": "U62201",
+            "courseName": "運動学実習",
+            "lecturer": [
+                "友利幸之介(医療保健学部リハビリテーション学科作業療法学専攻)"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金",
+                "金2",
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０９レクリエーション室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/U62201.json"
+        },
+        {
+            "lectureCode": "W624605",
+            "courseName": "作業療法卒業研究II[5]",
+            "lecturer": [
+                "友利幸之介(医療保健学部リハビリテーション学科作業療法学専攻)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W624605.json"
+        },
+        {
+            "lectureCode": "U62102",
+            "courseName": "運動学",
+            "lecturer": [
+                "友利幸之介(医療保健学部リハビリテーション学科作業療法学専攻)"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６０５手工芸室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/U62102.json"
+        },
+        {
+            "lectureCode": "W6218",
+            "courseName": "基礎作業学実習[2024以前]",
+            "lecturer": [
+                "友利幸之介(医療保健学部リハビリテーション学科作業療法学専攻)",
+                "石橋仁美(医療保健学部リハビリテーション学科作業療法学専攻)",
+                "中川和美(医療保健学部リハビリテーション学科作業療法学専攻)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６０５手工芸室",
+                "Ｍ６０６木工室"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/W6218.json"
+        }
+    ]
+}

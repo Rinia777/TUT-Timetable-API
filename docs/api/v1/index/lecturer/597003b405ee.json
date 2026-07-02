@@ -1,0 +1,109 @@
+{
+    "filters": {
+        "lecturer": "髙橋賢次",
+        "lecturerKey": "597003b405ee"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L803B07",
+            "courseName": "アカデミックスキルズI[BS7]",
+            "lecturer": [
+                "髙橋賢次"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L803B07.json"
+        },
+        {
+            "lectureCode": "L803C07",
+            "courseName": "アカデミックスキルズI[CS7]",
+            "lecturer": [
+                "髙橋賢次"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L803C07.json"
+        },
+        {
+            "lectureCode": "L804BC01",
+            "courseName": "アカデミックスキルズII[BSCS1]",
+            "lecturer": [
+                "髙橋賢次"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L804BC01.json"
+        },
+        {
+            "lectureCode": "L804BC13",
+            "courseName": "アカデミックスキルズII[BSCS13]",
+            "lecturer": [
+                "髙橋賢次"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L804BC13.json"
+        }
+    ]
+}

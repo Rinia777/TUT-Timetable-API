@@ -1,0 +1,36 @@
+{
+    "lectureCode": "GGC14701",
+    "courseName": "離散数学とグラフ理論",
+    "lecturer": [
+        "大野由美子"
+    ],
+    "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+    "courseType": "講義科目",
+    "courseStart": "2026年度前期",
+    "classPeriod": [
+        "火2"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+        "1年",
+        "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+        "講義実験棟２０１"
+    ],
+    "courceDetails": {
+        "courseOverview": "離散数学とは，離散的な対象を扱う数学であり，離散数学においては，難しい前提知識を必要としないパズルのような問題がよく扱われる．このような問題は誰でも気軽に取り組める一方で，解法を説明するためには論理的に考えることが必要となる．本講義では，そのような問題を扱い，関連知識の獲得だけでなく，公式に当てはめて解く数学という概念を壊し，論理的な思考力の育成を目指す．毎週，演習としてテーマに沿った問題を主体的に解き，その解法やポイントについて学んでいくとともに，他人へ論理的に説明する力や自ら問題のゴールへたどり着くための問題解決力なども養う．また，本科目の後半では，離散数学の代表的な分野であるグラフ理論について，その基礎と関連トピックについて学び，いくつかの定理の証明にもチャレンジする．Discretemathematicsstudiesdiscretestructuresandofteninvolvesaccessible,puzzle-likeproblemswhosesolutionsrequirelogicalreasoning.Thiscourseusessuchproblemstodeveloplogicalthinkingskillsbeyondformula-basedproblemsolving.Throughweeklytheme-basedexercises,studentswilllearnkeyideasandsolutionstrategieswhilestrengtheningtheirabilitytoexplainreasoninglogicallyandsolveproblemsindependently.",
+        "outcomesMeasuredBy": "問題の解法やなぜそうなるのかについて，他人へ論理的に説明できるような論理的な思考力を身につけること．問題解決力を育成し，問題へ挑戦することの楽しさや，実際に問題が解けたときの達成感を感じること．グラフ理論の基礎を習得し，グラフ理論におけるいくつかの定理の証明が自力でできるようになること．Todeveloplogicalthinkingskillsthatenablestudentstoexplainproblem-solvingprocessesandthereasonsbehindthemclearlyandlogicallytoothers.Tocultivateproblem-solvingabilities,whileexperiencingtheenjoymentoftacklingproblemsandthesenseofachievementgainedfromsuccessfullysolvingthem.Toacquireafundamentalunderstandingofgraphtheoryandbecomeabletoindependentlyproveseveraltheoremsingraphtheory.",
+        "learningOutcomes": "論理的な思考力、問題解決力",
+        "teachingMethod": "講義形式で説明を行い，関連した演習に取り組む形で授業を進めるが，各回のテーマに合わせた演習を主体的に考えることができるよう，演習に取り組む時間を多く設け，その後ディスカッションや解説を行うアクティブラーニング形式で授業を行う．各講義後に課題を毎回出題する．講義内では資料の閲覧を除いて基本的にノートPCは使用せず，紙に証明や考えたことを書いてもらう．論理的な思考力の育成のため，授業及び課題取り組みにおいてサンプルコードの参照やAIによるコードの生成を一切認めないことがある．Thecoursewillbeconductedprimarilyinalectureformatcombinedwithrelatedexercises.Toencouragestudentstoactivelythinkthroughexercisesalignedwitheachsession’stheme,ampletimewillbeallocatedforin-classexercises,followedbydiscussionandexplanation.Classeswillbeconductedinanactive-learningstyle.Assignmentswillbegivenaftereverylecture.Duringclass,exceptforviewingcoursematerials,studentsaregenerallyexpectednottouselaptopcomputersandinsteadtowriteproofsandtheirreasoningonpaper.Inordertofosterlogicalthinkingskills,theuseofsamplecodeorAI-generatedcodemaybeprohibitedinbothclassactivitiesandassignments.",
+        "notices": "筆記用具を必ず持参すること．Studentsmustbringwritingmaterialstoeveryclass.",
+        "preparatoryStudy": "毎授業後に課されるレポートを次回授業までに提出すること．(100分程度)Reportsassignedaftereachclassmustbesubmittedbythenextclasssession(approximately100minutesofwork).",
+        "gradingGuidelines": "毎授業の提出物(約30%)：授業中に行う演習の解答用紙の提出毎授業後のレポート(約70%)：毎授業後に課すレポートの得点100点満点中60点以上で単位認定とする．レポートについては，次回授業時に解説とフィードバックを行う．In-classsubmissionsforeachsession(approximately30%):submissionofanswersheetsforexercisesconductedduringclass.Post-classreportsforeachsession(approximately70%):scoresonreportsassignedaftereachclass.Creditwillbeawardedtostudentswhoachieveatotalscoreof60pointsorhigheroutof100.Explanationsandfeedbackonthereportswillbeprovidedduringthefollowingclasssession.",
+        "textbook": "指定しない．Nonespecified.",
+        "referenceMaterials": "グラフ理論入門R.J.ウィルソン著西関隆夫，西関裕子翻訳近代科学社",
+        "courseSchedule": "第1回：タイル敷き詰め問題第2回：鳩の巣原理第3回：組合せゲーム第4回：グラフ理論(1)グラフ理論の基礎第5回：グラフ理論(2)一筆書き問題第6回：グラフ理論(3)平面グラフ第7回：グラフ理論(4)グラフの彩色Session1:TilingProblemsSession2:ThePigeonholePrincipleSession3:CombinatorialGamesSession4:GraphTheory(1)FundamentalsofGraphTheorySession5:GraphTheory(2)One-StrokeDrawingProblemsSession6:GraphTheory(3)PlanarGraphsSession7:GraphTheory(4)GraphColoring",
+        "courseDataUpdatedAt": "2026\/01\/05"
+    },
+    "updateAt": "2026\/01\/05"
+}

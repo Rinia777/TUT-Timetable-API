@@ -1,0 +1,581 @@
+{
+    "filters": {
+        "regularOrIntensive": "基礎教育科目人間形成",
+        "regularOrIntensiveKey": "62fc51e963b7"
+    },
+    "count": 21,
+    "lectures": [
+        {
+            "lectureCode": "T2500",
+            "courseName": "フレッシャーズゼミ[医療]",
+            "lecturer": [],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/T2500.json"
+        },
+        {
+            "lectureCode": "T2511",
+            "courseName": "フレッシャーズゼミ[看護1]",
+            "lecturer": [
+                "飯塚敏子",
+                "安井大輔",
+                "山下希代"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１７教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2511.json"
+        },
+        {
+            "lectureCode": "T2512",
+            "courseName": "フレッシャーズゼミ[看護2]",
+            "lecturer": [
+                "篠田巴留香",
+                "遠山寛子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2512.json"
+        },
+        {
+            "lectureCode": "T2513",
+            "courseName": "フレッシャーズゼミ[看護3]",
+            "lecturer": [
+                "妹尾弘子",
+                "杉村直孝"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2513.json"
+        },
+        {
+            "lectureCode": "T2514",
+            "courseName": "フレッシャーズゼミ[看護4]",
+            "lecturer": [
+                "繁永元樹",
+                "鈴木雅子",
+                "瀬戸愛子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１３教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2514.json"
+        },
+        {
+            "lectureCode": "T2521",
+            "courseName": "フレッシャーズゼミ[臨工1]",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2521.json"
+        },
+        {
+            "lectureCode": "T2522",
+            "courseName": "フレッシャーズゼミ[臨工2]",
+            "lecturer": [
+                "安藤ゆうき"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2522.json"
+        },
+        {
+            "lectureCode": "T2523",
+            "courseName": "フレッシャーズゼミ[臨工3]",
+            "lecturer": [
+                "上條史記"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2523.json"
+        },
+        {
+            "lectureCode": "T2524",
+            "courseName": "フレッシャーズゼミ[臨工4]",
+            "lecturer": [
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2524.json"
+        },
+        {
+            "lectureCode": "T2551",
+            "courseName": "フレッシャーズゼミ[臨検1]",
+            "lecturer": [
+                "三上あかね",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０７臨床検査実習室４"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2551.json"
+        },
+        {
+            "lectureCode": "T2552",
+            "courseName": "フレッシャーズゼミ[臨検2]",
+            "lecturer": [
+                "花尾麻美",
+                "近縄七海"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2552.json"
+        },
+        {
+            "lectureCode": "T2611",
+            "courseName": "フレッシャーズゼミI[理学1]",
+            "lecturer": [
+                "日下さと美",
+                "渡部祥輝",
+                "太箸俊宏",
+                "伊藤咲子",
+                "田中周",
+                "乙戸崇寛",
+                "矢吹惇"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2611.json"
+        },
+        {
+            "lectureCode": "T2612",
+            "courseName": "フレッシャーズゼミI[理学2]",
+            "lecturer": [
+                "吉田真一",
+                "十島純子",
+                "忽那俊樹",
+                "斎藤寛樹",
+                "高木健志",
+                "溝口靖亮",
+                "髙橋佑太"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2612.json"
+        },
+        {
+            "lectureCode": "T2620",
+            "courseName": "フレッシャーズゼミI[作業]",
+            "lecturer": [
+                "大野勘太",
+                "柴橋広智",
+                "有田久仁子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６０５手工芸室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2620.json"
+        },
+        {
+            "lectureCode": "T2630",
+            "courseName": "フレッシャーズゼミI[言語]",
+            "lecturer": [
+                "池田泰子",
+                "小泉愛美"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2630.json"
+        },
+        {
+            "lectureCode": "T2661",
+            "courseName": "フレッシャーズゼミI[リハビリ]",
+            "lecturer": [],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/T2661.json"
+        },
+        {
+            "lectureCode": "T2711",
+            "courseName": "フレッシャーズゼミII[理学1]",
+            "lecturer": [
+                "日下さと美",
+                "渡部祥輝",
+                "太箸俊宏",
+                "伊藤咲子",
+                "田中周",
+                "乙戸崇寛",
+                "矢吹惇"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2711.json"
+        },
+        {
+            "lectureCode": "T2712",
+            "courseName": "フレッシャーズゼミII[理学2]",
+            "lecturer": [
+                "吉田真一",
+                "十島純子",
+                "忽那俊樹",
+                "斎藤寛樹",
+                "高木健志",
+                "溝口靖亮",
+                "髙橋佑太"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2712.json"
+        },
+        {
+            "lectureCode": "T2720",
+            "courseName": "フレッシャーズゼミII[作業]",
+            "lecturer": [
+                "大野勘太",
+                "柴橋広智",
+                "有田久仁子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６０５手工芸室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2720.json"
+        },
+        {
+            "lectureCode": "T2730",
+            "courseName": "フレッシャーズゼミII[言語]",
+            "lecturer": [
+                "池田泰子",
+                "小泉愛美"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/T2730.json"
+        },
+        {
+            "lectureCode": "T2761",
+            "courseName": "フレッシャーズゼミII[リハビリ]",
+            "lecturer": [],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/T2761.json"
+        }
+    ]
+}

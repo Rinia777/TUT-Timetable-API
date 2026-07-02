@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "西良太郎(応用生物学部応用生物学科)",
+        "lecturerKey": "38e8aed97b28"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "ES00246",
+            "courseName": "創成課題II[BS]",
+            "lecturer": [
+                "西良太郎(応用生物学部応用生物学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/ES00246.json"
+        }
+    ]
+}

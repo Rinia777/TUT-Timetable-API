@@ -1,0 +1,139 @@
+{
+    "filters": {
+        "lecturer": "竹内京子",
+        "lecturerKey": "85dbebd60e66"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "U63119",
+            "courseName": "音声学I[2024以前]",
+            "lecturer": [
+                "竹内京子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2026\/01\/05",
+            "path": "\/api\/v1\/all\/U63119.json"
+        },
+        {
+            "lectureCode": "U63208",
+            "courseName": "音響学（演習含む）[2024以前]",
+            "lecturer": [
+                "竹内京子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2",
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2026\/01\/05",
+            "path": "\/api\/v1\/all\/U63208.json"
+        },
+        {
+            "lectureCode": "U63209",
+            "courseName": "聴覚心理学[2024以前]",
+            "lecturer": [
+                "竹内京子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2",
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室",
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2026\/01\/05",
+            "path": "\/api\/v1\/all\/U63209.json"
+        },
+        {
+            "lectureCode": "U63109",
+            "courseName": "聴覚心理学",
+            "lecturer": [
+                "竹内京子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2026\/01\/05",
+            "path": "\/api\/v1\/all\/U63109.json"
+        },
+        {
+            "lectureCode": "U63108",
+            "courseName": "音響学",
+            "lecturer": [
+                "竹内京子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2026\/01\/05",
+            "path": "\/api\/v1\/all\/U63108.json"
+        }
+    ]
+}

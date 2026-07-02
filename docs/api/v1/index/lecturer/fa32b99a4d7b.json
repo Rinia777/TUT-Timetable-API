@@ -1,0 +1,39 @@
+{
+    "filters": {
+        "lecturer": "千田大貴(兼任講師)",
+        "lecturerKey": "fa32b99a4d7b"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U63202",
+            "courseName": "形成外科学",
+            "lecturer": [
+                "千田大貴(兼任講師)",
+                "伊藤智之(兼任講師)"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金",
+                "金2",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室",
+                "３１０１３教室"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/U63202.json"
+        }
+    ]
+}

@@ -1,0 +1,388 @@
+{
+    "department": "GH",
+    "count": 25,
+    "lectures": [
+        {
+            "courseName": "デジタルヘルステクノロジー",
+            "lecturer": [
+                "岡崎充宏",
+                "田仲浩平",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "佐藤広隆",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH1007.json"
+        },
+        {
+            "courseName": "分析化学検査学演習",
+            "lecturer": [
+                "佐々木聰",
+                "栗原由利子",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門領域科目病因解析検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2008.json"
+        },
+        {
+            "courseName": "分析化学検査学特論",
+            "lecturer": [
+                "佐々木聰",
+                "栗原由利子",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門領域科目病因解析検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2007.json"
+        },
+        {
+            "courseName": "医用情報解析工学演習",
+            "lecturer": [
+                "苗村潔",
+                "下村美文",
+                "日向奈惠",
+                "岡崎充宏",
+                "田仲浩平",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也",
+                "佐藤広隆",
+                "髙橋優太",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門領域科目検査情報解析領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2012.json"
+        },
+        {
+            "courseName": "医用情報解析工学特論",
+            "lecturer": [
+                "苗村潔",
+                "下村美文",
+                "日向奈惠",
+                "岡崎充宏",
+                "田仲浩平",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也",
+                "佐藤広隆",
+                "髙橋優太",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門領域科目検査情報解析領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2011.json"
+        },
+        {
+            "courseName": "医療制度・管理論",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/GH\/GH1009.json"
+        },
+        {
+            "courseName": "医療情報技術総論",
+            "lecturer": [
+                "苗村潔",
+                "岡崎充宏",
+                "奥橋佑基",
+                "花尾麻美",
+                "安藤ゆうき",
+                "水野元貴",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH1004.json"
+        },
+        {
+            "courseName": "医療技術学概論",
+            "lecturer": [
+                "佐々木聰",
+                "下村美文",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子",
+                "榎本みのり",
+                "十島純子",
+                "笠井亮佑",
+                "清水潤",
+                "安藤ゆうき",
+                "水野元貴",
+                "東雅啓",
+                "内田庸助",
+                "勅使川原篤志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH1001.json"
+        },
+        {
+            "courseName": "医療技術学研究I",
+            "lecturer": [
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "加納敬",
+                "澤田辰徳",
+                "笠井亮佑",
+                "友利幸之介",
+                "上條史記",
+                "島峰徹也",
+                "清水潤",
+                "水野元貴",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "研究科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/GH\/GH3002.json"
+        },
+        {
+            "courseName": "医療技術学研究II",
+            "lecturer": [
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "加納敬",
+                "澤田辰徳",
+                "笠井亮佑",
+                "友利幸之介",
+                "上條史記",
+                "島峰徹也",
+                "清水潤",
+                "水野元貴",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "研究科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/GH\/GH3003.json"
+        },
+        {
+            "courseName": "医療技術学研究III",
+            "lecturer": [
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "加納敬",
+                "澤田辰徳",
+                "笠井亮佑",
+                "友利幸之介",
+                "上條史記",
+                "島峰徹也",
+                "清水潤",
+                "水野元貴",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "研究科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/GH\/GH3004.json"
+        },
+        {
+            "courseName": "医療技術学研究企画",
+            "lecturer": [
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "加納敬",
+                "澤田辰徳",
+                "笠井亮佑",
+                "友利幸之介",
+                "上條史記",
+                "島峰徹也",
+                "清水潤",
+                "水野元貴",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "研究科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH3001.json"
+        },
+        {
+            "courseName": "医療機器総論",
+            "lecturer": [
+                "下村美文",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "榎本みのり",
+                "花尾麻美",
+                "荻野稔",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH1005.json"
+        },
+        {
+            "courseName": "多職種国際医療コミュニケーション技術論",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "岡崎充宏",
+                "荻野稔",
+                "澤田辰徳",
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH1003.json"
+        },
+        {
+            "courseName": "感染制御学演習",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門領域科目病因解析検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2010.json"
+        },
+        {
+            "courseName": "感染制御学特論",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門領域科目病因解析検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2009.json"
+        },
+        {
+            "courseName": "生体情報解析学演習",
+            "lecturer": [
+                "岡崎充宏",
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門領域科目病因解析検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2006.json"
+        },
+        {
+            "courseName": "生体情報解析学特論",
+            "lecturer": [
+                "岡崎充宏",
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門領域科目病因解析検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2005.json"
+        },
+        {
+            "courseName": "生理機能検査学演習",
+            "lecturer": [
+                "岡崎充宏",
+                "榎本みのり"
+            ],
+            "regularOrIntensive": "専門領域科目病態機能検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2002.json"
+        },
+        {
+            "courseName": "生理機能検査学特論",
+            "lecturer": [
+                "岡崎充宏",
+                "榎本みのり"
+            ],
+            "regularOrIntensive": "専門領域科目病態機能検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2001.json"
+        },
+        {
+            "courseName": "病態情報検査学",
+            "lecturer": [
+                "佐々木聰",
+                "岡崎充宏",
+                "奥橋佑基",
+                "清水潤",
+                "佐藤瑞穂",
+                "水野元貴",
+                "東雅啓",
+                "勅使川原篤志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH1006.json"
+        },
+        {
+            "courseName": "臨床検査学研究方法論",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "岡崎充宏",
+                "奥橋佑基",
+                "榎本みのり",
+                "十島純子",
+                "澤田辰徳",
+                "友利幸之介",
+                "水野元貴",
+                "東雅啓",
+                "勅使川原篤志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH1002.json"
+        },
+        {
+            "courseName": "血液病態学演習",
+            "lecturer": [
+                "岡崎充宏",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門領域科目病態機能検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2004.json"
+        },
+        {
+            "courseName": "血液病態学特論",
+            "lecturer": [
+                "岡崎充宏",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門領域科目病態機能検査学領域",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GH\/GH2003.json"
+        },
+        {
+            "courseName": "遺伝子関連検査学",
+            "lecturer": [
+                "三上あかね",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/GH\/GH1008.json"
+        }
+    ]
+}

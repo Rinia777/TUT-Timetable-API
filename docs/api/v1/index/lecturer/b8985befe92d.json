@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "生駒洋子",
+        "lecturerKey": "b8985befe92d"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U2216",
+            "courseName": "医用情報工学",
+            "lecturer": [
+                "生駒洋子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/all\/U2216.json"
+        }
+    ]
+}

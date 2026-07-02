@@ -1,0 +1,68 @@
+{
+    "filters": {
+        "courseType": "講義・実習科目",
+        "courseTypeKey": "37f77488a9ce"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "W5221",
+            "courseName": "医動物学（含む実習）[2021年以前]",
+            "lecturer": [
+                "岡崎充宏(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義・実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金3",
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W5221.json"
+        },
+        {
+            "lectureCode": "U5108",
+            "courseName": "検査機器総論（含む実習）",
+            "lecturer": [
+                "三上あかね",
+                "佐藤瑞穂",
+                "勅使川原篤志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義・実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３",
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2026\/01\/08",
+            "path": "\/api\/v1\/all\/U5108.json"
+        }
+    ]
+}

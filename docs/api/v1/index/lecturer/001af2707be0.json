@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "岩月すみ江(医療保健学部看護学科)",
+        "lecturerKey": "001af2707be0"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W1221",
+            "courseName": "成人看護学I[2021年以前]",
+            "lecturer": [
+                "岩月すみ江(医療保健学部看護学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１７教室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W1221.json"
+        }
+    ]
+}

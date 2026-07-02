@@ -1,0 +1,87 @@
+{
+    "filters": {
+        "lecturer": "金光永煥(兼任講師)",
+        "lecturerKey": "395ff680112c"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "C22002",
+            "courseName": "インターネット[後期]",
+            "lecturer": [
+                "金光永煥(兼任講師)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/C22002.json"
+        },
+        {
+            "lectureCode": "C30102",
+            "courseName": "先進情報プロジェクト実習I[IT・2]",
+            "lecturer": [
+                "金光永煥(兼任講師)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "実習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/C30102.json"
+        },
+        {
+            "lectureCode": "C31501",
+            "courseName": "プログラミングC2[2023以前]",
+            "lecturer": [
+                "金光永煥(兼任講師)",
+                "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門基礎教育科目",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/C31501.json"
+        }
+    ]
+}

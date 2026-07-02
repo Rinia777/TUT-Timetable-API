@@ -1,0 +1,66 @@
+{
+    "filters": {
+        "lecturer": "吉野賢治",
+        "lecturerKey": "7144867b8b98"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "11120B1",
+            "courseName": "キャリア設計I[BS]",
+            "lecturer": [
+                "松井徹",
+                "吉野賢治"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１",
+                "片柳研究所Ｅ３０２",
+                "片柳研究所Ｅ３０３",
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/11120B1.json"
+        },
+        {
+            "lectureCode": "11121B1",
+            "courseName": "キャリア設計II[BS]",
+            "lecturer": [
+                "松井徹",
+                "吉野賢治"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１",
+                "片柳研究所Ｅ１０２",
+                "片柳研究所Ｅ１０３",
+                "片柳研究所Ｅ３０２",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/11121B1.json"
+        }
+    ]
+}

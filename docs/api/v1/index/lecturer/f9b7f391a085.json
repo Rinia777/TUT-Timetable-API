@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "西尾奈緒美",
+        "lecturerKey": "f9b7f391a085"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W1324",
+            "courseName": "成人看護学II[2021以前]",
+            "lecturer": [
+                "西尾奈緒美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W1324.json"
+        }
+    ]
+}

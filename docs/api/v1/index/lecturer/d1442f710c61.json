@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "村松秀俊",
+        "lecturerKey": "d1442f710c61"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S2180",
+            "courseName": "広告論",
+            "lecturer": [
+                "村松秀俊"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/S2180.json"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "落合浩太郎(教養学環)",
+        "lecturerKey": "57ad2b76358b"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "L31001",
+            "courseName": "政治と社会[月4]",
+            "lecturer": [
+                "落合浩太郎(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L31001.json"
+        }
+    ]
+}

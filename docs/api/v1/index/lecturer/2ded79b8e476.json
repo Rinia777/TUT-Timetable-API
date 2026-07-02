@@ -1,0 +1,37 @@
+{
+    "filters": {
+        "lecturer": "武藤康恵",
+        "lecturerKey": "2ded79b8e476"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S1063",
+            "courseName": "デジタルスキルA［AC3］",
+            "lecturer": [
+                "武藤康恵",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１３教室"
+            ],
+            "updateAt": "2026\/03\/23",
+            "path": "\/api\/v1\/all\/S1063.json"
+        }
+    ]
+}

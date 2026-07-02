@@ -1,0 +1,97 @@
+{
+    "filters": {
+        "lecturer": "太箸俊宏(医療保健学部リハビリテーション学科理学療法学専攻)",
+        "lecturerKey": "3d9eaff08ece"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "W61103",
+            "courseName": "理学療法学概論",
+            "lecturer": [
+                "宮﨑貴朗(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "太箸俊宏(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "乙戸崇寛(医療保健学部リハビリテーション学科理学療法学専攻)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W61103.json"
+        },
+        {
+            "lectureCode": "T27611",
+            "courseName": "フレッシャーズゼミ[理学1]",
+            "lecturer": [
+                "宮﨑貴朗(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "吉田真一(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "石黒圭応(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "十島純子(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "太箸俊宏(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "伊藤咲子(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "高木健志(医療保健学部リハビリテーション学科理学療法学専攻)"
+            ],
+            "regularOrIntensive": "基礎教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/T27611.json"
+        },
+        {
+            "lectureCode": "W61101",
+            "courseName": "基礎理学療法学実習I",
+            "lecturer": [
+                "乙戸崇寛(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "太箸俊宏(医療保健学部リハビリテーション学科理学療法学専攻)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金",
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W61101.json"
+        }
+    ]
+}

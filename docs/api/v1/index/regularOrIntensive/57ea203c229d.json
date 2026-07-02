@@ -1,0 +1,86 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門基礎教育科目マネジメント",
+        "regularOrIntensiveKey": "57ea203c229d"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "C20701",
+            "courseName": "経営戦略デザイン",
+            "lecturer": [
+                "山口淳"
+            ],
+            "regularOrIntensive": "専門基礎教育科目マネジメント",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2025\/12\/31",
+            "path": "\/api\/v1\/all\/C20701.json"
+        },
+        {
+            "lectureCode": "C10301",
+            "courseName": "マーケティングとITビジネス",
+            "lecturer": [
+                "瀬之口潤輔"
+            ],
+            "regularOrIntensive": "専門基礎教育科目マネジメント",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/02\/02",
+            "path": "\/api\/v1\/all\/C10301.json"
+        },
+        {
+            "lectureCode": "C10401",
+            "courseName": "オペレーションマネジメントとDX",
+            "lecturer": [
+                "山口淳"
+            ],
+            "regularOrIntensive": "専門基礎教育科目マネジメント",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2025\/12\/31",
+            "path": "\/api\/v1\/all\/C10401.json"
+        }
+    ]
+}

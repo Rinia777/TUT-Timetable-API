@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "松永栄一(兼任講師)",
+        "lecturerKey": "cf879700de20"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "B20102",
+            "courseName": "微分積分II[2]BS",
+            "lecturer": [
+                "松永栄一(兼任講師)"
+            ],
+            "regularOrIntensive": "専門基礎教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/B20102.json"
+        }
+    ]
+}

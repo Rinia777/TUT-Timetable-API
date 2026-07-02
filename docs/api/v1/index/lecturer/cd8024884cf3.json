@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "橘由布季(兼任講師)",
+        "lecturerKey": "cd8024884cf3"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L31301",
+            "courseName": "欧米社会文化論[木1]",
+            "lecturer": [
+                "橘由布季(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L31301.json"
+        },
+        {
+            "lectureCode": "L31302",
+            "courseName": "欧米社会文化論[木2]",
+            "lecturer": [
+                "橘由布季(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L31302.json"
+        }
+    ]
+}

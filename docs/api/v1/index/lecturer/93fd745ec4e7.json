@@ -1,0 +1,658 @@
+{
+    "filters": {
+        "lecturer": "山崎晶子",
+        "lecturerKey": "93fd745ec4e7"
+    },
+    "count": 28,
+    "lectures": [
+        {
+            "lectureCode": "GGM90126",
+            "courseName": "メディアサイエンス研究企画",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGM90126.json"
+        },
+        {
+            "lectureCode": "GGM90276",
+            "courseName": "メディアサイエンス研究I",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGM90276.json"
+        },
+        {
+            "lectureCode": "GGM90326",
+            "courseName": "メディアサイエンス研究II",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGM90326.json"
+        },
+        {
+            "lectureCode": "GGM90476",
+            "courseName": "メディアサイエンス研究III",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGM90476.json"
+        },
+        {
+            "lectureCode": "M400125",
+            "courseName": "卒業研究I",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/02\/10",
+            "path": "\/api\/v1\/all\/M400125.json"
+        },
+        {
+            "lectureCode": "11050M21",
+            "courseName": "フレッシャーズゼミI[21]MS",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/10",
+            "path": "\/api\/v1\/all\/11050M21.json"
+        },
+        {
+            "lectureCode": "M000101",
+            "courseName": "メディア学入門",
+            "lecturer": [
+                "三上浩司",
+                "山崎晶子",
+                "大淵康成"
+            ],
+            "regularOrIntensive": "専門基礎教育科目共通科目・メディア共通演習",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/01\/06",
+            "path": "\/api\/v1\/all\/M000101.json"
+        },
+        {
+            "lectureCode": "M200801",
+            "courseName": "インターネットコミュニティ論",
+            "lecturer": [
+                "寺澤卓也",
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水1",
+                "金2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2026\/01\/06",
+            "path": "\/api\/v1\/all\/M200801.json"
+        },
+        {
+            "lectureCode": "MS01111",
+            "courseName": "メディア専門演習I[会話分析入門]Q1",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/29",
+            "path": "\/api\/v1\/all\/MS01111.json"
+        },
+        {
+            "lectureCode": "MS01213",
+            "courseName": "メディア専門演習I[会話分析入門]Q2",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/all\/MS01213.json"
+        },
+        {
+            "lectureCode": "MS02111",
+            "courseName": "メディア専門演習II[会話分析入門]Q1",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/all\/MS02111.json"
+        },
+        {
+            "lectureCode": "MS02213",
+            "courseName": "メディア専門演習II[会話分析入門]Q2",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/all\/MS02213.json"
+        },
+        {
+            "lectureCode": "MS03111",
+            "courseName": "メディア専門演習III[会話分析入門]Q1",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/all\/MS03111.json"
+        },
+        {
+            "lectureCode": "MS03213",
+            "courseName": "メディア専門演習III[会話分析入門]Q2",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/all\/MS03213.json"
+        },
+        {
+            "lectureCode": "M301501",
+            "courseName": "ソーシャルインタラクション",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火4",
+                "金1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2026\/01\/28",
+            "path": "\/api\/v1\/all\/M301501.json"
+        },
+        {
+            "lectureCode": "GGM90176",
+            "courseName": "メディアサイエンス研究企画",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGM90176.json"
+        },
+        {
+            "lectureCode": "GGM90226",
+            "courseName": "メディアサイエンス研究I",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGM90226.json"
+        },
+        {
+            "lectureCode": "GGM90376",
+            "courseName": "メディアサイエンス研究II",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGM90376.json"
+        },
+        {
+            "lectureCode": "GGM90426",
+            "courseName": "メディアサイエンス研究III",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGM90426.json"
+        },
+        {
+            "lectureCode": "M400225",
+            "courseName": "卒業研究II",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/02\/10",
+            "path": "\/api\/v1\/all\/M400225.json"
+        },
+        {
+            "lectureCode": "11051M21",
+            "courseName": "フレッシャーズゼミII[21]MS",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/10",
+            "path": "\/api\/v1\/all\/11051M21.json"
+        },
+        {
+            "lectureCode": "GGM12801",
+            "courseName": "エスノメソドロジー・会話分析特論",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/06",
+            "path": "\/api\/v1\/all\/GGM12801.json"
+        },
+        {
+            "lectureCode": "MS01314",
+            "courseName": "メディア専門演習I[会話分析入門]Q3",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/all\/MS01314.json"
+        },
+        {
+            "lectureCode": "MS02314",
+            "courseName": "メディア専門演習II[会話分析入門]Q3",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/all\/MS02314.json"
+        },
+        {
+            "lectureCode": "MS03314",
+            "courseName": "メディア専門演習III[会話分析入門]Q3",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/all\/MS03314.json"
+        },
+        {
+            "lectureCode": "11121M25",
+            "courseName": "キャリア設計II[MS25]",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１",
+                "講義棟Ａ２０２",
+                "講義棟Ａ２０３",
+                "講義棟Ａ２０４",
+                "講義棟Ａ３０１",
+                "メディアホール"
+            ],
+            "updateAt": "2026\/03\/31",
+            "path": "\/api\/v1\/all\/11121M25.json"
+        },
+        {
+            "lectureCode": "M102101",
+            "courseName": "ソーシャルリサーチ",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火4",
+                "木1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2026\/01\/06",
+            "path": "\/api\/v1\/all\/M102101.json"
+        },
+        {
+            "lectureCode": "M300225",
+            "courseName": "創成課題",
+            "lecturer": [
+                "山崎晶子"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/10",
+            "path": "\/api\/v1\/all\/M300225.json"
+        }
+    ]
+}

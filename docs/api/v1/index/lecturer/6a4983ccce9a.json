@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "ノスンタク(メディア学部メディア学科)",
+        "lecturerKey": "6a4983ccce9a"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "M4001061",
+            "courseName": "卒業研究I[後期]",
+            "lecturer": [
+                "柿本正憲(メディア学部メディア学科)",
+                "ノスンタク(メディア学部メディア学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/13",
+            "path": "\/api\/v1\/all\/M4001061.json"
+        },
+        {
+            "lectureCode": "GGM13301",
+            "courseName": "ビジュアルコンピューティング特論",
+            "lecturer": [
+                "ノスンタク(メディア学部メディア学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGM13301.json"
+        }
+    ]
+}

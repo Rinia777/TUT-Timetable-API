@@ -1,0 +1,37 @@
+{
+    "filters": {
+        "lecturer": "小栁昌央(兼任講師)",
+        "lecturerKey": "967e1d20e3a7"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U63204",
+            "courseName": "口腔外科学",
+            "lecturer": [
+                "澁井武夫(兼任講師)",
+                "小栁昌央(兼任講師)",
+                "宮坂彩子(兼任講師)"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/U63204.json"
+        }
+    ]
+}

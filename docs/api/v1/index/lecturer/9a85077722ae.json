@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "笠井亮佑(医療保健学部臨床工学科)",
+        "lecturerKey": "9a85077722ae"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "T2722",
+            "courseName": "フレッシャーズゼミ[臨工2]",
+            "lecturer": [
+                "笠井亮佑(医療保健学部臨床工学科)"
+            ],
+            "regularOrIntensive": "基礎教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/T2722.json"
+        }
+    ]
+}

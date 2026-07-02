@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "梶原一人(兼任講師)",
+        "lecturerKey": "0cd6fbb1dec0"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "B22501",
+            "courseName": "熱力学",
+            "lecturer": [
+                "梶原一人(兼任講師)"
+            ],
+            "regularOrIntensive": "専門基礎教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/B22501.json"
+        }
+    ]
+}

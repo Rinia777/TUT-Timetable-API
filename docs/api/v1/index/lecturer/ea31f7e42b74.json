@@ -1,0 +1,275 @@
+{
+    "filters": {
+        "lecturer": "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)",
+        "lecturerKey": "ea31f7e42b74"
+    },
+    "count": 11,
+    "lectures": [
+        {
+            "lectureCode": "GGC90112",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90112.json"
+        },
+        {
+            "lectureCode": "GGC90312",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90312.json"
+        },
+        {
+            "lectureCode": "GGC70101",
+            "courseName": "創成プロジェクト",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC70101.json"
+        },
+        {
+            "lectureCode": "GGC90162",
+            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90162.json"
+        },
+        {
+            "lectureCode": "GGC90362",
+            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90362.json"
+        },
+        {
+            "lectureCode": "GGC12701",
+            "courseName": "分散システム",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC12701.json"
+        },
+        {
+            "lectureCode": "C22502",
+            "courseName": "分散コンピューティング[後期]",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/C22502.json"
+        },
+        {
+            "lectureCode": "C40260",
+            "courseName": "卒業課題II[前期]CS",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/C40260.json"
+        },
+        {
+            "lectureCode": "C31701",
+            "courseName": "オペレーティングシステム[前期]2023以前",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/C31701.json"
+        },
+        {
+            "lectureCode": "C30103",
+            "courseName": "先進情報プロジェクト実習I[IT・3]",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "実習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/C30103.json"
+        },
+        {
+            "lectureCode": "C32301",
+            "courseName": "分散コンピューティング[後期]2023以前",
+            "lecturer": [
+                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/C32301.json"
+        }
+    ]
+}

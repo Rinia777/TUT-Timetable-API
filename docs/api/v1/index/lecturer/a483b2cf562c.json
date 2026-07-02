@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "細田武伸(兼任講師)",
+        "lecturerKey": "a483b2cf562c"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U60216",
+            "courseName": "公衆衛生学演習",
+            "lecturer": [
+                "細田武伸(兼任講師)"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/U60216.json"
+        }
+    ]
+}

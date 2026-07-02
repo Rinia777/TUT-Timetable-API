@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "加納敬(医療保健学部臨床工学科)",
+        "lecturerKey": "d064c2f3ded7"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "T2723",
+            "courseName": "フレッシャーズゼミ[臨工3]",
+            "lecturer": [
+                "加納敬(医療保健学部臨床工学科)"
+            ],
+            "regularOrIntensive": "基礎教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/T2723.json"
+        }
+    ]
+}

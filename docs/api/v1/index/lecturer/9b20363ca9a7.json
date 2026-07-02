@@ -1,0 +1,155 @@
+{
+    "filters": {
+        "lecturer": "武博(コンピュータサイエンス学部コンピュータサイエンス学科)",
+        "lecturerKey": "9b20363ca9a7"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "GGC90106",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90106.json"
+        },
+        {
+            "lectureCode": "GGC90306",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90306.json"
+        },
+        {
+            "lectureCode": "GGC90156",
+            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
+            "lecturer": [
+                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90156.json"
+        },
+        {
+            "lectureCode": "GGC90356",
+            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
+            "lecturer": [
+                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90356.json"
+        },
+        {
+            "lectureCode": "C31401",
+            "courseName": "プログラミングC1[2023以前]",
+            "lecturer": [
+                "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)",
+                "未定(所属なし)",
+                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門基礎教育科目",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/C31401.json"
+        },
+        {
+            "lectureCode": "C30905",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/C30905.json"
+        }
+    ]
+}

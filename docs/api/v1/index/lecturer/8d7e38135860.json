@@ -1,0 +1,385 @@
+{
+    "filters": {
+        "lecturer": "東雅啓",
+        "lecturerKey": "8d7e38135860"
+    },
+    "count": 14,
+    "lectures": [
+        {
+            "lectureCode": "W140501",
+            "courseName": "卒業研究[NU1]",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/W140501.json"
+        },
+        {
+            "lectureCode": "W140601",
+            "courseName": "統合看護実習[1]",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/W140601.json"
+        },
+        {
+            "lectureCode": "W6343",
+            "courseName": "言語聴覚障害学特別講義I",
+            "lecturer": [
+                "原田浩美",
+                "石津希代子",
+                "池田泰子",
+                "川上勝也",
+                "外山稔",
+                "東雅啓",
+                "小泉愛美"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W6343.json"
+        },
+        {
+            "lectureCode": "GH1001",
+            "courseName": "医療技術学概論",
+            "lecturer": [
+                "佐々木聰",
+                "下村美文",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子",
+                "榎本みのり",
+                "十島純子",
+                "笠井亮佑",
+                "清水潤",
+                "安藤ゆうき",
+                "水野元貴",
+                "東雅啓",
+                "内田庸助",
+                "勅使川原篤志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2026\/03\/26",
+            "path": "\/api\/v1\/all\/GH1001.json"
+        },
+        {
+            "lectureCode": "GH1002",
+            "courseName": "臨床検査学研究方法論",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "岡崎充宏",
+                "奥橋佑基",
+                "榎本みのり",
+                "十島純子",
+                "澤田辰徳",
+                "友利幸之介",
+                "水野元貴",
+                "東雅啓",
+                "勅使川原篤志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2026\/02\/20",
+            "path": "\/api\/v1\/all\/GH1002.json"
+        },
+        {
+            "lectureCode": "U60201",
+            "courseName": "組織学・病理学概論",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/01\/20",
+            "path": "\/api\/v1\/all\/U60201.json"
+        },
+        {
+            "lectureCode": "U6123",
+            "courseName": "病理病態学",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科理学療法学専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/01\/22",
+            "path": "\/api\/v1\/all\/U6123.json"
+        },
+        {
+            "lectureCode": "GH1006",
+            "courseName": "病態情報検査学",
+            "lecturer": [
+                "佐々木聰",
+                "岡崎充宏",
+                "奥橋佑基",
+                "清水潤",
+                "佐藤瑞穂",
+                "水野元貴",
+                "東雅啓",
+                "勅使川原篤志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2026\/02\/20",
+            "path": "\/api\/v1\/all\/GH1006.json"
+        },
+        {
+            "lectureCode": "U1207",
+            "courseName": "病理病態学II",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/U1207.json"
+        },
+        {
+            "lectureCode": "T2810",
+            "courseName": "医療科学の基礎[看護]",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義・実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１３教室",
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/all\/T2810.json"
+        },
+        {
+            "lectureCode": "U60122",
+            "courseName": "解剖学I[言語]",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/all\/U60122.json"
+        },
+        {
+            "lectureCode": "U1105",
+            "courseName": "人体構造学",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/all\/U1105.json"
+        },
+        {
+            "lectureCode": "U1110",
+            "courseName": "病理病態学I",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/all\/U1110.json"
+        },
+        {
+            "lectureCode": "U1107",
+            "courseName": "人体構造機能学演習",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/all\/U1107.json"
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "filters": {
+        "lecturer": "中島敏博",
+        "lecturerKey": "503af47c7d55"
+    },
+    "count": 16,
+    "lectures": [
+        {
+            "lectureCode": "L90301",
+            "courseName": "地域連携実習I[佐渡]",
+            "lecturer": [
+                "大山昌彦",
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/01\/22",
+            "path": "\/api\/v1\/all\/L90301.json"
+        },
+        {
+            "lectureCode": "L90302",
+            "courseName": "地域連携実習I[登別]",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/12\/23",
+            "path": "\/api\/v1\/all\/L90302.json"
+        },
+        {
+            "lectureCode": "R2090",
+            "courseName": "社会連携実習I",
+            "lecturer": [
+                "酒百宏一",
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/all\/R2090.json"
+        },
+        {
+            "lectureCode": "R2100",
+            "courseName": "地域連携実習I[佐渡]デザイン",
+            "lecturer": [
+                "大山昌彦",
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/07",
+            "path": "\/api\/v1\/all\/R2100.json"
+        },
+        {
+            "lectureCode": "R2101",
+            "courseName": "地域連携実習I[登別]デザイン",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/07",
+            "path": "\/api\/v1\/all\/R2101.json"
+        },
+        {
+            "lectureCode": "R3050",
+            "courseName": "社会連携実習II",
+            "lecturer": [
+                "酒百宏一",
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/all\/R3050.json"
+        },
+        {
+            "lectureCode": "L803M07",
+            "courseName": "アカデミックスキルズI[MS7]",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L803M07.json"
+        },
+        {
+            "lectureCode": "L803C13",
+            "courseName": "アカデミックスキルズI[CS13]",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００１"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L803C13.json"
+        },
+        {
+            "lectureCode": "L90701",
+            "courseName": "サービスラーニングI",
+            "lecturer": [
+                "神子島健",
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2026\/01\/05",
+            "path": "\/api\/v1\/all\/L90701.json"
+        },
+        {
+            "lectureCode": "L10107",
+            "courseName": "リベラルアーツ特論[風景を読み解く]",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目総合",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2026\/01\/22",
+            "path": "\/api\/v1\/all\/L10107.json"
+        },
+        {
+            "lectureCode": "L90401",
+            "courseName": "地域連携実習II[豊橋]",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/12\/23",
+            "path": "\/api\/v1\/all\/L90401.json"
+        },
+        {
+            "lectureCode": "R2110",
+            "courseName": "地域連携実習II[豊橋]デザイン",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/07",
+            "path": "\/api\/v1\/all\/R2110.json"
+        },
+        {
+            "lectureCode": "L30401",
+            "courseName": "社会学[木1]CSES",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2025\/12\/23",
+            "path": "\/api\/v1\/all\/L30401.json"
+        },
+        {
+            "lectureCode": "L30402",
+            "courseName": "社会学[木2]BSMSES",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/L30402.json"
+        },
+        {
+            "lectureCode": "L804BC23",
+            "courseName": "アカデミックスキルズII[BSCS23]",
+            "lecturer": [
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L804BC23.json"
+        },
+        {
+            "lectureCode": "L90801",
+            "courseName": "サービスラーニングII",
+            "lecturer": [
+                "神子島健",
+                "中島敏博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会連携",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２"
+            ],
+            "updateAt": "2026\/01\/05",
+            "path": "\/api\/v1\/all\/L90801.json"
+        }
+    ]
+}

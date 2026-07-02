@@ -1,0 +1,60 @@
+{
+    "filters": {
+        "lecturer": "柿本正憲",
+        "lecturerKey": "9bde11ca03d9"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "M301001",
+            "courseName": "3次元コンピュータグラフィックス論",
+            "lecturer": [
+                "柿本正憲"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水1",
+                "金1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2026\/01\/26",
+            "path": "\/api\/v1\/all\/M301001.json"
+        },
+        {
+            "lectureCode": "M202601",
+            "courseName": "CG数理の基礎",
+            "lecturer": [
+                "柿本正憲"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2",
+                "金2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2026\/01\/26",
+            "path": "\/api\/v1\/all\/M202601.json"
+        }
+    ]
+}

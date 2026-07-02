@@ -1,0 +1,30 @@
+{
+    "filters": {
+        "lecturer": "加納江利子",
+        "lecturerKey": "31c74c84ffb9"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W1403",
+            "courseName": "看護管理学",
+            "lecturer": [
+                "加納江利子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/all\/W1403.json"
+        }
+    ]
+}

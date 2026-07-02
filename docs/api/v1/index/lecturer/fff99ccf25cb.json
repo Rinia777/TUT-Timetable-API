@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "陸薇(兼任講師)",
+        "lecturerKey": "fff99ccf25cb"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "L61303",
+            "courseName": "中国語II[水4陸]",
+            "lecturer": [
+                "陸薇(兼任講師)"
+            ],
+            "regularOrIntensive": "実学基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L61303.json"
+        }
+    ]
+}

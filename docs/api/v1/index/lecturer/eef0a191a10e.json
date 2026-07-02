@@ -1,0 +1,583 @@
+{
+    "filters": {
+        "lecturer": "藤沢章雄",
+        "lecturerKey": "eef0a191a10e"
+    },
+    "count": 24,
+    "lectures": [
+        {
+            "lectureCode": "B21203",
+            "courseName": "有機化学I[再]BS",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B21203.json"
+        },
+        {
+            "lectureCode": "B23101",
+            "courseName": "バイオエントリープロジェクト",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門教育科目実験・演習",
+            "courseType": "実験・演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B23101.json"
+        },
+        {
+            "lectureCode": "ES00317",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/ES00317.json"
+        },
+        {
+            "lectureCode": "GGB90124",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90124.json"
+        },
+        {
+            "lectureCode": "GGB90274",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90274.json"
+        },
+        {
+            "lectureCode": "GGB90324",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90324.json"
+        },
+        {
+            "lectureCode": "GGB90474",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90474.json"
+        },
+        {
+            "lectureCode": "B21301",
+            "courseName": "分析化学・有機化学実験[A]",
+            "lecturer": [
+                "藤沢章雄",
+                "浦瀬太郎",
+                "横山憲二"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B21301.json"
+        },
+        {
+            "lectureCode": "B10902",
+            "courseName": "一般化学[2]",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B10902.json"
+        },
+        {
+            "lectureCode": "B22101",
+            "courseName": "化粧品科学",
+            "lecturer": [
+                "藤沢章雄",
+                "柴田雅史",
+                "岩渕徳郎",
+                "吉田雅紀",
+                "松井毅"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2026\/05\/27",
+            "path": "\/api\/v1\/all\/B22101.json"
+        },
+        {
+            "lectureCode": "11050B13",
+            "courseName": "フレッシャーズゼミI[13]BS",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０８",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/11050B13.json"
+        },
+        {
+            "lectureCode": "B32201",
+            "courseName": "化粧品原料化学",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B32201.json"
+        },
+        {
+            "lectureCode": "B21302",
+            "courseName": "分析化学・有機化学実験[B]",
+            "lecturer": [
+                "藤沢章雄",
+                "浦瀬太郎",
+                "横山憲二"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/B21302.json"
+        },
+        {
+            "lectureCode": "B23201",
+            "courseName": "バイオ研究入門",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門教育科目実験・演習",
+            "courseType": "実験・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B23201.json"
+        },
+        {
+            "lectureCode": "ES00417",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/ES00417.json"
+        },
+        {
+            "lectureCode": "GGB90174",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90174.json"
+        },
+        {
+            "lectureCode": "GGB90224",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90224.json"
+        },
+        {
+            "lectureCode": "GGB90374",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90374.json"
+        },
+        {
+            "lectureCode": "GGB90424",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90424.json"
+        },
+        {
+            "lectureCode": "GGB12201",
+            "courseName": "化粧品原料化学特論",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2026\/01\/08",
+            "path": "\/api\/v1\/all\/GGB12201.json"
+        },
+        {
+            "lectureCode": "ES00217",
+            "courseName": "創成課題[BS]",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門教育科目課題研究",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/ES00217.json"
+        },
+        {
+            "lectureCode": "B21202",
+            "courseName": "有機化学I[2]BS",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B21202.json"
+        },
+        {
+            "lectureCode": "11051B13",
+            "courseName": "フレッシャーズゼミII[13]BS",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/11051B13.json"
+        },
+        {
+            "lectureCode": "B10103",
+            "courseName": "微分積分[3]BS",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門基礎教育科目数理",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B10103.json"
+        }
+    ]
+}

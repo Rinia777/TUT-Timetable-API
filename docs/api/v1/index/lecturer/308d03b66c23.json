@@ -1,0 +1,151 @@
+{
+    "filters": {
+        "lecturer": "カレン，S",
+        "lecturerKey": "308d03b66c23"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "L605M06",
+            "courseName": "IntegratedEnglishI[6]MS火1",
+            "lecturer": [
+                "カレン，S"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2026\/01\/22",
+            "path": "\/api\/v1\/all\/L605M06.json"
+        },
+        {
+            "lectureCode": "L603E21",
+            "courseName": "EnglishRWI[1]電電",
+            "lecturer": [
+                "カレン，S"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L603E21.json"
+        },
+        {
+            "lectureCode": "L603E31",
+            "courseName": "EnglishRWI[1]応化",
+            "lecturer": [
+                "カレン，S"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L603E31.json"
+        },
+        {
+            "lectureCode": "L606M06",
+            "courseName": "IntegratedEnglishII[6]MS火1",
+            "lecturer": [
+                "カレン，S"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2026\/01\/22",
+            "path": "\/api\/v1\/all\/L606M06.json"
+        },
+        {
+            "lectureCode": "L604E21",
+            "courseName": "EnglishRWII[1]電電",
+            "lecturer": [
+                "カレン，S"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L604E21.json"
+        },
+        {
+            "lectureCode": "L604E31",
+            "courseName": "EnglishRWII[1]応化",
+            "lecturer": [
+                "カレン，S"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L604E31.json"
+        }
+    ]
+}

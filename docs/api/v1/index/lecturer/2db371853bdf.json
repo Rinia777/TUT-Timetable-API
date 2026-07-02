@@ -1,0 +1,56 @@
+{
+    "filters": {
+        "lecturer": "柴田雅史(応用生物学部応用生物学科)",
+        "lecturerKey": "2db371853bdf"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "B21002",
+            "courseName": "無機化学（2024年度入学者用）",
+            "lecturer": [
+                "柴田雅史(応用生物学部応用生物学科)"
+            ],
+            "regularOrIntensive": "専門基礎教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/B21002.json"
+        },
+        {
+            "lectureCode": "GGB12301",
+            "courseName": "化粧品設計学特論",
+            "lecturer": [
+                "柴田雅史(応用生物学部応用生物学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGB12301.json"
+        }
+    ]
+}

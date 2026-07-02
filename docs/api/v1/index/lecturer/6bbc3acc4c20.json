@@ -1,0 +1,178 @@
+{
+    "filters": {
+        "lecturer": "廣田雅子",
+        "lecturerKey": "6bbc3acc4c20"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "W540707",
+            "courseName": "卒業研究[MT7]",
+            "lecturer": [
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/W540707.json"
+        },
+        {
+            "lectureCode": "W5306",
+            "courseName": "輸血・移植検査学実習",
+            "lecturer": [
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2026\/01\/07",
+            "path": "\/api\/v1\/all\/W5306.json"
+        },
+        {
+            "lectureCode": "W5204",
+            "courseName": "血液検査学",
+            "lecturer": [
+                "大畑雅彦",
+                "廣田雅子",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/01\/07",
+            "path": "\/api\/v1\/all\/W5204.json"
+        },
+        {
+            "lectureCode": "W5311",
+            "courseName": "救急総論",
+            "lecturer": [
+                "〆谷直人",
+                "荒木秀夫",
+                "坂本大",
+                "栗原由利子",
+                "岡崎充宏",
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W5311.json"
+        },
+        {
+            "lectureCode": "W5303",
+            "courseName": "血液検査学実習II",
+            "lecturer": [
+                "大畑雅彦",
+                "廣田雅子",
+                "水野元貴",
+                "迫西大輔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３",
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2026\/01\/07",
+            "path": "\/api\/v1\/all\/W5303.json"
+        },
+        {
+            "lectureCode": "W5205",
+            "courseName": "血液検査学実習I",
+            "lecturer": [
+                "横田恭子",
+                "廣田雅子",
+                "佐藤瑞穂",
+                "水野元貴",
+                "迫西大輔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/all\/W5205.json"
+        }
+    ]
+}

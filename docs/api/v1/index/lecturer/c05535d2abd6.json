@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "古山美佳",
+        "lecturerKey": "c05535d2abd6"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L803M09",
+            "courseName": "アカデミックスキルズI[MS9]",
+            "lecturer": [
+                "古山美佳"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L803M09.json"
+        },
+        {
+            "lectureCode": "L804M04",
+            "courseName": "アカデミックスキルズII[MS4]",
+            "lecturer": [
+                "古山美佳"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L804M04.json"
+        }
+    ]
+}

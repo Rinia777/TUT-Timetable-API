@@ -1,0 +1,58 @@
+{
+    "filters": {
+        "lecturer": "小林克正(メディア学部メディア学科)",
+        "lecturerKey": "521d3326255b"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "M4001081",
+            "courseName": "卒業研究I[後期]",
+            "lecturer": [
+                "小林克正(メディア学部メディア学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/13",
+            "path": "\/api\/v1\/all\/M4001081.json"
+        },
+        {
+            "lectureCode": "M3001S2",
+            "courseName": "メディア専門演習II[ユーザ体験価値デザイン]2023年以前入学者",
+            "lecturer": [
+                "寺澤卓也(メディア学部メディア学科)",
+                "小林克正(メディア学部メディア学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金",
+                "金2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/M3001S2.json"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "filters": {
+        "lecturer": "杉本奈緒",
+        "lecturerKey": "4b1be2e15249"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "L605B09",
+            "courseName": "IntegratedEnglishI[9]BS電電応化",
+            "lecturer": [
+                "杉本奈緒"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2026\/02\/01",
+            "path": "\/api\/v1\/all\/L605B09.json"
+        },
+        {
+            "lectureCode": "L603B09",
+            "courseName": "EnglishRWI[B4]BS",
+            "lecturer": [
+                "杉本奈緒"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L603B09.json"
+        },
+        {
+            "lectureCode": "L605M05",
+            "courseName": "IntegratedEnglishI[5]MS火1",
+            "lecturer": [
+                "杉本奈緒"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2026\/02\/02",
+            "path": "\/api\/v1\/all\/L605M05.json"
+        },
+        {
+            "lectureCode": "L603M02",
+            "courseName": "EnglishRWI[A2]MS",
+            "lecturer": [
+                "杉本奈緒"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L603M02.json"
+        },
+        {
+            "lectureCode": "L606B09",
+            "courseName": "IntegratedEnglishII[9]BS電電応化",
+            "lecturer": [
+                "杉本奈緒"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2026\/02\/01",
+            "path": "\/api\/v1\/all\/L606B09.json"
+        },
+        {
+            "lectureCode": "L604B09",
+            "courseName": "EnglishRWII[B4]BS",
+            "lecturer": [
+                "杉本奈緒"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L604B09.json"
+        },
+        {
+            "lectureCode": "L606M05",
+            "courseName": "IntegratedEnglishII[5]MS火1",
+            "lecturer": [
+                "杉本奈緒"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2026\/02\/02",
+            "path": "\/api\/v1\/all\/L606M05.json"
+        },
+        {
+            "lectureCode": "L604M02",
+            "courseName": "EnglishRWII[A2]MS",
+            "lecturer": [
+                "杉本奈緒"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L604M02.json"
+        }
+    ]
+}

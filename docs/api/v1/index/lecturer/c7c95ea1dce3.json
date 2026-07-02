@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "君島愛美",
+        "lecturerKey": "c7c95ea1dce3"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "B11001",
+            "courseName": "化学基礎演習[A1]",
+            "lecturer": [
+                "君島愛美"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/B11001.json"
+        }
+    ]
+}

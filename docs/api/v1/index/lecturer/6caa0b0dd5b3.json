@@ -1,0 +1,111 @@
+{
+    "filters": {
+        "lecturer": "吉田祥子(医療保健学部臨床検査学科)",
+        "lecturerKey": "6caa0b0dd5b3"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "W540811",
+            "courseName": "卒業研究I[MT11]",
+            "lecturer": [
+                "吉田祥子(医療保健学部臨床検査学科)",
+                "佐藤瑞穂(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540811.json"
+        },
+        {
+            "lectureCode": "T2753",
+            "courseName": "フレッシャーズゼミ[臨検3]",
+            "lecturer": [
+                "吉田祥子(医療保健学部臨床検査学科)",
+                "水野元貴(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "基礎教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/T2753.json"
+        },
+        {
+            "lectureCode": "W540911",
+            "courseName": "卒業研究II[MT11]",
+            "lecturer": [
+                "吉田祥子(医療保健学部臨床検査学科)",
+                "佐藤瑞穂(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540911.json"
+        },
+        {
+            "lectureCode": "U5110",
+            "courseName": "病理学[2021年以前]",
+            "lecturer": [
+                "吉田祥子(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火3",
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/U5110.json"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "filters": {
+        "lecturer": "宮﨑貴朗(医療保健学部リハビリテーション学科理学療法学専攻)",
+        "lecturerKey": "fa860ebbbbb5"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "W61106",
+            "courseName": "理学療法臨床実習I（見学）",
+            "lecturer": [
+                "乙戸崇寛(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "宮﨑貴朗(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "石黒圭応(医療保健学部リハビリテーション学科理学療法学専攻)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W61106.json"
+        },
+        {
+            "lectureCode": "W61103",
+            "courseName": "理学療法学概論",
+            "lecturer": [
+                "宮﨑貴朗(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "太箸俊宏(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "乙戸崇寛(医療保健学部リハビリテーション学科理学療法学専攻)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W61103.json"
+        },
+        {
+            "lectureCode": "T27611",
+            "courseName": "フレッシャーズゼミ[理学1]",
+            "lecturer": [
+                "宮﨑貴朗(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "吉田真一(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "石黒圭応(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "十島純子(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "太箸俊宏(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "伊藤咲子(医療保健学部リハビリテーション学科理学療法学専攻)",
+                "高木健志(医療保健学部リハビリテーション学科理学療法学専攻)"
+            ],
+            "regularOrIntensive": "基礎教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/T27611.json"
+        }
+    ]
+}

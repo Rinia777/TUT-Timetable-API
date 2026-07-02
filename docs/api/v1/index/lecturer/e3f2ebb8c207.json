@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "湧井正則(兼任講師)",
+        "lecturerKey": "e3f2ebb8c207"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "M300501",
+            "courseName": "ソーシャルコンテンツデザイン論",
+            "lecturer": [
+                "飯沼瑞穂(メディア学部メディア学科)",
+                "湧井正則(兼任講師)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/M300501.json"
+        }
+    ]
+}

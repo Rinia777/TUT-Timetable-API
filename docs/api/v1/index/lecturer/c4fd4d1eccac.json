@@ -1,0 +1,306 @@
+{
+    "filters": {
+        "lecturer": "武博",
+        "lecturerKey": "c4fd4d1eccac"
+    },
+    "count": 13,
+    "lectures": [
+        {
+            "lectureCode": "C40104",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/C40104.json"
+        },
+        {
+            "lectureCode": "GGC90255",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGC90255.json"
+        },
+        {
+            "lectureCode": "GGC90455",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGC90455.json"
+        },
+        {
+            "lectureCode": "GGC13201",
+            "courseName": "人間動作解析特論",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2026\/02\/28",
+            "path": "\/api\/v1\/all\/GGC13201.json"
+        },
+        {
+            "lectureCode": "11050C02",
+            "courseName": "フレッシャーズゼミI[2]CS",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/11050C02.json"
+        },
+        {
+            "lectureCode": "C11002",
+            "courseName": "WebプログラミングI[BT]",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ・ビジネス",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/C11002.json"
+        },
+        {
+            "lectureCode": "C40154",
+            "courseName": "卒業課題I[後期]CS",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/C40154.json"
+        },
+        {
+            "lectureCode": "C40204",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/C40204.json"
+        },
+        {
+            "lectureCode": "GGC90205",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGC90205.json"
+        },
+        {
+            "lectureCode": "GGC90405",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGC90405.json"
+        },
+        {
+            "lectureCode": "C31004",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/C31004.json"
+        },
+        {
+            "lectureCode": "C10702",
+            "courseName": "コンピュータ概論II[B]",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1",
+                "水3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/C10702.json"
+        },
+        {
+            "lectureCode": "11051C02",
+            "courseName": "フレッシャーズゼミII[2]CS",
+            "lecturer": [
+                "武博"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/11051C02.json"
+        }
+    ]
+}

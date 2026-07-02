@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "白川貴志",
+        "lecturerKey": "eb8be21aa5c8"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "11043B2",
+            "courseName": "数学基礎[B]BS",
+            "lecturer": [
+                "白川貴志"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/11043B2.json"
+        },
+        {
+            "lectureCode": "11043C2",
+            "courseName": "数学基礎[B]CS",
+            "lecturer": [
+                "白川貴志"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/all\/11043C2.json"
+        }
+    ]
+}

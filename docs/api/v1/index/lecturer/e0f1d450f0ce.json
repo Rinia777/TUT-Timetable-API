@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "中払周(工学部電気電子工学科)",
+        "lecturerKey": "e0f1d450f0ce"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "K603301",
+            "courseName": "システム工学",
+            "lecturer": [
+                "中払周(工学部電気電子工学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2024\/12\/02",
+            "path": "\/api\/v1\/all\/K603301.json"
+        },
+        {
+            "lectureCode": "K605310",
+            "courseName": "創成課題[10]",
+            "lecturer": [
+                "中払周(工学部電気電子工学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月2",
+                "金2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０３",
+                "講義実験棟１０３",
+                "講義実験棟１０４"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/K605310.json"
+        }
+    ]
+}

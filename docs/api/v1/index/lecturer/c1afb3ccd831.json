@@ -1,0 +1,109 @@
+{
+    "filters": {
+        "lecturer": "大山昌彦(教養学環)",
+        "lecturerKey": "c1afb3ccd831"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L9240202",
+            "courseName": "サービスラーニングIV（国内短期派遣）",
+            "lecturer": [
+                "中島敏博(教養学環)",
+                "大山昌彦(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L9240202.json"
+        },
+        {
+            "lectureCode": "L31102",
+            "courseName": "グローバル社会論[水5]",
+            "lecturer": [
+                "大山昌彦(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L31102.json"
+        },
+        {
+            "lectureCode": "L30603",
+            "courseName": "現代社会論[木4]",
+            "lecturer": [
+                "大山昌彦(教養学環)"
+            ],
+            "regularOrIntensive": "実学基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L30603.json"
+        },
+        {
+            "lectureCode": "L31101",
+            "courseName": "グローバル社会論[水3]",
+            "lecturer": [
+                "大山昌彦(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L31101.json"
+        }
+    ]
+}

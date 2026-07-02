@@ -1,0 +1,110 @@
+{
+    "filters": {
+        "lecturer": "水野元貴(医療保健学部臨床検査学科)",
+        "lecturerKey": "4f98f5f7dd4b"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "W540810",
+            "courseName": "卒業研究I[MT10]",
+            "lecturer": [
+                "水野元貴(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540810.json"
+        },
+        {
+            "lectureCode": "T2753",
+            "courseName": "フレッシャーズゼミ[臨検3]",
+            "lecturer": [
+                "吉田祥子(医療保健学部臨床検査学科)",
+                "水野元貴(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "基礎教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/T2753.json"
+        },
+        {
+            "lectureCode": "W540910",
+            "courseName": "卒業研究II[MT10]",
+            "lecturer": [
+                "水野元貴(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540910.json"
+        },
+        {
+            "lectureCode": "W5321",
+            "courseName": "臨床化学検査学実習II[2021年以前]",
+            "lecturer": [
+                "栗原由利子(医療保健学部臨床検査学科)",
+                "水野元貴(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/W5321.json"
+        }
+    ]
+}

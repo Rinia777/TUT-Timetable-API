@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "田村明子(兼任講師)",
+        "lecturerKey": "ca5c648572a6"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L620M04",
+            "courseName": "IntegratedEnglishIII[A4]MS",
+            "lecturer": [
+                "田村明子(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620M04.json"
+        },
+        {
+            "lectureCode": "L620M11",
+            "courseName": "IntegratedEnglishIII[B4]MS",
+            "lecturer": [
+                "田村明子(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620M11.json"
+        },
+        {
+            "lectureCode": "L621M11",
+            "courseName": "IntegratedEnglishIV[B4]MS",
+            "lecturer": [
+                "田村明子(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621M11.json"
+        },
+        {
+            "lectureCode": "L621M04",
+            "courseName": "IntegratedEnglishIV[A4]MS",
+            "lecturer": [
+                "田村明子(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621M04.json"
+        }
+    ]
+}

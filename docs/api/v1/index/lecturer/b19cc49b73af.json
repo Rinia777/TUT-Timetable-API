@@ -1,0 +1,80 @@
+{
+    "filters": {
+        "lecturer": "廣田雅子(医療保健学部臨床検査学科)",
+        "lecturerKey": "b19cc49b73af"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "W540808",
+            "courseName": "卒業研究I[MT8]",
+            "lecturer": [
+                "廣田雅子(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540808.json"
+        },
+        {
+            "lectureCode": "W5323",
+            "courseName": "臨床検査総合演習[2018年以前]",
+            "lecturer": [
+                "廣田雅子(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W5323.json"
+        },
+        {
+            "lectureCode": "W5322",
+            "courseName": "臨床検査総合演習I[2019-21年]",
+            "lecturer": [
+                "廣田雅子(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/W5322.json"
+        }
+    ]
+}

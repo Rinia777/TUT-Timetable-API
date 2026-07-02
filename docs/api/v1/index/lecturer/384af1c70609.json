@@ -1,0 +1,82 @@
+{
+    "filters": {
+        "lecturer": "佐々木聰(医療保健学部臨床検査学科)",
+        "lecturerKey": "384af1c70609"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "W540806",
+            "courseName": "卒業研究I[MT6]",
+            "lecturer": [
+                "佐々木聰(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540806.json"
+        },
+        {
+            "lectureCode": "T2752",
+            "courseName": "フレッシャーズゼミ[臨検2]",
+            "lecturer": [
+                "佐々木聰(医療保健学部臨床検査学科)",
+                "國枝泰希(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "基礎教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０７臨床検査実習室４"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/T2752.json"
+        },
+        {
+            "lectureCode": "W540906",
+            "courseName": "卒業研究II[MT6]",
+            "lecturer": [
+                "佐々木聰(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540906.json"
+        }
+    ]
+}

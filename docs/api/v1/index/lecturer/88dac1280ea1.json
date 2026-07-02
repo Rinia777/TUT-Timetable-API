@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "岩崎剛毅(兼任講師)",
+        "lecturerKey": "88dac1280ea1"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L620B06",
+            "courseName": "IntegratedEnglishIII[6]BS電電応化",
+            "lecturer": [
+                "岩崎剛毅(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620B06.json"
+        },
+        {
+            "lectureCode": "L621B06",
+            "courseName": "IntegratedEnglishIV[6]BS電電応化",
+            "lecturer": [
+                "岩崎剛毅(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621B06.json"
+        }
+    ]
+}

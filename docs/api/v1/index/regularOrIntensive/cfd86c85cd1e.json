@@ -1,0 +1,64 @@
+{
+    "filters": {
+        "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+        "regularOrIntensiveKey": "cfd86c85cd1e"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "11040K7",
+            "courseName": "情報リテラシー[化][2023年以前入学者]",
+            "lecturer": [
+                "上野聡",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2026\/02\/03",
+            "path": "\/api\/v1\/all\/11040K7.json"
+        },
+        {
+            "lectureCode": "11041K7",
+            "courseName": "情報リテラシー演習[化][2023年以前入学者]",
+            "lecturer": [
+                "上野聡",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2026\/02\/03",
+            "path": "\/api\/v1\/all\/11041K7.json"
+        }
+    ]
+}

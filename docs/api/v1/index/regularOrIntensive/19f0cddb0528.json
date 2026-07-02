@@ -1,0 +1,156 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門教育科目コース専門",
+        "regularOrIntensiveKey": "19f0cddb0528"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "M302001",
+            "courseName": "情報可視化",
+            "lecturer": [
+                "竹島由里子"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月4",
+                "木3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2026\/01\/26",
+            "path": "\/api\/v1\/all\/M302001.json"
+        },
+        {
+            "lectureCode": "M302301",
+            "courseName": "ソーシャルコンピューティング論",
+            "lecturer": [
+                "寺澤卓也"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月5",
+                "木4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2026\/01\/04",
+            "path": "\/api\/v1\/all\/M302301.json"
+        },
+        {
+            "lectureCode": "M300301",
+            "courseName": "ソーシャルデザイン論[2023年以前入学者]",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2026\/02\/03",
+            "path": "\/api\/v1\/all\/M300301.json"
+        },
+        {
+            "lectureCode": "M301701",
+            "courseName": "映像文化論[2023年以前入学者]",
+            "lecturer": [
+                "山脇伸介"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/01\/29",
+            "path": "\/api\/v1\/all\/M301701.json"
+        },
+        {
+            "lectureCode": "M301801",
+            "courseName": "コンテンツディベロッピング論[2023年以前入学者]",
+            "lecturer": [
+                "茂木龍太",
+                "兼松祥央"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2026\/01\/29",
+            "path": "\/api\/v1\/all\/M301801.json"
+        },
+        {
+            "lectureCode": "M302501",
+            "courseName": "調査報道論[2023年以前入学者]",
+            "lecturer": [
+                "森川美幸"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2026\/01\/28",
+            "path": "\/api\/v1\/all\/M302501.json"
+        }
+    ]
+}

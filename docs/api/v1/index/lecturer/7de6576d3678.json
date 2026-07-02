@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "藤澤幸太郎(教養学環)",
+        "lecturerKey": "7de6576d3678"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "R1161",
+            "courseName": "コンピュータ概論II[デザイン2023以前入学生]",
+            "lecturer": [
+                "藤澤幸太郎(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/R1161.json"
+        }
+    ]
+}

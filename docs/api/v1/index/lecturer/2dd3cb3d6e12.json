@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "東晴美(兼任講師)",
+        "lecturerKey": "2dd3cb3d6e12"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L21301",
+            "courseName": "芸術論[月1]",
+            "lecturer": [
+                "東晴美(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L21301.json"
+        },
+        {
+            "lectureCode": "L21302",
+            "courseName": "芸術論[月2]",
+            "lecturer": [
+                "東晴美(兼任講師)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L21302.json"
+        }
+    ]
+}

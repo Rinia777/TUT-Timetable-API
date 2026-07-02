@@ -1,0 +1,58 @@
+{
+    "filters": {
+        "lecturer": "内藤通昭",
+        "lecturerKey": "bb72d315ac59"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U2401",
+            "courseName": "公衆衛生学[臨工]",
+            "lecturer": [
+                "内藤通昭",
+                "梅田勝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/21",
+            "path": "\/api\/v1\/all\/U2401.json"
+        },
+        {
+            "lectureCode": "U60301",
+            "courseName": "公衆衛生学[リハビリ]",
+            "lecturer": [
+                "内藤通昭",
+                "梅田勝"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/21",
+            "path": "\/api\/v1\/all\/U60301.json"
+        }
+    ]
+}

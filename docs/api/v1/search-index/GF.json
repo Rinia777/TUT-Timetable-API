@@ -1,0 +1,134 @@
+{
+    "department": "GF",
+    "count": 14,
+    "lectures": [
+        {
+            "courseName": "クリエイティブキュレーション",
+            "lecturer": [
+                "暮沢剛巳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GF\/GF1006.json"
+        },
+        {
+            "courseName": "クリエイティブキュレーション",
+            "lecturer": [
+                "暮沢剛巳(デザイン学部デザイン学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GF\/GF1009.json"
+        },
+        {
+            "courseName": "コミュニティとデザイン",
+            "lecturer": [
+                "酒百宏一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GF\/GF1007.json"
+        },
+        {
+            "courseName": "ソニックインタラクション",
+            "lecturer": [
+                "松村誠一郎"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GF\/GF1008.json"
+        },
+        {
+            "courseName": "ソニックインタラクション",
+            "lecturer": [
+                "松村誠一郎(デザイン学部デザイン学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GF\/GF1010.json"
+        },
+        {
+            "courseName": "デザインクリエイションI",
+            "lecturer": [
+                "伊藤丙雄",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/GF\/GF1002.json"
+        },
+        {
+            "courseName": "デザインクリエイションII",
+            "lecturer": [
+                "伊藤丙雄",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/GF\/GF1003.json"
+        },
+        {
+            "courseName": "デザイン特論",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GF\/GF1001.json"
+        },
+        {
+            "courseName": "デザイン研究I",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/GF\/GF2002.json"
+        },
+        {
+            "courseName": "デザイン研究II",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/GF\/GF2003.json"
+        },
+        {
+            "courseName": "デザイン研究III",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/GF\/GF2004.json"
+        },
+        {
+            "courseName": "デザイン研究企画",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GF\/GF2001.json"
+        },
+        {
+            "courseName": "デジタルデザインスキルI",
+            "lecturer": [
+                "松村誠一郎"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GF\/GF1004.json"
+        },
+        {
+            "courseName": "デジタルデザインスキルII",
+            "lecturer": [
+                "松村誠一郎"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/GF\/GF1005.json"
+        }
+    ]
+}

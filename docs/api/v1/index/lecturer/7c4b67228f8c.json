@@ -1,0 +1,80 @@
+{
+    "filters": {
+        "lecturer": "各教員(所属なし)",
+        "lecturerKey": "7c4b67228f8c"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "ES00350",
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "各教員(所属なし)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/ES00350.json"
+        },
+        {
+            "lectureCode": "C30900",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "各教員(所属なし)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/C30900.json"
+        },
+        {
+            "lectureCode": "ES00201",
+            "courseName": "創成課題II[BS]",
+            "lecturer": [
+                "各教員(所属なし)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/ES00201.json"
+        }
+    ]
+}

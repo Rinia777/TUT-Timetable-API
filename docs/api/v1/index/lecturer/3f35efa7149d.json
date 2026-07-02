@@ -1,0 +1,133 @@
+{
+    "filters": {
+        "lecturer": "野澤美江子",
+        "lecturerKey": "3f35efa7149d"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "W1323",
+            "courseName": "母性・小児看護技術演習[2021以前]",
+            "lecturer": [
+                "野澤美江子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科看護師コース",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W1323.json"
+        },
+        {
+            "lectureCode": "W1409",
+            "courseName": "リプロダクティブ・ヘルスケア",
+            "lecturer": [
+                "野澤美江子",
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室",
+                "３０２０２教室",
+                "３１０１３教室",
+                "３１０１７教室"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/all\/W1409.json"
+        },
+        {
+            "lectureCode": "W1302",
+            "courseName": "母性看護学II",
+            "lecturer": [
+                "野澤美江子",
+                "黒川有来",
+                "瀬戸愛子",
+                "森千恵子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/04\/09",
+            "path": "\/api\/v1\/all\/W1302.json"
+        },
+        {
+            "lectureCode": "W1404",
+            "courseName": "災害看護学",
+            "lecturer": [
+                "石田千絵",
+                "三浦英恵",
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/20",
+            "path": "\/api\/v1\/all\/W1404.json"
+        },
+        {
+            "lectureCode": "W1420",
+            "courseName": "看護工学",
+            "lecturer": [
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/all\/W1420.json"
+        }
+    ]
+}

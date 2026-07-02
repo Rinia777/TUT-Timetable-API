@@ -1,0 +1,132 @@
+{
+    "filters": {
+        "lecturer": "奥橋佑基(医療保健学部臨床検査学科)",
+        "lecturerKey": "9956605abb2a"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "W540803",
+            "courseName": "卒業研究I[MT3]",
+            "lecturer": [
+                "奥橋佑基(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540803.json"
+        },
+        {
+            "lectureCode": "T2751",
+            "courseName": "フレッシャーズゼミ[臨検1]",
+            "lecturer": [
+                "川又紀彦(医療保健学部臨床検査学科)",
+                "奥橋佑基(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "基礎教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/T2751.json"
+        },
+        {
+            "lectureCode": "W54040",
+            "courseName": "医療情報処理演習II",
+            "lecturer": [
+                "奥橋佑基(医療保健学部臨床検査学科)",
+                "國枝泰希(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３１０臨床検査実習室１"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W54040.json"
+        },
+        {
+            "lectureCode": "W5222",
+            "courseName": "医療情報処理演習I[2021年以前]",
+            "lecturer": [
+                "奥橋佑基(医療保健学部臨床検査学科)",
+                "國枝泰希(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W5222.json"
+        },
+        {
+            "lectureCode": "W540903",
+            "courseName": "卒業研究II[MT3]",
+            "lecturer": [
+                "奥橋佑基(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540903.json"
+        }
+    ]
+}

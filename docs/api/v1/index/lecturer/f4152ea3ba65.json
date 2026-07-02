@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "村上康二郎(兼任講師)",
+        "lecturerKey": "f4152ea3ba65"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "M202401",
+            "courseName": "情報メディア法",
+            "lecturer": [
+                "村上康二郎(兼任講師)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2024\/12\/13",
+            "path": "\/api\/v1\/all\/M202401.json"
+        }
+    ]
+}

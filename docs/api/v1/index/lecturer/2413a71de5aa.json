@@ -1,0 +1,55 @@
+{
+    "filters": {
+        "lecturer": "榎本みのり(医療保健学部臨床検査学科)",
+        "lecturerKey": "2413a71de5aa"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "W540801",
+            "courseName": "卒業研究I[MT1]",
+            "lecturer": [
+                "榎本みのり(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540801.json"
+        },
+        {
+            "lectureCode": "W540901",
+            "courseName": "卒業研究II[MT1]",
+            "lecturer": [
+                "榎本みのり(医療保健学部臨床検査学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W540901.json"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "岩渕徳郎(応用生物学部応用生物学科)",
+        "lecturerKey": "6ab2fb00f34c"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "ES00227",
+            "courseName": "創成課題II[BS]",
+            "lecturer": [
+                "岩渕徳郎(応用生物学部応用生物学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/ES00227.json"
+        }
+    ]
+}

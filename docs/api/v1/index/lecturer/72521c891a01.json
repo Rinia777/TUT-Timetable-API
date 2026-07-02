@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "原田英子",
+        "lecturerKey": "72521c891a01"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L605C01",
+            "courseName": "IntegratedEnglishI[1]CS機械",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2026\/01\/21",
+            "path": "\/api\/v1\/all\/L605C01.json"
+        },
+        {
+            "lectureCode": "L603C05",
+            "courseName": "EnglishRWI[A5]CS",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L603C05.json"
+        },
+        {
+            "lectureCode": "L606C01",
+            "courseName": "IntegratedEnglishII[1]CS機械",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2026\/01\/26",
+            "path": "\/api\/v1\/all\/L606C01.json"
+        },
+        {
+            "lectureCode": "L604C05",
+            "courseName": "EnglishRWII[A5]CS",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/all\/L604C05.json"
+        }
+    ]
+}

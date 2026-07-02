@@ -1,0 +1,67 @@
+{
+    "filters": {
+        "lecturer": "原賢二(工学部応用化学科)",
+        "lecturerKey": "dcdbe1cdd534"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "K700903",
+            "courseName": "化学基礎演習[3][2023年以前入学者]",
+            "lecturer": [
+                "入谷康平(工学部応用化学科)",
+                "山下俊(工学部応用化学科)",
+                "原賢二(工学部応用化学科)",
+                "藤田隆史(工学部応用化学科)",
+                "橋本徹(工学部応用化学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火",
+                "火2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ１０２",
+                "片柳研究所Ｅ１０３",
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/K700903.json"
+        },
+        {
+            "lectureCode": "K704207",
+            "courseName": "創成課題[7]",
+            "lecturer": [
+                "原賢二(工学部応用化学科)"
+            ],
+            "regularOrIntensive": "専門教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月5",
+                "金2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/K704207.json"
+        }
+    ]
+}

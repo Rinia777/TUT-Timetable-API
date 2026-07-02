@@ -1,0 +1,80 @@
+{
+    "filters": {
+        "lecturer": "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)",
+        "lecturerKey": "070546042d51"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "GGC13101",
+            "courseName": "知能数理特論",
+            "lecturer": [
+                "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC13101.json"
+        },
+        {
+            "lectureCode": "GGC90166",
+            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
+            "lecturer": [
+                "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90166.json"
+        },
+        {
+            "lectureCode": "GGC90366",
+            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
+            "lecturer": [
+                "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/all\/GGC90366.json"
+        }
+    ]
+}

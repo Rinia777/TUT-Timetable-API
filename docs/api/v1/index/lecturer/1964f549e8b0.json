@@ -1,0 +1,470 @@
+{
+    "filters": {
+        "lecturer": "ブロックルバンク(教養学環)",
+        "lecturerKey": "1964f549e8b0"
+    },
+    "count": 19,
+    "lectures": [
+        {
+            "lectureCode": "L6100101",
+            "courseName": "海外語学研修I[オーストラリア]2024年夏実施",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L6100101.json"
+        },
+        {
+            "lectureCode": "L605B17",
+            "courseName": "IntegratedEnglishI[17]BS電電応化",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１１"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L605B17.json"
+        },
+        {
+            "lectureCode": "L60701",
+            "courseName": "AdvancedEnglishI",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L60701.json"
+        },
+        {
+            "lectureCode": "L605M14",
+            "courseName": "IntegratedEnglishI[B7]MS金1",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L605M14.json"
+        },
+        {
+            "lectureCode": "L606B17",
+            "courseName": "IntegratedEnglishII[17]BS電電応化",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１１"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L606B17.json"
+        },
+        {
+            "lectureCode": "L60801",
+            "courseName": "AdvancedEnglishII",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L60801.json"
+        },
+        {
+            "lectureCode": "L606M14",
+            "courseName": "IntegratedEnglishII[7]MS金1",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L606M14.json"
+        },
+        {
+            "lectureCode": "L620C11",
+            "courseName": "IntegratedEnglishIII[11]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０８"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620C11.json"
+        },
+        {
+            "lectureCode": "L620C12",
+            "courseName": "IntegratedEnglishIII[12]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０７"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620C12.json"
+        },
+        {
+            "lectureCode": "L620C13",
+            "courseName": "IntegratedEnglishIII[13]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０８"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620C13.json"
+        },
+        {
+            "lectureCode": "L620C14",
+            "courseName": "IntegratedEnglishIII[14]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０９"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620C14.json"
+        },
+        {
+            "lectureCode": "L620C15",
+            "courseName": "IntegratedEnglishIII[15]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１０"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620C15.json"
+        },
+        {
+            "lectureCode": "L620C16",
+            "courseName": "IntegratedEnglishIII[16]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L620C16.json"
+        },
+        {
+            "lectureCode": "L621C11",
+            "courseName": "IntegratedEnglishIV[11]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０８"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621C11.json"
+        },
+        {
+            "lectureCode": "L621C12",
+            "courseName": "IntegratedEnglishIV[12]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０７"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621C12.json"
+        },
+        {
+            "lectureCode": "L621C13",
+            "courseName": "IntegratedEnglishIV[13]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０８"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621C13.json"
+        },
+        {
+            "lectureCode": "L621C14",
+            "courseName": "IntegratedEnglishIV[14]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０９"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621C14.json"
+        },
+        {
+            "lectureCode": "L621C15",
+            "courseName": "IntegratedEnglishIV[15]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１０"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621C15.json"
+        },
+        {
+            "lectureCode": "L621C16",
+            "courseName": "IntegratedEnglishIV[16]CS機械",
+            "lecturer": [
+                "ブロックルバンク(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/all\/L621C16.json"
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "filters": {
+        "lecturer": "西野智彦",
+        "lecturerKey": "6fe01fe8a5a1"
+    },
+    "count": 19,
+    "lectures": [
+        {
+            "lectureCode": "ES00316",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/ES00316.json"
+        },
+        {
+            "lectureCode": "GGB90123",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90123.json"
+        },
+        {
+            "lectureCode": "GGB90273",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90273.json"
+        },
+        {
+            "lectureCode": "GGB90323",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90323.json"
+        },
+        {
+            "lectureCode": "GGB90473",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90473.json"
+        },
+        {
+            "lectureCode": "11050B12",
+            "courseName": "フレッシャーズゼミI[12]BS",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/01\/07",
+            "path": "\/api\/v1\/all\/11050B12.json"
+        },
+        {
+            "lectureCode": "GGB12501",
+            "courseName": "応用微生物学特論",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2026\/01\/08",
+            "path": "\/api\/v1\/all\/GGB12501.json"
+        },
+        {
+            "lectureCode": "B11002",
+            "courseName": "化学基礎演習[A2]",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/B11002.json"
+        },
+        {
+            "lectureCode": "B32101",
+            "courseName": "食品微生物学",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/all\/B32101.json"
+        },
+        {
+            "lectureCode": "ES00416",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/ES00416.json"
+        },
+        {
+            "lectureCode": "GGB90173",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90173.json"
+        },
+        {
+            "lectureCode": "GGB90223",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90223.json"
+        },
+        {
+            "lectureCode": "GGB90373",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90373.json"
+        },
+        {
+            "lectureCode": "GGB90423",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90423.json"
+        },
+        {
+            "lectureCode": "B21402",
+            "courseName": "生化学・微生物学実験[B]",
+            "lecturer": [
+                "加藤輝",
+                "西野智彦",
+                "横山憲二"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/B21402.json"
+        },
+        {
+            "lectureCode": "ES00216",
+            "courseName": "創成課題[BS]",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "専門教育科目課題研究",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/ES00216.json"
+        },
+        {
+            "lectureCode": "B10701",
+            "courseName": "微生物学",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "専門基礎教育科目生物学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/all\/B10701.json"
+        },
+        {
+            "lectureCode": "11051B12",
+            "courseName": "フレッシャーズゼミII[12]BS",
+            "lecturer": [
+                "西野智彦"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００６",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/11051B12.json"
+        },
+        {
+            "lectureCode": "B21401",
+            "courseName": "生化学・微生物学実験[A]",
+            "lecturer": [
+                "加藤輝",
+                "西野智彦",
+                "横山憲二"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/all\/B21401.json"
+        }
+    ]
+}

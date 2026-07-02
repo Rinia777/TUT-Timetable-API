@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "松﨑吉之助",
+        "lecturerKey": "ece0536a661d"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U63302",
+            "courseName": "保健医療福祉総論",
+            "lecturer": [
+                "松﨑吉之助"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2025\/12\/26",
+            "path": "\/api\/v1\/all\/U63302.json"
+        }
+    ]
+}

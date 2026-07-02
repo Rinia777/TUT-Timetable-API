@@ -1,0 +1,109 @@
+{
+    "filters": {
+        "lecturer": "松下優一",
+        "lecturerKey": "f8aeda8fd531"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L803B10",
+            "courseName": "アカデミックスキルズI[BS10]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０５"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L803B10.json"
+        },
+        {
+            "lectureCode": "L803C10",
+            "courseName": "アカデミックスキルズI[CS10]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０５"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L803C10.json"
+        },
+        {
+            "lectureCode": "L804BC06",
+            "courseName": "アカデミックスキルズII[BSCS6]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L804BC06.json"
+        },
+        {
+            "lectureCode": "L804BC18",
+            "courseName": "アカデミックスキルズII[BSCS18]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2026\/03\/04",
+            "path": "\/api\/v1\/all\/L804BC18.json"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "lectureCode": "GGC13301",
+    "courseName": "常微分方程式の数値解法",
+    "lecturer": [
+        "山元進"
+    ],
+    "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+    "courseType": "講義科目",
+    "courseStart": "2026年度後期",
+    "classPeriod": [
+        "木1"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+        "1年",
+        "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+        "片柳研究所Ｅ３０４"
+    ],
+    "courceDetails": {
+        "courseOverview": "この講義では、数値シミュレーションの基礎として、数値計算の誤差の性質を学び、解析解が求まる常微分方程式(ODE)を数値的に解くことを通して近似解の性質を理解する。実験と異なり条件を柔軟に変更できる数値シミュレーションは、計算機性能向上により重要性を増しているが、近似による誤差は避けられない。シミュレーションは多くの場合ODEを解く作業であり、ODEの数値解の性質を理解することが非常に重要である。Thiscourseintroducesthefundamentalconceptsneededfornumericalsimulation,focusingonthenatureofnumericalerrorsandhowapproximationmethodsaffectnumericalresults.Studentswillexploretheseideasbynumericallysolvingordinarydifferentialequations(ODEs)withknownanalyticalsolutions.Ascomputingpowercontinuestoadvance,numericalsimulationhasbecomeincreasinglyimportantbecauseitallowsflexiblecontrolofconditions,unlikeexperiments.However,approximationerrorsareinevitable.SincemanysimulationsreducetosolvingODEs,understandingthebehaviorofnumericalsolutionsisessential.",
+        "outcomesMeasuredBy": "2階常微分方程式の中で応用範囲が広く、その後の発展のために不可欠な単振動の問題を理解する。計算が破綻する条件は何か、破綻するとどうなるのかを理解する。Agoalofthiscourseistounderstandsimpleharmonicmotion,asecond‑orderODE.Thistopichaswideapplicabilityacrossscienceandengineeringandformsanessentialfoundationformoreadvancedstudiesindynamicalsystemsandnumericalanalysis.Studentswillalsoinvestigatetheconditionsunderwhichnumericalcomputationsmayfail,howsuchfailuresmanifestintheresults,andareencouragedtoreasonforthemselveswhythesebreakdownsoccur.Throughthisunderstanding,theywilllearntocriticallyevaluatethestabilityandreliabilityofnumericalsolutions.",
+        "learningOutcomes": "論理的な思考力、分析・評価能力、問題解決力",
+        "teachingMethod": "講義資料は、Moodleを通して配布する。座学形式だが、適宜、実際に計算してもらう。最終講は単振動をテーマに、数値解を解析してもらい、それをプレゼンテーションしてもらう。LecturematerialswillbedistributedthroughMoodle.Althoughthecourseisprimarilylecture‑based,studentswillbeaskedtocarryoutcalculationsduringclassasappropriate.Inthefinalsession,studentswillanalyzenumericalsolutionsofsimpleharmonicmotionandpresenttheirresults.",
+        "notices": "各自、最も習熟しているグラフ描画環境を用意し、毎回の講義に持参すること。毎回とは限らないが、講義中に計算してグラフを描いてもらう機会もある。最後のプレゼンテーションのためにも必須なので、何かしら浮動小数点数を用いた計算プログラムを実行し、グラフを描ける環境が必須となる。環境は指定しないので、各自の好みで決めてよい。例えば、Pythonでmatplotlibを使うなら、描画可能なPythonの実行環境を用意する。Studentsshouldbringagraph‑plottingenvironmenttheyarecomfortableusingtoeveryclass.Youwillneeditinmanysessions,asyouwilloftenbeaskedtoruncalculationsandcreateplotsduringclass.Thisenvironmentisalsorequiredforthefinalpresentation,whereyouwillneedtoexecuteprogramsthatusefloating‑pointarithmeticandgenerategraphs.Youarefreetochooseanyplatformyouprefer.Forexample,ifyouplantousePythonwithmatplotlib,makesureyouhaveaworkingPythonsetupcapableofproducingplots.",
+        "preparatoryStudy": "予習：授業計画にあるキーワードについて事前に調べておく。また、講義前に資料を配布するので、それに目を目を通しておき分かりにくそうなところの目星をつけておけば、講義が理解しやすくなる。復習：前回の講義内容を振り返り、学修内容を整理すること。Preparation:Beforeeachclass,lookupthekeywordslistedinthecourseschedule.Lecturematerialswillbeprovidedinadvance.Byreviewingthemaheadoftimeandnotingareasthatmaybechallenging,youwillbeabletofollowthelecturemoreeffectively.Review:Aftereachclass,gooverthepreviouslectureandorganizewhatyouhavelearned.",
+        "gradingGuidelines": "欠席が多ければ欠格(X)となる。最後のプレゼンテーションで合否を判定する。プレゼンテーションの欠席は欠格(X)である。プレゼンテーションの評点を７割とする。その他の講義中の質疑応答などの結果を３割として最終的な成績を定める。Studentswithexcessiveabsenceswillreceiveafailinggrade(X).Thefinalpresentationwilldeterminewhetherastudentpassesorfailsthecourse.Absencefromthepresentationresultsinanautomaticfailinggrade(X).Thepresentationscorewillaccountfor70%ofthefinalgrade.Theremaining30%willbebasedonparticipation,includingresponsestoquestionsandothercontributionsduringclass.",
+        "textbook": "利用しない。Notextbookisrequired;allmaterialswillbeprovidedinclass.",
+        "referenceMaterials": "「数値計算の常識」伊理正夫,藤野和建共立出版(1985)Thefollowingbookisrecommendedasareference:MasaoIri\u0026KazutakeFujino,CommonSenseforNumericalCalculation,KyoritsuPublishing,(1985).",
+        "courseSchedule": "第1回：計算機中での数値の取り扱い方・表現法や誤差についての初歩的知識．第2回：関数補間(ラグランジュ補間多項式)第3回：関数近似・多項式近似など．第4回：数値微分・差分法とテイラー展開の関係を中心とする．第5回：数値積分第6回：2階常微分方程式の初期値問題の数値解法第7回：まとめ--テーマに従ったプレゼンテーションをしてもらうSession1:Basicconceptsofnumericalrepresentation,floating‑pointarithmetic,andsourcesofnumericalerror.Session2:Functioninterpolation(Lagrangeinterpolationpolynomials).Session3:Functionapproximation,includingpolynomialapproximationmethods.Session4:Numericaldifferentiation,emphasizingfinitedifferencesandtheirrelationtoTaylorexpansion.Session5:Numericalintegration.Session6:Numericalmethodsforinitial‑valueproblemsofsecond‑orderordinarydifferentialequations.Session7:Finalpresentationsbasedonassignedthemes.",
+        "courseDataUpdatedAt": "2026\/01\/06"
+    },
+    "updateAt": "2026\/01\/06"
+}

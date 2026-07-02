@@ -1,0 +1,65 @@
+{
+    "filters": {
+        "lecturer": "古谷峰子",
+        "lecturerKey": "86a84091a3d2"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S1064",
+            "courseName": "デジタルスキルA［BC1］",
+            "lecturer": [
+                "古谷峰子",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2026\/03\/23",
+            "path": "\/api\/v1\/all\/S1064.json"
+        },
+        {
+            "lectureCode": "S1071",
+            "courseName": "デジタルスキルB［AC1］",
+            "lecturer": [
+                "古谷峰子",
+                "田崎咲絵"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2026\/06\/19",
+            "path": "\/api\/v1\/all\/S1071.json"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "岡野浩(兼任講師)",
+        "lecturerKey": "c218c64b44ee"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U60104",
+            "courseName": "生命倫理",
+            "lecturer": [
+                "岡野浩(兼任講師)"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/U60104.json"
+        }
+    ]
+}

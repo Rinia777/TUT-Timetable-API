@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "木村愛",
+        "lecturerKey": "c2ddce21ace6"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S3120",
+            "courseName": "専門スキル演習(パッケージデザイン)",
+            "lecturer": [
+                "木村愛"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/S3120.json"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門教育科目デザイン研究",
+        "regularOrIntensiveKey": "86be14be23e8"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "S3260",
+            "courseName": "視覚デザイン専門研究",
+            "lecturer": [
+                "田邉雄一",
+                "小田敬子"
+            ],
+            "regularOrIntensive": "専門教育科目デザイン研究",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/S3260.json"
+        },
+        {
+            "lectureCode": "S3270",
+            "courseName": "情報デザイン専門研究",
+            "lecturer": [
+                "伊藤英高",
+                "井藤雄一"
+            ],
+            "regularOrIntensive": "専門教育科目デザイン研究",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2026\/02\/22",
+            "path": "\/api\/v1\/all\/S3270.json"
+        },
+        {
+            "lectureCode": "S3280",
+            "courseName": "工業デザイン専門研究",
+            "lecturer": [
+                "相野谷威雄",
+                "田崎咲絵"
+            ],
+            "regularOrIntensive": "専門教育科目デザイン研究",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/all\/S3280.json"
+        },
+        {
+            "lectureCode": "S3290",
+            "courseName": "空間デザイン専門研究",
+            "lecturer": [
+                "田村吾郎",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目デザイン研究",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１１専門演習室１"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/S3290.json"
+        }
+    ]
+}

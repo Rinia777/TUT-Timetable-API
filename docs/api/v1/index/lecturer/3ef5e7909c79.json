@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "一色喜保(医療保健学部看護学科)",
+        "lecturerKey": "3ef5e7909c79"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W1417",
+            "courseName": "公衆衛生看護学実習I（行政保健）",
+            "lecturer": [
+                "一色喜保(医療保健学部看護学科)"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                ""
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/W1417.json"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "filters": {
+        "lecturer": "眞邉一近",
+        "lecturerKey": "5dc3d638e5d7"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "U6325",
+            "courseName": "認知・学習心理学",
+            "lecturer": [
+                "眞邉一近"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2025\/12\/26",
+            "path": "\/api\/v1\/all\/U6325.json"
+        },
+        {
+            "lectureCode": "U6122",
+            "courseName": "人間発達学（理学療法）",
+            "lecturer": [
+                "眞邉一近",
+                "高木健志",
+                "池田泰子",
+                "田中周",
+                "矢吹惇"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科理学療法学専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/U6122.json"
+        },
+        {
+            "lectureCode": "U63301",
+            "courseName": "心理測定法",
+            "lecturer": [
+                "眞邉一近"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2025\/12\/26",
+            "path": "\/api\/v1\/all\/U63301.json"
+        }
+    ]
+}

@@ -1,0 +1,441 @@
+{
+    "filters": {
+        "lecturer": "五十嵐千代",
+        "lecturerKey": "44f776ba6459"
+    },
+    "count": 18,
+    "lectures": [
+        {
+            "lectureCode": "W1402",
+            "courseName": "地域看護学実習",
+            "lecturer": [
+                "五十嵐千代",
+                "印東桂子",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W1402.json"
+        },
+        {
+            "lectureCode": "W140520",
+            "courseName": "卒業研究[NU20]",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/04\/06",
+            "path": "\/api\/v1\/all\/W140520.json"
+        },
+        {
+            "lectureCode": "W140620",
+            "courseName": "統合看護実習[20]",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/all\/W140620.json"
+        },
+        {
+            "lectureCode": "W1413",
+            "courseName": "公衆衛生看護学III",
+            "lecturer": [
+                "五十嵐千代",
+                "印東桂子",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室",
+                "３１０１７教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/W1413.json"
+        },
+        {
+            "lectureCode": "W1415",
+            "courseName": "公衆衛生看護学実習I",
+            "lecturer": [
+                "五十嵐千代",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/01\/21",
+            "path": "\/api\/v1\/all\/W1415.json"
+        },
+        {
+            "lectureCode": "W1416",
+            "courseName": "公衆衛生看護学実習II",
+            "lecturer": [
+                "五十嵐千代",
+                "印東桂子",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W1416.json"
+        },
+        {
+            "lectureCode": "W1310",
+            "courseName": "産業看護学",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/W1310.json"
+        },
+        {
+            "lectureCode": "W1322",
+            "courseName": "産業保健演習",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/all\/W1322.json"
+        },
+        {
+            "lectureCode": "W1321",
+            "courseName": "公衆衛生看護学II",
+            "lecturer": [
+                "五十嵐千代",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/W1321.json"
+        },
+        {
+            "lectureCode": "U1203",
+            "courseName": "保健医療福祉論II",
+            "lecturer": [
+                "五十嵐千代",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/U1203.json"
+        },
+        {
+            "lectureCode": "W1215",
+            "courseName": "保健指導論",
+            "lecturer": [
+                "五十嵐千代",
+                "印東桂子",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/W1215.json"
+        },
+        {
+            "lectureCode": "U1101",
+            "courseName": "公衆衛生学[看護]",
+            "lecturer": [
+                "渋木琢磨",
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/all\/U1101.json"
+        },
+        {
+            "lectureCode": "W1414",
+            "courseName": "公衆衛生看護管理論",
+            "lecturer": [
+                "五十嵐千代",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/W1414.json"
+        },
+        {
+            "lectureCode": "U1201",
+            "courseName": "疫学の基礎",
+            "lecturer": [
+                "五十嵐千代",
+                "印東桂子",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/U1201.json"
+        },
+        {
+            "lectureCode": "U1202",
+            "courseName": "疫学の応用",
+            "lecturer": [
+                "五十嵐千代",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/U1202.json"
+        },
+        {
+            "lectureCode": "W1105",
+            "courseName": "地域看護学",
+            "lecturer": [
+                "五十嵐千代",
+                "印東桂子",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/W1105.json"
+        },
+        {
+            "lectureCode": "U1102",
+            "courseName": "保健医療福祉論I",
+            "lecturer": [
+                "五十嵐千代",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/U1102.json"
+        },
+        {
+            "lectureCode": "W1218",
+            "courseName": "公衆衛生看護学I",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/all\/W1218.json"
+        }
+    ]
+}

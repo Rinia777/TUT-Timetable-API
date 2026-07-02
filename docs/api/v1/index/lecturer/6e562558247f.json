@@ -1,0 +1,429 @@
+{
+    "filters": {
+        "lecturer": "岡田麻衣子",
+        "lecturerKey": "6e562558247f"
+    },
+    "count": 18,
+    "lectures": [
+        {
+            "lectureCode": "ES00304",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/ES00304.json"
+        },
+        {
+            "lectureCode": "GGB90107",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90107.json"
+        },
+        {
+            "lectureCode": "GGB90257",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90257.json"
+        },
+        {
+            "lectureCode": "GGB90307",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90307.json"
+        },
+        {
+            "lectureCode": "GGB90457",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90457.json"
+        },
+        {
+            "lectureCode": "GGB10801",
+            "courseName": "分子腫瘍学特論",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2026\/01\/05",
+            "path": "\/api\/v1\/all\/GGB10801.json"
+        },
+        {
+            "lectureCode": "11041B4",
+            "courseName": "情報リテラシー演習[B2]BS",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/11041B4.json"
+        },
+        {
+            "lectureCode": "11050B02",
+            "courseName": "フレッシャーズゼミI[2]BS",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/11050B02.json"
+        },
+        {
+            "lectureCode": "11041B2",
+            "courseName": "情報リテラシー演習[A2]BS",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/11041B2.json"
+        },
+        {
+            "lectureCode": "ES00404",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/ES00404.json"
+        },
+        {
+            "lectureCode": "GGB90157",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90157.json"
+        },
+        {
+            "lectureCode": "GGB90207",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90207.json"
+        },
+        {
+            "lectureCode": "GGB90357",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90357.json"
+        },
+        {
+            "lectureCode": "GGB90407",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/all\/GGB90407.json"
+        },
+        {
+            "lectureCode": "ES00204",
+            "courseName": "創成課題[BS]",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "専門教育科目課題研究",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/ES00204.json"
+        },
+        {
+            "lectureCode": "11051B02",
+            "courseName": "フレッシャーズゼミII[2]BS",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３",
+                "講義実験棟１０４",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/all\/11051B02.json"
+        },
+        {
+            "lectureCode": "B33601",
+            "courseName": "化粧品開発概論",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B33601.json"
+        },
+        {
+            "lectureCode": "B20501",
+            "courseName": "細胞生物学",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目生物学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/all\/B20501.json"
+        }
+    ]
+}

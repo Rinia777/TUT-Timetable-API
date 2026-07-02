@@ -1,0 +1,64 @@
+{
+    "filters": {
+        "lecturer": "小栁昌央",
+        "lecturerKey": "91d98066b6dd"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U6324",
+            "courseName": "口腔外科学",
+            "lecturer": [
+                "小栁昌央",
+                "宮坂直樹"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/U6324.json"
+        },
+        {
+            "lectureCode": "U63101",
+            "courseName": "臨床歯科医学",
+            "lecturer": [
+                "小栁昌央",
+                "宮坂直樹"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/all\/U63101.json"
+        }
+    ]
+}

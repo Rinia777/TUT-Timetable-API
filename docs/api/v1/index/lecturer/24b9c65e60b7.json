@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "佐藤宏樹(兼任講師)",
+        "lecturerKey": "24b9c65e60b7"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "L9240101",
+            "courseName": "サービスラーニングIII（八王子）",
+            "lecturer": [
+                "神子島健(教養学環)",
+                "佐藤宏樹(兼任講師)",
+                "中島敏博(教養学環)"
+            ],
+            "regularOrIntensive": "教養教育科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "null",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2024\/12\/09",
+            "path": "\/api\/v1\/all\/L9240101.json"
+        }
+    ]
+}
