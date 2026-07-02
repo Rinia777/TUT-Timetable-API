@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "田口雄一朗",
+        "lecturerKey": "788d19493964"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "L803M06",
+            "courseName": "アカデミックスキルズI[MS6]",
+            "lecturer": [
+                "田口雄一朗"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2025\/03\/18",
+            "path": "\/api\/v1\/archive\/2025\/all\/L803M06.json"
+        }
+    ]
+}

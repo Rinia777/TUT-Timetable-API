@@ -1,0 +1,58 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門教育科目講義",
+        "regularOrIntensiveKey": "63733d8df003"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "B11201",
+            "courseName": "応用生物学概論",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2025\/01\/30",
+            "path": "\/api\/v1\/archive\/2025\/all\/B11201.json"
+        },
+        {
+            "lectureCode": "B23401",
+            "courseName": "水環境工学",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2025\/02\/13",
+            "path": "\/api\/v1\/archive\/2025\/all\/B23401.json"
+        }
+    ]
+}

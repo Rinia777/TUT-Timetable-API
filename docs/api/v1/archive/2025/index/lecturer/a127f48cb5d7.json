@@ -1,0 +1,103 @@
+{
+    "filters": {
+        "lecturer": "近藤紀彦",
+        "lecturerKey": "a127f48cb5d7"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L605C09",
+            "courseName": "IntegratedEnglishI[9]CS機械",
+            "lecturer": [
+                "近藤紀彦"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/L605C09.json"
+        },
+        {
+            "lectureCode": "L603C03",
+            "courseName": "EnglishRWI[A3]CS",
+            "lecturer": [
+                "近藤紀彦"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L603C03.json"
+        },
+        {
+            "lectureCode": "L603E13",
+            "courseName": "EnglishRWI[3]機械",
+            "lecturer": [
+                "近藤紀彦"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L603E13.json"
+        },
+        {
+            "lectureCode": "L603E23",
+            "courseName": "EnglishRWI[3]電電",
+            "lecturer": [
+                "近藤紀彦"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L603E23.json"
+        }
+    ]
+}

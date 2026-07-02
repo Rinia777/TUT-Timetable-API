@@ -1,0 +1,95 @@
+{
+    "filters": {
+        "lecturer": "関洋子",
+        "lecturerKey": "bee307bfb072"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "GGB90115",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "関洋子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGB90115.json"
+        },
+        {
+            "lectureCode": "GGB90265",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "関洋子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGB90265.json"
+        },
+        {
+            "lectureCode": "GGB90315",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "関洋子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGB90315.json"
+        },
+        {
+            "lectureCode": "GGB90465",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "関洋子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGB90465.json"
+        }
+    ]
+}

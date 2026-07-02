@@ -1,0 +1,378 @@
+{
+    "filters": {
+        "lecturer": "串田高幸",
+        "lecturerKey": "2cb33a6acbeb"
+    },
+    "count": 16,
+    "lectures": [
+        {
+            "lectureCode": "C40111",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/C40111.json"
+        },
+        {
+            "lectureCode": "C40260",
+            "courseName": "卒業課題II[前期]CS",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/C40260.json"
+        },
+        {
+            "lectureCode": "GGC90111",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90111.json"
+        },
+        {
+            "lectureCode": "GGC90261",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90261.json"
+        },
+        {
+            "lectureCode": "GGC90311",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90311.json"
+        },
+        {
+            "lectureCode": "GGC90461",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90461.json"
+        },
+        {
+            "lectureCode": "GGC12701",
+            "courseName": "分散システム",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2025\/03\/13",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC12701.json"
+        },
+        {
+            "lectureCode": "11050C05",
+            "courseName": "フレッシャーズゼミI[5]CS",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/04\/02",
+            "path": "\/api\/v1\/archive\/2025\/all\/11050C05.json"
+        },
+        {
+            "lectureCode": "C31701",
+            "courseName": "オペレーティングシステム[前期]2023以前",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2025\/02\/05",
+            "path": "\/api\/v1\/archive\/2025\/all\/C31701.json"
+        },
+        {
+            "lectureCode": "C30103",
+            "courseName": "先進情報プロジェクト実習I[IT・3]",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "実習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/C30103.json"
+        },
+        {
+            "lectureCode": "C40211",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/C40211.json"
+        },
+        {
+            "lectureCode": "GGC90411",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90411.json"
+        },
+        {
+            "lectureCode": "C32301",
+            "courseName": "分散コンピューティング[後期]2023以前",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2025\/02\/05",
+            "path": "\/api\/v1\/archive\/2025\/all\/C32301.json"
+        },
+        {
+            "lectureCode": "C21801",
+            "courseName": "オペレーティングシステム[後期]",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2025\/02\/05",
+            "path": "\/api\/v1\/archive\/2025\/all\/C21801.json"
+        },
+        {
+            "lectureCode": "11051C05",
+            "courseName": "フレッシャーズゼミII[5]CS",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/11051C05.json"
+        },
+        {
+            "lectureCode": "C30203",
+            "courseName": "先進情報プロジェクト実習II[IT・3]",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "実習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/C30203.json"
+        }
+    ]
+}

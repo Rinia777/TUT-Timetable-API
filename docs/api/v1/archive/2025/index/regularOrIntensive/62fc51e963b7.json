@@ -1,0 +1,75 @@
+{
+    "filters": {
+        "regularOrIntensive": "基礎教育科目人間形成",
+        "regularOrIntensiveKey": "62fc51e963b7"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "T2500",
+            "courseName": "フレッシャーズゼミ[医療]",
+            "lecturer": [],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/03\/13",
+            "path": "\/api\/v1\/archive\/2025\/all\/T2500.json"
+        },
+        {
+            "lectureCode": "T2661",
+            "courseName": "フレッシャーズゼミI[リハビリ]",
+            "lecturer": [],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/03\/13",
+            "path": "\/api\/v1\/archive\/2025\/all\/T2661.json"
+        },
+        {
+            "lectureCode": "T2761",
+            "courseName": "フレッシャーズゼミII[リハビリ]",
+            "lecturer": [],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/03\/13",
+            "path": "\/api\/v1\/archive\/2025\/all\/T2761.json"
+        }
+    ]
+}

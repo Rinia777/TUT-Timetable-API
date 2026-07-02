@@ -1,0 +1,31 @@
+{
+    "filters": {
+        "lecturer": "宿利淳",
+        "lecturerKey": "1923bcbb4527"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W540701",
+            "courseName": "卒業研究[MT1]",
+            "lecturer": [
+                "榎本みのり",
+                "宿利淳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2025\/all\/W540701.json"
+        }
+    ]
+}

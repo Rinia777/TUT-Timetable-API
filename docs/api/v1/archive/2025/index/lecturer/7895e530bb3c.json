@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "岩永祥恵",
+        "lecturerKey": "7895e530bb3c"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L605C02",
+            "courseName": "IntegratedEnglishI[2]CS機械",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/L605C02.json"
+        },
+        {
+            "lectureCode": "L603C11",
+            "courseName": "EnglishRWI[B5]CS",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L603C11.json"
+        },
+        {
+            "lectureCode": "L606C02",
+            "courseName": "IntegratedEnglishII[2]CS機械",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/01\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/L606C02.json"
+        },
+        {
+            "lectureCode": "L604C11",
+            "courseName": "EnglishRWII[B5]CS",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L604C11.json"
+        }
+    ]
+}

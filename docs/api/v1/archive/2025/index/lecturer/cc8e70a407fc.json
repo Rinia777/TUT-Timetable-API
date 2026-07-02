@@ -1,0 +1,55 @@
+{
+    "filters": {
+        "lecturer": "中山誠一",
+        "lecturerKey": "cc8e70a407fc"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L604E13",
+            "courseName": "EnglishRWII[3]機械",
+            "lecturer": [
+                "中山誠一"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2025\/08\/29",
+            "path": "\/api\/v1\/archive\/2025\/all\/L604E13.json"
+        },
+        {
+            "lectureCode": "L604E23",
+            "courseName": "EnglishRWII[3]電電",
+            "lecturer": [
+                "中山誠一"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2025\/08\/29",
+            "path": "\/api\/v1\/archive\/2025\/all\/L604E23.json"
+        }
+    ]
+}

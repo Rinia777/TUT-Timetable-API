@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "福田孔達",
+        "lecturerKey": "2f5e3aaabdb6"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "C10104",
+            "courseName": "線形代数I[AS4]CS",
+            "lecturer": [
+                "福田孔達"
+            ],
+            "regularOrIntensive": "専門基礎教育科目数理",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/C10104.json"
+        },
+        {
+            "lectureCode": "C10108",
+            "courseName": "線形代数I[BS4]CS",
+            "lecturer": [
+                "福田孔達"
+            ],
+            "regularOrIntensive": "専門基礎教育科目数理",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/C10108.json"
+        }
+    ]
+}

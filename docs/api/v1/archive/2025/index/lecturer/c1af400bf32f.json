@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "志太正次郎",
+        "lecturerKey": "c1af400bf32f"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S3030",
+            "courseName": "マネジメント",
+            "lecturer": [
+                "志太正次郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/01\/31",
+            "path": "\/api\/v1\/archive\/2025\/all\/S3030.json"
+        },
+        {
+            "lectureCode": "S3020",
+            "courseName": "マーケティング論",
+            "lecturer": [
+                "志太正次郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/03\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/S3020.json"
+        }
+    ]
+}

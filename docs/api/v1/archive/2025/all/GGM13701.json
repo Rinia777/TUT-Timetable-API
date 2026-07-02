@@ -1,0 +1,36 @@
+{
+    "lectureCode": "GGM13701",
+    "courseName": "コンピュータビジュアリゼーション特論",
+    "lecturer": [
+        "竹島由里子"
+    ],
+    "regularOrIntensive": "専門科目メディアサイエンス専攻",
+    "courseType": "講義科目",
+    "courseStart": "2025年度前期",
+    "classPeriod": [
+        "火3"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+    "targetGrade": [
+        "1年",
+        "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+        "片柳研究所Ｅ３０２"
+    ],
+    "courceDetails": {
+        "courseOverview": "ビジュアリゼーション（可視化）は、数値データを図形に変換して視覚的に解析を可能にする技術です。大規模データや複雑な構造を持つデータから意味のある情報を抽出することは難しいですが、可視化により直感的に隠れた情報を発見することができます。ただし、可視化方法によって得られる情報量が異なるため、適切な可視化技法とパラメタ設定が必要です。本授業では、科学技術データと情報可視化技法を体系的に学び、具体的な事例を通じて目的に応じた可視化技法を使いこなせる力を養います。Computervisualizationisatechniquethatenablesvisualanalysisbyconvertingnumericaldataintographicalrepresentations.Extractingmeaningfulinformationfromlargeorcomplexdatacanbechallenging,butvisualizationallowsfortheintuitivediscoveryofhiddeninsights.However,theamountofinformationgaineddependsonhowthedataisvisualized,soeffectivelyselectingthepropertechniqueandconfiguringparametersisessential.Thiscourseaimstostudytechniquesforscientificvisualizationandinformationvisualizationsystematically.Studentswilldeveloptheabilitytoapplyappropriatevisualizationmethodsbasedontheobjectivesofspecificexamples.",
+        "outcomesMeasuredBy": "各可視化技法の利点や欠点、特性などを習得するとともに、具体的な事例での利用や可視化結果の理解が可能になるための知識を身につける。Studentswillalsolearntheadvantages,disadvantages,andcharacteristicsofvariousvisualizationtechniques.Additionally,theywillacquiretheknowledgeneededtoapplythesetechniquestospecificcasesandtointerpretvisualizationresultseffectively.",
+        "learningOutcomes": "実学に基づく専門能力、論理的な思考力、分析・評価能力",
+        "teachingMethod": "【授業形態：講義】ノートPC必携スライドを用いて講義を行う。各可視化技法について説明するとともに、その可視化技法を用いた具体的な事例についても紹介していく。また、可視化結果から得られる情報について考察し、可視化方法の問題点や改善点などについての議論を行う。また、情報可視化ソフトウェアTableauを用いた、演習を適宜行うことで、実データの可視化作業を体験する。【ClassFormat:Lecture】Alaptopisrequired.Lectureswillbeconductedusingslides.Eachvisualizationtechniquewillbeexplained,accompaniedbyconcreteexamplesdemonstratingitsapplication.Inaddition,studentswillanalyzetheinformationobtainedfromvisualizationresultsandengageindiscussionsaboutthechallengesandpotentialimprovementsofthevisualizationmethods.PracticalexercisesusingthedatavisualizationsoftwareTableauwillalsobeconductedasneeded,allowingstudentstoexperiencehands-onvisualizationofreal-worlddata.",
+        "notices": "講義を「聴く」だけでなく、積極的に課題を行うようにすること。Studentsareencouragednotonlytolistentothelecturesbutalsotoactivelyengageincompletingtheassignedtasks.",
+        "preparatoryStudy": "学習した可視化技法に対して、どのようなデータで利用可能か、どのような工夫が可能かなどについて復習すること。授業前に、その回で学ぶ内容の把握をすること（120分程度）。授業後に、キーワードの理解、演習内容の復習、レポート課題などを実施すること（120分程度）。Studentsareexpectedtoreviewthevisualizationtechniqueslearnedinclass,includingunderstandingwhattypesofdataeachtechniquecanbeappliedtoandexploringpossibleinnovationsorimprovements.Beforeeachclasssession,studentsshouldpreviewthetopicstobecovered(approximately120minutes).Afterclass,studentsarerequiredtodeepentheirunderstandingbyreviewingkeyconcepts,revisitingexercisecontent,andcompletingreportassignmentsorothertasks(approximately120minutes).",
+        "gradingGuidelines": "各回で示す課題および最終課題を4:6の割合で換算し、全体の6割以上の成績で合格とする。なお、各回の課題は、次回の授業内でフィードバックを行う。Assignmentsgivenineachsessionandthefinalprojectwillbeweightedataratioof4:6.Atotalscoreof60%orhigherisrequiredtopassthecourse.Feedbackontheassignmentsfromeachsessionwillbeprovidedduringthefollowingclass.",
+        "textbook": "指定しないNone",
+        "referenceMaterials": "「VisualizationAnalysis\u0026Design」、CRCPress「可視化と科学・文化・社会」、コロナ社(inJapanese)",
+        "courseSchedule": "第1回：イントロダクション（情報可視化の意義）第2回：データおよびタスクの抽象化第3回：記号とチャネル第4回：可視化の規則第5回：表データの可視化第6回：空間データの可視化第7回：まとめ（適用事例紹介）Session1:Introduction(SignificanceofInformationVisualization)Session2:AbstractionofDataandTasksSession3:MarksandChannelsSession4:RulesofVisualizationSession5:VisualizationofTabularDataSession6:VisualizationofSpatialDataSession7:Summary(IntroductiontoApplicationExamples)",
+        "courseDataUpdatedAt": "2025\/03\/11"
+    },
+    "updateAt": "2025\/03\/11"
+}

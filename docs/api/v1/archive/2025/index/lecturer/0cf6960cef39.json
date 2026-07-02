@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "佐藤亜紀",
+        "lecturerKey": "0cf6960cef39"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L605B09",
+            "courseName": "IntegratedEnglishI[9]BS電電応化",
+            "lecturer": [
+                "佐藤亜紀"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2025\/01\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/L605B09.json"
+        },
+        {
+            "lectureCode": "L603B03",
+            "courseName": "EnglishRWI[A3]BS",
+            "lecturer": [
+                "佐藤亜紀"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L603B03.json"
+        },
+        {
+            "lectureCode": "L606B09",
+            "courseName": "IntegratedEnglishII[9]BS電電応化",
+            "lecturer": [
+                "佐藤亜紀"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2025\/01\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/L606B09.json"
+        },
+        {
+            "lectureCode": "L604B03",
+            "courseName": "EnglishRWII[A3]BS",
+            "lecturer": [
+                "佐藤亜紀"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L604B03.json"
+        }
+    ]
+}

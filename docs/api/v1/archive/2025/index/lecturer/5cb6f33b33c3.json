@@ -1,0 +1,138 @@
+{
+    "filters": {
+        "lecturer": "矢田康人",
+        "lecturerKey": "5cb6f33b33c3"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "U63107",
+            "courseName": "音声学",
+            "lecturer": [
+                "矢田康人"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2025\/02\/12",
+            "path": "\/api\/v1\/archive\/2025\/all\/U63107.json"
+        },
+        {
+            "lectureCode": "U63207",
+            "courseName": "音声学II",
+            "lecturer": [
+                "矢田康人"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2025\/02\/12",
+            "path": "\/api\/v1\/archive\/2025\/all\/U63207.json"
+        },
+        {
+            "lectureCode": "W63307",
+            "courseName": "吃音学",
+            "lecturer": [
+                "矢田康人",
+                "池田泰子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2025\/01\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/W63307.json"
+        },
+        {
+            "lectureCode": "U63106",
+            "courseName": "言語学[1年]",
+            "lecturer": [
+                "矢田康人"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2025\/02\/12",
+            "path": "\/api\/v1\/archive\/2025\/all\/U63106.json"
+        },
+        {
+            "lectureCode": "U63206",
+            "courseName": "言語学[2年]",
+            "lecturer": [
+                "矢田康人"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水3",
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2025\/02\/12",
+            "path": "\/api\/v1\/archive\/2025\/all\/U63206.json"
+        }
+    ]
+}

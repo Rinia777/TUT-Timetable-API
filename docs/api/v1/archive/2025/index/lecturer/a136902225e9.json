@@ -1,0 +1,328 @@
+{
+    "filters": {
+        "lecturer": "三上あかね",
+        "lecturerKey": "a136902225e9"
+    },
+    "count": 12,
+    "lectures": [
+        {
+            "lectureCode": "T3151",
+            "courseName": "化学の基礎[臨検4年]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/01\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/T3151.json"
+        },
+        {
+            "lectureCode": "W540708",
+            "courseName": "卒業研究[MT8]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2025\/all\/W540708.json"
+        },
+        {
+            "lectureCode": "GH1002",
+            "courseName": "臨床検査学研究方法論",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "岡崎充宏",
+                "奥橋佑基",
+                "榎本みのり",
+                "十島純子",
+                "澤田辰徳",
+                "友利幸之介",
+                "水野元貴",
+                "川又紀彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2025\/01\/17",
+            "path": "\/api\/v1\/archive\/2025\/all\/GH1002.json"
+        },
+        {
+            "lectureCode": "GH1003",
+            "courseName": "多職種国際医療コミュニケーション技術論",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "荻野稔",
+                "澤田辰徳",
+                "友利幸之介",
+                "川又紀彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/01\/18",
+            "path": "\/api\/v1\/archive\/2025\/all\/GH1003.json"
+        },
+        {
+            "lectureCode": "GH1008",
+            "courseName": "遺伝子関連検査学",
+            "lecturer": [
+                "三上あかね",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2025\/01\/17",
+            "path": "\/api\/v1\/archive\/2025\/all\/GH1008.json"
+        },
+        {
+            "lectureCode": "W5213",
+            "courseName": "遺伝子検査学",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2025\/01\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/W5213.json"
+        },
+        {
+            "lectureCode": "W5305",
+            "courseName": "免疫検査学実習",
+            "lecturer": [
+                "三上あかね",
+                "水野元貴",
+                "迫西大輔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３",
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2025\/01\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/W5305.json"
+        },
+        {
+            "lectureCode": "W540908",
+            "courseName": "卒業研究II[MT8]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2025\/all\/W540908.json"
+        },
+        {
+            "lectureCode": "T3150",
+            "courseName": "化学の世界[臨検]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０３１１教室"
+            ],
+            "updateAt": "2025\/01\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/T3150.json"
+        },
+        {
+            "lectureCode": "U5108",
+            "courseName": "検査機器総論（含む実習）",
+            "lecturer": [
+                "三上あかね",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義・実習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３",
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2025\/01\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/U5108.json"
+        },
+        {
+            "lectureCode": "W5214",
+            "courseName": "遺伝子検査学実習",
+            "lecturer": [
+                "三上あかね",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2025\/01\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/W5214.json"
+        },
+        {
+            "lectureCode": "W5211",
+            "courseName": "免疫検査学",
+            "lecturer": [
+                "伊藤さやか",
+                "三上あかね",
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2025\/06\/17",
+            "path": "\/api\/v1\/archive\/2025\/all\/W5211.json"
+        }
+    ]
+}

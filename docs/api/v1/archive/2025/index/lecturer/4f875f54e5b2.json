@@ -1,0 +1,125 @@
+{
+    "filters": {
+        "lecturer": "宮元三恵",
+        "lecturerKey": "4f875f54e5b2"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "S3240",
+            "courseName": "空間演出デザインコース専門演習II",
+            "lecturer": [
+                "宮元三恵",
+                "田村吾郎",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１１専門演習室１"
+            ],
+            "updateAt": "2025\/01\/17",
+            "path": "\/api\/v1\/archive\/2025\/all\/S3240.json"
+        },
+        {
+            "lectureCode": "S2281",
+            "courseName": "空間デザイン専門演習I[3Q／後期前半]",
+            "lecturer": [
+                "宮元三恵"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１１デザイン演習室２"
+            ],
+            "updateAt": "2025\/03\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2281.json"
+        },
+        {
+            "lectureCode": "S2282",
+            "courseName": "空間デザイン専門演習I[4Q／後期後半]",
+            "lecturer": [
+                "宮元三恵"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１１デザイン演習室２"
+            ],
+            "updateAt": "2025\/03\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2282.json"
+        },
+        {
+            "lectureCode": "S2160",
+            "courseName": "空間デザイン論",
+            "lecturer": [
+                "宮元三恵"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2025\/01\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2160.json"
+        }
+    ]
+}

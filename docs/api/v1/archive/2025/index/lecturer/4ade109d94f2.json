@@ -1,0 +1,159 @@
+{
+    "filters": {
+        "lecturer": "杉平敦",
+        "lecturerKey": "4ade109d94f2"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "L803M02",
+            "courseName": "アカデミックスキルズI[MS2]",
+            "lecturer": [
+                "杉平敦"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/L803M02.json"
+        },
+        {
+            "lectureCode": "L803B08",
+            "courseName": "アカデミックスキルズI[BS8]",
+            "lecturer": [
+                "杉平敦"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/L803B08.json"
+        },
+        {
+            "lectureCode": "L803C08",
+            "courseName": "アカデミックスキルズI[CS8]",
+            "lecturer": [
+                "杉平敦"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/L803C08.json"
+        },
+        {
+            "lectureCode": "L804M07",
+            "courseName": "アカデミックスキルズII[MS7]",
+            "lecturer": [
+                "杉平敦"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/L804M07.json"
+        },
+        {
+            "lectureCode": "L804BC10",
+            "courseName": "アカデミックスキルズII[BSCS10]",
+            "lecturer": [
+                "杉平敦"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/L804BC10.json"
+        },
+        {
+            "lectureCode": "L804BC22",
+            "courseName": "アカデミックスキルズII[BSCS22]",
+            "lecturer": [
+                "杉平敦"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/L804BC22.json"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "野村律子",
+        "lecturerKey": "150bdda00f52"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S2140",
+            "courseName": "情報デザイン論",
+            "lecturer": [
+                "野村律子"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2025\/03\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2140.json"
+        },
+        {
+            "lectureCode": "S2100",
+            "courseName": "専門スキル演習(デジタル映像表現)",
+            "lecturer": [
+                "伊藤英高",
+                "野村律子"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１５デザインクリエーションルーム２"
+            ],
+            "updateAt": "2025\/01\/19",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2100.json"
+        }
+    ]
+}

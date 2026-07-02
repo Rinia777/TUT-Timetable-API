@@ -1,0 +1,198 @@
+{
+    "filters": {
+        "lecturer": "内田庸助",
+        "lecturerKey": "ed126e388328"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "W240615",
+            "courseName": "卒業研究I[CE15]",
+            "lecturer": [
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2025\/all\/W240615.json"
+        },
+        {
+            "lectureCode": "U2106",
+            "courseName": "工学基礎演習I",
+            "lecturer": [
+                "加用一者",
+                "伊東雅之",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/U2106.json"
+        },
+        {
+            "lectureCode": "T2820",
+            "courseName": "医療科学の基礎I[臨工]",
+            "lecturer": [
+                "都丸亜希子",
+                "下村美文",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義・実験科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/T2820.json"
+        },
+        {
+            "lectureCode": "W240715",
+            "courseName": "卒業研究II[CE15]",
+            "lecturer": [
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2025\/all\/W240715.json"
+        },
+        {
+            "lectureCode": "T2900",
+            "courseName": "医療科学の基礎II",
+            "lecturer": [
+                "安藤ゆうき",
+                "佐藤広隆",
+                "髙橋優太",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義・実験科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2024\/12\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/T2900.json"
+        },
+        {
+            "lectureCode": "U2107",
+            "courseName": "工学基礎演習II",
+            "lecturer": [
+                "加用一者",
+                "伊東雅之",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/U2107.json"
+        },
+        {
+            "lectureCode": "W2403",
+            "courseName": "医用工学特別演習",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之",
+                "笠井亮佑",
+                "上條史記",
+                "佐藤広隆",
+                "髙橋優太",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2025\/01\/17",
+            "path": "\/api\/v1\/archive\/2025\/all\/W2403.json"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "filters": {
+        "lecturer": "高本綺架",
+        "lecturerKey": "150042064f66"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "C20801",
+            "courseName": "C言語プログラミングI",
+            "lecturer": [
+                "ライエルグリムベルゲン",
+                "高本綺架"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ・ビジネス",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2025\/02\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/C20801.json"
+        },
+        {
+            "lectureCode": "C31201",
+            "courseName": "プログラミングB1[2023以前]",
+            "lecturer": [
+                "ライエルグリムベルゲン",
+                "高本綺架"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2025\/02\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/C31201.json"
+        },
+        {
+            "lectureCode": "C31001",
+            "courseName": "プログラミングA1[2023以前]",
+            "lecturer": [
+                "松岡丈平",
+                "高本綺架"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ３０２",
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2025\/02\/02",
+            "path": "\/api\/v1\/archive\/2025\/all\/C31001.json"
+        },
+        {
+            "lectureCode": "C10801",
+            "courseName": "プログラミング基礎I[A]CS",
+            "lecturer": [
+                "欅リベカ",
+                "伝保昭彦",
+                "高本綺架"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２",
+                "研究棟Ａ４０３",
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2025\/01\/06",
+            "path": "\/api\/v1\/archive\/2025\/all\/C10801.json"
+        },
+        {
+            "lectureCode": "11041C1",
+            "courseName": "情報リテラシー演習[A]CS",
+            "lecturer": [
+                "福西広晃",
+                "高本綺架",
+                "楊健"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０１",
+                "講義棟Ａ２０２",
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/11041C1.json"
+        },
+        {
+            "lectureCode": "C10902",
+            "courseName": "プログラミング基礎II[B]CS",
+            "lecturer": [
+                "欅リベカ",
+                "渡辺昌洋",
+                "高本綺架"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２",
+                "研究棟Ａ４０３",
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/C10902.json"
+        }
+    ]
+}

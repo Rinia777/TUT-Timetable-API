@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "斎藤みほ",
+        "lecturerKey": "d70fc25bd221"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L20801",
+            "courseName": "文化人類学[木1]CSES",
+            "lecturer": [
+                "斎藤みほ"
+            ],
+            "regularOrIntensive": "実学基礎科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2025\/06\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/L20801.json"
+        },
+        {
+            "lectureCode": "L20802",
+            "courseName": "文化人類学[木2]BSMSES",
+            "lecturer": [
+                "斎藤みほ"
+            ],
+            "regularOrIntensive": "実学基礎科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2025\/06\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/L20802.json"
+        }
+    ]
+}

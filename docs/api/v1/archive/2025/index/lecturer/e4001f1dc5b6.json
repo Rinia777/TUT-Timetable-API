@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "lecturer": "岩崎剛毅",
+        "lecturerKey": "e4001f1dc5b6"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L620B06",
+            "courseName": "IntegratedEnglishIII[6]BS電電応化",
+            "lecturer": [
+                "岩崎剛毅"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/01\/27",
+            "path": "\/api\/v1\/archive\/2025\/all\/L620B06.json"
+        },
+        {
+            "lectureCode": "L605B04",
+            "courseName": "IntegratedEnglishI[4]BS電電応化",
+            "lecturer": [
+                "岩崎剛毅"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/01\/27",
+            "path": "\/api\/v1\/archive\/2025\/all\/L605B04.json"
+        },
+        {
+            "lectureCode": "L621B06",
+            "courseName": "IntegratedEnglishIV[6]BS電電応化",
+            "lecturer": [
+                "岩崎剛毅"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/01\/27",
+            "path": "\/api\/v1\/archive\/2025\/all\/L621B06.json"
+        },
+        {
+            "lectureCode": "L606B04",
+            "courseName": "IntegratedEnglishII[4]BS電電応化",
+            "lecturer": [
+                "岩崎剛毅"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2025\/01\/27",
+            "path": "\/api\/v1\/archive\/2025\/all\/L606B04.json"
+        }
+    ]
+}

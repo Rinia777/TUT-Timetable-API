@@ -1,0 +1,84 @@
+{
+    "filters": {
+        "lecturer": "関根謙一郎",
+        "lecturerKey": "c9bf06b8722f"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "K60601",
+            "courseName": "サステイナブル電気電子工学概論I",
+            "lecturer": [
+                "黒川弘章",
+                "天野直紀",
+                "新海健",
+                "関根謙一郎",
+                "小原翔馬",
+                "李寧"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/K60601.json"
+        },
+        {
+            "lectureCode": "K605504",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "関根謙一郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/01\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/K605504.json"
+        },
+        {
+            "lectureCode": "K605304",
+            "courseName": "創成課題[4]",
+            "lecturer": [
+                "関根謙一郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月2",
+                "金2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/05\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/K605304.json"
+        }
+    ]
+}

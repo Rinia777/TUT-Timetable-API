@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "中原大介",
+        "lecturerKey": "11fa2db03927"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "M302601",
+            "courseName": "サービスデザイン",
+            "lecturer": [
+                "中原大介"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2025\/01\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/M302601.json"
+        }
+    ]
+}

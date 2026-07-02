@@ -1,0 +1,69 @@
+{
+    "filters": {
+        "lecturer": "川野文子",
+        "lecturerKey": "5cdd9ec1be86"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "11120M01",
+            "courseName": "キャリア設計I[MS]",
+            "lecturer": [
+                "菊池司",
+                "川野文子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６",
+                "講義実験棟４０１",
+                "講義実験棟４０２",
+                "研究棟Ａ５０２",
+                "研究棟Ａ５０３",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2025\/01\/31",
+            "path": "\/api\/v1\/archive\/2025\/all\/11120M01.json"
+        },
+        {
+            "lectureCode": "11121M04",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "菊池司",
+                "川野文子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１",
+                "講義棟Ａ２０２",
+                "講義棟Ａ２０３",
+                "講義棟Ａ２０４",
+                "講義棟Ａ３０１",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2025\/01\/31",
+            "path": "\/api\/v1\/archive\/2025\/all\/11121M04.json"
+        }
+    ]
+}

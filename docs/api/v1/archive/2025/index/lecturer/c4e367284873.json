@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "井野海",
+        "lecturerKey": "c4e367284873"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "11043C1",
+            "courseName": "数学基礎[A]CS",
+            "lecturer": [
+                "井野海"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/11043C1.json"
+        }
+    ]
+}

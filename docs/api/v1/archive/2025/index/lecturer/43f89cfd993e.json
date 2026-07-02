@@ -1,0 +1,407 @@
+{
+    "filters": {
+        "lecturer": "福西広晃",
+        "lecturerKey": "43f89cfd993e"
+    },
+    "count": 17,
+    "lectures": [
+        {
+            "lectureCode": "C40118",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/01\/27",
+            "path": "\/api\/v1\/archive\/2025\/all\/C40118.json"
+        },
+        {
+            "lectureCode": "C40265",
+            "courseName": "卒業課題II[前期]CS",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/C40265.json"
+        },
+        {
+            "lectureCode": "GGC90117",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90117.json"
+        },
+        {
+            "lectureCode": "GGC90267",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90267.json"
+        },
+        {
+            "lectureCode": "GGC90317",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90317.json"
+        },
+        {
+            "lectureCode": "GGC90467",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90467.json"
+        },
+        {
+            "lectureCode": "C21001",
+            "courseName": "JavaプログラミングI",
+            "lecturer": [
+                "福西広晃",
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ・ビジネス",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2025\/02\/06",
+            "path": "\/api\/v1\/archive\/2025\/all\/C21001.json"
+        },
+        {
+            "lectureCode": "C31401",
+            "courseName": "プログラミングC1[2023以前]",
+            "lecturer": [
+                "福西広晃",
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2025\/02\/06",
+            "path": "\/api\/v1\/archive\/2025\/all\/C31401.json"
+        },
+        {
+            "lectureCode": "C30602",
+            "courseName": "人工知能専門演習II[AI・6]",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2025\/02\/06",
+            "path": "\/api\/v1\/archive\/2025\/all\/C30602.json"
+        },
+        {
+            "lectureCode": "11041C1",
+            "courseName": "情報リテラシー演習[A]CS",
+            "lecturer": [
+                "福西広晃",
+                "高本綺架",
+                "楊健"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０１",
+                "講義棟Ａ２０２",
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/11041C1.json"
+        },
+        {
+            "lectureCode": "C40218",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/01\/27",
+            "path": "\/api\/v1\/archive\/2025\/all\/C40218.json"
+        },
+        {
+            "lectureCode": "GGC90217",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90217.json"
+        },
+        {
+            "lectureCode": "GGC90417",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/04\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC90417.json"
+        },
+        {
+            "lectureCode": "C30917",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/C30917.json"
+        },
+        {
+            "lectureCode": "C11603",
+            "courseName": "社会情報専門演習I[SI・3]",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2025\/02\/06",
+            "path": "\/api\/v1\/archive\/2025\/all\/C11603.json"
+        },
+        {
+            "lectureCode": "C23303",
+            "courseName": "社会情報専門演習II[SI・3]",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2025\/02\/06",
+            "path": "\/api\/v1\/archive\/2025\/all\/C23303.json"
+        },
+        {
+            "lectureCode": "GGC12101",
+            "courseName": "データサイエンス特論",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/GGC12101.json"
+        }
+    ]
+}

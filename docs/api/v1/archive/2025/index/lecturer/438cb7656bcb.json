@@ -1,0 +1,443 @@
+{
+    "filters": {
+        "lecturer": "小林克正",
+        "lecturerKey": "438cb7656bcb"
+    },
+    "count": 18,
+    "lectures": [
+        {
+            "lectureCode": "M400110",
+            "courseName": "卒業研究I",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/02\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/M400110.json"
+        },
+        {
+            "lectureCode": "11050M08",
+            "courseName": "フレッシャーズゼミI[08]MS",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/02\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/11050M08.json"
+        },
+        {
+            "lectureCode": "11042M1",
+            "courseName": "数学概論[MS]",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2025\/01\/06",
+            "path": "\/api\/v1\/archive\/2025\/all\/11042M1.json"
+        },
+        {
+            "lectureCode": "M3001S2",
+            "courseName": "メディア専門演習II[ユーザ体験価値デザイン]2023年以前入学者",
+            "lecturer": [
+                "寺澤卓也",
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/01\/31",
+            "path": "\/api\/v1\/archive\/2025\/all\/M3001S2.json"
+        },
+        {
+            "lectureCode": "M200401",
+            "courseName": "経営数理[2023年以前入学者]",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/M200401.json"
+        },
+        {
+            "lectureCode": "MK09601",
+            "courseName": "経営数理I",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/MK09601.json"
+        },
+        {
+            "lectureCode": "MK09701",
+            "courseName": "経営数理II",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/MK09701.json"
+        },
+        {
+            "lectureCode": "M001101",
+            "courseName": "メディア基礎演習I[再履修クラス]",
+            "lecturer": [
+                "小林克正",
+                "太田高志",
+                "竹島由里子",
+                "兼松祥央",
+                "加藤邦拓",
+                "盛川浩志",
+                "陳海茵"
+            ],
+            "regularOrIntensive": "専門基礎教育科目共通科目・メディア共通演習",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/09\/01",
+            "path": "\/api\/v1\/archive\/2025\/all\/M001101.json"
+        },
+        {
+            "lectureCode": "M400210",
+            "courseName": "卒業研究II",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/02\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/M400210.json"
+        },
+        {
+            "lectureCode": "MS01308",
+            "courseName": "メディア専門演習I[価値創造プランニング]3Q",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/MS01308.json"
+        },
+        {
+            "lectureCode": "MS01408",
+            "courseName": "メディア専門演習I[価値創造プランニング]4Q",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/MS01408.json"
+        },
+        {
+            "lectureCode": "MS02308",
+            "courseName": "メディア専門演習II[価値創造プランニング]3Q",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/MS02308.json"
+        },
+        {
+            "lectureCode": "MS02408",
+            "courseName": "メディア専門演習II[価値創造プランニング]4Q",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/MS02408.json"
+        },
+        {
+            "lectureCode": "MS03308",
+            "courseName": "メディア専門演習III[価値創造プランニング]3Q",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/MS03308.json"
+        },
+        {
+            "lectureCode": "MS03408",
+            "courseName": "メディア専門演習III[価値創造プランニング]4Q",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/MS03408.json"
+        },
+        {
+            "lectureCode": "11051M08",
+            "courseName": "フレッシャーズゼミII[08]MS",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/02\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/11051M08.json"
+        },
+        {
+            "lectureCode": "MK05901",
+            "courseName": "メディア基礎演習",
+            "lecturer": [
+                "小林克正",
+                "藤澤公也",
+                "飯沼瑞穂",
+                "菊池司",
+                "兼松祥央"
+            ],
+            "regularOrIntensive": "専門基礎教育科目共通科目・メディア共通演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/MK05901.json"
+        },
+        {
+            "lectureCode": "M300210",
+            "courseName": "創成課題",
+            "lecturer": [
+                "小林克正"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/02\/14",
+            "path": "\/api\/v1\/archive\/2025\/all\/M300210.json"
+        }
+    ]
+}

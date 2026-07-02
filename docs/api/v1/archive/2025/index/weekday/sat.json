@@ -1,0 +1,58 @@
+{
+    "filters": {
+        "weekday": "土",
+        "weekdayKey": "sat"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U2404",
+            "courseName": "公衆衛生学[臨工]",
+            "lecturer": [
+                "内藤通昭",
+                "梅田勝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "土"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2025\/09\/12",
+            "path": "\/api\/v1\/archive\/2025\/all\/U2404.json"
+        },
+        {
+            "lectureCode": "U60301",
+            "courseName": "公衆衛生学[リハビリ]",
+            "lecturer": [
+                "内藤通昭",
+                "梅田勝"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "土"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2025\/09\/12",
+            "path": "\/api\/v1\/archive\/2025\/all\/U60301.json"
+        }
+    ]
+}

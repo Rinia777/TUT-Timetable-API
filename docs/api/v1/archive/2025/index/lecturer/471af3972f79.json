@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "亀田弘之",
+        "lecturerKey": "471af3972f79"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L804BC08",
+            "courseName": "アカデミックスキルズII[BSCS8]",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/L804BC08.json"
+        },
+        {
+            "lectureCode": "L804BC20",
+            "courseName": "アカデミックスキルズII[BSCS20]",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2025\/03\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/L804BC20.json"
+        }
+    ]
+}

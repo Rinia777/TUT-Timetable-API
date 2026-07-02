@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "lecturer": "岡本進",
+        "lecturerKey": "9f10dddf64cc"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L620B08",
+            "courseName": "IntegratedEnglishIII[8]BS電電応化",
+            "lecturer": [
+                "岡本進"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/L620B08.json"
+        },
+        {
+            "lectureCode": "L605B10",
+            "courseName": "IntegratedEnglishI[10]BS電電応化",
+            "lecturer": [
+                "岡本進"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/L605B10.json"
+        },
+        {
+            "lectureCode": "L621B08",
+            "courseName": "IntegratedEnglishIV[8]BS電電応化",
+            "lecturer": [
+                "岡本進"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/L621B08.json"
+        },
+        {
+            "lectureCode": "L606B10",
+            "courseName": "IntegratedEnglishII[10]BS電電応化",
+            "lecturer": [
+                "岡本進"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/L606B10.json"
+        }
+    ]
+}

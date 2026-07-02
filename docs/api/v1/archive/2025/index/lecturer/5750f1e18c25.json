@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "飯田淳",
+        "lecturerKey": "5750f1e18c25"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S2170",
+            "courseName": "イラストレーション論",
+            "lecturer": [
+                "飯田淳",
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/09\/18",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2170.json"
+        }
+    ]
+}

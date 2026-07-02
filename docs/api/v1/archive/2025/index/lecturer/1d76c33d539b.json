@@ -1,0 +1,108 @@
+{
+    "filters": {
+        "lecturer": "千種康民",
+        "lecturerKey": "1d76c33d539b"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "M301201",
+            "courseName": "データベースと情報検索技術",
+            "lecturer": [
+                "千種康民"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/M301201.json"
+        },
+        {
+            "lectureCode": "M200601",
+            "courseName": "メディア情報処理の基礎[2023年以前入学者]",
+            "lecturer": [
+                "千種康民",
+                "大淵康成"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/M200601.json"
+        },
+        {
+            "lectureCode": "MK08701",
+            "courseName": "画像メディア処理の基礎",
+            "lecturer": [
+                "千種康民"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/MK08701.json"
+        },
+        {
+            "lectureCode": "M302101",
+            "courseName": "IoTデバイス論",
+            "lecturer": [
+                "千種康民",
+                "永田明徳",
+                "羽田久一"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2025\/01\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/M302101.json"
+        }
+    ]
+}

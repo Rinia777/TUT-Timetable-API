@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "清水友子",
+        "lecturerKey": "f958bd8707a0"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L605B01",
+            "courseName": "IntegratedEnglishI[1]BS電電応化",
+            "lecturer": [
+                "清水友子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2025\/01\/24",
+            "path": "\/api\/v1\/archive\/2025\/all\/L605B01.json"
+        },
+        {
+            "lectureCode": "L603B06",
+            "courseName": "EnglishRWI[B1]BS",
+            "lecturer": [
+                "清水友子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L603B06.json"
+        },
+        {
+            "lectureCode": "L606B01",
+            "courseName": "IntegratedEnglishII[1]BS電電応化",
+            "lecturer": [
+                "清水友子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2025\/01\/24",
+            "path": "\/api\/v1\/archive\/2025\/all\/L606B01.json"
+        },
+        {
+            "lectureCode": "L604B06",
+            "courseName": "EnglishRWII[B1]BS",
+            "lecturer": [
+                "清水友子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L604B06.json"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "佐藤恵太",
+        "lecturerKey": "95f47c1e2070"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "R1060",
+            "courseName": "法学[デザイン]",
+            "lecturer": [
+                "佐藤恵太"
+            ],
+            "regularOrIntensive": "実学基礎科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2025\/02\/17",
+            "path": "\/api\/v1\/archive\/2025\/all\/R1060.json"
+        },
+        {
+            "lectureCode": "T0900",
+            "courseName": "法学[医療]",
+            "lecturer": [
+                "佐藤恵太"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2025\/02\/17",
+            "path": "\/api\/v1\/archive\/2025\/all\/T0900.json"
+        }
+    ]
+}

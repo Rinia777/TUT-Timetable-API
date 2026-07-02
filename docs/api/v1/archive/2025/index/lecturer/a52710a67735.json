@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "山本雅義",
+        "lecturerKey": "a52710a67735"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "11043B1",
+            "courseName": "数学基礎[A]BS",
+            "lecturer": [
+                "山本雅義"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/11043B1.json"
+        },
+        {
+            "lectureCode": "11042K1",
+            "courseName": "数学概論[ES1]",
+            "lecturer": [
+                "山本雅義"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2025\/01\/08",
+            "path": "\/api\/v1\/archive\/2025\/all\/11042K1.json"
+        }
+    ]
+}

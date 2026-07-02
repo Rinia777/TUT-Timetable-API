@@ -1,0 +1,123 @@
+{
+    "filters": {
+        "lecturer": "舟山貴士",
+        "lecturerKey": "1ed3b21a40a0"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "S3050",
+            "courseName": "専門スキル演習(エディトリアルデザイン)",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2025\/01\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/S3050.json"
+        },
+        {
+            "lectureCode": "S2251",
+            "courseName": "視覚デザイン専門演習I[3Q／後期前半]",
+            "lecturer": [
+                "舟山貴士",
+                "小田敬子"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３０１デザイン演習室１"
+            ],
+            "updateAt": "2025\/03\/18",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2251.json"
+        },
+        {
+            "lectureCode": "S2252",
+            "courseName": "視覚デザイン専門演習I[4Q／後期後半]",
+            "lecturer": [
+                "舟山貴士",
+                "小田敬子"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３０１デザイン演習室１"
+            ],
+            "updateAt": "2025\/03\/21",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2252.json"
+        },
+        {
+            "lectureCode": "S2080",
+            "courseName": "専門スキル演習(エディトリアルデザイン)",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2025\/01\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2080.json"
+        }
+    ]
+}

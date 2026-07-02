@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "カレン，S",
+        "lecturerKey": "308d03b66c23"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L606M06",
+            "courseName": "IntegratedEnglishII[6]MS火1",
+            "lecturer": [
+                "カレン，S"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2025\/08\/29",
+            "path": "\/api\/v1\/archive\/2025\/all\/L606M06.json"
+        },
+        {
+            "lectureCode": "L604E21",
+            "courseName": "EnglishRWII[1]電電",
+            "lecturer": [
+                "カレン，S"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2025\/08\/29",
+            "path": "\/api\/v1\/archive\/2025\/all\/L604E21.json"
+        }
+    ]
+}

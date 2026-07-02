@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "島倉原",
+        "lecturerKey": "3b09880b1f4f"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "R1040",
+            "courseName": "経済学[デザイン]",
+            "lecturer": [
+                "島倉原"
+            ],
+            "regularOrIntensive": "実学基礎科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2025\/01\/23",
+            "path": "\/api\/v1\/archive\/2025\/all\/R1040.json"
+        },
+        {
+            "lectureCode": "T0800",
+            "courseName": "経済学[医療]",
+            "lecturer": [
+                "島倉原"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2025\/01\/23",
+            "path": "\/api\/v1\/archive\/2025\/all\/T0800.json"
+        }
+    ]
+}

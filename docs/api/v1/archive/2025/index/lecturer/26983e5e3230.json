@@ -1,0 +1,113 @@
+{
+    "filters": {
+        "lecturer": "日比野千佳",
+        "lecturerKey": "26983e5e3230"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L601R01",
+            "courseName": "EnglishSLI[再1]",
+            "lecturer": [
+                "日比野千佳"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2025\/01\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/L601R01.json"
+        },
+        {
+            "lectureCode": "L601R03",
+            "courseName": "EnglishSLI[再3]",
+            "lecturer": [
+                "日比野千佳"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2025\/01\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/L601R03.json"
+        },
+        {
+            "lectureCode": "L602R01",
+            "courseName": "EnglishSLII[再1]",
+            "lecturer": [
+                "日比野千佳"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2025\/01\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/L602R01.json"
+        },
+        {
+            "lectureCode": "L602R03",
+            "courseName": "EnglishSLII[再3]",
+            "lecturer": [
+                "日比野千佳"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2025\/01\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/L602R03.json"
+        }
+    ]
+}

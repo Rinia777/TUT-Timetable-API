@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "沼田真美",
+        "lecturerKey": "85d2e7ac2ded"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L20501",
+            "courseName": "心理学[木1]CSES",
+            "lecturer": [
+                "沼田真美"
+            ],
+            "regularOrIntensive": "実学基礎科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2025\/03\/18",
+            "path": "\/api\/v1\/archive\/2025\/all\/L20501.json"
+        },
+        {
+            "lectureCode": "L20502",
+            "courseName": "心理学[木2]BSMSES",
+            "lecturer": [
+                "沼田真美"
+            ],
+            "regularOrIntensive": "実学基礎科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2025\/03\/18",
+            "path": "\/api\/v1\/archive\/2025\/all\/L20502.json"
+        }
+    ]
+}

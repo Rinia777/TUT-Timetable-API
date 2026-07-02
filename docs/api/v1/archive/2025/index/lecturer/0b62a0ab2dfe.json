@@ -1,0 +1,63 @@
+{
+    "filters": {
+        "lecturer": "塩野康徳",
+        "lecturerKey": "0b62a0ab2dfe"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "11040C1",
+            "courseName": "情報リテラシー[A]CS",
+            "lecturer": [
+                "塩野康徳",
+                "伝保昭彦"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2025\/01\/28",
+            "path": "\/api\/v1\/archive\/2025\/all\/11040C1.json"
+        },
+        {
+            "lectureCode": "11040C2",
+            "courseName": "情報リテラシー[B]CS",
+            "lecturer": [
+                "塩野康徳",
+                "伝保昭彦"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2025\/01\/28",
+            "path": "\/api\/v1\/archive\/2025\/all\/11040C2.json"
+        }
+    ]
+}

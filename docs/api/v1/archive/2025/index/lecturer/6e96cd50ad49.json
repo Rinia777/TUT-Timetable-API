@@ -1,0 +1,199 @@
+{
+    "filters": {
+        "lecturer": "伊藤丙雄",
+        "lecturerKey": "6e96cd50ad49"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "GF2001",
+            "courseName": "デザイン研究企画",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/06\/30",
+            "path": "\/api\/v1\/archive\/2025\/all\/GF2001.json"
+        },
+        {
+            "lectureCode": "GF2003",
+            "courseName": "デザイン研究II",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/06\/30",
+            "path": "\/api\/v1\/archive\/2025\/all\/GF2003.json"
+        },
+        {
+            "lectureCode": "GF1002",
+            "courseName": "デザインクリエイションI",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2025\/02\/03",
+            "path": "\/api\/v1\/archive\/2025\/all\/GF1002.json"
+        },
+        {
+            "lectureCode": "GF1001",
+            "courseName": "デザイン特論",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン研究科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2025\/01\/31",
+            "path": "\/api\/v1\/archive\/2025\/all\/GF1001.json"
+        },
+        {
+            "lectureCode": "GF2002",
+            "courseName": "デザイン研究I",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/06\/30",
+            "path": "\/api\/v1\/archive\/2025\/all\/GF2002.json"
+        },
+        {
+            "lectureCode": "GF2004",
+            "courseName": "デザイン研究III",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/06\/30",
+            "path": "\/api\/v1\/archive\/2025\/all\/GF2004.json"
+        },
+        {
+            "lectureCode": "GF1003",
+            "courseName": "デザインクリエイションII",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2025\/02\/03",
+            "path": "\/api\/v1\/archive\/2025\/all\/GF1003.json"
+        },
+        {
+            "lectureCode": "S2170",
+            "courseName": "イラストレーション論",
+            "lecturer": [
+                "飯田淳",
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/09\/18",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2170.json"
+        }
+    ]
+}

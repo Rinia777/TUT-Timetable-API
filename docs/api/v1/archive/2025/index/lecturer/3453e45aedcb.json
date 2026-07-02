@@ -1,0 +1,152 @@
+{
+    "filters": {
+        "lecturer": "酒井正",
+        "lecturerKey": "3453e45aedcb"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "S3250",
+            "courseName": "工業ものづくりデザインコース専門演習II",
+            "lecturer": [
+                "酒井正",
+                "堀川卓哉",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2025\/01\/19",
+            "path": "\/api\/v1\/archive\/2025\/all\/S3250.json"
+        },
+        {
+            "lectureCode": "S2150",
+            "courseName": "工業デザイン論",
+            "lecturer": [
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/03\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2150.json"
+        },
+        {
+            "lectureCode": "S2271",
+            "courseName": "工業デザイン専門演習I[3Q／後期前半]",
+            "lecturer": [
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１３デザイン演習室３"
+            ],
+            "updateAt": "2025\/03\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2271.json"
+        },
+        {
+            "lectureCode": "S2272",
+            "courseName": "工業デザイン専門演習I[4Q／後期後半]",
+            "lecturer": [
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１３デザイン演習室３"
+            ],
+            "updateAt": "2025\/03\/16",
+            "path": "\/api\/v1\/archive\/2025\/all\/S2272.json"
+        },
+        {
+            "lectureCode": "S1050",
+            "courseName": "立体表現の基礎",
+            "lecturer": [
+                "長尾幸治",
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2025\/03\/18",
+            "path": "\/api\/v1\/archive\/2025\/all\/S1050.json"
+        }
+    ]
+}

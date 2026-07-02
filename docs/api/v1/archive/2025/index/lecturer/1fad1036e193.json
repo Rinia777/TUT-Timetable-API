@@ -1,0 +1,158 @@
+{
+    "filters": {
+        "lecturer": "楊健",
+        "lecturerKey": "1fad1036e193"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "C10802",
+            "courseName": "プログラミング基礎I[B]CS",
+            "lecturer": [
+                "菊池眞之",
+                "大野由美子",
+                "楊健"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２",
+                "研究棟Ａ４０３",
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/C10802.json"
+        },
+        {
+            "lectureCode": "11041C1",
+            "courseName": "情報リテラシー演習[A]CS",
+            "lecturer": [
+                "福西広晃",
+                "高本綺架",
+                "楊健"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０１",
+                "講義棟Ａ２０２",
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2025\/01\/07",
+            "path": "\/api\/v1\/archive\/2025\/all\/11041C1.json"
+        },
+        {
+            "lectureCode": "C20901",
+            "courseName": "C言語プログラミングII",
+            "lecturer": [
+                "ライエルグリムベルゲン",
+                "楊健"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ・ビジネス",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２",
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2025\/02\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/C20901.json"
+        },
+        {
+            "lectureCode": "C31301",
+            "courseName": "プログラミングB2[2023以前]",
+            "lecturer": [
+                "ライエルグリムベルゲン",
+                "楊健"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２",
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2025\/02\/04",
+            "path": "\/api\/v1\/archive\/2025\/all\/C31301.json"
+        },
+        {
+            "lectureCode": "C10901",
+            "courseName": "プログラミング基礎II[A]CS",
+            "lecturer": [
+                "青木輝勝",
+                "大野由美子",
+                "楊健"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２",
+                "研究棟Ａ４０３",
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2025\/01\/28",
+            "path": "\/api\/v1\/archive\/2025\/all\/C10901.json"
+        }
+    ]
+}

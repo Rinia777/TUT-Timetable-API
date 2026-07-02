@@ -1,0 +1,221 @@
+{
+    "filters": {
+        "lecturer": "下村美文",
+        "lecturerKey": "9cc6433c77fe"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "W240607",
+            "courseName": "卒業研究I[CE7]",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2025\/all\/W240607.json"
+        },
+        {
+            "lectureCode": "U2202",
+            "courseName": "臨床生化学",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2025\/01\/19",
+            "path": "\/api\/v1\/archive\/2025\/all\/U2202.json"
+        },
+        {
+            "lectureCode": "T2820",
+            "courseName": "医療科学の基礎I[臨工]",
+            "lecturer": [
+                "都丸亜希子",
+                "下村美文",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義・実験科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2025\/02\/20",
+            "path": "\/api\/v1\/archive\/2025\/all\/T2820.json"
+        },
+        {
+            "lectureCode": "W240707",
+            "courseName": "卒業研究II[CE7]",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2025\/all\/W240707.json"
+        },
+        {
+            "lectureCode": "T3100",
+            "courseName": "化学の世界[医療]",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/01\/15",
+            "path": "\/api\/v1\/archive\/2025\/all\/T3100.json"
+        },
+        {
+            "lectureCode": "W2311",
+            "courseName": "臨床工学演習",
+            "lecturer": [
+                "下村美文",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木4",
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室",
+                "３１００３教室",
+                "Ｍ７０１臨床工学科実習室１"
+            ],
+            "updateAt": "2025\/01\/08",
+            "path": "\/api\/v1\/archive\/2025\/all\/W2311.json"
+        },
+        {
+            "lectureCode": "W2405",
+            "courseName": "実践医学特別演習",
+            "lecturer": [
+                "下村美文",
+                "日向奈惠",
+                "荻野稔",
+                "加納敬",
+                "島峰徹也",
+                "安藤ゆうき"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2025\/01\/15",
+            "path": "\/api\/v1\/archive\/2025\/all\/W2405.json"
+        },
+        {
+            "lectureCode": "U2206",
+            "courseName": "基礎医学実習",
+            "lecturer": [
+                "下村美文",
+                "加納敬",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "実習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2025\/01\/19",
+            "path": "\/api\/v1\/archive\/2025\/all\/U2206.json"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "filters": {
+        "lecturer": "勝又木綿子",
+        "lecturerKey": "7e35e5754d0a"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U1210",
+            "courseName": "疾病治療論III",
+            "lecturer": [
+                "勝又木綿子"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2024\/12\/25",
+            "path": "\/api\/v1\/archive\/2025\/all\/U1210.json"
+        },
+        {
+            "lectureCode": "W1210",
+            "courseName": "母性看護学I",
+            "lecturer": [
+                "勝又木綿子",
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2025\/03\/05",
+            "path": "\/api\/v1\/archive\/2025\/all\/W1210.json"
+        }
+    ]
+}

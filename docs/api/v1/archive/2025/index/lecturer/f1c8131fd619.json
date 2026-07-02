@@ -1,0 +1,106 @@
+{
+    "filters": {
+        "lecturer": "増田ユリ子",
+        "lecturerKey": "f1c8131fd619"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L603M04",
+            "courseName": "EnglishRWI[A4]MS",
+            "lecturer": [
+                "増田ユリ子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L603M04.json"
+        },
+        {
+            "lectureCode": "L62201",
+            "courseName": "フランス語I[火3]",
+            "lecturer": [
+                "増田ユリ子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2025\/01\/22",
+            "path": "\/api\/v1\/archive\/2025\/all\/L62201.json"
+        },
+        {
+            "lectureCode": "L604M04",
+            "courseName": "EnglishRWII[A4]MS",
+            "lecturer": [
+                "増田ユリ子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2025\/02\/10",
+            "path": "\/api\/v1\/archive\/2025\/all\/L604M04.json"
+        },
+        {
+            "lectureCode": "L62301",
+            "courseName": "フランス語II[火3]",
+            "lecturer": [
+                "増田ユリ子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2025\/01\/22",
+            "path": "\/api\/v1\/archive\/2025\/all\/L62301.json"
+        }
+    ]
+}

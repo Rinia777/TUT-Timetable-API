@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "長尾幸治",
+        "lecturerKey": "4800276af32d"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S1050",
+            "courseName": "立体表現の基礎",
+            "lecturer": [
+                "長尾幸治",
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2025年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2025\/03\/18",
+            "path": "\/api\/v1\/archive\/2025\/all\/S1050.json"
+        }
+    ]
+}
