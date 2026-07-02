@@ -1,0 +1,286 @@
+{
+    "filters": {
+        "lecturer": "東雅啓",
+        "lecturerKey": "8d7e38135860"
+    },
+    "count": 11,
+    "lectures": [
+        {
+            "lectureCode": "W140514",
+            "courseName": "卒業研究[NU14]",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/01\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/W140514.json"
+        },
+        {
+            "lectureCode": "W140614",
+            "courseName": "統合看護実習[14]",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/W140614.json"
+        },
+        {
+            "lectureCode": "U60201",
+            "courseName": "病理学[リハビリ]",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2024\/03\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/U60201.json"
+        },
+        {
+            "lectureCode": "U61203",
+            "courseName": "病理・組織学演習",
+            "lecturer": [
+                "野妻敬子",
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2024\/03\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/U61203.json"
+        },
+        {
+            "lectureCode": "U1207",
+            "courseName": "病理病態学II",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2024\/03\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/U1207.json"
+        },
+        {
+            "lectureCode": "T2714",
+            "courseName": "フレッシャーズゼミ[看護4]",
+            "lecturer": [
+                "東雅啓",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０３１２教室"
+            ],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/T2714.json"
+        },
+        {
+            "lectureCode": "T2810",
+            "courseName": "医療科学の基礎[看護]",
+            "lecturer": [
+                "姉帯飛高",
+                "東雅啓"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義・実験科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2024\/03\/05",
+            "path": "\/api\/v1\/archive\/2024\/all\/T2810.json"
+        },
+        {
+            "lectureCode": "U601022",
+            "courseName": "解剖学I[言語]",
+            "lecturer": [
+                "姉帯飛高",
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2024\/03\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/U601022.json"
+        },
+        {
+            "lectureCode": "U1105",
+            "courseName": "人体構造学",
+            "lecturer": [
+                "姉帯飛高",
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2024\/03\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/U1105.json"
+        },
+        {
+            "lectureCode": "U1110",
+            "courseName": "病理病態学I",
+            "lecturer": [
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2024\/03\/05",
+            "path": "\/api\/v1\/archive\/2024\/all\/U1110.json"
+        },
+        {
+            "lectureCode": "U1107",
+            "courseName": "人体構造機能学演習",
+            "lecturer": [
+                "姉帯飛高",
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2024\/03\/05",
+            "path": "\/api\/v1\/archive\/2024\/all\/U1107.json"
+        }
+    ]
+}

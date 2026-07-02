@@ -1,0 +1,233 @@
+{
+    "filters": {
+        "lecturer": "吉田真一",
+        "lecturerKey": "142f8b94a4b7"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "W614210",
+            "courseName": "理学療法卒業研究[10]",
+            "lecturer": [
+                "吉田真一"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/W614210.json"
+        },
+        {
+            "lectureCode": "U61301",
+            "courseName": "クリニカル・キネシオロジー演習",
+            "lecturer": [
+                "吉田真一",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2024\/01\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/U61301.json"
+        },
+        {
+            "lectureCode": "T27611",
+            "courseName": "フレッシャーズゼミ[理学1]",
+            "lecturer": [
+                "宮﨑貴朗",
+                "吉田真一",
+                "石黒圭応",
+                "十島純子",
+                "太箸俊宏",
+                "伊藤咲子",
+                "高木健志"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/T27611.json"
+        },
+        {
+            "lectureCode": "U61201",
+            "courseName": "キネシオロジー演習",
+            "lecturer": [
+                "吉田真一",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2024\/01\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/U61201.json"
+        },
+        {
+            "lectureCode": "W61102",
+            "courseName": "基礎理学療法学実習II",
+            "lecturer": [
+                "吉田真一",
+                "渡部祥輝",
+                "乙戸崇寛"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2024\/03\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/W61102.json"
+        },
+        {
+            "lectureCode": "W61104",
+            "courseName": "検査・測定学",
+            "lecturer": [
+                "吉田真一",
+                "日下さと美",
+                "乙戸崇寛"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2024\/03\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/W61104.json"
+        },
+        {
+            "lectureCode": "W61313",
+            "courseName": "スポーツ科学理学療法学演習",
+            "lecturer": [
+                "中山孝",
+                "吉田真一",
+                "斎藤寛樹",
+                "伊藤咲子",
+                "乙戸崇寛"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2024\/03\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/W61313.json"
+        },
+        {
+            "lectureCode": "U61101",
+            "courseName": "キネシオロジー",
+            "lecturer": [
+                "吉田真一",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2024\/01\/24",
+            "path": "\/api\/v1\/archive\/2024\/all\/U61101.json"
+        }
+    ]
+}

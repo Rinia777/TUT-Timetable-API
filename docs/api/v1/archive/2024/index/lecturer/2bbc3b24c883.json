@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "廣田龍平",
+        "lecturerKey": "2bbc3b24c883"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L803M09",
+            "courseName": "アカデミックスキルズI[MS9]",
+            "lecturer": [
+                "廣田龍平"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L803M09.json"
+        },
+        {
+            "lectureCode": "L804M04",
+            "courseName": "アカデミックスキルズII[MS4]",
+            "lecturer": [
+                "廣田龍平"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L804M04.json"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "岩永祥恵",
+        "lecturerKey": "7895e530bb3c"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L605C03",
+            "courseName": "IntegratedEnglishI[3]CS機械",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2024\/01\/25",
+            "path": "\/api\/v1\/archive\/2024\/all\/L605C03.json"
+        },
+        {
+            "lectureCode": "L603C11",
+            "courseName": "EnglishRWI[B5]CS",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L603C11.json"
+        },
+        {
+            "lectureCode": "L606C03",
+            "courseName": "IntegratedEnglishII[3]CS機械",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2024\/01\/25",
+            "path": "\/api\/v1\/archive\/2024\/all\/L606C03.json"
+        },
+        {
+            "lectureCode": "L604C11",
+            "courseName": "EnglishRWII[B5]CS",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L604C11.json"
+        }
+    ]
+}

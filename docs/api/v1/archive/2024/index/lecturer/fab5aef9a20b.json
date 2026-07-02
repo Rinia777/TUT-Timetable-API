@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "長尾主税",
+        "lecturerKey": "fab5aef9a20b"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L605M12",
+            "courseName": "IntegratedEnglishI[B5]MS金1",
+            "lecturer": [
+                "長尾主税"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/01\/26",
+            "path": "\/api\/v1\/archive\/2024\/all\/L605M12.json"
+        },
+        {
+            "lectureCode": "L603M07",
+            "courseName": "EnglishRWI[B1]MS",
+            "lecturer": [
+                "長尾主税"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L603M07.json"
+        },
+        {
+            "lectureCode": "L606M12",
+            "courseName": "IntegratedEnglishII[5]MS金1",
+            "lecturer": [
+                "長尾主税"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/01\/26",
+            "path": "\/api\/v1\/archive\/2024\/all\/L606M12.json"
+        },
+        {
+            "lectureCode": "L604M07",
+            "courseName": "EnglishRWII[B1]MS",
+            "lecturer": [
+                "長尾主税"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L604M07.json"
+        }
+    ]
+}

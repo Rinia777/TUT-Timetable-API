@@ -1,0 +1,153 @@
+{
+    "filters": {
+        "lecturer": "奈古明子",
+        "lecturerKey": "07aa933eda2b"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "L620C02",
+            "courseName": "IntegratedEnglishIII[2]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/01\/21",
+            "path": "\/api\/v1\/archive\/2024\/all\/L620C02.json"
+        },
+        {
+            "lectureCode": "L605C04",
+            "courseName": "IntegratedEnglishI[4]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/01\/21",
+            "path": "\/api\/v1\/archive\/2024\/all\/L605C04.json"
+        },
+        {
+            "lectureCode": "L603C10",
+            "courseName": "EnglishRWI[B4]CS",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L603C10.json"
+        },
+        {
+            "lectureCode": "L621C02",
+            "courseName": "IntegratedEnglishIV[2]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/01\/21",
+            "path": "\/api\/v1\/archive\/2024\/all\/L621C02.json"
+        },
+        {
+            "lectureCode": "L606C04",
+            "courseName": "IntegratedEnglishII[4]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/01\/21",
+            "path": "\/api\/v1\/archive\/2024\/all\/L606C04.json"
+        },
+        {
+            "lectureCode": "L604C10",
+            "courseName": "EnglishRWII[B4]CS",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L604C10.json"
+        }
+    ]
+}

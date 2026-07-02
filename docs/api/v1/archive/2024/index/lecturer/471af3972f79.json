@@ -1,0 +1,88 @@
+{
+    "filters": {
+        "lecturer": "亀田弘之",
+        "lecturerKey": "471af3972f79"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "C30302",
+            "courseName": "先進情報専門演習II[IT・5]",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "講義・演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/C30302.json"
+        },
+        {
+            "lectureCode": "C20701",
+            "courseName": "コンピュータ概論III[A]",
+            "lecturer": [
+                "亀田弘之",
+                "瀬之口潤輔"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/C20701.json"
+        },
+        {
+            "lectureCode": "C20702",
+            "courseName": "コンピュータ概論III[B]",
+            "lecturer": [
+                "亀田弘之",
+                "瀬之口潤輔"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/C20702.json"
+        }
+    ]
+}

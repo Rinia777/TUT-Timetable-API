@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "伊藤智之",
+        "lecturerKey": "4bf6c230b678"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U63202",
+            "courseName": "形成外科学",
+            "lecturer": [
+                "伊藤智之",
+                "千田大貴"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2024\/03\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/U63202.json"
+        }
+    ]
+}

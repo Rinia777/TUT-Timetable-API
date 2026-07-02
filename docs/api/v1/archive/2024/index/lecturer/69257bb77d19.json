@@ -1,0 +1,103 @@
+{
+    "filters": {
+        "lecturer": "高澤恭子",
+        "lecturerKey": "69257bb77d19"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "S1100",
+            "courseName": "感性演習I（つくる・関係づける）［Q共通］",
+            "lecturer": [
+                "酒百宏一",
+                "高澤恭子"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１１デザイン演習室２",
+                "３１３１３デザイン演習室３"
+            ],
+            "updateAt": "2024\/03\/15",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1100.json"
+        },
+        {
+            "lectureCode": "S1110",
+            "courseName": "感性演習II（つくる・関係づける）［Q共通］",
+            "lecturer": [
+                "酒百宏一",
+                "御幸朋寿",
+                "高澤恭子"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１１デザイン演習室２",
+                "３１３１３デザイン演習室３"
+            ],
+            "updateAt": "2024\/09\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1110.json"
+        },
+        {
+            "lectureCode": "S1050",
+            "courseName": "立体表現の基礎",
+            "lecturer": [
+                "酒井正",
+                "高澤恭子"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1050.json"
+        }
+    ]
+}

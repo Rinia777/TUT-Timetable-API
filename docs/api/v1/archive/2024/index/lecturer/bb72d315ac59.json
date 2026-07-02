@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "内藤通昭",
+        "lecturerKey": "bb72d315ac59"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "R1200",
+            "courseName": "スポーツ・コンディショニング[デザイン]",
+            "lecturer": [
+                "内藤通昭"
+            ],
+            "regularOrIntensive": "実学基礎科目ウェルビーイング",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2024\/01\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/R1200.json"
+        },
+        {
+            "lectureCode": "T1500",
+            "courseName": "スポーツ・コンディショニング[医療]",
+            "lecturer": [
+                "内藤通昭"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/01\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/T1500.json"
+        }
+    ]
+}

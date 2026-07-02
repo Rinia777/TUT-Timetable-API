@@ -1,0 +1,97 @@
+{
+    "filters": {
+        "lecturer": "野妻敬子",
+        "lecturerKey": "1f8cf8970d55"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "U61203",
+            "courseName": "病理・組織学演習",
+            "lecturer": [
+                "野妻敬子",
+                "東雅啓"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2024\/03\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/U61203.json"
+        },
+        {
+            "lectureCode": "U60106",
+            "courseName": "解剖学実習I[理学作業]",
+            "lecturer": [
+                "野妻敬子",
+                "阿部達彦",
+                "姉帯飛高"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2024\/03\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/U60106.json"
+        },
+        {
+            "lectureCode": "U5102",
+            "courseName": "解剖学実習",
+            "lecturer": [
+                "野妻敬子",
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３"
+            ],
+            "updateAt": "2024\/03\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/U5102.json"
+        }
+    ]
+}

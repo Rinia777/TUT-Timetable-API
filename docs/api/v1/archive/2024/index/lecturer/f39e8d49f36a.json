@@ -1,0 +1,428 @@
+{
+    "filters": {
+        "lecturer": "岩下志乃",
+        "lecturerKey": "f39e8d49f36a"
+    },
+    "count": 18,
+    "lectures": [
+        {
+            "lectureCode": "C40104",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/C40104.json"
+        },
+        {
+            "lectureCode": "GGC90105",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90105.json"
+        },
+        {
+            "lectureCode": "GGC90305",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90305.json"
+        },
+        {
+            "lectureCode": "GGC10801",
+            "courseName": "感性評価技法",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2024\/02\/27",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC10801.json"
+        },
+        {
+            "lectureCode": "11050C01",
+            "courseName": "フレッシャーズゼミI[1]CS",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/11050C01.json"
+        },
+        {
+            "lectureCode": "C21501",
+            "courseName": "ヒューマンインターフェイス[前期]",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2024\/01\/31",
+            "path": "\/api\/v1\/archive\/2024\/all\/C21501.json"
+        },
+        {
+            "lectureCode": "C22601",
+            "courseName": "プロジェクト演習I[テーマA・B]CS",
+            "lecturer": [
+                "大野澄雄",
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/02\/07",
+            "path": "\/api\/v1\/archive\/2024\/all\/C22601.json"
+        },
+        {
+            "lectureCode": "C22602",
+            "courseName": "プロジェクト演習I[テーマB・A]CS",
+            "lecturer": [
+                "大野澄雄",
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/02\/07",
+            "path": "\/api\/v1\/archive\/2024\/all\/C22602.json"
+        },
+        {
+            "lectureCode": "C40204",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/C40204.json"
+        },
+        {
+            "lectureCode": "GGC90155",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90155.json"
+        },
+        {
+            "lectureCode": "GGC90205",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/02\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90205.json"
+        },
+        {
+            "lectureCode": "GGC90355",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90355.json"
+        },
+        {
+            "lectureCode": "GGC90405",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90405.json"
+        },
+        {
+            "lectureCode": "C30904",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/C30904.json"
+        },
+        {
+            "lectureCode": "11051C01",
+            "courseName": "フレッシャーズゼミII[1]CS",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/11051C01.json"
+        },
+        {
+            "lectureCode": "C21502",
+            "courseName": "ヒューマンインターフェイス[後期]",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/C21502.json"
+        },
+        {
+            "lectureCode": "C22701",
+            "courseName": "プロジェクト演習II[テーマA・B]CS",
+            "lecturer": [
+                "大野澄雄",
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/02\/07",
+            "path": "\/api\/v1\/archive\/2024\/all\/C22701.json"
+        },
+        {
+            "lectureCode": "C22702",
+            "courseName": "プロジェクト演習II[テーマB・A]CS",
+            "lecturer": [
+                "大野澄雄",
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/02\/07",
+            "path": "\/api\/v1\/archive\/2024\/all\/C22702.json"
+        }
+    ]
+}

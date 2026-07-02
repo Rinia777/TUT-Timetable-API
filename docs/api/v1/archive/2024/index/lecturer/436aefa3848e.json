@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "lecturer": "閔由眞",
+        "lecturerKey": "436aefa3848e"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L620C01",
+            "courseName": "IntegratedEnglishIII[1]CS機械",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2024\/01\/30",
+            "path": "\/api\/v1\/archive\/2024\/all\/L620C01.json"
+        },
+        {
+            "lectureCode": "L605C11",
+            "courseName": "IntegratedEnglishI[11]CS機械",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2024\/01\/30",
+            "path": "\/api\/v1\/archive\/2024\/all\/L605C11.json"
+        },
+        {
+            "lectureCode": "L621C01",
+            "courseName": "IntegratedEnglishIV[1]CS機械",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2024\/01\/30",
+            "path": "\/api\/v1\/archive\/2024\/all\/L621C01.json"
+        },
+        {
+            "lectureCode": "L606C11",
+            "courseName": "IntegratedEnglishII[11]CS機械",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2024\/01\/30",
+            "path": "\/api\/v1\/archive\/2024\/all\/L606C11.json"
+        }
+    ]
+}

@@ -1,0 +1,484 @@
+{
+    "filters": {
+        "lecturer": "藤澤幸太郎",
+        "lecturerKey": "52cd45791b03"
+    },
+    "count": 18,
+    "lectures": [
+        {
+            "lectureCode": "T2120",
+            "courseName": "コンピュータ概論[臨工]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T2120.json"
+        },
+        {
+            "lectureCode": "R1130",
+            "courseName": "コンピュータ概論[デザイン]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/R1130.json"
+        },
+        {
+            "lectureCode": "T2100",
+            "courseName": "コンピュータ概論I[医療]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T2100.json"
+        },
+        {
+            "lectureCode": "T1920",
+            "courseName": "コンピュータリテラシー演習I[臨工]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室",
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T1920.json"
+        },
+        {
+            "lectureCode": "T1910",
+            "courseName": "コンピュータリテラシー演習[看護]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室",
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T1910.json"
+        },
+        {
+            "lectureCode": "T1950",
+            "courseName": "コンピュータリテラシー演習[臨検]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室",
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T1950.json"
+        },
+        {
+            "lectureCode": "T1961",
+            "courseName": "コンピュータリテラシー演習[理学]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室",
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T1961.json"
+        },
+        {
+            "lectureCode": "T1962",
+            "courseName": "コンピュータリテラシー演習[作業言語]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室",
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T1962.json"
+        },
+        {
+            "lectureCode": "L70314",
+            "courseName": "データサイエンス入門[合B4]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L70314.json"
+        },
+        {
+            "lectureCode": "L70324",
+            "courseName": "データサイエンス入門[合A4]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L70324.json"
+        },
+        {
+            "lectureCode": "L804M06",
+            "courseName": "アカデミックスキルズII[MS6]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L804M06.json"
+        },
+        {
+            "lectureCode": "L804BC11",
+            "courseName": "アカデミックスキルズII[BSCS11]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L804BC11.json"
+        },
+        {
+            "lectureCode": "L804BC23",
+            "courseName": "アカデミックスキルズII[BSCS23]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L804BC23.json"
+        },
+        {
+            "lectureCode": "R1160",
+            "courseName": "データサイエンス入門[デザイン2024年度入学生対象]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/R1160.json"
+        },
+        {
+            "lectureCode": "T2300",
+            "courseName": "データサイエンス入門",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T2300.json"
+        },
+        {
+            "lectureCode": "R1161",
+            "courseName": "コンピュータ概論II[デザイン2023年度以前入学生対象]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/R1161.json"
+        },
+        {
+            "lectureCode": "T2200",
+            "courseName": "コンピュータ概論II[医療]",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T2200.json"
+        },
+        {
+            "lectureCode": "T2000",
+            "courseName": "コンピュータリテラシー演習II",
+            "lecturer": [
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室",
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T2000.json"
+        }
+    ]
+}

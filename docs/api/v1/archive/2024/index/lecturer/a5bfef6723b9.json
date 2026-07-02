@@ -1,0 +1,201 @@
+{
+    "filters": {
+        "lecturer": "吉原学",
+        "lecturerKey": "a5bfef6723b9"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "L605M06",
+            "courseName": "IntegratedEnglishI[A6]MS火1",
+            "lecturer": [
+                "吉原学"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2024\/01\/25",
+            "path": "\/api\/v1\/archive\/2024\/all\/L605M06.json"
+        },
+        {
+            "lectureCode": "L603M02",
+            "courseName": "EnglishRWI[A2]MS",
+            "lecturer": [
+                "吉原学"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L603M02.json"
+        },
+        {
+            "lectureCode": "L605M13",
+            "courseName": "IntegratedEnglishI[B6]MS金1",
+            "lecturer": [
+                "吉原学"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2024\/01\/25",
+            "path": "\/api\/v1\/archive\/2024\/all\/L605M13.json"
+        },
+        {
+            "lectureCode": "L603M08",
+            "courseName": "EnglishRWI[B2]MS",
+            "lecturer": [
+                "吉原学"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L603M08.json"
+        },
+        {
+            "lectureCode": "L606M06",
+            "courseName": "IntegratedEnglishII[6]MS火1",
+            "lecturer": [
+                "吉原学"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2024\/01\/25",
+            "path": "\/api\/v1\/archive\/2024\/all\/L606M06.json"
+        },
+        {
+            "lectureCode": "L604M02",
+            "courseName": "EnglishRWII[A2]MS",
+            "lecturer": [
+                "吉原学"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L604M02.json"
+        },
+        {
+            "lectureCode": "L606M13",
+            "courseName": "IntegratedEnglishII[6]MS金1",
+            "lecturer": [
+                "吉原学"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2024\/01\/25",
+            "path": "\/api\/v1\/archive\/2024\/all\/L606M13.json"
+        },
+        {
+            "lectureCode": "L604M08",
+            "courseName": "EnglishRWII[B2]MS",
+            "lecturer": [
+                "吉原学"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L604M08.json"
+        }
+    ]
+}

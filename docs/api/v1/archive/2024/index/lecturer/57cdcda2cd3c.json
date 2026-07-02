@@ -1,0 +1,139 @@
+{
+    "filters": {
+        "lecturer": "遠藤大哉",
+        "lecturerKey": "57cdcda2cd3c"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "L51001",
+            "courseName": "栄養と健康[木1]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2024\/01\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L51001.json"
+        },
+        {
+            "lectureCode": "L51002",
+            "courseName": "栄養と健康[木2]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L51002.json"
+        },
+        {
+            "lectureCode": "R1190",
+            "courseName": "栄養と健康[デザイン]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "実学基礎科目ウェルビーイング",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/01\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/R1190.json"
+        },
+        {
+            "lectureCode": "T1400",
+            "courseName": "栄養と健康[看護臨工臨検]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/01\/25",
+            "path": "\/api\/v1\/archive\/2024\/all\/T1400.json"
+        },
+        {
+            "lectureCode": "U60109",
+            "courseName": "栄養と健康[理学作業]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "専門基礎科目基礎医学",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/01\/25",
+            "path": "\/api\/v1\/archive\/2024\/all\/U60109.json"
+        }
+    ]
+}

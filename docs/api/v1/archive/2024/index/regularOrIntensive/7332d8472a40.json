@@ -1,0 +1,113 @@
+{
+    "filters": {
+        "regularOrIntensive": "実学基礎科目社会",
+        "regularOrIntensiveKey": "7332d8472a40"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L30101",
+            "courseName": "法学[合A]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "実学基礎科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2024\/01\/22",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30101.json"
+        },
+        {
+            "lectureCode": "L30201",
+            "courseName": "政治学[合A]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "実学基礎科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2024\/01\/24",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30201.json"
+        },
+        {
+            "lectureCode": "L30102",
+            "courseName": "法学[合B]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "実学基礎科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30102.json"
+        },
+        {
+            "lectureCode": "L30202",
+            "courseName": "政治学[合B]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "実学基礎科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2024\/05\/21",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30202.json"
+        }
+    ]
+}

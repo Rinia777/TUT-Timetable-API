@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "小原明",
+        "lecturerKey": "f5659dbe7cbc"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U1211",
+            "courseName": "疾病治療論IV",
+            "lecturer": [
+                "小原明"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2024\/04\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/U1211.json"
+        },
+        {
+            "lectureCode": "U60204",
+            "courseName": "小児科学",
+            "lecturer": [
+                "小原明"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2024\/04\/16",
+            "path": "\/api\/v1\/archive\/2024\/all\/U60204.json"
+        }
+    ]
+}

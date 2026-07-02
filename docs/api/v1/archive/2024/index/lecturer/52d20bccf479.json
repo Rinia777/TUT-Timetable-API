@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "松浦玲",
+        "lecturerKey": "52d20bccf479"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U1210",
+            "courseName": "疾病治療論III",
+            "lecturer": [
+                "松浦玲"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水1",
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室",
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2024\/01\/22",
+            "path": "\/api\/v1\/archive\/2024\/all\/U1210.json"
+        }
+    ]
+}

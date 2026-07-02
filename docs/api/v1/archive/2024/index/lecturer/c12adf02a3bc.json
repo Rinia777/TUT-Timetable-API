@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "服部聖彦",
+        "lecturerKey": "c12adf02a3bc"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "C30403",
+            "courseName": "人工知能プロジェクト実習I[AI・3]",
+            "lecturer": [
+                "服部聖彦"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/02\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/C30403.json"
+        },
+        {
+            "lectureCode": "C30503",
+            "courseName": "人工知能プロジェクト実習II[AI・3]",
+            "lecturer": [
+                "服部聖彦"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/02\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/C30503.json"
+        }
+    ]
+}

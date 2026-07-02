@@ -1,0 +1,112 @@
+{
+    "filters": {
+        "lecturer": "志田雅宏",
+        "lecturerKey": "9923c7673aa6"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "R2010",
+            "courseName": "宗教学[デザイン]",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/R2010.json"
+        },
+        {
+            "lectureCode": "T0500",
+            "courseName": "宗教学[医療]",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T0500.json"
+        },
+        {
+            "lectureCode": "L20601",
+            "courseName": "世界の宗教[月1]",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2024\/01\/22",
+            "path": "\/api\/v1\/archive\/2024\/all\/L20601.json"
+        },
+        {
+            "lectureCode": "L20602",
+            "courseName": "世界の宗教[月2]",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L20602.json"
+        }
+    ]
+}

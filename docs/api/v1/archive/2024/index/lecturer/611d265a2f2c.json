@@ -1,0 +1,138 @@
+{
+    "filters": {
+        "lecturer": "花尾麻美",
+        "lecturerKey": "611d265a2f2c"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "W540807",
+            "courseName": "卒業研究I[MT7]",
+            "lecturer": [
+                "花尾麻美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/W540807.json"
+        },
+        {
+            "lectureCode": "W5216",
+            "courseName": "生理検査学II",
+            "lecturer": [
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2024\/01\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/W5216.json"
+        },
+        {
+            "lectureCode": "W5307",
+            "courseName": "生理検査学実習II",
+            "lecturer": [
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5",
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０３生理学実習室"
+            ],
+            "updateAt": "2023\/12\/27",
+            "path": "\/api\/v1\/archive\/2024\/all\/W5307.json"
+        },
+        {
+            "lectureCode": "W540907",
+            "courseName": "卒業研究II[MT7]",
+            "lecturer": [
+                "花尾麻美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/W540907.json"
+        },
+        {
+            "lectureCode": "W5218",
+            "courseName": "生理検査学実習I",
+            "lecturer": [
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０３生理学実習室"
+            ],
+            "updateAt": "2024\/03\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/W5218.json"
+        }
+    ]
+}

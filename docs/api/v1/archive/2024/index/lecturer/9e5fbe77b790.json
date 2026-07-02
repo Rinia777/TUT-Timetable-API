@@ -1,0 +1,822 @@
+{
+    "filters": {
+        "lecturer": "江頭靖幸",
+        "lecturerKey": "9e5fbe77b790"
+    },
+    "count": 31,
+    "lectures": [
+        {
+            "lectureCode": "K704304",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/01\/17",
+            "path": "\/api\/v1\/archive\/2024\/all\/K704304.json"
+        },
+        {
+            "lectureCode": "K000201",
+            "courseName": "サステイナブル工学基礎[AB][機]",
+            "lecturer": [
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３",
+                "メディアホール"
+            ],
+            "updateAt": "2024\/02\/05",
+            "path": "\/api\/v1\/archive\/2024\/all\/K000201.json"
+        },
+        {
+            "lectureCode": "K000231",
+            "courseName": "サステイナブル工学基礎[AB][電]",
+            "lecturer": [
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール",
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2024\/02\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/K000231.json"
+        },
+        {
+            "lectureCode": "K000271",
+            "courseName": "サステイナブル工学基礎[AB][化]",
+            "lecturer": [
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール",
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2024\/02\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/K000271.json"
+        },
+        {
+            "lectureCode": "K70041",
+            "courseName": "サステイナブル化学概論",
+            "lecturer": [
+                "山下俊",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/K70041.json"
+        },
+        {
+            "lectureCode": "11079K72",
+            "courseName": "フレッシャーズゼミ[1]",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2024\/02\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/11079K72.json"
+        },
+        {
+            "lectureCode": "K001203",
+            "courseName": "サステイナブル工学実習[1Q][電]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/02\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/K001203.json"
+        },
+        {
+            "lectureCode": "K001204",
+            "courseName": "サステイナブル工学実習[2Q][電]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/02\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/K001204.json"
+        },
+        {
+            "lectureCode": "K001205",
+            "courseName": "サステイナブル工学実習[1Q][化]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/02\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/K001205.json"
+        },
+        {
+            "lectureCode": "K001206",
+            "courseName": "サステイナブル工学実習[2Q][化]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/02\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/K001206.json"
+        },
+        {
+            "lectureCode": "GE000101",
+            "courseName": "サステイナブル工学概論",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "総合科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/GE000101.json"
+        },
+        {
+            "lectureCode": "GE000701",
+            "courseName": "サステイナブル工学特論",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "総合科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2024\/05\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/GE000701.json"
+        },
+        {
+            "lectureCode": "GE200158",
+            "courseName": "サステイナブル工学研究企画",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GE200158.json"
+        },
+        {
+            "lectureCode": "GE200208",
+            "courseName": "サステイナブル工学研究I",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GE200208.json"
+        },
+        {
+            "lectureCode": "GE200358",
+            "courseName": "サステイナブル工学研究II",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GE200358.json"
+        },
+        {
+            "lectureCode": "GE200408",
+            "courseName": "サステイナブル工学研究III",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GE200408.json"
+        },
+        {
+            "lectureCode": "K7043041",
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/01\/17",
+            "path": "\/api\/v1\/archive\/2024\/all\/K7043041.json"
+        },
+        {
+            "lectureCode": "K704404",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/01\/17",
+            "path": "\/api\/v1\/archive\/2024\/all\/K704404.json"
+        },
+        {
+            "lectureCode": "K702001",
+            "courseName": "化学工学",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/K702001.json"
+        },
+        {
+            "lectureCode": "K704204",
+            "courseName": "創成課題[4]",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月5",
+                "金2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/01\/17",
+            "path": "\/api\/v1\/archive\/2024\/all\/K704204.json"
+        },
+        {
+            "lectureCode": "K001201",
+            "courseName": "サステイナブル工学実習[3Q][機]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2024\/02\/05",
+            "path": "\/api\/v1\/archive\/2024\/all\/K001201.json"
+        },
+        {
+            "lectureCode": "K001202",
+            "courseName": "サステイナブル工学実習[4Q][機]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2024\/02\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/K001202.json"
+        },
+        {
+            "lectureCode": "K703601",
+            "courseName": "サステイナブル化学特別講義",
+            "lecturer": [
+                "山下俊",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2024\/03\/15",
+            "path": "\/api\/v1\/archive\/2024\/all\/K703601.json"
+        },
+        {
+            "lectureCode": "K703301",
+            "courseName": "サステイナブル環境化学",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2024\/02\/05",
+            "path": "\/api\/v1\/archive\/2024\/all\/K703301.json"
+        },
+        {
+            "lectureCode": "K704102",
+            "courseName": "応用化学実験III[b]",
+            "lecturer": [
+                "江頭靖幸",
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火4",
+                "火5",
+                "木5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ３０４",
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/05\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/K704102.json"
+        },
+        {
+            "lectureCode": "K0003171",
+            "courseName": "社会連携演習I[化]",
+            "lecturer": [
+                "山下俊",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２",
+                "講義実験棟１０３",
+                "講義実験棟１０４",
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2024\/05\/11",
+            "path": "\/api\/v1\/archive\/2024\/all\/K0003171.json"
+        },
+        {
+            "lectureCode": "K001301",
+            "courseName": "サステイナブル工学プロジェクト演習[A]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2024\/02\/05",
+            "path": "\/api\/v1\/archive\/2024\/all\/K001301.json"
+        },
+        {
+            "lectureCode": "K001302",
+            "courseName": "サステイナブル工学プロジェクト演習[B]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ３０３",
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2024\/02\/06",
+            "path": "\/api\/v1\/archive\/2024\/all\/K001302.json"
+        },
+        {
+            "lectureCode": "K701201",
+            "courseName": "工学基礎実験II(C)[2023年以前入学者]",
+            "lecturer": [
+                "江頭靖幸",
+                "原賢二",
+                "橋本徹"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/01\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/K701201.json"
+        },
+        {
+            "lectureCode": "K70571",
+            "courseName": "工学基礎実験II(C)-A",
+            "lecturer": [
+                "江頭靖幸",
+                "原賢二",
+                "橋本徹"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/01\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/K70571.json"
+        },
+        {
+            "lectureCode": "K70581",
+            "courseName": "工学基礎実験II(C)-B",
+            "lecturer": [
+                "江頭靖幸",
+                "原賢二",
+                "橋本徹"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/01\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/K70581.json"
+        }
+    ]
+}

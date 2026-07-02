@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "志岐裕子",
+        "lecturerKey": "c556c813d4ec"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "R2020",
+            "courseName": "コミュニケーション論[デザイン]",
+            "lecturer": [
+                "志岐裕子"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/R2020.json"
+        },
+        {
+            "lectureCode": "T1000",
+            "courseName": "コミュニケーション論[医療]",
+            "lecturer": [
+                "志岐裕子"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2024\/02\/02",
+            "path": "\/api\/v1\/archive\/2024\/all\/T1000.json"
+        }
+    ]
+}

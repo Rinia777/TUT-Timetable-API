@@ -1,0 +1,132 @@
+{
+    "filters": {
+        "lecturer": "相野谷威雄",
+        "lecturerKey": "74fd8ef5664c"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "S3250",
+            "courseName": "工業ものづくりデザインコース専門演習II",
+            "lecturer": [
+                "酒井正",
+                "堀川卓哉",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3250.json"
+        },
+        {
+            "lectureCode": "GF1001",
+            "courseName": "デザイン特論",
+            "lecturer": [
+                "暮沢剛巳",
+                "伊藤丙雄",
+                "酒百宏一",
+                "松村誠一郎",
+                "宮元三恵",
+                "中島健太",
+                "田村吾郎",
+                "深澤健作",
+                "伊藤英高",
+                "加藤一葉",
+                "末房志野",
+                "酒井正",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2024\/02\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/GF1001.json"
+        },
+        {
+            "lectureCode": "S3160",
+            "courseName": "専門スキル演習(工業系プレゼンテーション)",
+            "lecturer": [
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3160.json"
+        },
+        {
+            "lectureCode": "S3290",
+            "courseName": "工業ものづくりデザインコース専門演習III",
+            "lecturer": [
+                "堀川卓哉",
+                "相野谷威雄",
+                "田崎咲絵"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3290.json"
+        }
+    ]
+}

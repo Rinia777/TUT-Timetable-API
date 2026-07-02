@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "巴伸一",
+        "lecturerKey": "3dff8294fca1"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "T1600",
+            "courseName": "スポーツ・コンディショニング実習",
+            "lecturer": [
+                "巴伸一"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/01\/15",
+            "path": "\/api\/v1\/archive\/2024\/all\/T1600.json"
+        }
+    ]
+}

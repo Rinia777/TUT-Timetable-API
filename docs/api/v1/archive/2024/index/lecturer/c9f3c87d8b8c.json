@@ -1,0 +1,121 @@
+{
+    "filters": {
+        "lecturer": "帆苅なおみ",
+        "lecturerKey": "c9f3c87d8b8c"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "W140519",
+            "courseName": "卒業研究[NU19]",
+            "lecturer": [
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/W140519.json"
+        },
+        {
+            "lectureCode": "W140520",
+            "courseName": "卒業研究[NU20]",
+            "lecturer": [
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/W140520.json"
+        },
+        {
+            "lectureCode": "W140619",
+            "courseName": "統合看護実習[19]",
+            "lecturer": [
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/W140619.json"
+        },
+        {
+            "lectureCode": "T2714",
+            "courseName": "フレッシャーズゼミ[看護4]",
+            "lecturer": [
+                "東雅啓",
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０３１２教室"
+            ],
+            "updateAt": "2024\/03\/18",
+            "path": "\/api\/v1\/archive\/2024\/all\/T2714.json"
+        },
+        {
+            "lectureCode": "W1317",
+            "courseName": "看護研究",
+            "lecturer": [
+                "帆苅なおみ"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/01\/26",
+            "path": "\/api\/v1\/archive\/2024\/all\/W1317.json"
+        }
+    ]
+}

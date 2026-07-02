@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "酒井登",
+        "lecturerKey": "5085a1601863"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "L621M09",
+            "courseName": "IntegratedEnglishIV[B2]MS",
+            "lecturer": [
+                "酒井登"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2024\/07\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/L621M09.json"
+        },
+        {
+            "lectureCode": "L621M02",
+            "courseName": "IntegratedEnglishIV[A2]MS",
+            "lecturer": [
+                "酒井登"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2024\/07\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/L621M02.json"
+        }
+    ]
+}

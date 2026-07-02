@@ -1,0 +1,512 @@
+{
+    "filters": {
+        "regularOrIntensive": "教養教育科目社会",
+        "regularOrIntensiveKey": "6bfa7d199ead"
+    },
+    "count": 20,
+    "lectures": [
+        {
+            "lectureCode": "L30301",
+            "courseName": "経済と社会[月1]",
+            "lecturer": [
+                "板井広明"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2024\/01\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30301.json"
+        },
+        {
+            "lectureCode": "L30401",
+            "courseName": "社会学入門[月1]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2024\/01\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30401.json"
+        },
+        {
+            "lectureCode": "L30901",
+            "courseName": "法と社会[月1]",
+            "lecturer": [
+                "小出幸祐"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2024\/01\/22",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30901.json"
+        },
+        {
+            "lectureCode": "L30302",
+            "courseName": "経済と社会[月2]",
+            "lecturer": [
+                "板井広明"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30302.json"
+        },
+        {
+            "lectureCode": "L30402",
+            "courseName": "社会学入門[月2]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30402.json"
+        },
+        {
+            "lectureCode": "L30902",
+            "courseName": "法と社会[月2]",
+            "lecturer": [
+                "小出幸祐"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30902.json"
+        },
+        {
+            "lectureCode": "L31001",
+            "courseName": "政治と社会[月4]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/L31001.json"
+        },
+        {
+            "lectureCode": "L30603",
+            "courseName": "現代社会論[月5]",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30603.json"
+        },
+        {
+            "lectureCode": "L30501",
+            "courseName": "国際関係論[木1]CSES",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2024\/01\/24",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30501.json"
+        },
+        {
+            "lectureCode": "L30601",
+            "courseName": "現代社会論[木1]CSES",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2024\/01\/26",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30601.json"
+        },
+        {
+            "lectureCode": "L30502",
+            "courseName": "国際関係論[木2]BSMSES",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30502.json"
+        },
+        {
+            "lectureCode": "L30602",
+            "courseName": "現代社会論[木2]BSMSES",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30602.json"
+        },
+        {
+            "lectureCode": "L30701",
+            "courseName": "地域共生論[前期金2]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30701.json"
+        },
+        {
+            "lectureCode": "L31301",
+            "courseName": "欧米社会文化論[木1]CSES",
+            "lecturer": [
+                "橘由布季"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2024\/01\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/L31301.json"
+        },
+        {
+            "lectureCode": "L31302",
+            "courseName": "欧米社会文化論[木2]BSMSES",
+            "lecturer": [
+                "橘由布季"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L31302.json"
+        },
+        {
+            "lectureCode": "L31201",
+            "courseName": "情報法[木3]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2024\/01\/22",
+            "path": "\/api\/v1\/archive\/2024\/all\/L31201.json"
+        },
+        {
+            "lectureCode": "L31202",
+            "courseName": "情報法[木4]",
+            "lecturer": [
+                "中村伊知郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L31202.json"
+        },
+        {
+            "lectureCode": "L31101",
+            "courseName": "グローバル社会論[水4]",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/01\/26",
+            "path": "\/api\/v1\/archive\/2024\/all\/L31101.json"
+        },
+        {
+            "lectureCode": "L31102",
+            "courseName": "グローバル社会論[水5]",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L31102.json"
+        },
+        {
+            "lectureCode": "L30702",
+            "courseName": "地域共生論[後期金2]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L30702.json"
+        }
+    ]
+}

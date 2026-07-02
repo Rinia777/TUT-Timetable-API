@@ -1,0 +1,201 @@
+{
+    "filters": {
+        "lecturer": "末房志野",
+        "lecturerKey": "9ed5b73d8497"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "S4010",
+            "courseName": "デザイン卒業研究I",
+            "lecturer": [
+                "末房志野"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/03\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/S4010.json"
+        },
+        {
+            "lectureCode": "S2200",
+            "courseName": "イラストレーション論",
+            "lecturer": [
+                "末房志野"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/03\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2200.json"
+        },
+        {
+            "lectureCode": "GF1001",
+            "courseName": "デザイン特論",
+            "lecturer": [
+                "暮沢剛巳",
+                "伊藤丙雄",
+                "酒百宏一",
+                "松村誠一郎",
+                "宮元三恵",
+                "中島健太",
+                "田村吾郎",
+                "深澤健作",
+                "伊藤英高",
+                "加藤一葉",
+                "末房志野",
+                "酒井正",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2024\/02\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/GF1001.json"
+        },
+        {
+            "lectureCode": "R1230",
+            "courseName": "フレッシャーズゼミ[デザイン]",
+            "lecturer": [
+                "末房志野"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2024\/03\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/R1230.json"
+        },
+        {
+            "lectureCode": "S4020",
+            "courseName": "デザイン卒業研究II",
+            "lecturer": [
+                "末房志野"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/03\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/S4020.json"
+        },
+        {
+            "lectureCode": "S2251",
+            "courseName": "視覚伝達デザインコース専門演習I［3Q］",
+            "lecturer": [
+                "末房志野",
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３０１デザイン演習室１"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2251.json"
+        },
+        {
+            "lectureCode": "S2252",
+            "courseName": "視覚伝達デザインコース専門演習I［4Q］",
+            "lecturer": [
+                "末房志野",
+                "舟山貴士",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３０１デザイン演習室１"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2252.json"
+        }
+    ]
+}

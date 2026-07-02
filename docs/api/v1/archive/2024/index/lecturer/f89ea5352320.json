@@ -1,0 +1,443 @@
+{
+    "filters": {
+        "lecturer": "杉山友康",
+        "lecturerKey": "f89ea5352320"
+    },
+    "count": 18,
+    "lectures": [
+        {
+            "lectureCode": "ES00311",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/ES00311.json"
+        },
+        {
+            "lectureCode": "GGB90114",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90114.json"
+        },
+        {
+            "lectureCode": "GGB90314",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90314.json"
+        },
+        {
+            "lectureCode": "GGB11301",
+            "courseName": "発生・細胞工学特論",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2024\/02\/27",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB11301.json"
+        },
+        {
+            "lectureCode": "B31101",
+            "courseName": "医薬品実験I",
+            "lecturer": [
+                "杉山友康",
+                "佐藤淳",
+                "吉田亘"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/01\/30",
+            "path": "\/api\/v1\/archive\/2024\/all\/B31101.json"
+        },
+        {
+            "lectureCode": "11050B06",
+            "courseName": "フレッシャーズゼミI[6]BS",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/11050B06.json"
+        },
+        {
+            "lectureCode": "B32901",
+            "courseName": "再生細胞医薬概論",
+            "lecturer": [
+                "杉山友康",
+                "西良太郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2024\/02\/01",
+            "path": "\/api\/v1\/archive\/2024\/all\/B32901.json"
+        },
+        {
+            "lectureCode": "B20401",
+            "courseName": "分子生物学II",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "専門基礎教育科目生物学",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/B20401.json"
+        },
+        {
+            "lectureCode": "ES00411",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/ES00411.json"
+        },
+        {
+            "lectureCode": "GGB90164",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90164.json"
+        },
+        {
+            "lectureCode": "GGB90214",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90214.json"
+        },
+        {
+            "lectureCode": "GGB90364",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90364.json"
+        },
+        {
+            "lectureCode": "GGB90414",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90414.json"
+        },
+        {
+            "lectureCode": "B31002",
+            "courseName": "生命科学実験II",
+            "lecturer": [
+                "杉山友康",
+                "多田雄一",
+                "吉田亘"
+            ],
+            "regularOrIntensive": "専門教育科目生命科学・医薬品専門科目",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/01\/04",
+            "path": "\/api\/v1\/archive\/2024\/all\/B31002.json"
+        },
+        {
+            "lectureCode": "B31201",
+            "courseName": "医薬品実験II",
+            "lecturer": [
+                "杉山友康",
+                "佐藤淳",
+                "多田雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/01\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/B31201.json"
+        },
+        {
+            "lectureCode": "11051B06",
+            "courseName": "フレッシャーズゼミII[6]BS",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/11051B06.json"
+        },
+        {
+            "lectureCode": "B33301",
+            "courseName": "医薬品開発概論",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2024\/02\/01",
+            "path": "\/api\/v1\/archive\/2024\/all\/B33301.json"
+        },
+        {
+            "lectureCode": "ES00211",
+            "courseName": "創成課題II[BS]",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/ES00211.json"
+        }
+    ]
+}

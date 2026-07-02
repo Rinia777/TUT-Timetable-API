@@ -1,0 +1,327 @@
+{
+    "filters": {
+        "lecturer": "佐々木亮平",
+        "lecturerKey": "3a6725b46fb4"
+    },
+    "count": 13,
+    "lectures": [
+        {
+            "lectureCode": "GGC90114",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90114.json"
+        },
+        {
+            "lectureCode": "GGC13801",
+            "courseName": "数理最適化入門",
+            "lecturer": [
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC13801.json"
+        },
+        {
+            "lectureCode": "C21001",
+            "courseName": "プログラミングB1",
+            "lecturer": [
+                "ライエルグリムベルゲン",
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2024\/01\/05",
+            "path": "\/api\/v1\/archive\/2024\/all\/C21001.json"
+        },
+        {
+            "lectureCode": "11050C06",
+            "courseName": "フレッシャーズゼミI[6]CS",
+            "lecturer": [
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/11050C06.json"
+        },
+        {
+            "lectureCode": "11041C1",
+            "courseName": "情報リテラシー演習[A]CS",
+            "lecturer": [
+                "福西広晃",
+                "佐々木亮平",
+                "高本綺架"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０１",
+                "講義棟Ａ２０２",
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2024\/01\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/11041C1.json"
+        },
+        {
+            "lectureCode": "GGC90164",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90164.json"
+        },
+        {
+            "lectureCode": "GGC90214",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/02\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90214.json"
+        },
+        {
+            "lectureCode": "GGC90364",
+            "courseName": "コンピュータサイエンス研究II",
+            "lecturer": [
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90364.json"
+        },
+        {
+            "lectureCode": "GGC90414",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGC90414.json"
+        },
+        {
+            "lectureCode": "C21301",
+            "courseName": "プログラミングC2",
+            "lecturer": [
+                "金光永煥",
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/C21301.json"
+        },
+        {
+            "lectureCode": "C30912",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/C30912.json"
+        },
+        {
+            "lectureCode": "11051C06",
+            "courseName": "フレッシャーズゼミII[6]CS",
+            "lecturer": [
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/11051C06.json"
+        },
+        {
+            "lectureCode": "C10901",
+            "courseName": "プログラミング基礎II[A]CS",
+            "lecturer": [
+                "青木輝勝",
+                "佐々木亮平",
+                "伝保昭彦"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２",
+                "研究棟Ａ４０３",
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2024\/02\/07",
+            "path": "\/api\/v1\/archive\/2024\/all\/C10901.json"
+        }
+    ]
+}

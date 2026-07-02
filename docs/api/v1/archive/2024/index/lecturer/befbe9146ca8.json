@@ -1,0 +1,116 @@
+{
+    "filters": {
+        "lecturer": "未定",
+        "lecturerKey": "befbe9146ca8"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "K704310",
+            "courseName": "卒業課題I[2025]",
+            "lecturer": [
+                "未定"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/01\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/K704310.json"
+        },
+        {
+            "lectureCode": "K704410",
+            "courseName": "卒業課題II[2025]",
+            "lecturer": [
+                "未定"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2025\/01\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/K704410.json"
+        },
+        {
+            "lectureCode": "K6054041",
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "未定"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/01\/17",
+            "path": "\/api\/v1\/archive\/2024\/all\/K6054041.json"
+        },
+        {
+            "lectureCode": "K605504",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "未定"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/01\/17",
+            "path": "\/api\/v1\/archive\/2024\/all\/K605504.json"
+        },
+        {
+            "lectureCode": "K704210",
+            "courseName": "創成課題[2025]",
+            "lecturer": [
+                "未定"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月5",
+                "金2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2025\/01\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/K704210.json"
+        }
+    ]
+}

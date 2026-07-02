@@ -1,0 +1,139 @@
+{
+    "filters": {
+        "lecturer": "松永栄一",
+        "lecturerKey": "78391ee3e535"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "11043K2",
+            "courseName": "数学基礎[ES]",
+            "lecturer": [
+                "松永栄一"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2024\/02\/29",
+            "path": "\/api\/v1\/archive\/2024\/all\/11043K2.json"
+        },
+        {
+            "lectureCode": "B20102",
+            "courseName": "微分積分II[2]BS",
+            "lecturer": [
+                "松永栄一"
+            ],
+            "regularOrIntensive": "専門基礎教育科目数理",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2024\/01\/09",
+            "path": "\/api\/v1\/archive\/2024\/all\/B20102.json"
+        },
+        {
+            "lectureCode": "K600301",
+            "courseName": "線形代数(E)",
+            "lecturer": [
+                "松永栄一"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2024\/02\/24",
+            "path": "\/api\/v1\/archive\/2024\/all\/K600301.json"
+        },
+        {
+            "lectureCode": "B10102",
+            "courseName": "微分積分[2]BS",
+            "lecturer": [
+                "松永栄一"
+            ],
+            "regularOrIntensive": "専門基礎教育科目数理",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2024\/01\/31",
+            "path": "\/api\/v1\/archive\/2024\/all\/B10102.json"
+        },
+        {
+            "lectureCode": "K500301",
+            "courseName": "微分積分II",
+            "lecturer": [
+                "松永栄一",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2024\/02\/03",
+            "path": "\/api\/v1\/archive\/2024\/all\/K500301.json"
+        }
+    ]
+}

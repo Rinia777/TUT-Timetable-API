@@ -1,0 +1,343 @@
+{
+    "filters": {
+        "lecturer": "吉田雅紀",
+        "lecturerKey": "bb1173d7858a"
+    },
+    "count": 14,
+    "lectures": [
+        {
+            "lectureCode": "ES00315",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/ES00315.json"
+        },
+        {
+            "lectureCode": "B32301",
+            "courseName": "皮膚科学",
+            "lecturer": [
+                "吉田雅紀",
+                "松井毅"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2024\/01\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/B32301.json"
+        },
+        {
+            "lectureCode": "11050B19",
+            "courseName": "フレッシャーズゼミI[19]BS",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/11050B19.json"
+        },
+        {
+            "lectureCode": "B11002",
+            "courseName": "化学基礎演習[A2]",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/B11002.json"
+        },
+        {
+            "lectureCode": "ES00415",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/ES00415.json"
+        },
+        {
+            "lectureCode": "GGB90181",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90181.json"
+        },
+        {
+            "lectureCode": "GGB90231",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90231.json"
+        },
+        {
+            "lectureCode": "GGB90381",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90381.json"
+        },
+        {
+            "lectureCode": "GGB90431",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2024\/09\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB90431.json"
+        },
+        {
+            "lectureCode": "B30801",
+            "courseName": "化粧品実験II",
+            "lecturer": [
+                "柴田雅史",
+                "吉田雅紀",
+                "松井毅"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2024\/05\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/B30801.json"
+        },
+        {
+            "lectureCode": "11051B19",
+            "courseName": "フレッシャーズゼミII[19]BS",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/11051B19.json"
+        },
+        {
+            "lectureCode": "GGB13601",
+            "courseName": "皮膚生理学特論",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2024\/02\/28",
+            "path": "\/api\/v1\/archive\/2024\/all\/GGB13601.json"
+        },
+        {
+            "lectureCode": "ES00247",
+            "courseName": "創成課題II[BS]",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2024\/02\/14",
+            "path": "\/api\/v1\/archive\/2024\/all\/ES00247.json"
+        },
+        {
+            "lectureCode": "B22801",
+            "courseName": "免疫学",
+            "lecturer": [
+                "吉田雅紀"
+            ],
+            "regularOrIntensive": "専門基礎教育科目生物学",
+            "courseType": "講義科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2024\/01\/31",
+            "path": "\/api\/v1\/archive\/2024\/all\/B22801.json"
+        }
+    ]
+}

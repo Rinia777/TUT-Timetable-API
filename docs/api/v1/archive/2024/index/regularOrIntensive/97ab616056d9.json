@@ -1,0 +1,621 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門教育科目スキル",
+        "regularOrIntensiveKey": "97ab616056d9"
+    },
+    "count": 23,
+    "lectures": [
+        {
+            "lectureCode": "S3060",
+            "courseName": "専門スキル演習(Webコンテンツデザイン)",
+            "lecturer": [
+                "宮内晟"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3060.json"
+        },
+        {
+            "lectureCode": "S3080",
+            "courseName": "専門スキル演習(デジタルコンテンツデザイン)",
+            "lecturer": [
+                "中嶋亮介"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１５デザインクリエーションルーム２"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3080.json"
+        },
+        {
+            "lectureCode": "S3090",
+            "courseName": "専門スキル演習（空間系CAD）",
+            "lecturer": [
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3090.json"
+        },
+        {
+            "lectureCode": "S2080",
+            "courseName": "スキル演習（撮影・画像加工）［クラス共通］",
+            "lecturer": [
+                "原田和大",
+                "吉永和久",
+                "石動和香子",
+                "石山慎治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1",
+                "木2",
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2080.json"
+        },
+        {
+            "lectureCode": "S2081",
+            "courseName": "スキル演習（撮影・画像加工）［木曜Aクラス］",
+            "lecturer": [
+                "原田和大",
+                "石山慎治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１",
+                "３１４０２撮影スタジオ",
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2024\/03\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2081.json"
+        },
+        {
+            "lectureCode": "S2082",
+            "courseName": "スキル演習（撮影・画像加工）［木曜Bクラス］",
+            "lecturer": [
+                "原田和大",
+                "石山慎治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１",
+                "３１４０２撮影スタジオ",
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2024\/03\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2082.json"
+        },
+        {
+            "lectureCode": "S2090",
+            "courseName": "スキル演習（基礎製図）",
+            "lecturer": [
+                "御幸朋寿"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１５デザインクリエーションルーム２",
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2090.json"
+        },
+        {
+            "lectureCode": "S3050",
+            "courseName": "専門スキル演習(エディトリアルデザイン)",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3050.json"
+        },
+        {
+            "lectureCode": "S3070",
+            "courseName": "専門スキル演習(デジタル映像表現)",
+            "lecturer": [
+                "尾道幸治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3070.json"
+        },
+        {
+            "lectureCode": "S3100",
+            "courseName": "専門スキル演習（工業系CAD）",
+            "lecturer": [
+                "堀川卓哉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１５デザインクリエーションルーム２",
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3100.json"
+        },
+        {
+            "lectureCode": "S2083",
+            "courseName": "スキル演習（撮影・画像加工）［金曜Aクラス］",
+            "lecturer": [
+                "吉永和久",
+                "石動和香子"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１",
+                "３１１１５デザインクリエーションルーム２",
+                "３１４０２撮影スタジオ",
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2024\/03\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2083.json"
+        },
+        {
+            "lectureCode": "S2084",
+            "courseName": "スキル演習（撮影・画像加工）［金曜Bクラス］",
+            "lecturer": [
+                "吉永和久",
+                "石動和香子"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１",
+                "３１１１５デザインクリエーションルーム２",
+                "３１４０２撮影スタジオ",
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2024\/03\/08",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2084.json"
+        },
+        {
+            "lectureCode": "S3110",
+            "courseName": "専門スキル演習(ビジュアルコミュニケーション)",
+            "lecturer": [
+                "山本哲次"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3110.json"
+        },
+        {
+            "lectureCode": "S3150",
+            "courseName": "専門スキル演習(空間系プレゼンテーション)",
+            "lecturer": [
+                "中田衣都香",
+                "伊藤努",
+                "田村吾郎"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3150.json"
+        },
+        {
+            "lectureCode": "S3160",
+            "courseName": "専門スキル演習(工業系プレゼンテーション)",
+            "lecturer": [
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3160.json"
+        },
+        {
+            "lectureCode": "S2100",
+            "courseName": "専門スキル演習（エディトリアルデザイン）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2100.json"
+        },
+        {
+            "lectureCode": "S2120",
+            "courseName": "専門スキル演習（ユーザインタフェース）",
+            "lecturer": [
+                "加藤一葉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2120.json"
+        },
+        {
+            "lectureCode": "S2140",
+            "courseName": "専門スキル演習（3Dモデリング）",
+            "lecturer": [
+                "木戸友貴"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１５デザインクリエーションルーム２",
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2024\/08\/07",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2140.json"
+        },
+        {
+            "lectureCode": "S3120",
+            "courseName": "専門スキル演習(パッケージデザイン)",
+            "lecturer": [
+                "木村愛"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3120.json"
+        },
+        {
+            "lectureCode": "S3130",
+            "courseName": "専門スキル演習(インフォメーションデザイン)",
+            "lecturer": [
+                "小川遥介"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3130.json"
+        },
+        {
+            "lectureCode": "S3140",
+            "courseName": "専門スキル演習(サウンドデザイン)",
+            "lecturer": [
+                "松村誠一郎"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/03\/12",
+            "path": "\/api\/v1\/archive\/2024\/all\/S3140.json"
+        },
+        {
+            "lectureCode": "S2110",
+            "courseName": "専門スキル演習（Webコンテンツデザイン）",
+            "lecturer": [
+                "宮内晟"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2110.json"
+        },
+        {
+            "lectureCode": "S2130",
+            "courseName": "専門スキル演習（デジタル映像表現）",
+            "lecturer": [
+                "尾道幸治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2130.json"
+        }
+    ]
+}

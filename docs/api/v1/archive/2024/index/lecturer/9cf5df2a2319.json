@@ -1,0 +1,501 @@
+{
+    "filters": {
+        "lecturer": "田邉雄一",
+        "lecturerKey": "9cf5df2a2319"
+    },
+    "count": 17,
+    "lectures": [
+        {
+            "lectureCode": "S1060",
+            "courseName": "デジタルスキルA［クラス共通］",
+            "lecturer": [
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室",
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1060.json"
+        },
+        {
+            "lectureCode": "S1061",
+            "courseName": "デジタルスキルA［AC1］",
+            "lecturer": [
+                "樋口泰行",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1061.json"
+        },
+        {
+            "lectureCode": "S1062",
+            "courseName": "デジタルスキルA［AC2］",
+            "lecturer": [
+                "川端亜衣",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1062.json"
+        },
+        {
+            "lectureCode": "S1063",
+            "courseName": "デジタルスキルA［AC3］",
+            "lecturer": [
+                "田島知華",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1063.json"
+        },
+        {
+            "lectureCode": "S2040",
+            "courseName": "感性演習I（伝える）[クラス共通]",
+            "lecturer": [
+                "早瀬交宣",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３０１デザイン演習室１",
+                "３１３１５デザイン演習室４"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2040.json"
+        },
+        {
+            "lectureCode": "S2050",
+            "courseName": "感性演習II（伝える）[クラス共通]",
+            "lecturer": [
+                "早瀬交宣",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３０１デザイン演習室１",
+                "３１３１５デザイン演習室４"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2050.json"
+        },
+        {
+            "lectureCode": "S1064",
+            "courseName": "デジタルスキルA［BC1］",
+            "lecturer": [
+                "小藤貴之",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1064.json"
+        },
+        {
+            "lectureCode": "S1065",
+            "courseName": "デジタルスキルA［BC2］",
+            "lecturer": [
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1065.json"
+        },
+        {
+            "lectureCode": "S1066",
+            "courseName": "デジタルスキルA［BC3］",
+            "lecturer": [
+                "石井英雄",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1066.json"
+        },
+        {
+            "lectureCode": "S2252",
+            "courseName": "視覚伝達デザインコース専門演習I［4Q］",
+            "lecturer": [
+                "末房志野",
+                "舟山貴士",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３０１デザイン演習室１"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S2252.json"
+        },
+        {
+            "lectureCode": "S1070",
+            "courseName": "デジタルスキルB［クラス共通］",
+            "lecturer": [
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室",
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1070.json"
+        },
+        {
+            "lectureCode": "S1074",
+            "courseName": "デジタルスキルB［BC1］",
+            "lecturer": [
+                "樋口泰行",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1074.json"
+        },
+        {
+            "lectureCode": "S1075",
+            "courseName": "デジタルスキルB［BC2］",
+            "lecturer": [
+                "川端亜衣",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1075.json"
+        },
+        {
+            "lectureCode": "S1076",
+            "courseName": "デジタルスキルB［BC3］",
+            "lecturer": [
+                "田島知華",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1076.json"
+        },
+        {
+            "lectureCode": "S1071",
+            "courseName": "デジタルスキルB［AC1］",
+            "lecturer": [
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1071.json"
+        },
+        {
+            "lectureCode": "S1072",
+            "courseName": "デジタルスキルB［AC2］",
+            "lecturer": [
+                "小藤貴之",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1072.json"
+        },
+        {
+            "lectureCode": "S1073",
+            "courseName": "デジタルスキルB［AC3］",
+            "lecturer": [
+                "尾花曉",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１３教室"
+            ],
+            "updateAt": "2024\/03\/10",
+            "path": "\/api\/v1\/archive\/2024\/all\/S1073.json"
+        }
+    ]
+}

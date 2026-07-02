@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "朝熊悠",
+        "lecturerKey": "0fcd54cbc613"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L605M11",
+            "courseName": "IntegratedEnglishI[B4]MS金1",
+            "lecturer": [
+                "朝熊悠"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2024\/02\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/L605M11.json"
+        },
+        {
+            "lectureCode": "L603M11",
+            "courseName": "EnglishRWI[B5]MS",
+            "lecturer": [
+                "朝熊悠"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L603M11.json"
+        },
+        {
+            "lectureCode": "L606M11",
+            "courseName": "IntegratedEnglishII[4]MS金1",
+            "lecturer": [
+                "朝熊悠"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2024\/02\/13",
+            "path": "\/api\/v1\/archive\/2024\/all\/L606M11.json"
+        },
+        {
+            "lectureCode": "L604M11",
+            "courseName": "EnglishRWII[B5]MS",
+            "lecturer": [
+                "朝熊悠"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2024年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "メディア学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2024\/02\/23",
+            "path": "\/api\/v1\/archive\/2024\/all\/L604M11.json"
+        }
+    ]
+}
