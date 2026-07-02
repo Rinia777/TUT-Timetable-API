@@ -1,0 +1,65 @@
+{
+    "filters": {
+        "lecturer": "川端亜衣",
+        "lecturerKey": "344d8c7215e9"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S1062",
+            "courseName": "デジタルスキルA［AC2］",
+            "lecturer": [
+                "川端亜衣",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2026\/03\/23",
+            "path": "\/api\/v1\/archive\/2026\/all\/S1062.json"
+        },
+        {
+            "lectureCode": "S1075",
+            "courseName": "デジタルスキルB［BC2］",
+            "lecturer": [
+                "川端亜衣",
+                "田崎咲絵"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2026\/06\/19",
+            "path": "\/api\/v1\/archive\/2026\/all\/S1075.json"
+        }
+    ]
+}

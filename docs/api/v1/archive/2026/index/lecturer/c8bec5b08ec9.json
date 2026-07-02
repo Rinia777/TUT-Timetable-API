@@ -1,0 +1,354 @@
+{
+    "filters": {
+        "lecturer": "宇田隆哉",
+        "lecturerKey": "c8bec5b08ec9"
+    },
+    "count": 15,
+    "lectures": [
+        {
+            "lectureCode": "C40105",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/C40105.json"
+        },
+        {
+            "lectureCode": "C40255",
+            "courseName": "卒業課題II[前期]CS",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/C40255.json"
+        },
+        {
+            "lectureCode": "GGC90256",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGC90256.json"
+        },
+        {
+            "lectureCode": "GGC90456",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGC90456.json"
+        },
+        {
+            "lectureCode": "C21601",
+            "courseName": "情報セキュリティ[前期]",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2025\/12\/31",
+            "path": "\/api\/v1\/archive\/2026\/all\/C21601.json"
+        },
+        {
+            "lectureCode": "GGC11901",
+            "courseName": "セキュリティシステム",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGC11901.json"
+        },
+        {
+            "lectureCode": "C30201",
+            "courseName": "先進情報プロジェクト実習I[IT・1]",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2026\/01\/26",
+            "path": "\/api\/v1\/archive\/2026\/all\/C30201.json"
+        },
+        {
+            "lectureCode": "C40155",
+            "courseName": "卒業課題I[後期]CS",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/C40155.json"
+        },
+        {
+            "lectureCode": "C40205",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/C40205.json"
+        },
+        {
+            "lectureCode": "GGC90206",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGC90206.json"
+        },
+        {
+            "lectureCode": "GGC90406",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGC90406.json"
+        },
+        {
+            "lectureCode": "C31005",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/C31005.json"
+        },
+        {
+            "lectureCode": "C11101",
+            "courseName": "WebプログラミングII[IT1]",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ・ビジネス",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2025\/12\/31",
+            "path": "\/api\/v1\/archive\/2026\/all\/C11101.json"
+        },
+        {
+            "lectureCode": "C21602",
+            "courseName": "情報セキュリティ[後期]",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/C21602.json"
+        },
+        {
+            "lectureCode": "C30301",
+            "courseName": "先進情報プロジェクト実習II[IT・1]",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2026\/01\/26",
+            "path": "\/api\/v1\/archive\/2026\/all\/C30301.json"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "filters": {
+        "lecturer": "手嶋昭子",
+        "lecturerKey": "0313f32e75c5"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W1318",
+            "courseName": "国際看護学",
+            "lecturer": [
+                "手嶋昭子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/08",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1318.json"
+        }
+    ]
+}

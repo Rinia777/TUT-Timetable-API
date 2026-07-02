@@ -1,0 +1,180 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門教育科目講義",
+        "regularOrIntensiveKey": "63733d8df003"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "B11201",
+            "courseName": "応用生物学概論",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2026\/01\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/B11201.json"
+        },
+        {
+            "lectureCode": "B32901",
+            "courseName": "再生医学",
+            "lecturer": [
+                "杉山友康",
+                "西良太郎"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/archive\/2026\/all\/B32901.json"
+        },
+        {
+            "lectureCode": "B32801",
+            "courseName": "地球環境産業概論",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/B32801.json"
+        },
+        {
+            "lectureCode": "B23401",
+            "courseName": "水環境工学",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/B23401.json"
+        },
+        {
+            "lectureCode": "B33301",
+            "courseName": "生命医薬産業概論",
+            "lecturer": [
+                "杉山友康"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/archive\/2026\/all\/B33301.json"
+        },
+        {
+            "lectureCode": "B31402",
+            "courseName": "環境バイオプロセス",
+            "lecturer": [
+                "松井徹"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/archive\/2026\/all\/B31402.json"
+        },
+        {
+            "lectureCode": "B33601",
+            "courseName": "化粧品開発概論",
+            "lecturer": [
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/archive\/2026\/all\/B33601.json"
+        }
+    ]
+}

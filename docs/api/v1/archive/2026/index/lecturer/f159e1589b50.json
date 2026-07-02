@@ -1,0 +1,482 @@
+{
+    "filters": {
+        "lecturer": "永井利治",
+        "lecturerKey": "f159e1589b50"
+    },
+    "count": 20,
+    "lectures": [
+        {
+            "lectureCode": "ES00319",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/ES00319.json"
+        },
+        {
+            "lectureCode": "GGB90119",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90119.json"
+        },
+        {
+            "lectureCode": "GGB90269",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90269.json"
+        },
+        {
+            "lectureCode": "GGB90319",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90319.json"
+        },
+        {
+            "lectureCode": "GGB90469",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90469.json"
+        },
+        {
+            "lectureCode": "B21901",
+            "courseName": "食品化学",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/B21901.json"
+        },
+        {
+            "lectureCode": "B30501",
+            "courseName": "食品実験I",
+            "lecturer": [
+                "安川然太",
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０１",
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/B30501.json"
+        },
+        {
+            "lectureCode": "11050B09",
+            "courseName": "フレッシャーズゼミI[9]BS",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/11050B09.json"
+        },
+        {
+            "lectureCode": "B20602",
+            "courseName": "有機化学II[2]",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/B20602.json"
+        },
+        {
+            "lectureCode": "B31601",
+            "courseName": "機器分析",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/B31601.json"
+        },
+        {
+            "lectureCode": "ES00419",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/ES00419.json"
+        },
+        {
+            "lectureCode": "GGB90169",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90169.json"
+        },
+        {
+            "lectureCode": "GGB90219",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90219.json"
+        },
+        {
+            "lectureCode": "GGB90369",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90369.json"
+        },
+        {
+            "lectureCode": "GGB90419",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90419.json"
+        },
+        {
+            "lectureCode": "ES00213",
+            "courseName": "創成課題[BS]",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門教育科目課題研究",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/ES00213.json"
+        },
+        {
+            "lectureCode": "B30601",
+            "courseName": "食品実験II",
+            "lecturer": [
+                "安川然太",
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/B30601.json"
+        },
+        {
+            "lectureCode": "11051B09",
+            "courseName": "フレッシャーズゼミII[9]BS",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００２",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/11051B09.json"
+        },
+        {
+            "lectureCode": "GGB13701",
+            "courseName": "食品分析化学特論",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2026\/01\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB13701.json"
+        },
+        {
+            "lectureCode": "B33402",
+            "courseName": "食品開発概論",
+            "lecturer": [
+                "永井利治"
+            ],
+            "regularOrIntensive": "専門教育科目食品・化粧品専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/B33402.json"
+        }
+    ]
+}

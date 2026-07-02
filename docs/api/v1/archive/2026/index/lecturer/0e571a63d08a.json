@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "伊藤努",
+        "lecturerKey": "0e571a63d08a"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S3160",
+            "courseName": "専門スキル演習(空間系プレゼンテーション)",
+            "lecturer": [
+                "中田衣都香",
+                "伊藤努"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2026\/02\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/S3160.json"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "filters": {
+        "lecturer": "小田敬子",
+        "lecturerKey": "b56a0ae37173"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "S4011",
+            "courseName": "デザイン卒業研究I[視覚伝達]",
+            "lecturer": [
+                "深澤健作",
+                "葛原俊秀",
+                "舟山貴士",
+                "田邉雄一",
+                "小田敬子"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S4011.json"
+        },
+        {
+            "lectureCode": "S2170",
+            "courseName": "イラストレーション論",
+            "lecturer": [
+                "小田敬子"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/02\/22",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2170.json"
+        },
+        {
+            "lectureCode": "S3220",
+            "courseName": "視覚デザイン専門演習II",
+            "lecturer": [
+                "葛原俊秀",
+                "小田敬子"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2026\/01\/23",
+            "path": "\/api\/v1\/archive\/2026\/all\/S3220.json"
+        },
+        {
+            "lectureCode": "R1230",
+            "courseName": "フレッシャーズゼミ[デザイン]",
+            "lecturer": [
+                "酒百宏一",
+                "伊藤英高",
+                "小田敬子"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/02\/25",
+            "path": "\/api\/v1\/archive\/2026\/all\/R1230.json"
+        },
+        {
+            "lectureCode": "S4021",
+            "courseName": "デザイン卒業研究II[視覚伝達]",
+            "lecturer": [
+                "深澤健作",
+                "葛原俊秀",
+                "舟山貴士",
+                "田邉雄一",
+                "小田敬子"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S4021.json"
+        },
+        {
+            "lectureCode": "S3260",
+            "courseName": "視覚デザイン専門研究",
+            "lecturer": [
+                "田邉雄一",
+                "小田敬子"
+            ],
+            "regularOrIntensive": "専門教育科目デザイン研究",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/S3260.json"
+        }
+    ]
+}

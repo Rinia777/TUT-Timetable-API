@@ -1,0 +1,106 @@
+{
+    "filters": {
+        "lecturer": "関根謙一郎",
+        "lecturerKey": "c9bf06b8722f"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "K605404",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "新海健",
+                "関根謙一郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/K605404.json"
+        },
+        {
+            "lectureCode": "K60601",
+            "courseName": "サステイナブル電気電子工学概論I",
+            "lecturer": [
+                "坪川宏",
+                "黒川弘章",
+                "天野直紀",
+                "新海健",
+                "関根謙一郎",
+                "李寧"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2026\/04\/25",
+            "path": "\/api\/v1\/archive\/2026\/all\/K60601.json"
+        },
+        {
+            "lectureCode": "K6054041",
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "新海健",
+                "関根謙一郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/K6054041.json"
+        },
+        {
+            "lectureCode": "K605504",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "新海健",
+                "関根謙一郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/K605504.json"
+        }
+    ]
+}

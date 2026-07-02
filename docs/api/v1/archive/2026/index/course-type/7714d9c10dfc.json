@@ -1,0 +1,55 @@
+{
+    "filters": {
+        "courseType": "実験・演習科目",
+        "courseTypeKey": "7714d9c10dfc"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "B23101",
+            "courseName": "バイオエントリープロジェクト",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門教育科目実験・演習",
+            "courseType": "実験・演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/archive\/2026\/all\/B23101.json"
+        },
+        {
+            "lectureCode": "B23201",
+            "courseName": "バイオ研究入門",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門教育科目実験・演習",
+            "courseType": "実験・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/archive\/2026\/all\/B23201.json"
+        }
+    ]
+}

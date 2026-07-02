@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "貝原奈緒子",
+        "lecturerKey": "05c0708faeaa"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U5403",
+            "courseName": "臨床栄養学",
+            "lecturer": [
+                "貝原奈緒子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/21",
+            "path": "\/api\/v1\/archive\/2026\/all\/U5403.json"
+        }
+    ]
+}

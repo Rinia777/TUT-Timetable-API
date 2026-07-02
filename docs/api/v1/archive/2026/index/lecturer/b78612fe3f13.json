@@ -1,0 +1,110 @@
+{
+    "filters": {
+        "lecturer": "髙瀬航平",
+        "lecturerKey": "b78612fe3f13"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L20601",
+            "courseName": "宗教学[木1]",
+            "lecturer": [
+                "髙瀬航平"
+            ],
+            "regularOrIntensive": "実学基礎科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2026\/01\/20",
+            "path": "\/api\/v1\/archive\/2026\/all\/L20601.json"
+        },
+        {
+            "lectureCode": "L20602",
+            "courseName": "宗教学[木2]",
+            "lecturer": [
+                "髙瀬航平"
+            ],
+            "regularOrIntensive": "実学基礎科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/L20602.json"
+        },
+        {
+            "lectureCode": "R2010",
+            "courseName": "宗教学[デザイン]",
+            "lecturer": [
+                "髙瀬航平"
+            ],
+            "regularOrIntensive": "実学基礎科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/R2010.json"
+        },
+        {
+            "lectureCode": "T0500",
+            "courseName": "宗教学[医療]",
+            "lecturer": [
+                "髙瀬航平"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/T0500.json"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "filters": {
+        "lecturer": "横田恭子",
+        "lecturerKey": "c3660390a8cb"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "W2309",
+            "courseName": "内科系臨床医学II",
+            "lecturer": [
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/04\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W2309.json"
+        },
+        {
+            "lectureCode": "W5301",
+            "courseName": "臨床病理学",
+            "lecturer": [
+                "横田恭子",
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/08",
+            "path": "\/api\/v1\/archive\/2026\/all\/W5301.json"
+        },
+        {
+            "lectureCode": "U1208",
+            "courseName": "疾病治療論I",
+            "lecturer": [
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/04\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1208.json"
+        },
+        {
+            "lectureCode": "W5211",
+            "courseName": "免疫検査学",
+            "lecturer": [
+                "伊藤さやか",
+                "横田恭子",
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/08",
+            "path": "\/api\/v1\/archive\/2026\/all\/W5211.json"
+        },
+        {
+            "lectureCode": "W5205",
+            "courseName": "血液検査学実習I",
+            "lecturer": [
+                "横田恭子",
+                "廣田雅子",
+                "佐藤瑞穂",
+                "水野元貴",
+                "迫西大輔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/W5205.json"
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "filters": {
+        "lecturer": "御幸朋寿",
+        "lecturerKey": "95633faf445a"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "S4013",
+            "courseName": "デザイン卒業研究I[空間演出]",
+            "lecturer": [
+                "宮元三恵",
+                "田村吾郎",
+                "御幸朋寿",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S4013.json"
+        },
+        {
+            "lectureCode": "S2240",
+            "courseName": "工業・空間デザイン演習",
+            "lecturer": [
+                "御幸朋寿",
+                "田崎咲絵"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１３１１デザイン演習室２",
+                "３１３１３デザイン演習室３"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2240.json"
+        },
+        {
+            "lectureCode": "S2070",
+            "courseName": "スキル演習(基礎製図)",
+            "lecturer": [
+                "御幸朋寿"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１５デザインクリエーションルーム２",
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2026\/01\/22",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2070.json"
+        },
+        {
+            "lectureCode": "S4023",
+            "courseName": "デザイン卒業研究II[空間演出]",
+            "lecturer": [
+                "宮元三恵",
+                "田村吾郎",
+                "御幸朋寿",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S4023.json"
+        },
+        {
+            "lectureCode": "S1110",
+            "courseName": "感性演習II（つくる・関係づける）［Q共通］",
+            "lecturer": [
+                "御幸朋寿",
+                "高澤恭子"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１１デザイン演習室２",
+                "３１３１３デザイン演習室３"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/S1110.json"
+        },
+        {
+            "lectureCode": "S1113q",
+            "courseName": "感性演習II（つくる・関係づける）[3Q／K3・K4共通]",
+            "lecturer": [
+                "御幸朋寿",
+                "高澤恭子"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１１デザイン演習室２",
+                "３１３１３デザイン演習室３"
+            ],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S1113q.json"
+        },
+        {
+            "lectureCode": "S1114q",
+            "courseName": "感性演習II（つくる・関係づける）[4Q／K1・K2共通]",
+            "lecturer": [
+                "御幸朋寿",
+                "高澤恭子"
+            ],
+            "regularOrIntensive": "専門教育科目共通",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１１デザイン演習室２",
+                "３１３１３デザイン演習室３"
+            ],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S1114q.json"
+        },
+        {
+            "lectureCode": "S2220",
+            "courseName": "数理造形",
+            "lecturer": [
+                "御幸朋寿"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2026\/01\/22",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2220.json"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "filters": {
+        "lecturer": "篠田巴留香",
+        "lecturerKey": "2a5373cd4207"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "W140515",
+            "courseName": "卒業研究[NU15]",
+            "lecturer": [
+                "篠田巴留香"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140515.json"
+        },
+        {
+            "lectureCode": "W140615",
+            "courseName": "統合看護実習[15]",
+            "lecturer": [
+                "篠田巴留香"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140615.json"
+        },
+        {
+            "lectureCode": "W1320",
+            "courseName": "認知症ケア",
+            "lecturer": [
+                "佐藤智子",
+                "安井大輔",
+                "篠田巴留香"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1320.json"
+        },
+        {
+            "lectureCode": "T2512",
+            "courseName": "フレッシャーズゼミ[看護2]",
+            "lecturer": [
+                "篠田巴留香",
+                "遠山寛子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/T2512.json"
+        },
+        {
+            "lectureCode": "W1306",
+            "courseName": "高齢者看護学II",
+            "lecturer": [
+                "佐藤智子",
+                "安井大輔",
+                "篠田巴留香"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/04\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1306.json"
+        },
+        {
+            "lectureCode": "W1315",
+            "courseName": "高齢者看護学実習",
+            "lecturer": [
+                "佐藤智子",
+                "安井大輔",
+                "篠田巴留香"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1315.json"
+        },
+        {
+            "lectureCode": "W1213",
+            "courseName": "高齢者看護学I",
+            "lecturer": [
+                "佐藤智子",
+                "安井大輔",
+                "篠田巴留香"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1213.json"
+        }
+    ]
+}

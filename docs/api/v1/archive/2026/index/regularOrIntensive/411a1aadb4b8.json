@@ -1,0 +1,55 @@
+{
+    "filters": {
+        "regularOrIntensive": "教養教育科目人間形成",
+        "regularOrIntensiveKey": "411a1aadb4b8"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "11059B1",
+            "courseName": "インターンシップII[BS]",
+            "lecturer": [
+                "松井徹"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/archive\/2026\/all\/11059B1.json"
+        },
+        {
+            "lectureCode": "11059M1",
+            "courseName": "インターンシップII[MS]",
+            "lecturer": [
+                "菊池司"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2026\/02\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/11059M1.json"
+        }
+    ]
+}

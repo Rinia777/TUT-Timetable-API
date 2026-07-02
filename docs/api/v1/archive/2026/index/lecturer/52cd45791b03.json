@@ -1,0 +1,90 @@
+{
+    "filters": {
+        "lecturer": "藤澤幸太郎",
+        "lecturerKey": "52cd45791b03"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "T2120",
+            "courseName": "コンピュータ概論[臨工]",
+            "lecturer": [
+                "藤澤幸太郎",
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2026\/01\/20",
+            "path": "\/api\/v1\/archive\/2026\/all\/T2120.json"
+        },
+        {
+            "lectureCode": "R1130",
+            "courseName": "コンピュータ概論[デザイン]",
+            "lecturer": [
+                "藤澤幸太郎",
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "実学基礎科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/21",
+            "path": "\/api\/v1\/archive\/2026\/all\/R1130.json"
+        },
+        {
+            "lectureCode": "T2100",
+            "courseName": "コンピュータ概論I[医療]",
+            "lecturer": [
+                "藤澤幸太郎",
+                "藤澤幸太郎"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/21",
+            "path": "\/api\/v1\/archive\/2026\/all\/T2100.json"
+        }
+    ]
+}

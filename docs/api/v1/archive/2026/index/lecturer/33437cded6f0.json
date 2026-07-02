@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "植田将基",
+        "lecturerKey": "33437cded6f0"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S2110",
+            "courseName": "専門スキル演習(ユーザインタフェース)",
+            "lecturer": [
+                "植田将基"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2110.json"
+        }
+    ]
+}

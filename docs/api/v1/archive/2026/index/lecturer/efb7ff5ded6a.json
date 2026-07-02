@@ -1,0 +1,768 @@
+{
+    "filters": {
+        "lecturer": "日向奈惠",
+        "lecturerKey": "efb7ff5ded6a"
+    },
+    "count": 26,
+    "lectures": [
+        {
+            "lectureCode": "GH3001",
+            "courseName": "医療技術学研究企画",
+            "lecturer": [
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "加納敬",
+                "澤田辰徳",
+                "笠井亮佑",
+                "友利幸之介",
+                "上條史記",
+                "島峰徹也",
+                "清水潤",
+                "水野元貴",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH3001.json"
+        },
+        {
+            "lectureCode": "GH3003",
+            "courseName": "医療技術学研究II",
+            "lecturer": [
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "加納敬",
+                "澤田辰徳",
+                "笠井亮佑",
+                "友利幸之介",
+                "上條史記",
+                "島峰徹也",
+                "清水潤",
+                "水野元貴",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH3003.json"
+        },
+        {
+            "lectureCode": "W1408",
+            "courseName": "先端医療総合講義[看護]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/24",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1408.json"
+        },
+        {
+            "lectureCode": "W240601",
+            "courseName": "卒業研究I[CE1]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W240601.json"
+        },
+        {
+            "lectureCode": "W2408",
+            "courseName": "先端医療総合講義[臨工]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/24",
+            "path": "\/api\/v1\/archive\/2026\/all\/W2408.json"
+        },
+        {
+            "lectureCode": "W5406",
+            "courseName": "先端医療総合講義[臨検]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/24",
+            "path": "\/api\/v1\/archive\/2026\/all\/W5406.json"
+        },
+        {
+            "lectureCode": "W6441",
+            "courseName": "先端医療総合講義[リハビリ]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/03\/24",
+            "path": "\/api\/v1\/archive\/2026\/all\/W6441.json"
+        },
+        {
+            "lectureCode": "GH1001",
+            "courseName": "医療技術学概論",
+            "lecturer": [
+                "佐々木聰",
+                "下村美文",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子",
+                "榎本みのり",
+                "十島純子",
+                "笠井亮佑",
+                "清水潤",
+                "安藤ゆうき",
+                "水野元貴",
+                "東雅啓",
+                "内田庸助",
+                "勅使川原篤志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2026\/03\/26",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH1001.json"
+        },
+        {
+            "lectureCode": "W2402",
+            "courseName": "臨床工学セミナー",
+            "lecturer": [
+                "日向奈惠",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也",
+                "安藤ゆうき",
+                "佐藤広隆",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3",
+                "他"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W2402.json"
+        },
+        {
+            "lectureCode": "GH1005",
+            "courseName": "医療機器総論",
+            "lecturer": [
+                "下村美文",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "榎本みのり",
+                "花尾麻美",
+                "荻野稔",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2026\/02\/20",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH1005.json"
+        },
+        {
+            "lectureCode": "W2404",
+            "courseName": "実践医学統合講義",
+            "lecturer": [
+                "鈴木みゆき",
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/W2404.json"
+        },
+        {
+            "lectureCode": "U2204",
+            "courseName": "病理学[臨工]",
+            "lecturer": [
+                "鈴木みゆき",
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/U2204.json"
+        },
+        {
+            "lectureCode": "W2310",
+            "courseName": "外科系臨床医学II",
+            "lecturer": [
+                "篠原一彦",
+                "篠原一彦",
+                "日向奈惠",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也",
+                "内林諒輔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/W2310.json"
+        },
+        {
+            "lectureCode": "W1319",
+            "courseName": "医療安全・人間工学概論[看護]",
+            "lecturer": [
+                "篠原一彦",
+                "篠原一彦",
+                "日向奈惠",
+                "内林諒輔"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/12\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1319.json"
+        },
+        {
+            "lectureCode": "W2401",
+            "courseName": "医療安全・人間工学概論[臨工]",
+            "lecturer": [
+                "篠原一彦",
+                "篠原一彦",
+                "日向奈惠",
+                "内林諒輔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/12\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W2401.json"
+        },
+        {
+            "lectureCode": "W6431",
+            "courseName": "医療安全・人間工学概論[リハビリ]",
+            "lecturer": [
+                "篠原一彦",
+                "篠原一彦",
+                "日向奈惠",
+                "内林諒輔"
+            ],
+            "regularOrIntensive": "専門科目発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/12\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W6431.json"
+        },
+        {
+            "lectureCode": "GH3002",
+            "courseName": "医療技術学研究I",
+            "lecturer": [
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "加納敬",
+                "澤田辰徳",
+                "笠井亮佑",
+                "友利幸之介",
+                "上條史記",
+                "島峰徹也",
+                "清水潤",
+                "水野元貴",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH3002.json"
+        },
+        {
+            "lectureCode": "GH3004",
+            "courseName": "医療技術学研究III",
+            "lecturer": [
+                "佐々木聰",
+                "苗村潔",
+                "日向奈惠",
+                "栗原由利子",
+                "岡崎充宏",
+                "中川和美",
+                "田仲浩平",
+                "榎本みのり",
+                "十島純子",
+                "加納敬",
+                "澤田辰徳",
+                "笠井亮佑",
+                "友利幸之介",
+                "上條史記",
+                "島峰徹也",
+                "清水潤",
+                "水野元貴",
+                "髙橋優太"
+            ],
+            "regularOrIntensive": "研究科目",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH3004.json"
+        },
+        {
+            "lectureCode": "W24021",
+            "courseName": "臨床工学セミナー[再]",
+            "lecturer": [
+                "日向奈惠",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也",
+                "安藤ゆうき",
+                "佐藤広隆",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W24021.json"
+        },
+        {
+            "lectureCode": "W240701",
+            "courseName": "卒業研究II[CE1]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W240701.json"
+        },
+        {
+            "lectureCode": "GH2011",
+            "courseName": "医用情報解析工学特論",
+            "lecturer": [
+                "苗村潔",
+                "下村美文",
+                "日向奈惠",
+                "岡崎充宏",
+                "田仲浩平",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也",
+                "佐藤広隆",
+                "髙橋優太",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門領域科目検査情報解析領域",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１８４３看護実習室４",
+                "Ｍ２１９地域・在宅・精神実習室",
+                "Ｍ７０１臨床工学科実習室１"
+            ],
+            "updateAt": "2026\/02\/20",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH2011.json"
+        },
+        {
+            "lectureCode": "GH2012",
+            "courseName": "医用情報解析工学演習",
+            "lecturer": [
+                "苗村潔",
+                "下村美文",
+                "日向奈惠",
+                "岡崎充宏",
+                "田仲浩平",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也",
+                "佐藤広隆",
+                "髙橋優太",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門領域科目検査情報解析領域",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１８４３看護実習室４",
+                "Ｍ２１９地域・在宅・精神実習室",
+                "Ｍ７０１臨床工学科実習室１"
+            ],
+            "updateAt": "2026\/02\/20",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH2012.json"
+        },
+        {
+            "lectureCode": "U2206",
+            "courseName": "基礎医学実習",
+            "lecturer": [
+                "下村美文",
+                "日向奈惠",
+                "加納敬",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/U2206.json"
+        },
+        {
+            "lectureCode": "W2405",
+            "courseName": "実践医学特別演習",
+            "lecturer": [
+                "下村美文",
+                "日向奈惠",
+                "荻野稔",
+                "笠井亮佑",
+                "島峰徹也",
+                "安藤ゆうき",
+                "佐藤広隆",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/W2405.json"
+        },
+        {
+            "lectureCode": "U1209",
+            "courseName": "疾病治療論II",
+            "lecturer": [
+                "篠原一彦",
+                "日向奈惠",
+                "内林諒輔"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/12\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1209.json"
+        },
+        {
+            "lectureCode": "W2208",
+            "courseName": "外科系臨床医学I",
+            "lecturer": [
+                "篠原一彦",
+                "日向奈惠",
+                "内林諒輔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/12\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W2208.json"
+        }
+    ]
+}

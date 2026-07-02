@@ -1,0 +1,225 @@
+{
+    "filters": {
+        "lecturer": "相野谷威雄",
+        "lecturerKey": "74fd8ef5664c"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "S4014",
+            "courseName": "デザイン卒業研究I[工業ものづくり]",
+            "lecturer": [
+                "酒井正",
+                "堀川卓哉",
+                "相野谷威雄",
+                "高澤恭子",
+                "田崎咲絵"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S4014.json"
+        },
+        {
+            "lectureCode": "GF1002",
+            "courseName": "デザインクリエイションI",
+            "lecturer": [
+                "伊藤丙雄",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2026\/02\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GF1002.json"
+        },
+        {
+            "lectureCode": "S2200",
+            "courseName": "計画論",
+            "lecturer": [
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/03\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2200.json"
+        },
+        {
+            "lectureCode": "S3240",
+            "courseName": "工業デザイン専門演習II",
+            "lecturer": [
+                "酒井正",
+                "堀川卓哉",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/S3240.json"
+        },
+        {
+            "lectureCode": "S4024",
+            "courseName": "デザイン卒業研究II[工業ものづくり]",
+            "lecturer": [
+                "酒井正",
+                "相野谷威雄",
+                "高澤恭子",
+                "田崎咲絵"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S4024.json"
+        },
+        {
+            "lectureCode": "GF1003",
+            "courseName": "デザインクリエイションII",
+            "lecturer": [
+                "伊藤丙雄",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2026\/02\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/GF1003.json"
+        },
+        {
+            "lectureCode": "S3280",
+            "courseName": "工業デザイン専門研究",
+            "lecturer": [
+                "相野谷威雄",
+                "田崎咲絵"
+            ],
+            "regularOrIntensive": "専門教育科目デザイン研究",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/archive\/2026\/all\/S3280.json"
+        },
+        {
+            "lectureCode": "S3150",
+            "courseName": "専門スキル演習(工業系プレゼンテーション)",
+            "lecturer": [
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/S3150.json"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "lectureCode": "GGC14401",
+    "courseName": "説明可能なAI特論",
+    "lecturer": [
+        "中西崇文"
+    ],
+    "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+    "courseType": "講義科目",
+    "courseStart": "2026年度前期",
+    "classPeriod": [
+        "水1"
+    ],
+    "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+    "targetGrade": [
+        "1年",
+        "2年"
+    ],
+    "numberOfCredits": 1,
+    "classroom": [
+        "講義実験棟１０１"
+    ],
+    "courceDetails": {
+        "courseOverview": "近年の人工知能（AI）および機械学習（ML）モデルにおいて、特に深層学習や生成AI、なかでも大規模言語モデル（LLM）が一般的に利用されるようになり、各種ベンチマークテストにおいても非常に高い精度を示すようになってきた。しかしながら、これらのAI・MLモデルは、その判断根拠が人間にとって理解困難であることから、医療などの高い安全性や説明責任が求められる現場において最新モデルの導入が敬遠されたり、ビジネスの現場において意思決定の妨げとなる事例が散見されている。本授業「説明可能なAI特論／AdvancedExplainableArtificialIntelligence」は、このようにブラックボックス化したAIに対して、どのように説明を与え、どこまで理解可能にできるのかを、理論と実践の両面から体系的に学ぶことを目的とする。本授業ではまず、「なぜ精度だけではAIを評価できないのか」「なぜデータやアルゴリズムに内在するバイアスが問題となるのか」といった社会的・技術的背景を整理する。その上で、線形モデルや決定木といった説明しやすいモデルと、ニューラルネットワークなど説明が困難なモデルを対比しながら、「解釈（interpretation）」と「説明（explanation）」の違いを明確にする。後半では、説明可能なAI(ExplainableAI;XAI)の中核概念である特徴重要度（Global\/LocalFeatureImportance）を軸に、Model-agnostic手法（PDP、ICE、LIME、SHAP、AIMEなど）およびModel-specific手法（IntegratedGradients、Grad-CAM、LRP等）を体系的に扱う。単なる手法紹介にとどまらず、「どの手法が、どのような前提のもとで、何を説明しているのか」を数理的・概念的に理解することを重視する。",
+        "outcomesMeasuredBy": "本授業の到達目標は、XAIを個々の手法の集合としてではなく、思想および設計原理として理解することにある。具体的には、以下の能力の獲得を到達目標とする。1.精度指標の限界を理解するrecall、precision、F1scoreなどの数値指標のみでは、AI・MLモデルの安全性・公平性・信頼性を保証できない理由を、具体例とともに説明できる。2.「解釈性（interpretable）」と「説明性（explainable）」の違いを理解するglass-boxmodelとblack-boxmodelの差異を踏まえ、なぜ解釈可能性（interpretability）だけでは不十分であり、説明可能性（explainability）が必要になるのかを理論的に整理できる。3.主要なXAI手法の位置付けを理解するPDP、ICE、LIME、SHAP、AIMEなどのmodel-agnostic手法、およびIntegratedGradientsやGrad-CAMなどのmodel-specific手法について、「何を説明しているのか」「どのような前提に依存しているのか」を言語化できる。4.XAIの限界を理解した上で活用を判断できる説明結果が常に真の因果関係を示すわけではなく、あくまで近似であることを理解した上で、XAIを過信せずに活用する態度を身につける。",
+        "learningOutcomes": "実学に基づく専門能力、コミュニケーション能力、論理的な思考力、分析・評価能力",
+        "teachingMethod": "本授業では自身で調べ、自身で実装し、自身で発表する能動的な学習を推奨する。前半は講義資料に従い理論的・技術的内容を解説するが、それを最小限度とし、後半の実習の時間を多めに取り、自分で調査し、課題を解くことに重点を置く。本授業では、本授業専用の生成AIチャットを使用することを奨励する。本授業用チャットは、授業資料やプログラムについて全て学習済みであり、課題の取り組み、事後学習のよきチューターとして利活用されることが望まれる。サンプルプログラムの実行やデータ分析の課題を行うためノートPCを持参すること。またそのノートPCはGoogleアカウントにログイン可能で、GoogleDriveおよびGoogleColaboratoryを使えるようにしてあることが必要である。",
+        "notices": "•サンプルプログラムの実行やデータ分析の課題はPythonを用いて行うため、プログラミング基礎I\/IIで学んだPythonの文法の理解が不十分である場合は復習しておくこと。•ノートPCは必ず持参で、そのノートPCはGoogleアカウントにログイン可能で、GoogleDriveおよびGoogleColaboratoryを使えるようにしてあること。",
+        "preparatoryStudy": "•予習として、授業資料に目を通し、内容について自身のできる範囲で把握して授業に臨むこと。•復習としては、毎回課題を与えるので、その課題を必ず提出すること。",
+        "gradingGuidelines": "・成績評価方法・基準•毎回の課題(60%)、最終発表およびその提出(40%)で成績をつける。定期テストはない。•毎回の課題については、重要な点があれば適宜フィードバックを行なっていく。",
+        "textbook": "特に指定はしない。",
+        "referenceMaterials": "特に指定はしない。",
+        "courseSchedule": "第1回ガイダンス：なぜ今XAIなのか第2回精度評価の限界とバイアス問題第3回機械学習モデル総復習（線形モデル・決定木・ニューラルネットワーク）第4回グラスボックスモデルとブラックボックスモデル第5回「解釈（interpretation）」と「説明（explanation）」の違い第6回XAIの定義と説明表現の整理第7回Global\/LocalFeatureImportanceの考え方第8回Model-agnostic手法①：PDP・ICE・PFI・LOFO第9回Model-agnostic手法②：LIME・SHAP第10回Model-agnostic手法③：AIME第11回Model-specific手法：IntegratedGradients・Grad-CAM・DeepLIFTなど第12回AIの限界と社会実装への視点第13回–第14回最終課題準備およびプレゼンテーション",
+        "courseDataUpdatedAt": "2025\/12\/23"
+    },
+    "updateAt": "2025\/12\/23"
+}

@@ -1,0 +1,496 @@
+{
+    "filters": {
+        "lecturer": "浦瀬太郎",
+        "lecturerKey": "ad17cec2f2c0"
+    },
+    "count": 21,
+    "lectures": [
+        {
+            "lectureCode": "ES00303",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/ES00303.json"
+        },
+        {
+            "lectureCode": "GGB90106",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90106.json"
+        },
+        {
+            "lectureCode": "GGB90256",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90256.json"
+        },
+        {
+            "lectureCode": "GGB90306",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90306.json"
+        },
+        {
+            "lectureCode": "GGB90456",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90456.json"
+        },
+        {
+            "lectureCode": "B21301",
+            "courseName": "分析化学・有機化学実験[A]",
+            "lecturer": [
+                "藤沢章雄",
+                "浦瀬太郎",
+                "横山憲二"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2026\/01\/13",
+            "path": "\/api\/v1\/archive\/2026\/all\/B21301.json"
+        },
+        {
+            "lectureCode": "B21302",
+            "courseName": "分析化学・有機化学実験[B]",
+            "lecturer": [
+                "藤沢章雄",
+                "浦瀬太郎",
+                "横山憲二"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/B21302.json"
+        },
+        {
+            "lectureCode": "GGZ00102",
+            "courseName": "サイエンスプレゼンテーション英語[初級クラスB]",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "ジェネリックスキル科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻,バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻,バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/12\/23",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGZ00102.json"
+        },
+        {
+            "lectureCode": "B10801",
+            "courseName": "生態学",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門基礎教育科目生物学",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/B10801.json"
+        },
+        {
+            "lectureCode": "GGZ00101",
+            "courseName": "サイエンスプレゼンテーション英語[上級クラス]",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "ジェネリックスキル科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻,バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻,バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2025\/12\/23",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGZ00101.json"
+        },
+        {
+            "lectureCode": "ES00403",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/ES00403.json"
+        },
+        {
+            "lectureCode": "GGB90156",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90156.json"
+        },
+        {
+            "lectureCode": "GGB90206",
+            "courseName": "バイオニクス研究I",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90206.json"
+        },
+        {
+            "lectureCode": "GGB90356",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90356.json"
+        },
+        {
+            "lectureCode": "GGB90406",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB90406.json"
+        },
+        {
+            "lectureCode": "B32801",
+            "courseName": "地球環境産業概論",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/B32801.json"
+        },
+        {
+            "lectureCode": "B33701",
+            "courseName": "公衆衛生学",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/B33701.json"
+        },
+        {
+            "lectureCode": "ES00203",
+            "courseName": "創成課題[BS]",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門教育科目課題研究",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/03",
+            "path": "\/api\/v1\/archive\/2026\/all\/ES00203.json"
+        },
+        {
+            "lectureCode": "B23401",
+            "courseName": "水環境工学",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門教育科目講義",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/B23401.json"
+        },
+        {
+            "lectureCode": "GGB11601",
+            "courseName": "環境マネジメント特論",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2025\/12\/24",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGB11601.json"
+        },
+        {
+            "lectureCode": "GGZ00501",
+            "courseName": "研究リテラシー",
+            "lecturer": [
+                "浦瀬太郎"
+            ],
+            "regularOrIntensive": "ジェネリックスキル科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻,バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻,バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2025\/12\/30",
+            "path": "\/api\/v1\/archive\/2026\/all\/GGZ00501.json"
+        }
+    ]
+}

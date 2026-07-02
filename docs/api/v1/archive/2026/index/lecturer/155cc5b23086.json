@@ -1,0 +1,100 @@
+{
+    "filters": {
+        "lecturer": "石動和香子",
+        "lecturerKey": "155cc5b23086"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "S2060",
+            "courseName": "スキル演習(撮影・画像加工)[クラス共通]",
+            "lecturer": [
+                "原田和大",
+                "吉永和久",
+                "石動和香子",
+                "石山慎治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1",
+                "木2",
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１",
+                "３１４０２撮影スタジオ",
+                "３１５０２専門スキル演習室３"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2060.json"
+        },
+        {
+            "lectureCode": "S2063",
+            "courseName": "スキル演習(撮影・画像加工)[金曜Aクラス]",
+            "lecturer": [
+                "石動和香子",
+                "石山慎治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１",
+                "３１４０２撮影スタジオ",
+                "３１５０２専門スキル演習室３"
+            ],
+            "updateAt": "2026\/03\/23",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2063.json"
+        },
+        {
+            "lectureCode": "S2064",
+            "courseName": "スキル演習(撮影・画像加工)[金曜Bクラス]",
+            "lecturer": [
+                "石動和香子",
+                "石山慎治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１",
+                "３１４０２撮影スタジオ",
+                "３１５０２専門スキル演習室３"
+            ],
+            "updateAt": "2026\/03\/23",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2064.json"
+        }
+    ]
+}

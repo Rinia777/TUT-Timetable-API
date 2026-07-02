@@ -1,0 +1,39 @@
+{
+    "filters": {
+        "lecturer": "南裕子",
+        "lecturerKey": "e2538f1da82d"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "11120M01",
+            "courseName": "キャリア設計I[MS]",
+            "lecturer": [
+                "菊池司",
+                "南裕子"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４",
+                "講義棟Ａ３０１",
+                "講義棟Ａ３０２",
+                "講義棟Ａ３０３",
+                "講義棟Ａ３０４",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2026\/03\/31",
+            "path": "\/api\/v1\/archive\/2026\/all\/11120M01.json"
+        }
+    ]
+}

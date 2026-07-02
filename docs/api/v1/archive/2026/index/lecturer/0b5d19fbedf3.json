@@ -1,0 +1,39 @@
+{
+    "filters": {
+        "lecturer": "関澤浩一",
+        "lecturerKey": "0b5d19fbedf3"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W5214",
+            "courseName": "遺伝子検査学実習",
+            "lecturer": [
+                "関澤浩一",
+                "三上あかね",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/W5214.json"
+        }
+    ]
+}

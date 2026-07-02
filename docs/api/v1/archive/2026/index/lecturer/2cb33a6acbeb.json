@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "串田高幸",
+        "lecturerKey": "2cb33a6acbeb"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "C21801",
+            "courseName": "オペレーティングシステム",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2026\/01\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/C21801.json"
+        }
+    ]
+}

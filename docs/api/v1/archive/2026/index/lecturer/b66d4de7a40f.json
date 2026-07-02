@@ -1,0 +1,174 @@
+{
+    "filters": {
+        "lecturer": "伊藤英高",
+        "lecturerKey": "b66d4de7a40f"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "S4012",
+            "courseName": "デザイン卒業研究I[視覚情報]",
+            "lecturer": [
+                "松村誠一郎",
+                "中島健太",
+                "伊藤英高",
+                "井藤雄一",
+                "野村律子"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S4012.json"
+        },
+        {
+            "lectureCode": "S3230",
+            "courseName": "情報デザイン専門演習II",
+            "lecturer": [
+                "中島健太",
+                "伊藤英高",
+                "井藤雄一"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/S3230.json"
+        },
+        {
+            "lectureCode": "R1230",
+            "courseName": "フレッシャーズゼミ[デザイン]",
+            "lecturer": [
+                "酒百宏一",
+                "伊藤英高",
+                "小田敬子"
+            ],
+            "regularOrIntensive": "実学基礎科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/02\/25",
+            "path": "\/api\/v1\/archive\/2026\/all\/R1230.json"
+        },
+        {
+            "lectureCode": "S4022",
+            "courseName": "デザイン卒業研究II[視覚情報]",
+            "lecturer": [
+                "松村誠一郎",
+                "中島健太",
+                "伊藤英高",
+                "早瀬交宣",
+                "井藤雄一",
+                "野村律子"
+            ],
+            "regularOrIntensive": "専門教育科目卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2026\/04\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/S4022.json"
+        },
+        {
+            "lectureCode": "S2190",
+            "courseName": "映像論",
+            "lecturer": [
+                "伊藤英高"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/S2190.json"
+        },
+        {
+            "lectureCode": "S3270",
+            "courseName": "情報デザイン専門研究",
+            "lecturer": [
+                "伊藤英高",
+                "井藤雄一"
+            ],
+            "regularOrIntensive": "専門教育科目デザイン研究",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2026\/02\/22",
+            "path": "\/api\/v1\/archive\/2026\/all\/S3270.json"
+        }
+    ]
+}

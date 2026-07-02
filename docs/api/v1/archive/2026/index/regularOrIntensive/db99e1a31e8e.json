@@ -1,0 +1,84 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門領域科目検査情報解析領域",
+        "regularOrIntensiveKey": "db99e1a31e8e"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "GH2011",
+            "courseName": "医用情報解析工学特論",
+            "lecturer": [
+                "苗村潔",
+                "下村美文",
+                "日向奈惠",
+                "岡崎充宏",
+                "田仲浩平",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也",
+                "佐藤広隆",
+                "髙橋優太",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門領域科目検査情報解析領域",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１８４３看護実習室４",
+                "Ｍ２１９地域・在宅・精神実習室",
+                "Ｍ７０１臨床工学科実習室１"
+            ],
+            "updateAt": "2026\/02\/20",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH2011.json"
+        },
+        {
+            "lectureCode": "GH2012",
+            "courseName": "医用情報解析工学演習",
+            "lecturer": [
+                "苗村潔",
+                "下村美文",
+                "日向奈惠",
+                "岡崎充宏",
+                "田仲浩平",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也",
+                "佐藤広隆",
+                "髙橋優太",
+                "内田庸助"
+            ],
+            "regularOrIntensive": "専門領域科目検査情報解析領域",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "医療技術学研究科修士課程臨床検査学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１８４３看護実習室４",
+                "Ｍ２１９地域・在宅・精神実習室",
+                "Ｍ７０１臨床工学科実習室１"
+            ],
+            "updateAt": "2026\/02\/20",
+            "path": "\/api\/v1\/archive\/2026\/all\/GH2012.json"
+        }
+    ]
+}

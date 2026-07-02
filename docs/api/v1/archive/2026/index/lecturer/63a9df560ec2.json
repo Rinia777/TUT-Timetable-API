@@ -1,0 +1,37 @@
+{
+    "filters": {
+        "lecturer": "山下希代",
+        "lecturerKey": "63a9df560ec2"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "T2511",
+            "courseName": "フレッシャーズゼミ[看護1]",
+            "lecturer": [
+                "飯塚敏子",
+                "安井大輔",
+                "山下希代"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１７教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/T2511.json"
+        }
+    ]
+}

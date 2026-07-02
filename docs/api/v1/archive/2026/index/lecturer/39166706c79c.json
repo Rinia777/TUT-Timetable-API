@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "詫間直樹",
+        "lecturerKey": "39166706c79c"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "R1070",
+            "courseName": "科学論[デザイン]",
+            "lecturer": [
+                "詫間直樹"
+            ],
+            "regularOrIntensive": "実学基礎科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/01\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/R1070.json"
+        },
+        {
+            "lectureCode": "T0600",
+            "courseName": "科学論[医療]",
+            "lecturer": [
+                "詫間直樹"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/01\/07",
+            "path": "\/api\/v1\/archive\/2026\/all\/T0600.json"
+        }
+    ]
+}

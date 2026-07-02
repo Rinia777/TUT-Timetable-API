@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "青木美奈",
+        "lecturerKey": "38e4b0b3302a"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "L605C07",
+            "courseName": "IntegratedEnglishI[7]CS機械",
+            "lecturer": [
+                "青木美奈"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/archive\/2026\/all\/L605C07.json"
+        },
+        {
+            "lectureCode": "L603C04",
+            "courseName": "EnglishRWI[A4]CS",
+            "lecturer": [
+                "青木美奈"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/L603C04.json"
+        },
+        {
+            "lectureCode": "L606C07",
+            "courseName": "IntegratedEnglishII[7]CS機械",
+            "lecturer": [
+                "青木美奈"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/archive\/2026\/all\/L606C07.json"
+        },
+        {
+            "lectureCode": "L604C04",
+            "courseName": "EnglishRWII[A4]CS",
+            "lecturer": [
+                "青木美奈"
+            ],
+            "regularOrIntensive": "実学基礎科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2026\/01\/27",
+            "path": "\/api\/v1\/archive\/2026\/all\/L604C04.json"
+        }
+    ]
+}
