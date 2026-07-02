@@ -1,0 +1,840 @@
+{
+    "department": "HSH2",
+    "count": 87,
+    "lectures": [
+        {
+            "courseName": "システム制御工学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U23010.json"
+        },
+        {
+            "courseName": "人体解剖学I",
+            "lecturer": [
+                "寺島達夫"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U21010.json"
+        },
+        {
+            "courseName": "人体解剖学II",
+            "lecturer": [
+                "寺島達夫"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U21020.json"
+        },
+        {
+            "courseName": "体外循環学演習",
+            "lecturer": [
+                "田仲浩平",
+                "笠井亮佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W22050.json"
+        },
+        {
+            "courseName": "先端医療総合講義",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24080.json"
+        },
+        {
+            "courseName": "公衆衛生学",
+            "lecturer": [
+                "秋本和哉",
+                "梅田勝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U24040.json"
+        },
+        {
+            "courseName": "内科系臨床医学I",
+            "lecturer": [
+                "日向奈惠",
+                "横田恭子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W22070.json"
+        },
+        {
+            "courseName": "内科系臨床医学II",
+            "lecturer": [
+                "柴崎芳一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23090.json"
+        },
+        {
+            "courseName": "医学概論",
+            "lecturer": [
+                "篠原一彦",
+                "秋本和哉",
+                "梅田勝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U21090.json"
+        },
+        {
+            "courseName": "医用工学特別演習",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24030.json"
+        },
+        {
+            "courseName": "医用機器安全管理学",
+            "lecturer": [
+                "阿部盛夫",
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23030.json"
+        },
+        {
+            "courseName": "医用機器安全管理学実習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23040.json"
+        },
+        {
+            "courseName": "医用機器演習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23050.json"
+        },
+        {
+            "courseName": "医用機械工学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22090.json"
+        },
+        {
+            "courseName": "医用治療機器学",
+            "lecturer": [
+                "小野哲章",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W22010.json"
+        },
+        {
+            "courseName": "医用画像機器学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23020.json"
+        },
+        {
+            "courseName": "医療入門演習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W21020.json"
+        },
+        {
+            "courseName": "医療安全・人間工学概論",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24010.json"
+        },
+        {
+            "courseName": "医療情報演習",
+            "lecturer": [
+                "野田雅司"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U24030.json"
+        },
+        {
+            "courseName": "医療機器安全管理学実習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23160.json"
+        },
+        {
+            "courseName": "医療経済学",
+            "lecturer": [
+                "磯伸彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22070.json"
+        },
+        {
+            "courseName": "卒業研究II[CE10]",
+            "lecturer": [
+                "加納敬"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2407A.json"
+        },
+        {
+            "courseName": "卒業研究II[CE11]",
+            "lecturer": [
+                "笠井亮佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2407B.json"
+        },
+        {
+            "courseName": "卒業研究II[CE12]",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2407C.json"
+        },
+        {
+            "courseName": "卒業研究II[CE13]",
+            "lecturer": [
+                "上條史記"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2407D.json"
+        },
+        {
+            "courseName": "卒業研究II[CE14]",
+            "lecturer": [
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2407E.json"
+        },
+        {
+            "courseName": "卒業研究II[CE1]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24071.json"
+        },
+        {
+            "courseName": "卒業研究II[CE2]",
+            "lecturer": [
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24072.json"
+        },
+        {
+            "courseName": "卒業研究II[CE3]",
+            "lecturer": [
+                "柴崎芳一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24073.json"
+        },
+        {
+            "courseName": "卒業研究II[CE4]",
+            "lecturer": [
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24074.json"
+        },
+        {
+            "courseName": "卒業研究II[CE5]",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24075.json"
+        },
+        {
+            "courseName": "卒業研究II[CE6]",
+            "lecturer": [
+                "宮地寛登"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24076.json"
+        },
+        {
+            "courseName": "卒業研究II[CE7]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24077.json"
+        },
+        {
+            "courseName": "卒業研究II[CE8]",
+            "lecturer": [
+                "荻野稔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24078.json"
+        },
+        {
+            "courseName": "卒業研究II[CE9]",
+            "lecturer": [
+                "南順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24079.json"
+        },
+        {
+            "courseName": "卒業研究I[CE10]",
+            "lecturer": [
+                "加納敬"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2406A.json"
+        },
+        {
+            "courseName": "卒業研究I[CE11]",
+            "lecturer": [
+                "笠井亮佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2406B.json"
+        },
+        {
+            "courseName": "卒業研究I[CE12]",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2406C.json"
+        },
+        {
+            "courseName": "卒業研究I[CE13]",
+            "lecturer": [
+                "上條史記"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2406D.json"
+        },
+        {
+            "courseName": "卒業研究I[CE14]",
+            "lecturer": [
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W2406E.json"
+        },
+        {
+            "courseName": "卒業研究I[CE1]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24061.json"
+        },
+        {
+            "courseName": "卒業研究I[CE2]",
+            "lecturer": [
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24062.json"
+        },
+        {
+            "courseName": "卒業研究I[CE3]",
+            "lecturer": [
+                "柴崎芳一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24063.json"
+        },
+        {
+            "courseName": "卒業研究I[CE4]",
+            "lecturer": [
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24064.json"
+        },
+        {
+            "courseName": "卒業研究I[CE5]",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24065.json"
+        },
+        {
+            "courseName": "卒業研究I[CE6]",
+            "lecturer": [
+                "宮地寛登"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24066.json"
+        },
+        {
+            "courseName": "卒業研究I[CE7]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24067.json"
+        },
+        {
+            "courseName": "卒業研究I[CE8]",
+            "lecturer": [
+                "荻野稔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24068.json"
+        },
+        {
+            "courseName": "卒業研究I[CE9]",
+            "lecturer": [
+                "南順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24069.json"
+        },
+        {
+            "courseName": "呼吸療法学演習",
+            "lecturer": [
+                "加納敬"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W22040.json"
+        },
+        {
+            "courseName": "基礎医学実習",
+            "lecturer": [
+                "南順子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22060.json"
+        },
+        {
+            "courseName": "外科系臨床医学I",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W22080.json"
+        },
+        {
+            "courseName": "外科系臨床医学II",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23100.json"
+        },
+        {
+            "courseName": "実践医学特別演習",
+            "lecturer": [
+                "南順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24050.json"
+        },
+        {
+            "courseName": "実践医学統合講義",
+            "lecturer": [
+                "鈴木みゆき",
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24040.json"
+        },
+        {
+            "courseName": "工学基礎演習",
+            "lecturer": [
+                "加用一者",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U21060.json"
+        },
+        {
+            "courseName": "工学実験I",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22110.json"
+        },
+        {
+            "courseName": "工学実験II",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22120.json"
+        },
+        {
+            "courseName": "工学演習I",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U23020.json"
+        },
+        {
+            "courseName": "工学演習II",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U24010.json"
+        },
+        {
+            "courseName": "情報工学特論",
+            "lecturer": [
+                "生駒洋子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U24020.json"
+        },
+        {
+            "courseName": "数学（微分積分）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U21080.json"
+        },
+        {
+            "courseName": "数学（応用解析学）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22150.json"
+        },
+        {
+            "courseName": "数学（線形代数）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U21070.json"
+        },
+        {
+            "courseName": "機械工学I",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22170.json"
+        },
+        {
+            "courseName": "生体機能代行技術学",
+            "lecturer": [
+                "上條史記"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W22060.json"
+        },
+        {
+            "courseName": "生体機能代行装置学実習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23060.json"
+        },
+        {
+            "courseName": "生体機能代行装置学演習",
+            "lecturer": [
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23070.json"
+        },
+        {
+            "courseName": "生体物性材料工学",
+            "lecturer": [
+                "宮地寛登"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23010.json"
+        },
+        {
+            "courseName": "生体計測機器学",
+            "lecturer": [
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W22020.json"
+        },
+        {
+            "courseName": "生命倫理",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U21030.json"
+        },
+        {
+            "courseName": "生理学I",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U21040.json"
+        },
+        {
+            "courseName": "生理学II",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22010.json"
+        },
+        {
+            "courseName": "病理学",
+            "lecturer": [
+                "南順子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22040.json"
+        },
+        {
+            "courseName": "臨床実習",
+            "lecturer": [
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23080.json"
+        },
+        {
+            "courseName": "臨床工学セミナー",
+            "lecturer": [
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W24020.json"
+        },
+        {
+            "courseName": "臨床工学概論",
+            "lecturer": [
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W21010.json"
+        },
+        {
+            "courseName": "臨床工学演習",
+            "lecturer": [
+                "小野哲章",
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W23110.json"
+        },
+        {
+            "courseName": "臨床微生物・免疫学",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22050.json"
+        },
+        {
+            "courseName": "臨床心理学",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22080.json"
+        },
+        {
+            "courseName": "臨床生化学",
+            "lecturer": [
+                "加柴美里"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22020.json"
+        },
+        {
+            "courseName": "臨床薬理学",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22030.json"
+        },
+        {
+            "courseName": "血液浄化学演習",
+            "lecturer": [
+                "荻野稔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/W22030.json"
+        },
+        {
+            "courseName": "電子工学I",
+            "lecturer": [
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22130.json"
+        },
+        {
+            "courseName": "電子工学II",
+            "lecturer": [
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22140.json"
+        },
+        {
+            "courseName": "電気工学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U22100.json"
+        },
+        {
+            "courseName": "電磁気学",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/HSH2\/U21050.json"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "上田裕巳",
+        "lecturerKey": "a7e55da9ab71"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "C31201",
+            "courseName": "IPネットワーク",
+            "lecturer": [
+                "上田裕巳"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2020\/03\/13",
+            "path": "\/api\/v1\/archive\/2020\/all\/C31201.json"
+        },
+        {
+            "lectureCode": "C31901",
+            "courseName": "ブロードバンドネットワーク",
+            "lecturer": [
+                "上田裕巳"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/C31901.json"
+        }
+    ]
+}

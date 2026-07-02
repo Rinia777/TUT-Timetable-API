@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "渡邊俊博",
+        "lecturerKey": "1596c9c3e55b"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S2040",
+            "courseName": "インターラクションデザイン",
+            "lecturer": [
+                "渡邊俊博"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/02\/03",
+            "path": "\/api\/v1\/archive\/2020\/all\/S2040.json"
+        }
+    ]
+}

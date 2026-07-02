@@ -1,0 +1,104 @@
+{
+    "filters": {
+        "lecturer": "鈴木晶子",
+        "lecturerKey": "8fa04ae4c943"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "W1405E",
+            "courseName": "卒業研究[NU14]",
+            "lecturer": [
+                "鈴木晶子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/W1405E.json"
+        },
+        {
+            "lectureCode": "W1406E",
+            "courseName": "統合看護実習[14]",
+            "lecturer": [
+                "鈴木晶子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/W1406E.json"
+        },
+        {
+            "lectureCode": "T11181",
+            "courseName": "フレッシャーズゼミ[N1]",
+            "lecturer": [
+                "木内妙子",
+                "鈴木晶子",
+                "厚澤博美"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部看護学科看護師コース",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０１教室",
+                "３０２１１教室"
+            ],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/T11181.json"
+        },
+        {
+            "lectureCode": "W13130",
+            "courseName": "高齢者看護学実習",
+            "lecturer": [
+                "鈴木晶子",
+                "新山真奈美",
+                "宮首由美子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/11\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13130.json"
+        }
+    ]
+}

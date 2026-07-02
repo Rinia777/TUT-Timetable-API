@@ -1,0 +1,219 @@
+{
+    "filters": {
+        "lecturer": "串田高幸",
+        "lecturerKey": "2cb33a6acbeb"
+    },
+    "count": 9,
+    "lectures": [
+        {
+            "lectureCode": "C40113",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/C40113.json"
+        },
+        {
+            "lectureCode": "C22201",
+            "courseName": "分散コンピューティング[前期]2019入学生用",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/03\/03",
+            "path": "\/api\/v1\/archive\/2020\/all\/C22201.json"
+        },
+        {
+            "lectureCode": "11050C04",
+            "courseName": "フレッシャーズゼミI",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/02\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/11050C04.json"
+        },
+        {
+            "lectureCode": "C40213",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/C40213.json"
+        },
+        {
+            "lectureCode": "C22202",
+            "courseName": "分散コンピューティング[後期]2019入学生用",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/C22202.json"
+        },
+        {
+            "lectureCode": "C34614",
+            "courseName": "創成課題",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2020\/02\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/C34614.json"
+        },
+        {
+            "lectureCode": "G1349001",
+            "courseName": "分散システム",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1349001.json"
+        },
+        {
+            "lectureCode": "C32101",
+            "courseName": "インターネットアプリケーション",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/C32101.json"
+        },
+        {
+            "lectureCode": "11051C04",
+            "courseName": "フレッシャーズゼミII",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2020\/02\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/11051C04.json"
+        }
+    ]
+}

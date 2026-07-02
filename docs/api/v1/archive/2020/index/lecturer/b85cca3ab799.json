@@ -1,0 +1,102 @@
+{
+    "filters": {
+        "lecturer": "金指みの利",
+        "lecturerKey": "b85cca3ab799"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "1106613",
+            "courseName": "スポーツ実技IV[火1]（ダンス・エクササイズ）",
+            "lecturer": [
+                "金指みの利"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/08\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/1106613.json"
+        },
+        {
+            "lectureCode": "1106623",
+            "courseName": "スポーツ実技IV[火2]（ダンス・エクササイズ）",
+            "lecturer": [
+                "金指みの利"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/08\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/1106623.json"
+        },
+        {
+            "lectureCode": "1106633",
+            "courseName": "スポーツ実技IV[火3]（ダンス・エクササイズ）",
+            "lecturer": [
+                "金指みの利"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実技科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/08\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/1106633.json"
+        },
+        {
+            "lectureCode": "1106414",
+            "courseName": "スポーツ実技II[金1M電]（トレーニング）",
+            "lecturer": [
+                "金指みの利"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実技科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "工学部電気電子工学科,メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/08\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/1106414.json"
+        }
+    ]
+}

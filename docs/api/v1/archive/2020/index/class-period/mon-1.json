@@ -1,0 +1,2609 @@
+{
+    "filters": {
+        "classPeriod": "月1",
+        "classPeriodKey": "mon-1"
+    },
+    "count": 102,
+    "lectures": [
+        {
+            "lectureCode": "GF1002",
+            "courseName": "ビジュアルクリエイションI",
+            "lecturer": [
+                "伊藤丙雄",
+                "酒百宏一",
+                "中島健太",
+                "大西景太",
+                "深澤健作",
+                "伊藤英高",
+                "末房志野"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2020\/02\/04",
+            "path": "\/api\/v1\/archive\/2020\/all\/GF1002.json"
+        },
+        {
+            "lectureCode": "GF1004",
+            "courseName": "インダストリークリエイションI",
+            "lecturer": [
+                "本郷信二",
+                "宮元三恵",
+                "田村吾郎",
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１７教室"
+            ],
+            "updateAt": "2020\/02\/04",
+            "path": "\/api\/v1\/archive\/2020\/all\/GF1004.json"
+        },
+        {
+            "lectureCode": "GF1010",
+            "courseName": "サウンドとデザイン",
+            "lecturer": [
+                "松村誠一郎"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１４０４専門スキル演習室１"
+            ],
+            "updateAt": "2021\/01\/21",
+            "path": "\/api\/v1\/archive\/2020\/all\/GF1010.json"
+        },
+        {
+            "lectureCode": "S1041",
+            "courseName": "デジタルスキルA（AC1クラス）",
+            "lecturer": [
+                "大里浩二",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2020\/03\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/S1041.json"
+        },
+        {
+            "lectureCode": "S1042",
+            "courseName": "デジタルスキルA（AC2クラス）",
+            "lecturer": [
+                "大里浩二",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2020\/03\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/S1042.json"
+        },
+        {
+            "lectureCode": "S1043",
+            "courseName": "デジタルスキルA（AC3クラス）",
+            "lecturer": [
+                "大里浩二",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１３教室"
+            ],
+            "updateAt": "2020\/03\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/S1043.json"
+        },
+        {
+            "lectureCode": "S3070",
+            "courseName": "専門スキル演習（DTP-A）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１５デザインクリエーションルーム２"
+            ],
+            "updateAt": "2020\/03\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3070.json"
+        },
+        {
+            "lectureCode": "S3090",
+            "courseName": "専門スキル演習（インフォモーション）",
+            "lecturer": [
+                "大須賀淳",
+                "中島健太"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2020\/03\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3090.json"
+        },
+        {
+            "lectureCode": "S3110",
+            "courseName": "専門スキル演習（工業系CAD）",
+            "lecturer": [
+                "堀川卓哉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2019\/12\/16",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3110.json"
+        },
+        {
+            "lectureCode": "U13010",
+            "courseName": "臨床工学演習",
+            "lecturer": [
+                "下村美文",
+                "宮地寛登",
+                "田仲浩平",
+                "荻野稔",
+                "加納敬",
+                "笠井亮佑",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2020\/02\/10",
+            "path": "\/api\/v1\/archive\/2020\/all\/U13010.json"
+        },
+        {
+            "lectureCode": "U43030",
+            "courseName": "臨床運動学演習",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室"
+            ],
+            "updateAt": "2020\/02\/03",
+            "path": "\/api\/v1\/archive\/2020\/all\/U43030.json"
+        },
+        {
+            "lectureCode": "W13090",
+            "courseName": "産業看護学",
+            "lecturer": [
+                "五十嵐千代",
+                "土屋文枝"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ２１９地域・在宅・精神実習室"
+            ],
+            "updateAt": "2020\/03\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13090.json"
+        },
+        {
+            "lectureCode": "W33050",
+            "courseName": "神経系理学療法学",
+            "lecturer": [
+                "栗田英明",
+                "楠本泰士"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２",
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/W33050.json"
+        },
+        {
+            "lectureCode": "T11087",
+            "courseName": "フレッシュマンイングリッシュI[N7]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０３１１教室"
+            ],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/T11087.json"
+        },
+        {
+            "lectureCode": "W33060",
+            "courseName": "神経系理学療法学実習",
+            "lecturer": [
+                "栗田英明",
+                "楠本泰士",
+                "土屋順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２",
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/W33060.json"
+        },
+        {
+            "lectureCode": "K001001",
+            "courseName": "工学英語A[第1Q1]",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "金1"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１"
+            ],
+            "updateAt": "2020\/01\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001001.json"
+        },
+        {
+            "lectureCode": "K001003",
+            "courseName": "工学英語A[第2Q1]",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "金1"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１"
+            ],
+            "updateAt": "2020\/01\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001003.json"
+        },
+        {
+            "lectureCode": "K001005",
+            "courseName": "工学英語A[第1Q1]",
+            "lecturer": [
+                "飯塚直人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "金1"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３"
+            ],
+            "updateAt": "2020\/01\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001005.json"
+        },
+        {
+            "lectureCode": "K001007",
+            "courseName": "工学英語A[第2Q1]",
+            "lecturer": [
+                "飯塚直人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "金1"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３"
+            ],
+            "updateAt": "2020\/01\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001007.json"
+        },
+        {
+            "lectureCode": "1100201",
+            "courseName": "心理学[合A前期]",
+            "lecturer": [
+                "吉田恵理"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/13",
+            "path": "\/api\/v1\/archive\/2020\/all\/1100201.json"
+        },
+        {
+            "lectureCode": "1100501",
+            "courseName": "言語学[合A]",
+            "lecturer": [
+                "酒井優子"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/1100501.json"
+        },
+        {
+            "lectureCode": "11019B01",
+            "courseName": "英語インテンシブIII[1]",
+            "lecturer": [
+                "荒木友嗣"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2020\/01\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B01.json"
+        },
+        {
+            "lectureCode": "11019B02",
+            "courseName": "英語インテンシブIII[2]",
+            "lecturer": [
+                "ラッセル，E"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2020\/01\/29",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B02.json"
+        },
+        {
+            "lectureCode": "11019B03",
+            "courseName": "英語インテンシブIII[3]",
+            "lecturer": [
+                "三部祐治"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2020\/01\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B03.json"
+        },
+        {
+            "lectureCode": "11019B04",
+            "courseName": "英語インテンシブIII[4]",
+            "lecturer": [
+                "廣幡晴菜"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０５"
+            ],
+            "updateAt": "2020\/01\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B04.json"
+        },
+        {
+            "lectureCode": "11019B05",
+            "courseName": "英語インテンシブIII[5]",
+            "lecturer": [
+                "石塚美佳"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2020\/01\/28",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B05.json"
+        },
+        {
+            "lectureCode": "11019B06",
+            "courseName": "英語インテンシブIII[6]",
+            "lecturer": [
+                "ブロックルバンク"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2020\/01\/23",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B06.json"
+        },
+        {
+            "lectureCode": "11019B07",
+            "courseName": "英語インテンシブIII[7]",
+            "lecturer": [
+                "神谷明美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2020\/01\/28",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B07.json"
+        },
+        {
+            "lectureCode": "11019B08",
+            "courseName": "英語インテンシブIII[8]",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B08.json"
+        },
+        {
+            "lectureCode": "11019B09",
+            "courseName": "英語インテンシブIII[9]",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１０"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B09.json"
+        },
+        {
+            "lectureCode": "11019B10",
+            "courseName": "英語インテンシブIII[10]",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１１"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B10.json"
+        },
+        {
+            "lectureCode": "11032B32",
+            "courseName": "フランス語I[32]",
+            "lecturer": [
+                "斉藤かぐみ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/11032B32.json"
+        },
+        {
+            "lectureCode": "11036B31",
+            "courseName": "中国語I[31]",
+            "lecturer": [
+                "陳淑梅"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/11036B31.json"
+        },
+        {
+            "lectureCode": "11036B32",
+            "courseName": "中国語I[32]",
+            "lecturer": [
+                "劉渇氷"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/11036B32.json"
+        },
+        {
+            "lectureCode": "1104401",
+            "courseName": "物理の世界[合B]",
+            "lecturer": [
+                "青山哲也",
+                "吉村徹三",
+                "山元進"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1104401.json"
+        },
+        {
+            "lectureCode": "1104501",
+            "courseName": "化学の世界[合B]",
+            "lecturer": [
+                "佐藤道夫",
+                "渡辺秀夫",
+                "杉本岩雄"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1104501.json"
+        },
+        {
+            "lectureCode": "1104601",
+            "courseName": "生物の世界[合B]",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1104601.json"
+        },
+        {
+            "lectureCode": "1104701",
+            "courseName": "サイエンスの世界[合B]",
+            "lecturer": [
+                "加柴美里",
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1104701.json"
+        },
+        {
+            "lectureCode": "1108701",
+            "courseName": "法と社会[合A]",
+            "lecturer": [
+                "村上康二郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108701.json"
+        },
+        {
+            "lectureCode": "1108901",
+            "courseName": "経済と社会[合A]",
+            "lecturer": [
+                "工藤昌宏"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2019\/12\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108901.json"
+        },
+        {
+            "lectureCode": "1109001",
+            "courseName": "社会学入門[合A]",
+            "lecturer": [
+                "永田大輔"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/1109001.json"
+        },
+        {
+            "lectureCode": "C21101",
+            "courseName": "コンピュータアーキテクチャ[前期]",
+            "lecturer": [
+                "松下宗一郎"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/C21101.json"
+        },
+        {
+            "lectureCode": "C22201",
+            "courseName": "分散コンピューティング[前期]2019入学生用",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/03\/03",
+            "path": "\/api\/v1\/archive\/2020\/all\/C22201.json"
+        },
+        {
+            "lectureCode": "C22701",
+            "courseName": "情報・符号理論［2018以前］",
+            "lecturer": [
+                "大石邦夫"
+            ],
+            "regularOrIntensive": "専門基礎教育科目自然・情報",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/C22701.json"
+        },
+        {
+            "lectureCode": "C33201",
+            "courseName": "コンピュータグラフィックス",
+            "lecturer": [
+                "ライエルグリムベルゲン"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2019\/12\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/C33201.json"
+        },
+        {
+            "lectureCode": "G1018002",
+            "courseName": "化学生物工学特論",
+            "lecturer": [
+                "加藤輝"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/03\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1018002.json"
+        },
+        {
+            "lectureCode": "GE100601",
+            "courseName": "材料プロセス工学特論",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/GE100601.json"
+        },
+        {
+            "lectureCode": "GE100801",
+            "courseName": "レーザー工学特論",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/GE100801.json"
+        },
+        {
+            "lectureCode": "K000201",
+            "courseName": "サステイナブル工学基礎[機][AB]",
+            "lecturer": [
+                "芝池成人",
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000201.json"
+        },
+        {
+            "lectureCode": "K000231",
+            "courseName": "サステイナブル工学基礎[電][AB]",
+            "lecturer": [
+                "芝池成人",
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000231.json"
+        },
+        {
+            "lectureCode": "K000271",
+            "courseName": "サステイナブル工学基礎[化][AB]",
+            "lecturer": [
+                "芝池成人",
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000271.json"
+        },
+        {
+            "lectureCode": "K502501",
+            "courseName": "ロボット運動学",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2020\/01\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/K502501.json"
+        },
+        {
+            "lectureCode": "R2010",
+            "courseName": "宗教学（デザイン）",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2020\/01\/04",
+            "path": "\/api\/v1\/archive\/2020\/all\/R2010.json"
+        },
+        {
+            "lectureCode": "T02020",
+            "courseName": "宗教学（医療保健）",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2020\/01\/04",
+            "path": "\/api\/v1\/archive\/2020\/all\/T02020.json"
+        },
+        {
+            "lectureCode": "T02060",
+            "courseName": "応用コンピュータI（医療保健）",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/T02060.json"
+        },
+        {
+            "lectureCode": "W53020",
+            "courseName": "病態解析学",
+            "lecturer": [
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2020\/01\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/W53020.json"
+        },
+        {
+            "lectureCode": "GF1003",
+            "courseName": "ビジュアルクリエイションII",
+            "lecturer": [
+                "伊藤丙雄",
+                "酒百宏一",
+                "中島健太",
+                "大西景太",
+                "深澤健作",
+                "伊藤英高",
+                "末房志野"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2020\/02\/04",
+            "path": "\/api\/v1\/archive\/2020\/all\/GF1003.json"
+        },
+        {
+            "lectureCode": "GF1005",
+            "courseName": "インダストリークリエイションII",
+            "lecturer": [
+                "本郷信二",
+                "宮元三恵",
+                "田村吾郎",
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１７教室"
+            ],
+            "updateAt": "2020\/02\/04",
+            "path": "\/api\/v1\/archive\/2020\/all\/GF1005.json"
+        },
+        {
+            "lectureCode": "S3130",
+            "courseName": "専門スキル演習（インフォデザイン）",
+            "lecturer": [
+                "加藤一葉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/02\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3130.json"
+        },
+        {
+            "lectureCode": "S3140",
+            "courseName": "専門スキル演習（DTP-B）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/03\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3140.json"
+        },
+        {
+            "lectureCode": "S3180",
+            "courseName": "専門スキル演習（工業系モデリング）",
+            "lecturer": [
+                "堀川卓哉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2019\/12\/16",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3180.json"
+        },
+        {
+            "lectureCode": "U12010",
+            "courseName": "疫学",
+            "lecturer": [
+                "五十嵐千代",
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/U12010.json"
+        },
+        {
+            "lectureCode": "W12150",
+            "courseName": "医療・看護情報学",
+            "lecturer": [
+                "石垣恭子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W12150.json"
+        },
+        {
+            "lectureCode": "K000901",
+            "courseName": "地域連携課題[機][第3Q]",
+            "lecturer": [
+                "高橋秀智",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義・演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "水3",
+                "水4",
+                "水5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2020\/01\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000901.json"
+        },
+        {
+            "lectureCode": "K000902",
+            "courseName": "地域連携課題[機][第4Q]",
+            "lecturer": [
+                "高橋秀智",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義・演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "水3",
+                "水4",
+                "水5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2020\/01\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000902.json"
+        },
+        {
+            "lectureCode": "1100101",
+            "courseName": "芸術論[合A後期]",
+            "lecturer": [
+                "東晴美"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1100101.json"
+        },
+        {
+            "lectureCode": "11020B01",
+            "courseName": "英語インテンシブIV[1]BS電電応化",
+            "lecturer": [
+                "荒木友嗣"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2020\/02\/10",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B01.json"
+        },
+        {
+            "lectureCode": "11020B02",
+            "courseName": "英語インテンシブIV[2]BS電電応化",
+            "lecturer": [
+                "ラッセル，E"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B02.json"
+        },
+        {
+            "lectureCode": "11020B03",
+            "courseName": "英語インテンシブIV[3]BS電電応化",
+            "lecturer": [
+                "三部祐治"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B03.json"
+        },
+        {
+            "lectureCode": "11020B04",
+            "courseName": "英語インテンシブIV[4]BS電電応化",
+            "lecturer": [
+                "廣幡晴菜"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2020\/01\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B04.json"
+        },
+        {
+            "lectureCode": "11020B05",
+            "courseName": "英語インテンシブIV[5]BS電電応化",
+            "lecturer": [
+                "石塚美佳"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2020\/11\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B05.json"
+        },
+        {
+            "lectureCode": "11020B07",
+            "courseName": "英語インテンシブIV[7]BS電電応化",
+            "lecturer": [
+                "神谷明美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2020\/11\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B07.json"
+        },
+        {
+            "lectureCode": "11020B08",
+            "courseName": "英語インテンシブIV[8]BS電電応化",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B08.json"
+        },
+        {
+            "lectureCode": "11020B09",
+            "courseName": "英語インテンシブIV[9]BS電電応化",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2020\/12\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B09.json"
+        },
+        {
+            "lectureCode": "11020B10",
+            "courseName": "英語インテンシブIV[10]BS電電応化",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2020\/12\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B10.json"
+        },
+        {
+            "lectureCode": "11033B32",
+            "courseName": "フランス語II[32]",
+            "lecturer": [
+                "増田ユリ子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/11\/23",
+            "path": "\/api\/v1\/archive\/2020\/all\/11033B32.json"
+        },
+        {
+            "lectureCode": "11037B31",
+            "courseName": "中国語II[31]",
+            "lecturer": [
+                "陳淑梅"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/11037B31.json"
+        },
+        {
+            "lectureCode": "11037B32",
+            "courseName": "中国語II[32]",
+            "lecturer": [
+                "劉渇氷"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/11037B32.json"
+        },
+        {
+            "lectureCode": "1108001",
+            "courseName": "哲学と思考[合A]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108001.json"
+        },
+        {
+            "lectureCode": "1108101",
+            "courseName": "人間と倫理[合A]",
+            "lecturer": [
+                "岡野利津子"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2021\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108101.json"
+        },
+        {
+            "lectureCode": "1108201",
+            "courseName": "世界の宗教[合A]",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108201.json"
+        },
+        {
+            "lectureCode": "1108601",
+            "courseName": "日本語リテラシー[合A]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108601.json"
+        },
+        {
+            "lectureCode": "1108801",
+            "courseName": "政治と社会[合A]",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108801.json"
+        },
+        {
+            "lectureCode": "1111611",
+            "courseName": "データサイエンス入門[合B1]",
+            "lecturer": [
+                "須田拓馬"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/1111611.json"
+        },
+        {
+            "lectureCode": "1111612",
+            "courseName": "データサイエンス入門[合B2]",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1111612.json"
+        },
+        {
+            "lectureCode": "1111613",
+            "courseName": "データサイエンス入門[合B3]",
+            "lecturer": [
+                "亀井聡"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1111613.json"
+        },
+        {
+            "lectureCode": "1111614",
+            "courseName": "データサイエンス入門[合B4]",
+            "lecturer": [
+                "永井朋子"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1111614.json"
+        },
+        {
+            "lectureCode": "C21702",
+            "courseName": "インターネット[後期]",
+            "lecturer": [
+                "金光永煥"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/C21702.json"
+        },
+        {
+            "lectureCode": "C21802",
+            "courseName": "オペレーティングシステム[後期]",
+            "lecturer": [
+                "田胡和哉"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2020\/02\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/C21802.json"
+        },
+        {
+            "lectureCode": "C30801",
+            "courseName": "言語プロセッサ",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/C30801.json"
+        },
+        {
+            "lectureCode": "G1031002",
+            "courseName": "化粧品原料化学特論",
+            "lecturer": [
+                "藤沢章雄"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1031002.json"
+        },
+        {
+            "lectureCode": "GE000602",
+            "courseName": "研究リテラシー",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "総合科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2020\/02\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/GE000602.json"
+        },
+        {
+            "lectureCode": "K603101",
+            "courseName": "電気機器",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2020\/08\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/K603101.json"
+        },
+        {
+            "lectureCode": "K702001",
+            "courseName": "化学工学",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K702001.json"
+        },
+        {
+            "lectureCode": "M202701",
+            "courseName": "統計データ分析",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/M202701.json"
+        },
+        {
+            "lectureCode": "R1220",
+            "courseName": "スポーツ・コンディショニング（デザイン）",
+            "lecturer": [
+                "佐藤宏継"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/R1220.json"
+        },
+        {
+            "lectureCode": "R2030",
+            "courseName": "倫理学（デザイン）",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/R2030.json"
+        },
+        {
+            "lectureCode": "T01110",
+            "courseName": "スポーツ・コンディショニング（医療保健）",
+            "lecturer": [
+                "佐藤宏継"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/T01110.json"
+        },
+        {
+            "lectureCode": "T02010",
+            "courseName": "倫理学（医療保健）",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/T02010.json"
+        },
+        {
+            "lectureCode": "W33150",
+            "courseName": "スポーツ科学理学療法学演習",
+            "lecturer": [
+                "中山孝",
+                "吉田真一",
+                "斎藤寛樹",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2020\/02\/03",
+            "path": "\/api\/v1\/archive\/2020\/all\/W33150.json"
+        },
+        {
+            "lectureCode": "W42090",
+            "courseName": "地域生活支援と作業療法",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０９レクリエーション室"
+            ],
+            "updateAt": "2020\/12\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/W42090.json"
+        },
+        {
+            "lectureCode": "W44040",
+            "courseName": "作業療法セミナー",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W44040.json"
+        }
+    ]
+}

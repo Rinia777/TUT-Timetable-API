@@ -1,0 +1,573 @@
+{
+    "filters": {
+        "regularOrIntensive": "教養教育科目人文",
+        "regularOrIntensiveKey": "24e3a0e0f460"
+    },
+    "count": 22,
+    "lectures": [
+        {
+            "lectureCode": "1100201",
+            "courseName": "心理学[合A前期]",
+            "lecturer": [
+                "吉田恵理"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/13",
+            "path": "\/api\/v1\/archive\/2020\/all\/1100201.json"
+        },
+        {
+            "lectureCode": "1100501",
+            "courseName": "言語学[合A]",
+            "lecturer": [
+                "酒井優子"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/1100501.json"
+        },
+        {
+            "lectureCode": "1100202",
+            "courseName": "心理学[合B前期]",
+            "lecturer": [
+                "吉田恵理"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1100202.json"
+        },
+        {
+            "lectureCode": "1100502",
+            "courseName": "言語学[合B]",
+            "lecturer": [
+                "酒井優子"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/1100502.json"
+        },
+        {
+            "lectureCode": "1108401",
+            "courseName": "社会心理[前期月4]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108401.json"
+        },
+        {
+            "lectureCode": "1108301",
+            "courseName": "日本文化論[前期木1CE]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/01\/29",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108301.json"
+        },
+        {
+            "lectureCode": "1108402",
+            "courseName": "社会心理[前期木1CE]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108402.json"
+        },
+        {
+            "lectureCode": "1108302",
+            "courseName": "日本文化論[前期木2BME]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108302.json"
+        },
+        {
+            "lectureCode": "1108403",
+            "courseName": "社会心理[前期木2BME]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108403.json"
+        },
+        {
+            "lectureCode": "1100101",
+            "courseName": "芸術論[合A後期]",
+            "lecturer": [
+                "東晴美"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1100101.json"
+        },
+        {
+            "lectureCode": "1108001",
+            "courseName": "哲学と思考[合A]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108001.json"
+        },
+        {
+            "lectureCode": "1108101",
+            "courseName": "人間と倫理[合A]",
+            "lecturer": [
+                "岡野利津子"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2021\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108101.json"
+        },
+        {
+            "lectureCode": "1108201",
+            "courseName": "世界の宗教[合A]",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108201.json"
+        },
+        {
+            "lectureCode": "1108601",
+            "courseName": "日本語リテラシー[合A]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108601.json"
+        },
+        {
+            "lectureCode": "1100102",
+            "courseName": "芸術論[合B後期]",
+            "lecturer": [
+                "東晴美"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1100102.json"
+        },
+        {
+            "lectureCode": "1108002",
+            "courseName": "哲学と思考[合B]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108002.json"
+        },
+        {
+            "lectureCode": "1108102",
+            "courseName": "人間と倫理[合B]",
+            "lecturer": [
+                "岡野利津子"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2021\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108102.json"
+        },
+        {
+            "lectureCode": "1108202",
+            "courseName": "世界の宗教[合B]",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108202.json"
+        },
+        {
+            "lectureCode": "1108602",
+            "courseName": "日本語リテラシー[合B]",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108602.json"
+        },
+        {
+            "lectureCode": "1108501",
+            "courseName": "メディアコミュニケーション論[後期月4]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108501.json"
+        },
+        {
+            "lectureCode": "1108502",
+            "courseName": "メディアコミュニケーション論[後期木1BCE]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108502.json"
+        },
+        {
+            "lectureCode": "1108503",
+            "courseName": "メディアコミュニケーション論[後期木2ME]",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/1108503.json"
+        }
+    ]
+}

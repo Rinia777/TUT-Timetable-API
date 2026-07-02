@@ -1,0 +1,30 @@
+{
+    "filters": {
+        "lecturer": "野田雅司",
+        "lecturerKey": "7c2de3854ef6"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U24030",
+            "courseName": "医療情報演習",
+            "lecturer": [
+                "野田雅司"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/U24030.json"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "藤沼光太",
+        "lecturerKey": "36a0e717f1be"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S3010",
+            "courseName": "知的財産論",
+            "lecturer": [
+                "藤沼光太",
+                "鈴木里佳"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2020\/03\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3010.json"
+        }
+    ]
+}

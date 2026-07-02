@@ -1,0 +1,679 @@
+{
+    "filters": {
+        "lecturer": "岩渕徳郎",
+        "lecturerKey": "4896a89e4b9b"
+    },
+    "count": 24,
+    "lectures": [
+        {
+            "lectureCode": "11058B1",
+            "courseName": "インターンシップI",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/07\/17",
+            "path": "\/api\/v1\/archive\/2020\/all\/11058B1.json"
+        },
+        {
+            "lectureCode": "ES00325",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00325.json"
+        },
+        {
+            "lectureCode": "G1001203",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/04\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1001203.json"
+        },
+        {
+            "lectureCode": "11054B1",
+            "courseName": "キャリアデザインＩＩＩ",
+            "lecturer": [
+                "岩渕徳郎",
+                "髙見由満子"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１",
+                "片柳研究所Ｅ２０２",
+                "片柳研究所Ｅ３０２",
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/10",
+            "path": "\/api\/v1\/archive\/2020\/all\/11054B1.json"
+        },
+        {
+            "lectureCode": "B11102",
+            "courseName": "化学演習[B]",
+            "lecturer": [
+                "岩渕徳郎",
+                "横山憲二"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B11102.json"
+        },
+        {
+            "lectureCode": "11050B13",
+            "courseName": "フレッシャーズゼミI[13]",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/11050B13.json"
+        },
+        {
+            "lectureCode": "B11203",
+            "courseName": "食品・化粧品概論",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "専門教育科目食品・化粧品専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/B11203.json"
+        },
+        {
+            "lectureCode": "G1217002",
+            "courseName": "毛髪科学特論",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/03\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1217002.json"
+        },
+        {
+            "lectureCode": "B11101",
+            "courseName": "化学演習[A]",
+            "lecturer": [
+                "岩渕徳郎",
+                "横山憲二"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2020\/02\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/B11101.json"
+        },
+        {
+            "lectureCode": "11059B1",
+            "courseName": "インターンシップII",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/11059B1.json"
+        },
+        {
+            "lectureCode": "ES00425",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00425.json"
+        },
+        {
+            "lectureCode": "B10301",
+            "courseName": "生物・化学基礎実験II[月AD]",
+            "lecturer": [
+                "正木仁",
+                "今村亨",
+                "岩渕徳郎",
+                "永瀬翠",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/11\/23",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10301.json"
+        },
+        {
+            "lectureCode": "B10302",
+            "courseName": "生物・化学基礎実験II[月AE]",
+            "lecturer": [
+                "正木仁",
+                "今村亨",
+                "岩渕徳郎",
+                "永瀬翠",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10302.json"
+        },
+        {
+            "lectureCode": "B10903",
+            "courseName": "一般化学[3]",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10903.json"
+        },
+        {
+            "lectureCode": "11051B13",
+            "courseName": "フレッシャーズゼミII[13]",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/04\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/11051B13.json"
+        },
+        {
+            "lectureCode": "B10305",
+            "courseName": "生物・化学基礎実験II[木AD]",
+            "lecturer": [
+                "正木仁",
+                "今村亨",
+                "岩渕徳郎",
+                "永瀬翠",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10305.json"
+        },
+        {
+            "lectureCode": "B10306",
+            "courseName": "生物・化学基礎実験II[木AE]",
+            "lecturer": [
+                "正木仁",
+                "今村亨",
+                "岩渕徳郎",
+                "永瀬翠",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10306.json"
+        },
+        {
+            "lectureCode": "B10307",
+            "courseName": "生物・化学基礎実験II[金BD]",
+            "lecturer": [
+                "正木仁",
+                "今村亨",
+                "岩渕徳郎",
+                "永瀬翠",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水2",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10307.json"
+        },
+        {
+            "lectureCode": "B10308",
+            "courseName": "生物・化学基礎実験II[金BE]",
+            "lecturer": [
+                "正木仁",
+                "佐藤拓己",
+                "今村亨",
+                "岩渕徳郎",
+                "永瀬翠",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水2",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10308.json"
+        },
+        {
+            "lectureCode": "ES00227",
+            "courseName": "創成課題II",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00227.json"
+        },
+        {
+            "lectureCode": "11055B02",
+            "courseName": "キャリアデザインＩＶ",
+            "lecturer": [
+                "岩渕徳郎",
+                "髙見由満子"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２",
+                "講義棟Ａ３０３",
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/11055B02.json"
+        },
+        {
+            "lectureCode": "B10303",
+            "courseName": "生物・化学基礎実験II[火BD]",
+            "lecturer": [
+                "正木仁",
+                "今村亨",
+                "岩渕徳郎",
+                "永瀬翠",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火4",
+                "火5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10303.json"
+        },
+        {
+            "lectureCode": "B10304",
+            "courseName": "生物・化学基礎実験II[火BE]",
+            "lecturer": [
+                "正木仁",
+                "今村亨",
+                "岩渕徳郎",
+                "永瀬翠",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火4",
+                "火5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10304.json"
+        },
+        {
+            "lectureCode": "B33501",
+            "courseName": "毛髪科学",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/B33501.json"
+        }
+    ]
+}

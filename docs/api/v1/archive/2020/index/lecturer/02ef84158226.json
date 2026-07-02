@@ -1,0 +1,160 @@
+{
+    "filters": {
+        "lecturer": "望月良美",
+        "lecturerKey": "02ef84158226"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "W14057",
+            "courseName": "卒業研究[NU7]",
+            "lecturer": [
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/W14057.json"
+        },
+        {
+            "lectureCode": "W14067",
+            "courseName": "統合看護実習[7]",
+            "lecturer": [
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/W14067.json"
+        },
+        {
+            "lectureCode": "W13010",
+            "courseName": "母性看護学II",
+            "lecturer": [
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室",
+                "３１８４３看護実習室４"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13010.json"
+        },
+        {
+            "lectureCode": "W13031",
+            "courseName": "母性・小児看護技術演習[A]",
+            "lecturer": [
+                "木内妙子",
+                "野澤美江子",
+                "白石裕子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室",
+                "３１８４３看護実習室４"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13031.json"
+        },
+        {
+            "lectureCode": "W13100",
+            "courseName": "母性看護学実習",
+            "lecturer": [
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/12\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13100.json"
+        },
+        {
+            "lectureCode": "W12100",
+            "courseName": "母性看護学I",
+            "lecturer": [
+                "野澤美江子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/12\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W12100.json"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "的場成夫",
+        "lecturerKey": "d072e2b6d199"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "G1271001",
+            "courseName": "知財マネジメントI",
+            "lecturer": [
+                "的場成夫"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/03\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1271001.json"
+        },
+        {
+            "lectureCode": "G1272001",
+            "courseName": "知財マネジメントII",
+            "lecturer": [
+                "的場成夫"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/03\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1272001.json"
+        }
+    ]
+}

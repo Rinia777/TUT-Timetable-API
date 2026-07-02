@@ -1,0 +1,131 @@
+{
+    "filters": {
+        "lecturer": "柴崎芳一",
+        "lecturerKey": "23a676541763"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "W24063",
+            "courseName": "卒業研究I[CE3]",
+            "lecturer": [
+                "柴崎芳一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/W24063.json"
+        },
+        {
+            "lectureCode": "U12080",
+            "courseName": "疾病治療論I",
+            "lecturer": [
+                "日向奈惠",
+                "横田恭子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/U12080.json"
+        },
+        {
+            "lectureCode": "W22070",
+            "courseName": "内科系臨床医学I",
+            "lecturer": [
+                "日向奈惠",
+                "横田恭子",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2020\/01\/29",
+            "path": "\/api\/v1\/archive\/2020\/all\/W22070.json"
+        },
+        {
+            "lectureCode": "W23090",
+            "courseName": "内科系臨床医学II",
+            "lecturer": [
+                "柴崎芳一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2020\/01\/29",
+            "path": "\/api\/v1\/archive\/2020\/all\/W23090.json"
+        },
+        {
+            "lectureCode": "W24073",
+            "courseName": "卒業研究II[CE3]",
+            "lecturer": [
+                "柴崎芳一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/W24073.json"
+        }
+    ]
+}

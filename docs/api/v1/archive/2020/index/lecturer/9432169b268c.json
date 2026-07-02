@@ -1,0 +1,352 @@
+{
+    "filters": {
+        "lecturer": "前田憲寿",
+        "lecturerKey": "9432169b268c"
+    },
+    "count": 14,
+    "lectures": [
+        {
+            "lectureCode": "ES00318",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00318.json"
+        },
+        {
+            "lectureCode": "G1001212",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/04\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1001212.json"
+        },
+        {
+            "lectureCode": "G1003014",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/04\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1003014.json"
+        },
+        {
+            "lectureCode": "B30701",
+            "courseName": "化粧品実験I",
+            "lecturer": [
+                "前田憲寿",
+                "柴田雅史"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ５０１"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/B30701.json"
+        },
+        {
+            "lectureCode": "11050B19",
+            "courseName": "フレッシャーズゼミI[19]",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/11050B19.json"
+        },
+        {
+            "lectureCode": "G1030002",
+            "courseName": "化粧品科学特論",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1030002.json"
+        },
+        {
+            "lectureCode": "B32501",
+            "courseName": "薬学",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/B32501.json"
+        },
+        {
+            "lectureCode": "ES00353",
+            "courseName": "卒業課題I（後期）",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/11\/14",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00353.json"
+        },
+        {
+            "lectureCode": "ES00418",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00418.json"
+        },
+        {
+            "lectureCode": "B30801",
+            "courseName": "化粧品実験II",
+            "lecturer": [
+                "前田憲寿",
+                "柴田雅史"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ２０１",
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2020\/11\/24",
+            "path": "\/api\/v1\/archive\/2020\/all\/B30801.json"
+        },
+        {
+            "lectureCode": "11051B19",
+            "courseName": "フレッシャーズゼミII[19]",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/04\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/11051B19.json"
+        },
+        {
+            "lectureCode": "B22101",
+            "courseName": "化粧品科学",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/B22101.json"
+        },
+        {
+            "lectureCode": "ES00217",
+            "courseName": "創成課題II",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00217.json"
+        },
+        {
+            "lectureCode": "B10501",
+            "courseName": "生命科学II[1]",
+            "lecturer": [
+                "前田憲寿"
+            ],
+            "regularOrIntensive": "専門基礎教育科目生物学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10501.json"
+        }
+    ]
+}

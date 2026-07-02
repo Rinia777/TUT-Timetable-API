@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "竹本正壽",
+        "lecturerKey": "c340762fe830"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S2190",
+            "courseName": "映像デザイン論",
+            "lecturer": [
+                "竹本正壽"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/S2190.json"
+        }
+    ]
+}

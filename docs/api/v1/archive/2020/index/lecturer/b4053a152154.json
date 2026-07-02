@@ -1,0 +1,185 @@
+{
+    "filters": {
+        "lecturer": "入谷康平",
+        "lecturerKey": "b4053a152154"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "K700901",
+            "courseName": "化学基礎演習[1]",
+            "lecturer": [
+                "山下俊",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K700901.json"
+        },
+        {
+            "lectureCode": "K700301",
+            "courseName": "化学基礎",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "原賢二",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K700301.json"
+        },
+        {
+            "lectureCode": "K701101",
+            "courseName": "工学基礎実験I（C）",
+            "lecturer": [
+                "須磨岡淳",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2020\/02\/13",
+            "path": "\/api\/v1\/archive\/2020\/all\/K701101.json"
+        },
+        {
+            "lectureCode": "K701201",
+            "courseName": "工学基礎実験II（C）[a]",
+            "lecturer": [
+                "江頭靖幸",
+                "原賢二",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K701201.json"
+        },
+        {
+            "lectureCode": "K704101",
+            "courseName": "応用化学実験III",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K704101.json"
+        },
+        {
+            "lectureCode": "K701202",
+            "courseName": "工学基礎実験II（C）[b]",
+            "lecturer": [
+                "江頭靖幸",
+                "原賢二",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/08\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/K701202.json"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "菊地剛正",
+        "lecturerKey": "a82f9ef1ae6e"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "G1355001",
+            "courseName": "フィンテック特論II",
+            "lecturer": [
+                "菊地剛正"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2020\/03\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1355001.json"
+        }
+    ]
+}

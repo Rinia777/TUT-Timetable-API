@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "茂木龍太",
+        "lecturerKey": "be4c3a1d7652"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S2230",
+            "courseName": "コンピュータグラフィックス論",
+            "lecturer": [
+                "茂木龍太"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2020\/02\/29",
+            "path": "\/api\/v1\/archive\/2020\/all\/S2230.json"
+        },
+        {
+            "lectureCode": "M301801",
+            "courseName": "コンテンツディベロッピング論",
+            "lecturer": [
+                "茂木龍太",
+                "三上浩司"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/02\/10",
+            "path": "\/api\/v1\/archive\/2020\/all\/M301801.json"
+        }
+    ]
+}

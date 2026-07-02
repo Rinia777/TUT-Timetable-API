@@ -1,0 +1,190 @@
+{
+    "filters": {
+        "lecturer": "白石裕子",
+        "lecturerKey": "d24e41e81d0a"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "W14059",
+            "courseName": "卒業研究[NU9]",
+            "lecturer": [
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/W14059.json"
+        },
+        {
+            "lectureCode": "W14069",
+            "courseName": "統合看護実習[9]",
+            "lecturer": [
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/W14069.json"
+        },
+        {
+            "lectureCode": "W13020",
+            "courseName": "小児看護学II",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室",
+                "３１８４３看護実習室４"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13020.json"
+        },
+        {
+            "lectureCode": "W13031",
+            "courseName": "母性・小児看護技術演習[A]",
+            "lecturer": [
+                "木内妙子",
+                "野澤美江子",
+                "白石裕子",
+                "望月良美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室",
+                "３１８４３看護実習室４"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13031.json"
+        },
+        {
+            "lectureCode": "W13110",
+            "courseName": "小児看護学実習",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/01\/31",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13110.json"
+        },
+        {
+            "lectureCode": "W14090",
+            "courseName": "看護総合セミナー",
+            "lecturer": [
+                "木内妙子",
+                "澁谷恵子",
+                "野澤美江子",
+                "五十嵐千代",
+                "妹尾弘子",
+                "白石裕子",
+                "大木正隆",
+                "西尾奈緒美",
+                "新山真奈美",
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/03\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/W14090.json"
+        },
+        {
+            "lectureCode": "W12110",
+            "courseName": "小児看護学I",
+            "lecturer": [
+                "木内妙子",
+                "白石裕子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W12110.json"
+        }
+    ]
+}

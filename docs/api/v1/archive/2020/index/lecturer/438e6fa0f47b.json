@@ -1,0 +1,85 @@
+{
+    "filters": {
+        "lecturer": "柳采延",
+        "lecturerKey": "438e6fa0f47b"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "U11050",
+            "courseName": "家族社会学",
+            "lecturer": [
+                "柳采延"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2020\/01\/15",
+            "path": "\/api\/v1\/archive\/2020\/all\/U11050.json"
+        },
+        {
+            "lectureCode": "U32170",
+            "courseName": "家族社会学",
+            "lecturer": [
+                "柳采延"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2020\/01\/15",
+            "path": "\/api\/v1\/archive\/2020\/all\/U32170.json"
+        },
+        {
+            "lectureCode": "U42140",
+            "courseName": "家族社会学",
+            "lecturer": [
+                "柳采延"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2020\/01\/15",
+            "path": "\/api\/v1\/archive\/2020\/all\/U42140.json"
+        }
+    ]
+}

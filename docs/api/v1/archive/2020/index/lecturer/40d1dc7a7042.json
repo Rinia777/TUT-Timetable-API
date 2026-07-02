@@ -1,0 +1,73 @@
+{
+    "filters": {
+        "lecturer": "太田浩子",
+        "lecturerKey": "40d1dc7a7042"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "W12021",
+            "courseName": "看護過程[A]",
+            "lecturer": [
+                "太田浩子",
+                "澁谷恵子",
+                "小林里佳",
+                "安部美恵子",
+                "横井美由貴",
+                "飯塚敏子",
+                "小坂志保"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義・演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１６教室",
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W12021.json"
+        },
+        {
+            "lectureCode": "W12022",
+            "courseName": "看護過程[B]",
+            "lecturer": [
+                "太田浩子",
+                "澁谷恵子",
+                "小林里佳",
+                "安部美恵子",
+                "横井美由貴",
+                "飯塚敏子",
+                "小坂志保"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義・演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１６教室",
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W12022.json"
+        }
+    ]
+}

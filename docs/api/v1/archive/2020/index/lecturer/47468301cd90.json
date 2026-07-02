@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "野条美貴",
+        "lecturerKey": "47468301cd90"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "R1190",
+            "courseName": "キャリアデザインI（デザイン）[2019以前入学生：フレッシャーズゼミII]",
+            "lecturer": [
+                "野条美貴"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/02\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/R1190.json"
+        }
+    ]
+}

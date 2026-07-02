@@ -1,0 +1,520 @@
+{
+    "filters": {
+        "lecturer": "芝池成人",
+        "lecturerKey": "e2853dc24866"
+    },
+    "count": 19,
+    "lectures": [
+        {
+            "lectureCode": "K504203",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "芝池成人"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/14",
+            "path": "\/api\/v1\/archive\/2020\/all\/K504203.json"
+        },
+        {
+            "lectureCode": "K000201",
+            "courseName": "サステイナブル工学基礎[機][AB]",
+            "lecturer": [
+                "芝池成人",
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000201.json"
+        },
+        {
+            "lectureCode": "K000231",
+            "courseName": "サステイナブル工学基礎[電][AB]",
+            "lecturer": [
+                "芝池成人",
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000231.json"
+        },
+        {
+            "lectureCode": "K000271",
+            "courseName": "サステイナブル工学基礎[化][AB]",
+            "lecturer": [
+                "芝池成人",
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000271.json"
+        },
+        {
+            "lectureCode": "K504001",
+            "courseName": "機械工学応用実験[A]",
+            "lecturer": [
+                "松尾芳樹",
+                "芝池成人",
+                "高橋秀智",
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/01\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/K504001.json"
+        },
+        {
+            "lectureCode": "K504002",
+            "courseName": "機械工学応用実験[B]",
+            "lecturer": [
+                "松尾芳樹",
+                "芝池成人",
+                "高橋秀智",
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/01\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/K504002.json"
+        },
+        {
+            "lectureCode": "K001203",
+            "courseName": "サステイナブル工学実習[電][第1Q]",
+            "lecturer": [
+                "芝池成人",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001203.json"
+        },
+        {
+            "lectureCode": "K001204",
+            "courseName": "サステイナブル工学実習[電][第2Q]",
+            "lecturer": [
+                "芝池成人",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001204.json"
+        },
+        {
+            "lectureCode": "K001205",
+            "courseName": "サステイナブル工学実習[化][第1Q]",
+            "lecturer": [
+                "芝池成人",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001205.json"
+        },
+        {
+            "lectureCode": "K001206",
+            "courseName": "サステイナブル工学実習[化][第2Q]",
+            "lecturer": [
+                "芝池成人",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001206.json"
+        },
+        {
+            "lectureCode": "11079K02",
+            "courseName": "フレッシャーズゼミ[2]",
+            "lecturer": [
+                "芝池成人"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/11079K02.json"
+        },
+        {
+            "lectureCode": "K503401",
+            "courseName": "機械創造基礎[A]",
+            "lecturer": [
+                "松尾芳樹",
+                "芝池成人",
+                "高橋秀智",
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K503401.json"
+        },
+        {
+            "lectureCode": "K504303",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "芝池成人"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/14",
+            "path": "\/api\/v1\/archive\/2020\/all\/K504303.json"
+        },
+        {
+            "lectureCode": "K001201",
+            "courseName": "サステイナブル工学実習[機][第3Q]",
+            "lecturer": [
+                "芝池成人",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001201.json"
+        },
+        {
+            "lectureCode": "K001202",
+            "courseName": "サステイナブル工学実習[機][第4Q]",
+            "lecturer": [
+                "芝池成人",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001202.json"
+        },
+        {
+            "lectureCode": "K000301",
+            "courseName": "コーオプ演習I[機]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "松尾芳樹",
+                "関口暁宣",
+                "芝池成人",
+                "古井光明",
+                "高橋秀智",
+                "大久保友雅",
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000301.json"
+        },
+        {
+            "lectureCode": "K001301",
+            "courseName": "サステイナブル工学プロジェクト演習[A]",
+            "lecturer": [
+                "芝池成人",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ５０２",
+                "研究棟Ａ５０３",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001301.json"
+        },
+        {
+            "lectureCode": "K001302",
+            "courseName": "サステイナブル工学プロジェクト演習[B]",
+            "lecturer": [
+                "芝池成人",
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ５０２",
+                "研究棟Ａ５０３",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K001302.json"
+        },
+        {
+            "lectureCode": "K503503",
+            "courseName": "機械創造応用「一般テーマ」",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "芝池成人"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K503503.json"
+        }
+    ]
+}

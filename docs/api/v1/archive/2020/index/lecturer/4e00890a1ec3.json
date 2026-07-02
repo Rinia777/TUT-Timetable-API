@@ -1,0 +1,267 @@
+{
+    "filters": {
+        "lecturer": "野嶽勇一",
+        "lecturerKey": "4e00890a1ec3"
+    },
+    "count": 10,
+    "lectures": [
+        {
+            "lectureCode": "ES00334",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00334.json"
+        },
+        {
+            "lectureCode": "B31901",
+            "courseName": "食品製造学",
+            "lecturer": [
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2020\/02\/21",
+            "path": "\/api\/v1\/archive\/2020\/all\/B31901.json"
+        },
+        {
+            "lectureCode": "B30501",
+            "courseName": "食品実験I",
+            "lecturer": [
+                "梶原一人",
+                "遠藤泰志",
+                "阿部周司",
+                "今井伸二郎",
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０１",
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/B30501.json"
+        },
+        {
+            "lectureCode": "11050B16",
+            "courseName": "フレッシャーズゼミI[16]",
+            "lecturer": [
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/11050B16.json"
+        },
+        {
+            "lectureCode": "ES00429",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00429.json"
+        },
+        {
+            "lectureCode": "B30101",
+            "courseName": "生物化学Ⅱ",
+            "lecturer": [
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2020\/12\/04",
+            "path": "\/api\/v1\/archive\/2020\/all\/B30101.json"
+        },
+        {
+            "lectureCode": "G1330001",
+            "courseName": "生化学特論",
+            "lecturer": [
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1330001.json"
+        },
+        {
+            "lectureCode": "B30601",
+            "courseName": "食品実験II",
+            "lecturer": [
+                "梶原一人",
+                "遠藤泰志",
+                "阿部周司",
+                "今井伸二郎",
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/B30601.json"
+        },
+        {
+            "lectureCode": "11051B16",
+            "courseName": "フレッシャーズゼミII[16]",
+            "lecturer": [
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/04\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/11051B16.json"
+        },
+        {
+            "lectureCode": "ES00242",
+            "courseName": "創成課題II",
+            "lecturer": [
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00242.json"
+        }
+    ]
+}

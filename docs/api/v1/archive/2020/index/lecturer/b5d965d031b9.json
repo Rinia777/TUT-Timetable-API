@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "宮内晟",
+        "lecturerKey": "b5d965d031b9"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S2111",
+            "courseName": "スキル演習（Webデザイン）",
+            "lecturer": [
+                "宮内晟"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/S2111.json"
+        },
+        {
+            "lectureCode": "S2113",
+            "courseName": "スキル演習（Webデザイン）",
+            "lecturer": [
+                "宮内晟"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/12\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/S2113.json"
+        }
+    ]
+}

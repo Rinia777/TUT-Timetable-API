@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "lecturer": "厚澤博美",
+        "lecturerKey": "afb1bf5258d9"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "T11181",
+            "courseName": "フレッシャーズゼミ[N1]",
+            "lecturer": [
+                "木内妙子",
+                "鈴木晶子",
+                "厚澤博美"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部看護学科看護師コース",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０１教室",
+                "３０２１１教室"
+            ],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/T11181.json"
+        },
+        {
+            "lectureCode": "W13040",
+            "courseName": "成人看護学II",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "宇根川杏子",
+                "厚澤博美",
+                "折坂真理"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室",
+                "３１０１７教室",
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13040.json"
+        },
+        {
+            "lectureCode": "W13050",
+            "courseName": "成人・高齢者看護技術演習",
+            "lecturer": [
+                "西尾奈緒美",
+                "新山真奈美",
+                "宇根川杏子",
+                "厚澤博美",
+                "折坂真理"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１６教室",
+                "３１０１７教室",
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13050.json"
+        }
+    ]
+}

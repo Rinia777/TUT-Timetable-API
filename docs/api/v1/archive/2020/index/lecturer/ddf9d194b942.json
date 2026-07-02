@@ -1,0 +1,154 @@
+{
+    "filters": {
+        "lecturer": "欠ノ下郁子",
+        "lecturerKey": "ddf9d194b942"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "W1405G",
+            "courseName": "卒業研究[NU16]",
+            "lecturer": [
+                "欠ノ下郁子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/04\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/W1405G.json"
+        },
+        {
+            "lectureCode": "W1406G",
+            "courseName": "統合看護実習[16]",
+            "lecturer": [
+                "欠ノ下郁子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/04\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/W1406G.json"
+        },
+        {
+            "lectureCode": "U11010",
+            "courseName": "癒しのケア学",
+            "lecturer": [
+                "木内妙子",
+                "野澤美江子",
+                "五十嵐千代",
+                "欠ノ下郁子",
+                "新山真奈美"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2020\/01\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/U11010.json"
+        },
+        {
+            "lectureCode": "W13070",
+            "courseName": "精神看護学",
+            "lecturer": [
+                "妹尾弘子",
+                "欠ノ下郁子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13070.json"
+        },
+        {
+            "lectureCode": "W13140",
+            "courseName": "精神看護学実習",
+            "lecturer": [
+                "妹尾弘子",
+                "欠ノ下郁子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/12\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/W13140.json"
+        },
+        {
+            "lectureCode": "W12080",
+            "courseName": "精神看護学概論",
+            "lecturer": [
+                "妹尾弘子",
+                "欠ノ下郁子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/12\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/W12080.json"
+        }
+    ]
+}

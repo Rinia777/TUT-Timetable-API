@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "渡邉靜",
+        "lecturerKey": "c8e2d7cb51fc"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U13020",
+            "courseName": "臨床栄養学",
+            "lecturer": [
+                "渡邉靜"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/U13020.json"
+        }
+    ]
+}

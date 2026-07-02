@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "courseType": "",
+        "courseTypeKey": "unknown"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "U31080",
+            "courseName": "栄養と健康",
+            "lecturer": [
+                "肥後梨恵子"
+            ],
+            "regularOrIntensive": "",
+            "courseType": "",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部理学療法学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/U31080.json"
+        },
+        {
+            "lectureCode": "U41070",
+            "courseName": "栄養と健康",
+            "lecturer": [
+                "肥後梨恵子"
+            ],
+            "regularOrIntensive": "",
+            "courseType": "",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部作業療法学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/U41070.json"
+        },
+        {
+            "lectureCode": "C31101",
+            "courseName": "実践コンピュータ技術",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/C31101.json"
+        },
+        {
+            "lectureCode": "C32201",
+            "courseName": "実践ネットワーク技術",
+            "lecturer": [
+                "大石邦夫"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/19",
+            "path": "\/api\/v1\/archive\/2020\/all\/C32201.json"
+        }
+    ]
+}

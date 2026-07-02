@@ -1,0 +1,260 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門基礎科目人間社会と医療",
+        "regularOrIntensiveKey": "3e6aaf4b9183"
+    },
+    "count": 10,
+    "lectures": [
+        {
+            "lectureCode": "U11010",
+            "courseName": "癒しのケア学",
+            "lecturer": [
+                "木内妙子",
+                "野澤美江子",
+                "五十嵐千代",
+                "欠ノ下郁子",
+                "新山真奈美"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2020\/01\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/U11010.json"
+        },
+        {
+            "lectureCode": "U11020",
+            "courseName": "公衆衛生学",
+            "lecturer": [
+                "鎌倉光宏",
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ２１９地域・在宅・精神実習室"
+            ],
+            "updateAt": "2020\/02\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/U11020.json"
+        },
+        {
+            "lectureCode": "U11050",
+            "courseName": "家族社会学",
+            "lecturer": [
+                "柳采延"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2020\/01\/15",
+            "path": "\/api\/v1\/archive\/2020\/all\/U11050.json"
+        },
+        {
+            "lectureCode": "U11030",
+            "courseName": "保健医療福祉論",
+            "lecturer": [
+                "五十嵐千代"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2020\/03\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/U11030.json"
+        },
+        {
+            "lectureCode": "U12010",
+            "courseName": "疫学",
+            "lecturer": [
+                "五十嵐千代",
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/U12010.json"
+        },
+        {
+            "lectureCode": "U11040",
+            "courseName": "生命倫理",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/01\/29",
+            "path": "\/api\/v1\/archive\/2020\/all\/U11040.json"
+        },
+        {
+            "lectureCode": "U12020",
+            "courseName": "発達心理学",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/01\/15",
+            "path": "\/api\/v1\/archive\/2020\/all\/U12020.json"
+        },
+        {
+            "lectureCode": "U12030",
+            "courseName": "臨床心理学",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/01\/15",
+            "path": "\/api\/v1\/archive\/2020\/all\/U12030.json"
+        },
+        {
+            "lectureCode": "U12050",
+            "courseName": "保健統計学",
+            "lecturer": [
+                "東郷史治",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/01\/17",
+            "path": "\/api\/v1\/archive\/2020\/all\/U12050.json"
+        },
+        {
+            "lectureCode": "U12040",
+            "courseName": "社会経済学",
+            "lecturer": [
+                "尾玉剛士"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/23",
+            "path": "\/api\/v1\/archive\/2020\/all\/U12040.json"
+        }
+    ]
+}

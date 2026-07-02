@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "劉渇氷",
+        "lecturerKey": "58a9364456c7"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11036B32",
+            "courseName": "中国語I[32]",
+            "lecturer": [
+                "劉渇氷"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/11036B32.json"
+        },
+        {
+            "lectureCode": "1103601",
+            "courseName": "中国語I[月2]",
+            "lecturer": [
+                "劉渇氷"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科,メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/1103601.json"
+        },
+        {
+            "lectureCode": "11037B32",
+            "courseName": "中国語II[32]",
+            "lecturer": [
+                "劉渇氷"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/11037B32.json"
+        },
+        {
+            "lectureCode": "1103701",
+            "courseName": "中国語II[月2]",
+            "lecturer": [
+                "劉渇氷"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/1103701.json"
+        }
+    ]
+}

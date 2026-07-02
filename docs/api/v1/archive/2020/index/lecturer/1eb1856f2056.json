@@ -1,0 +1,53 @@
+{
+    "filters": {
+        "lecturer": "大山恭弘",
+        "lecturerKey": "1eb1856f2056"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "K504201",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "大山恭弘",
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/14",
+            "path": "\/api\/v1\/archive\/2020\/all\/K504201.json"
+        },
+        {
+            "lectureCode": "K504301",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "大山恭弘",
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/14",
+            "path": "\/api\/v1\/archive\/2020\/all\/K504301.json"
+        }
+    ]
+}

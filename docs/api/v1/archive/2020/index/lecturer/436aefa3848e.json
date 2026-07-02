@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "lecturer": "閔由眞",
+        "lecturerKey": "436aefa3848e"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11019C10",
+            "courseName": "英語インテンシブIII[10]",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０８"
+            ],
+            "updateAt": "2020\/02\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019C10.json"
+        },
+        {
+            "lectureCode": "11100C05",
+            "courseName": "IntegratedEnglishI[5]",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０８"
+            ],
+            "updateAt": "2020\/03\/03",
+            "path": "\/api\/v1\/archive\/2020\/all\/11100C05.json"
+        },
+        {
+            "lectureCode": "11020C10",
+            "courseName": "英語インテンシブIV[10]CS機械",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2020\/02\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020C10.json"
+        },
+        {
+            "lectureCode": "11101C05",
+            "courseName": "IntegratedEnglishII[5]CS機械",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2020\/02\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/11101C05.json"
+        }
+    ]
+}

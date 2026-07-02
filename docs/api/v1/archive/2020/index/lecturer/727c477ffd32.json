@@ -1,0 +1,54 @@
+{
+    "filters": {
+        "lecturer": "各教員",
+        "lecturerKey": "727c477ffd32"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "C40150",
+            "courseName": "卒業課題I（後期）",
+            "lecturer": [
+                "各教員"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/26",
+            "path": "\/api\/v1\/archive\/2020\/all\/C40150.json"
+        },
+        {
+            "lectureCode": "ES00201",
+            "courseName": "創成課題II",
+            "lecturer": [
+                "各教員"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00201.json"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "filters": {
+        "lecturer": "渡辺秀夫",
+        "lecturerKey": "d21081adb8a7"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "1104501",
+            "courseName": "化学の世界[合B]",
+            "lecturer": [
+                "佐藤道夫",
+                "渡辺秀夫",
+                "杉本岩雄"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1104501.json"
+        },
+        {
+            "lectureCode": "1104502",
+            "courseName": "化学の世界[合A]",
+            "lecturer": [
+                "佐藤道夫",
+                "渡辺秀夫",
+                "杉本岩雄"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/1104502.json"
+        }
+    ]
+}

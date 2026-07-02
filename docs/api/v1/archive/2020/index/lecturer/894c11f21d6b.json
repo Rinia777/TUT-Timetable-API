@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "梅沢和幸",
+        "lecturerKey": "894c11f21d6b"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "1103609",
+            "courseName": "中国語I[金1]",
+            "lecturer": [
+                "梅沢和幸"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2020\/03\/02",
+            "path": "\/api\/v1\/archive\/2020\/all\/1103609.json"
+        },
+        {
+            "lectureCode": "1103710",
+            "courseName": "中国語II[金1]",
+            "lecturer": [
+                "梅沢和幸"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/1103710.json"
+        }
+    ]
+}

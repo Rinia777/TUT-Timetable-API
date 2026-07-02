@@ -1,0 +1,153 @@
+{
+    "filters": {
+        "lecturer": "山本三穂",
+        "lecturerKey": "5da0b8c02abe"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "11019C06",
+            "courseName": "英語インテンシブIII[6]",
+            "lecturer": [
+                "山本三穂"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2020\/01\/31",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019C06.json"
+        },
+        {
+            "lectureCode": "11100C07",
+            "courseName": "IntegratedEnglishI[7]",
+            "lecturer": [
+                "山本三穂"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2020\/03\/03",
+            "path": "\/api\/v1\/archive\/2020\/all\/11100C07.json"
+        },
+        {
+            "lectureCode": "11015C08",
+            "courseName": "AcademicEnglishI[B2]",
+            "lecturer": [
+                "山本三穂"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2020\/01\/21",
+            "path": "\/api\/v1\/archive\/2020\/all\/11015C08.json"
+        },
+        {
+            "lectureCode": "11020C06",
+            "courseName": "英語インテンシブIV[6]CS機械",
+            "lecturer": [
+                "山本三穂"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020C06.json"
+        },
+        {
+            "lectureCode": "11101C07",
+            "courseName": "IntegratedEnglishII[7]CS機械",
+            "lecturer": [
+                "山本三穂"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2020\/11\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/11101C07.json"
+        },
+        {
+            "lectureCode": "11016C08",
+            "courseName": "AcademicEnglishII[B2]CS",
+            "lecturer": [
+                "山本三穂"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/11016C08.json"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "filters": {
+        "lecturer": "荒木友嗣",
+        "lecturerKey": "bf1b38477292"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "11019B01",
+            "courseName": "英語インテンシブIII[1]",
+            "lecturer": [
+                "荒木友嗣"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2020\/01\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/11019B01.json"
+        },
+        {
+            "lectureCode": "11100B01",
+            "courseName": "IntegratedEnglishI[1]",
+            "lecturer": [
+                "荒木友嗣"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2020\/03\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/11100B01.json"
+        },
+        {
+            "lectureCode": "11015B08",
+            "courseName": "AcademicEnglishI[B3]",
+            "lecturer": [
+                "荒木友嗣"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2020\/01\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/11015B08.json"
+        },
+        {
+            "lectureCode": "11020B01",
+            "courseName": "英語インテンシブIV[1]BS電電応化",
+            "lecturer": [
+                "荒木友嗣"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2020\/02\/10",
+            "path": "\/api\/v1\/archive\/2020\/all\/11020B01.json"
+        },
+        {
+            "lectureCode": "11101B01",
+            "courseName": "IntegratedEnglishII[1]BS電電応化",
+            "lecturer": [
+                "荒木友嗣"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2020\/03\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/11101B01.json"
+        },
+        {
+            "lectureCode": "11016B08",
+            "courseName": "AcademicEnglishII[B3]BS",
+            "lecturer": [
+                "荒木友嗣"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６"
+            ],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/11016B08.json"
+        }
+    ]
+}

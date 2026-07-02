@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "三田地成幸",
+        "lecturerKey": "b50153c832c9"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "C31501",
+            "courseName": "オプトエレクトロニクス",
+            "lecturer": [
+                "三田地成幸"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/02\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/C31501.json"
+        },
+        {
+            "lectureCode": "C31801",
+            "courseName": "フォトニック通信",
+            "lecturer": [
+                "三田地成幸"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2020\/02\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/C31801.json"
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "filters": {
+        "lecturer": "中島健太",
+        "lecturerKey": "41622363002b"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "GF20010",
+            "courseName": "デザイン研究企画",
+            "lecturer": [
+                "黒川修一",
+                "伊藤丙雄",
+                "酒百宏一",
+                "本郷信二",
+                "中島健太",
+                "田村吾郎",
+                "大西景太",
+                "末房志野",
+                "酒井正",
+                "池田政治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/02\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/GF20010.json"
+        },
+        {
+            "lectureCode": "GF1002",
+            "courseName": "ビジュアルクリエイションI",
+            "lecturer": [
+                "伊藤丙雄",
+                "酒百宏一",
+                "中島健太",
+                "大西景太",
+                "深澤健作",
+                "伊藤英高",
+                "末房志野"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2020\/02\/04",
+            "path": "\/api\/v1\/archive\/2020\/all\/GF1002.json"
+        },
+        {
+            "lectureCode": "S3090",
+            "courseName": "専門スキル演習（インフォモーション）",
+            "lecturer": [
+                "大須賀淳",
+                "中島健太"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2020\/03\/30",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3090.json"
+        },
+        {
+            "lectureCode": "S3261",
+            "courseName": "視覚デザインコース専門演習I【視覚デザイン】",
+            "lecturer": [
+                "中島健太",
+                "末房志野",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3261.json"
+        },
+        {
+            "lectureCode": "S3210",
+            "courseName": "アニメーション論",
+            "lecturer": [
+                "中島健太"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2020\/02\/03",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3210.json"
+        },
+        {
+            "lectureCode": "GF20020",
+            "courseName": "デザイン研究I",
+            "lecturer": [
+                "黒川修一",
+                "伊藤丙雄",
+                "酒百宏一",
+                "本郷信二",
+                "中島健太",
+                "田村吾郎",
+                "大西景太",
+                "末房志野",
+                "酒井正",
+                "池田政治"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/02\/05",
+            "path": "\/api\/v1\/archive\/2020\/all\/GF20020.json"
+        },
+        {
+            "lectureCode": "GF1003",
+            "courseName": "ビジュアルクリエイションII",
+            "lecturer": [
+                "伊藤丙雄",
+                "酒百宏一",
+                "中島健太",
+                "大西景太",
+                "深澤健作",
+                "伊藤英高",
+                "末房志野"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2020\/02\/04",
+            "path": "\/api\/v1\/archive\/2020\/all\/GF1003.json"
+        },
+        {
+            "lectureCode": "S3280",
+            "courseName": "視覚デザイン専攻専門演習II",
+            "lecturer": [
+                "中島健太",
+                "末房志野",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3280.json"
+        }
+    ]
+}

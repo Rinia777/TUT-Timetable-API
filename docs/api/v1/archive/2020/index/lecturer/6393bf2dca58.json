@@ -1,0 +1,37 @@
+{
+    "filters": {
+        "lecturer": "宮内唯",
+        "lecturerKey": "6393bf2dca58"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "T11182",
+            "courseName": "フレッシャーズゼミ[N2]",
+            "lecturer": [
+                "小林里佳",
+                "岩月すみ江",
+                "宮内唯"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部看護学科看護師コース",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2020\/03\/11",
+            "path": "\/api\/v1\/archive\/2020\/all\/T11182.json"
+        }
+    ]
+}

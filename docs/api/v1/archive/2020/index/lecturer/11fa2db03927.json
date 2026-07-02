@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "中原大介",
+        "lecturerKey": "11fa2db03927"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "M301601",
+            "courseName": "サービスイノベーション",
+            "lecturer": [
+                "中原大介"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2020\/05\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/M301601.json"
+        },
+        {
+            "lectureCode": "M302601",
+            "courseName": "サービスデザイン",
+            "lecturer": [
+                "中原大介"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2020\/05\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/M302601.json"
+        }
+    ]
+}

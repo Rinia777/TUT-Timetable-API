@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "weekday": "日",
+        "weekdayKey": "sun"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "R1240",
+            "courseName": "集中実技II（スキー）（デザイン）",
+            "lecturer": [
+                "佐久間裕司",
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "courseType": "実習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "日"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/01\/29",
+            "path": "\/api\/v1\/archive\/2020\/all\/R1240.json"
+        }
+    ]
+}

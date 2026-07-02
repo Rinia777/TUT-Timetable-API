@@ -1,0 +1,71 @@
+{
+    "filters": {
+        "lecturer": "早瀬交宣",
+        "lecturerKey": "1d555c754563"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S3262",
+            "courseName": "視覚デザインコース専門演習I【映像デザイン】",
+            "lecturer": [
+                "大西景太",
+                "伊藤英高",
+                "早瀬交宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3262.json"
+        },
+        {
+            "lectureCode": "S3290",
+            "courseName": "映像デザイン専攻専門演習II",
+            "lecturer": [
+                "大西景太",
+                "伊藤英高",
+                "早瀬交宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3290.json"
+        }
+    ]
+}

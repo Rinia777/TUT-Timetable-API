@@ -1,0 +1,394 @@
+{
+    "filters": {
+        "lecturer": "加用一者",
+        "lecturerKey": "50166de9399a"
+    },
+    "count": 15,
+    "lectures": [
+        {
+            "lectureCode": "1104701",
+            "courseName": "サイエンスの世界[合B]",
+            "lecturer": [
+                "加柴美里",
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1104701.json"
+        },
+        {
+            "lectureCode": "1104702",
+            "courseName": "サイエンスの世界[合A]",
+            "lecturer": [
+                "加柴美里",
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2019\/12\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1104702.json"
+        },
+        {
+            "lectureCode": "R1140",
+            "courseName": "数学基礎（デザイン）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2019\/12\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/R1140.json"
+        },
+        {
+            "lectureCode": "T01240",
+            "courseName": "数学基礎（医療保健）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2020\/01\/17",
+            "path": "\/api\/v1\/archive\/2020\/all\/T01240.json"
+        },
+        {
+            "lectureCode": "U21060",
+            "courseName": "工学基礎演習",
+            "lecturer": [
+                "加用一者",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4",
+                "金1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2020\/01\/31",
+            "path": "\/api\/v1\/archive\/2020\/all\/U21060.json"
+        },
+        {
+            "lectureCode": "U21070",
+            "courseName": "数学（線形代数）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2019\/12\/18",
+            "path": "\/api\/v1\/archive\/2020\/all\/U21070.json"
+        },
+        {
+            "lectureCode": "R1170",
+            "courseName": "物理の世界（デザイン）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/R1170.json"
+        },
+        {
+            "lectureCode": "T01230",
+            "courseName": "物理の世界（医療保健）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/T01230.json"
+        },
+        {
+            "lectureCode": "R2070",
+            "courseName": "統計学（デザイン）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/R2070.json"
+        },
+        {
+            "lectureCode": "T02100",
+            "courseName": "統計学（医療保健）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/T02100.json"
+        },
+        {
+            "lectureCode": "1111612",
+            "courseName": "データサイエンス入門[合B2]",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1111612.json"
+        },
+        {
+            "lectureCode": "1111622",
+            "courseName": "データサイエンス入門[合A2]",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2020\/02\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/1111622.json"
+        },
+        {
+            "lectureCode": "U22150",
+            "courseName": "数学（応用解析学）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2019\/12\/18",
+            "path": "\/api\/v1\/archive\/2020\/all\/U22150.json"
+        },
+        {
+            "lectureCode": "U21050",
+            "courseName": "電磁気学",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/01\/29",
+            "path": "\/api\/v1\/archive\/2020\/all\/U21050.json"
+        },
+        {
+            "lectureCode": "U21080",
+            "courseName": "数学（微分積分）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/01\/29",
+            "path": "\/api\/v1\/archive\/2020\/all\/U21080.json"
+        }
+    ]
+}

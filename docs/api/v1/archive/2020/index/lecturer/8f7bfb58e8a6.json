@@ -1,0 +1,525 @@
+{
+    "filters": {
+        "lecturer": "矢野和義",
+        "lecturerKey": "8f7bfb58e8a6"
+    },
+    "count": 18,
+    "lectures": [
+        {
+            "lectureCode": "ES00322",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00322.json"
+        },
+        {
+            "lectureCode": "G1001213",
+            "courseName": "バイオニクス研究企画",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/04\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1001213.json"
+        },
+        {
+            "lectureCode": "B10201",
+            "courseName": "生物・化学基礎実験I[3AD]",
+            "lecturer": [
+                "矢野和義",
+                "秋元卓央",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10201.json"
+        },
+        {
+            "lectureCode": "B10202",
+            "courseName": "生物・化学基礎実験I[3AE]",
+            "lecturer": [
+                "矢野和義",
+                "秋元卓央",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10202.json"
+        },
+        {
+            "lectureCode": "B10205",
+            "courseName": "生物・化学基礎実験I[1AD]",
+            "lecturer": [
+                "矢野和義",
+                "秋元卓央",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10205.json"
+        },
+        {
+            "lectureCode": "B10206",
+            "courseName": "生物・化学基礎実験I[1AE]",
+            "lecturer": [
+                "矢野和義",
+                "秋元卓央",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10206.json"
+        },
+        {
+            "lectureCode": "B10207",
+            "courseName": "生物・化学基礎実験I[2BD]",
+            "lecturer": [
+                "矢野和義",
+                "秋元卓央",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10207.json"
+        },
+        {
+            "lectureCode": "B10208",
+            "courseName": "生物・化学基礎実験I[2BE]",
+            "lecturer": [
+                "矢野和義",
+                "秋元卓央",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10208.json"
+        },
+        {
+            "lectureCode": "B10403",
+            "courseName": "生命科学I[3]",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門基礎教育科目生物学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10403.json"
+        },
+        {
+            "lectureCode": "B10203",
+            "courseName": "生物・化学基礎実験I[4BD]",
+            "lecturer": [
+                "矢野和義",
+                "秋元卓央",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4",
+                "火5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10203.json"
+        },
+        {
+            "lectureCode": "B10204",
+            "courseName": "生物・化学基礎実験I[4BE]",
+            "lecturer": [
+                "矢野和義",
+                "秋元卓央",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火4",
+                "火5",
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/B10204.json"
+        },
+        {
+            "lectureCode": "ES00422",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00422.json"
+        },
+        {
+            "lectureCode": "G1024002",
+            "courseName": "分子生物学特論",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/G1024002.json"
+        },
+        {
+            "lectureCode": "B20901",
+            "courseName": "物理化学II",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/B20901.json"
+        },
+        {
+            "lectureCode": "B32801",
+            "courseName": "バイオ産業概論",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/B32801.json"
+        },
+        {
+            "lectureCode": "G2004001",
+            "courseName": "キャリア開発特論",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "ジェネリックスキル科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻,バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻,バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻,バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/G2004001.json"
+        },
+        {
+            "lectureCode": "ES00221",
+            "courseName": "創成課題II",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2020\/02\/20",
+            "path": "\/api\/v1\/archive\/2020\/all\/ES00221.json"
+        },
+        {
+            "lectureCode": "B21601",
+            "courseName": "バイオセンシング",
+            "lecturer": [
+                "矢野和義",
+                "横山憲二",
+                "岡田麻衣子"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/B21601.json"
+        }
+    ]
+}

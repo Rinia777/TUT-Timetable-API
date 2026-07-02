@@ -1,0 +1,31 @@
+{
+    "filters": {
+        "lecturer": "辻井康一",
+        "lecturerKey": "508100c96d4c"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S3050",
+            "courseName": "経営・経済論",
+            "lecturer": [
+                "辻井康一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/23",
+            "path": "\/api\/v1\/archive\/2020\/all\/S3050.json"
+        }
+    ]
+}

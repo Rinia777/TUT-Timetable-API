@@ -1,0 +1,1670 @@
+{
+    "department": "DS",
+    "count": 180,
+    "lectures": [
+        {
+            "courseName": "アニメーション論",
+            "lecturer": [
+                "中島健太"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3210.json"
+        },
+        {
+            "courseName": "イラストレーション論",
+            "lecturer": [
+                "末房志野"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2220.json"
+        },
+        {
+            "courseName": "インターラクションデザイン",
+            "lecturer": [
+                "渡邊俊博"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2040.json"
+        },
+        {
+            "courseName": "キャリアデザインII",
+            "lecturer": [
+                "加藤一葉",
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2090.json"
+        },
+        {
+            "courseName": "キャリアデザインIII",
+            "lecturer": [
+                "本郷信二",
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R3030.json"
+        },
+        {
+            "courseName": "キャリアデザインIV",
+            "lecturer": [
+                "本郷信二",
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R3040.json"
+        },
+        {
+            "courseName": "キャリアデザインI[2019年度以前入学生のみ]",
+            "lecturer": [
+                "篠山雅美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2080.json"
+        },
+        {
+            "courseName": "キャリアデザインI（デザイン）[2019以前入学生：フレッシャーズゼミII]",
+            "lecturer": [
+                "野条美貴"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1190.json"
+        },
+        {
+            "courseName": "コミュニケーション論（デザイン）",
+            "lecturer": [
+                "奥正廣"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2020.json"
+        },
+        {
+            "courseName": "コンピュータグラフィックス論",
+            "lecturer": [
+                "茂木龍太"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2230.json"
+        },
+        {
+            "courseName": "コンピュータ概論II（デザイン）",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1120.json"
+        },
+        {
+            "courseName": "コンピュータ概論I（デザイン）",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1110.json"
+        },
+        {
+            "courseName": "サウンドデザイン論",
+            "lecturer": [
+                "松村誠一郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3230.json"
+        },
+        {
+            "courseName": "サブカルチャー論",
+            "lecturer": [
+                "暮沢剛巳"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2020.json"
+        },
+        {
+            "courseName": "スキル演習（Webデザイン）",
+            "lecturer": [
+                "宮内晟"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2111.json"
+        },
+        {
+            "courseName": "スキル演習（Webデザイン）",
+            "lecturer": [
+                "宮内晟"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2113.json"
+        },
+        {
+            "courseName": "スキル演習（イラストレーション）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2131.json"
+        },
+        {
+            "courseName": "スキル演習（イラストレーション）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2132.json"
+        },
+        {
+            "courseName": "スキル演習（デジタル映像表現）",
+            "lecturer": [
+                "尾道幸治",
+                "大西景太"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2141.json"
+        },
+        {
+            "courseName": "スキル演習（デジタル映像表現）",
+            "lecturer": [
+                "尾道幸治",
+                "大西景太"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2142.json"
+        },
+        {
+            "courseName": "スキル演習（基本製図）",
+            "lecturer": [
+                "山岸由敦"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2151.json"
+        },
+        {
+            "courseName": "スキル演習（工業系製図）",
+            "lecturer": [
+                "山岸由敦"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2171.json"
+        },
+        {
+            "courseName": "スキル演習（画像加工）",
+            "lecturer": [
+                "原田和大"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2121.json"
+        },
+        {
+            "courseName": "スキル演習（画像加工）",
+            "lecturer": [
+                "原田和大"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2122.json"
+        },
+        {
+            "courseName": "スキル演習（空間系製図）",
+            "lecturer": [
+                "御幸朋寿"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2161.json"
+        },
+        {
+            "courseName": "スポーツ・コンディショニング（デザイン）",
+            "lecturer": [
+                "佐藤宏継"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1220.json"
+        },
+        {
+            "courseName": "デザイン卒業研究",
+            "lecturer": [],
+            "regularOrIntensive": "専門教育科目専門・卒業研究",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S4020.json"
+        },
+        {
+            "courseName": "デザイン史［2019年度以前入学生科目］",
+            "lecturer": [
+                "暮沢剛巳"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1060.json"
+        },
+        {
+            "courseName": "デザイン専門研究",
+            "lecturer": [],
+            "regularOrIntensive": "専門教育科目専門・卒業研究",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S4010.json"
+        },
+        {
+            "courseName": "デザイン概説I",
+            "lecturer": [
+                "伊藤丙雄",
+                "酒百宏一",
+                "本郷信二",
+                "松村誠一郎",
+                "加藤一葉"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1010.json"
+        },
+        {
+            "courseName": "デザイン概説II",
+            "lecturer": [
+                "暮沢剛巳",
+                "伊藤丙雄",
+                "田村吾郎",
+                "大西景太",
+                "伊藤英高",
+                "末房志野",
+                "御幸朋寿",
+                "葛原俊秀",
+                "山岸由敦",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1020.json"
+        },
+        {
+            "courseName": "デザイン計画論",
+            "lecturer": [
+                "御幸朋寿"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2240.json"
+        },
+        {
+            "courseName": "デジタルスキルA（AC1クラス）",
+            "lecturer": [
+                "大里浩二",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1041.json"
+        },
+        {
+            "courseName": "デジタルスキルA（AC2クラス）",
+            "lecturer": [
+                "大里浩二",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1042.json"
+        },
+        {
+            "courseName": "デジタルスキルA（AC3クラス）",
+            "lecturer": [
+                "大里浩二",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1043.json"
+        },
+        {
+            "courseName": "デジタルスキルA（BC1クラス）",
+            "lecturer": [
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1044.json"
+        },
+        {
+            "courseName": "デジタルスキルA（BC2クラス）",
+            "lecturer": [
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1045.json"
+        },
+        {
+            "courseName": "デジタルスキルA（BC3クラス）",
+            "lecturer": [
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1046.json"
+        },
+        {
+            "courseName": "デジタルスキルB（AC1クラス）",
+            "lecturer": [
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1051.json"
+        },
+        {
+            "courseName": "デジタルスキルB（AC2クラス）",
+            "lecturer": [
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1052.json"
+        },
+        {
+            "courseName": "デジタルスキルB（AC3クラス）",
+            "lecturer": [
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1053.json"
+        },
+        {
+            "courseName": "デジタルスキルB（BC1クラス）",
+            "lecturer": [
+                "大里浩二"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1054.json"
+        },
+        {
+            "courseName": "デジタルスキルB（BC2クラス）",
+            "lecturer": [
+                "大里浩二"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1055.json"
+        },
+        {
+            "courseName": "デジタルスキルB（BC3クラス）",
+            "lecturer": [
+                "大里浩二"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1056.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ（デザイン）",
+            "lecturer": [
+                "暮沢剛巳",
+                "伊藤英高"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1180.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D10）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R109A.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D11）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R109B.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D12）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R109C.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D1）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1091.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D2）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1092.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D3）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1093.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D4）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1094.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D5）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1095.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D6）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1096.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D7）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1097.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D8）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1098.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（D9）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1099.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュII（再履修クラス）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R109D.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D10）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R108A.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D11）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R108B.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D12）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R108C.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D1）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1081.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D2）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1082.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D3）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1083.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D4）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1084.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D5）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1085.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D6）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1086.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D7）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1087.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D8）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1088.json"
+        },
+        {
+            "courseName": "フレッシュマンイングリッシュI（D9）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1089.json"
+        },
+        {
+            "courseName": "プレゼンテーションの基礎",
+            "lecturer": [
+                "酒百宏一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2050.json"
+        },
+        {
+            "courseName": "マネジメント",
+            "lecturer": [
+                "目黒良門",
+                "目黒良門"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3020.json"
+        },
+        {
+            "courseName": "マーケティング論",
+            "lecturer": [
+                "目黒良門",
+                "目黒良門"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3030.json"
+        },
+        {
+            "courseName": "人間工学",
+            "lecturer": [
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3240.json"
+        },
+        {
+            "courseName": "企画と展示",
+            "lecturer": [
+                "黒川修一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2030.json"
+        },
+        {
+            "courseName": "倫理学（デザイン）",
+            "lecturer": [
+                "岡野浩"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2030.json"
+        },
+        {
+            "courseName": "化学の世界（デザイン）",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1160.json"
+        },
+        {
+            "courseName": "哲学（デザイン）",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1010.json"
+        },
+        {
+            "courseName": "商品企画論",
+            "lecturer": [
+                "山岸由敦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3250.json"
+        },
+        {
+            "courseName": "宗教学（デザイン）",
+            "lecturer": [
+                "志田雅宏"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2010.json"
+        },
+        {
+            "courseName": "専門スキル演習（3D-CGアニメーション）",
+            "lecturer": [
+                "松村誠一郎"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3160.json"
+        },
+        {
+            "courseName": "専門スキル演習（DTP-A）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3070.json"
+        },
+        {
+            "courseName": "専門スキル演習（DTP-B）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3140.json"
+        },
+        {
+            "courseName": "専門スキル演習（インタラクティブコンテンツ）",
+            "lecturer": [
+                "松村誠一郎"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3060.json"
+        },
+        {
+            "courseName": "専門スキル演習（インフォデザイン）",
+            "lecturer": [
+                "加藤一葉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3130.json"
+        },
+        {
+            "courseName": "専門スキル演習（インフォモーション）",
+            "lecturer": [
+                "大須賀淳",
+                "中島健太"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3090.json"
+        },
+        {
+            "courseName": "専門スキル演習（タイポグラフィ-A）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3080.json"
+        },
+        {
+            "courseName": "専門スキル演習（タイポグラフィ-B）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3150.json"
+        },
+        {
+            "courseName": "専門スキル演習（ユーザインタフェース-A）",
+            "lecturer": [
+                "加藤一葉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3120.json"
+        },
+        {
+            "courseName": "専門スキル演習（工業系CAD）",
+            "lecturer": [
+                "堀川卓哉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3110.json"
+        },
+        {
+            "courseName": "専門スキル演習（工業系モデリング）",
+            "lecturer": [
+                "堀川卓哉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3180.json"
+        },
+        {
+            "courseName": "専門スキル演習（空間系3D-CG）",
+            "lecturer": [
+                "中田衣都香",
+                "田村吾郎"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3170.json"
+        },
+        {
+            "courseName": "専門スキル演習（空間系CAD）",
+            "lecturer": [
+                "下司歩"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3100.json"
+        },
+        {
+            "courseName": "工業デザインコース専門演習I【工業デザイン】",
+            "lecturer": [
+                "酒井正",
+                "堀川卓哉",
+                "山岸由敦",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 6,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3272.json"
+        },
+        {
+            "courseName": "工業デザインコース専門演習I【空間デザイン】",
+            "lecturer": [
+                "田村吾郎",
+                "御幸朋寿",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 6,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3271.json"
+        },
+        {
+            "courseName": "工業デザイン専攻専門演習II",
+            "lecturer": [
+                "酒井正",
+                "堀川卓哉",
+                "山岸由敦",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 6,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3310.json"
+        },
+        {
+            "courseName": "工業デザイン論",
+            "lecturer": [
+                "本郷信二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2210.json"
+        },
+        {
+            "courseName": "平面表現の基礎",
+            "lecturer": [
+                "深澤健作"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1070.json"
+        },
+        {
+            "courseName": "広告論",
+            "lecturer": [
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3040.json"
+        },
+        {
+            "courseName": "心理学（デザイン）",
+            "lecturer": [
+                "沼田真美"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1050.json"
+        },
+        {
+            "courseName": "情報デザイン論",
+            "lecturer": [
+                "加藤一葉"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3220.json"
+        },
+        {
+            "courseName": "感性演習II（つくる）【工業デザイン専攻】K3・K4",
+            "lecturer": [
+                "本郷信二"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1122.json"
+        },
+        {
+            "courseName": "感性演習II（つくる）【視覚デザイン専攻】K1・K2",
+            "lecturer": [
+                "本郷信二"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1121.json"
+        },
+        {
+            "courseName": "感性演習II（伝える）K1・K2",
+            "lecturer": [
+                "酒百宏一"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2101.json"
+        },
+        {
+            "courseName": "感性演習II（伝える）K3・K4",
+            "lecturer": [
+                "酒百宏一"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2102.json"
+        },
+        {
+            "courseName": "感性演習II（描く）【工業デザイン専攻】K3・K4",
+            "lecturer": [
+                "深澤健作"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1102.json"
+        },
+        {
+            "courseName": "感性演習II（描く）【視覚デザイン専攻】K1・K2",
+            "lecturer": [
+                "深澤健作"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1101.json"
+        },
+        {
+            "courseName": "感性演習II（関係づける）K1・K2",
+            "lecturer": [
+                "宮元三恵"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2081.json"
+        },
+        {
+            "courseName": "感性演習II（関係づける）K3・K4",
+            "lecturer": [
+                "宮元三恵"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2082.json"
+        },
+        {
+            "courseName": "感性演習I（つくる）【工業デザイン専攻】K3・K4",
+            "lecturer": [
+                "本郷信二"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1112.json"
+        },
+        {
+            "courseName": "感性演習I（つくる）【視覚デザイン専攻】K1・K2",
+            "lecturer": [
+                "本郷信二"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1111.json"
+        },
+        {
+            "courseName": "感性演習I（伝える）K1・K2",
+            "lecturer": [
+                "酒百宏一"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2091.json"
+        },
+        {
+            "courseName": "感性演習I（伝える）K3・K4",
+            "lecturer": [
+                "酒百宏一"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2092.json"
+        },
+        {
+            "courseName": "感性演習I（描く）【工業デザイン専攻】K3・K4",
+            "lecturer": [
+                "深澤健作"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1092.json"
+        },
+        {
+            "courseName": "感性演習I（描く）【視覚デザイン専攻】K1・K2",
+            "lecturer": [
+                "深澤健作"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1091.json"
+        },
+        {
+            "courseName": "感性演習I（関係づける）K1・K2",
+            "lecturer": [
+                "宮元三恵"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2071.json"
+        },
+        {
+            "courseName": "感性演習I（関係づける）K3・K4",
+            "lecturer": [
+                "宮元三恵"
+            ],
+            "regularOrIntensive": "専門教育科目感性",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2072.json"
+        },
+        {
+            "courseName": "政治学（デザイン）",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1030.json"
+        },
+        {
+            "courseName": "数学基礎（デザイン）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1140.json"
+        },
+        {
+            "courseName": "数理造形",
+            "lecturer": [
+                "御幸朋寿"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2060.json"
+        },
+        {
+            "courseName": "映像デザイン専攻専門演習II",
+            "lecturer": [
+                "大西景太",
+                "伊藤英高",
+                "早瀬交宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 6,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3290.json"
+        },
+        {
+            "courseName": "映像デザイン論",
+            "lecturer": [
+                "竹本正壽"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2190.json"
+        },
+        {
+            "courseName": "栄養と健康（デザイン）",
+            "lecturer": [
+                "肥後梨恵子"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1210.json"
+        },
+        {
+            "courseName": "法学（デザイン）",
+            "lecturer": [
+                "村上康二郎"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1060.json"
+        },
+        {
+            "courseName": "海外研修（アメリカ）[デザイン]",
+            "lecturer": [
+                "ブロックルバンク"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1201.json"
+        },
+        {
+            "courseName": "海外研修（シンガポール・9月）[デザイン]",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1202.json"
+        },
+        {
+            "courseName": "海外語学研修（イギリス）[デザイン]",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1101.json"
+        },
+        {
+            "courseName": "海外語学研修（マレーシア）[デザイン]",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1102.json"
+        },
+        {
+            "courseName": "物理の世界（デザイン）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1170.json"
+        },
+        {
+            "courseName": "環境と科学（デザイン）",
+            "lecturer": [
+                "下村美文"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1150.json"
+        },
+        {
+            "courseName": "生物の世界（デザイン）",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1130.json"
+        },
+        {
+            "courseName": "知的財産論",
+            "lecturer": [
+                "藤沼光太",
+                "鈴木里佳"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3010.json"
+        },
+        {
+            "courseName": "科学論（デザイン）",
+            "lecturer": [
+                "詫間直樹"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1070.json"
+        },
+        {
+            "courseName": "空間デザイン専攻専門演習II",
+            "lecturer": [
+                "田村吾郎",
+                "御幸朋寿",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 6,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3300.json"
+        },
+        {
+            "courseName": "空間デザイン論",
+            "lecturer": [
+                "宮元三恵"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2200.json"
+        },
+        {
+            "courseName": "空間演出論",
+            "lecturer": [
+                "田村吾郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3200.json"
+        },
+        {
+            "courseName": "立体表現の基礎",
+            "lecturer": [
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1080.json"
+        },
+        {
+            "courseName": "経営・経済論",
+            "lecturer": [
+                "辻井康一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3050.json"
+        },
+        {
+            "courseName": "経済学（デザイン）",
+            "lecturer": [
+                "工藤昌宏"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1040.json"
+        },
+        {
+            "courseName": "統計学（デザイン）",
+            "lecturer": [
+                "加用一者"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2070.json"
+        },
+        {
+            "courseName": "編集論",
+            "lecturer": [
+                "暮沢剛巳"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2060.json"
+        },
+        {
+            "courseName": "美術史［2019年度以前入学生科目］",
+            "lecturer": [
+                "黒川修一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2010.json"
+        },
+        {
+            "courseName": "美術史［2020年度入学生科目］",
+            "lecturer": [
+                "黒川修一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1130.json"
+        },
+        {
+            "courseName": "色彩概論",
+            "lecturer": [
+                "大西景太"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S1030.json"
+        },
+        {
+            "courseName": "英語インテンシブIII",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R3010.json"
+        },
+        {
+            "courseName": "英語インテンシブII（ArtsandCulture偶数クラス）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R205C.json"
+        },
+        {
+            "courseName": "英語インテンシブII（ArtsandCulture奇数クラス）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R205D.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D10）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R205A.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D11）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R205B.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D1）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2051.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D2）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2052.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D3）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2053.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D4）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2054.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D5）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2055.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D6）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2056.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D7）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2057.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D8）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2058.json"
+        },
+        {
+            "courseName": "英語インテンシブII（D9）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2059.json"
+        },
+        {
+            "courseName": "英語インテンシブII（再履修クラス）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R205F.json"
+        },
+        {
+            "courseName": "英語インテンシブIV",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R3020.json"
+        },
+        {
+            "courseName": "英語インテンシブI（ArtsandCulture偶数クラス）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R204C.json"
+        },
+        {
+            "courseName": "英語インテンシブI（ArtsandCulture奇数クラス）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R204D.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D10）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R204A.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D11）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R204B.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D1）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2041.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D2）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2042.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D3）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2043.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D4）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2044.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D5）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2045.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D6）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2046.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D7）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2047.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D8）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2048.json"
+        },
+        {
+            "courseName": "英語インテンシブI（D9）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R2049.json"
+        },
+        {
+            "courseName": "英語インテンシブI（再履修クラス）",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R204F.json"
+        },
+        {
+            "courseName": "視覚デザインコース専門演習I【映像デザイン】",
+            "lecturer": [
+                "大西景太",
+                "伊藤英高",
+                "早瀬交宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 6,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3262.json"
+        },
+        {
+            "courseName": "視覚デザインコース専門演習I【視覚デザイン】",
+            "lecturer": [
+                "中島健太",
+                "末房志野",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 6,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3261.json"
+        },
+        {
+            "courseName": "視覚デザイン専攻専門演習II",
+            "lecturer": [
+                "中島健太",
+                "末房志野",
+                "葛原俊秀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 6,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S3280.json"
+        },
+        {
+            "courseName": "視覚デザイン論",
+            "lecturer": [
+                "松本章",
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2020\/DS\/S2180.json"
+        },
+        {
+            "courseName": "集中実技II（スキー）（デザイン）",
+            "lecturer": [
+                "佐久間裕司",
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1240.json"
+        },
+        {
+            "courseName": "集中実技I（野外活動）（デザイン）",
+            "lecturer": [
+                "佐久間裕司",
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2020\/DS\/R1230.json"
+        }
+    ]
+}

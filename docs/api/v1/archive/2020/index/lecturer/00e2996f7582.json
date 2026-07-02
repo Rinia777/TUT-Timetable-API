@@ -1,0 +1,450 @@
+{
+    "filters": {
+        "lecturer": "西尾和之",
+        "lecturerKey": "00e2996f7582"
+    },
+    "count": 17,
+    "lectures": [
+        {
+            "lectureCode": "GE200111",
+            "courseName": "サステイナブル工学研究企画",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/04\/01",
+            "path": "\/api\/v1\/archive\/2020\/all\/GE200111.json"
+        },
+        {
+            "lectureCode": "K704305",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K704305.json"
+        },
+        {
+            "lectureCode": "K7044051",
+            "courseName": "卒業課題II（前期）",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K7044051.json"
+        },
+        {
+            "lectureCode": "GE101801",
+            "courseName": "表面科学概論",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/GE101801.json"
+        },
+        {
+            "lectureCode": "11079K76",
+            "courseName": "フレッシャーズゼミ[6]",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2020\/01\/17",
+            "path": "\/api\/v1\/archive\/2020\/all\/11079K76.json"
+        },
+        {
+            "lectureCode": "K701801",
+            "courseName": "分析化学",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０３",
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K701801.json"
+        },
+        {
+            "lectureCode": "K703901",
+            "courseName": "応用化学実験I",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K703901.json"
+        },
+        {
+            "lectureCode": "K702401",
+            "courseName": "電気化学",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K702401.json"
+        },
+        {
+            "lectureCode": "K7043051",
+            "courseName": "卒業課題I（後期）",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K7043051.json"
+        },
+        {
+            "lectureCode": "K704405",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K704405.json"
+        },
+        {
+            "lectureCode": "K702501",
+            "courseName": "界面化学（再履修）",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K702501.json"
+        },
+        {
+            "lectureCode": "K704205",
+            "courseName": "創成課題[化][5]",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月5",
+                "金2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K704205.json"
+        },
+        {
+            "lectureCode": "K703601",
+            "courseName": "サステイナブル化学特別講義",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K703601.json"
+        },
+        {
+            "lectureCode": "K700401",
+            "courseName": "サステイナブル化学概論",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/K700401.json"
+        },
+        {
+            "lectureCode": "K703501",
+            "courseName": "サステイナブルエネルギー化学",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K703501.json"
+        },
+        {
+            "lectureCode": "K000371",
+            "courseName": "コーオプ演習I[化]",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2020\/11\/27",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000371.json"
+        },
+        {
+            "lectureCode": "K704101",
+            "courseName": "応用化学実験III",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K704101.json"
+        }
+    ]
+}

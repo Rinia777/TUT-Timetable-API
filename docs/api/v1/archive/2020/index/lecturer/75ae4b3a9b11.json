@@ -1,0 +1,393 @@
+{
+    "filters": {
+        "lecturer": "三田俊裕",
+        "lecturerKey": "75ae4b3a9b11"
+    },
+    "count": 15,
+    "lectures": [
+        {
+            "lectureCode": "K504208",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K504208.json"
+        },
+        {
+            "lectureCode": "K502101",
+            "courseName": "流体力学",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K502101.json"
+        },
+        {
+            "lectureCode": "K502801",
+            "courseName": "機械工学特別講義I",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K502801.json"
+        },
+        {
+            "lectureCode": "K100101",
+            "courseName": "基礎力学",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "講義科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K100101.json"
+        },
+        {
+            "lectureCode": "K503902",
+            "courseName": "機械工学基礎実験[B]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "関口暁宣",
+                "古井光明",
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K503902.json"
+        },
+        {
+            "lectureCode": "11079K07",
+            "courseName": "フレッシャーズゼミ[7]",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/11079K07.json"
+        },
+        {
+            "lectureCode": "K503901",
+            "courseName": "機械工学基礎実験[A]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "関口暁宣",
+                "古井光明",
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2020\/02\/09",
+            "path": "\/api\/v1\/archive\/2020\/all\/K503901.json"
+        },
+        {
+            "lectureCode": "K5042081",
+            "courseName": "卒業課題I（後期）",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K5042081.json"
+        },
+        {
+            "lectureCode": "K504308",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K504308.json"
+        },
+        {
+            "lectureCode": "K501601",
+            "courseName": "工学基礎実験（M）[A]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "実験科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/25",
+            "path": "\/api\/v1\/archive\/2020\/all\/K501601.json"
+        },
+        {
+            "lectureCode": "K000301",
+            "courseName": "コーオプ演習I[機]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "松尾芳樹",
+                "関口暁宣",
+                "芝池成人",
+                "古井光明",
+                "高橋秀智",
+                "大久保友雅",
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2020\/01\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K000301.json"
+        },
+        {
+            "lectureCode": "GE100701",
+            "courseName": "模型実験特論",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/GE100701.json"
+        },
+        {
+            "lectureCode": "K503503",
+            "courseName": "機械創造応用「一般テーマ」",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "芝池成人"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/01\/08",
+            "path": "\/api\/v1\/archive\/2020\/all\/K503503.json"
+        },
+        {
+            "lectureCode": "K501801",
+            "courseName": "材料力学",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K501801.json"
+        },
+        {
+            "lectureCode": "K504107",
+            "courseName": "創成課題[機][7]",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2020\/02\/07",
+            "path": "\/api\/v1\/archive\/2020\/all\/K504107.json"
+        }
+    ]
+}

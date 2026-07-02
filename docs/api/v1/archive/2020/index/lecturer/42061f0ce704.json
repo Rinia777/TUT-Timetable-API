@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "藤田隆史",
+        "lecturerKey": "42061f0ce704"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "K701001",
+            "courseName": "プログラミング",
+            "lecturer": [
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "演習科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "水1",
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2020\/01\/06",
+            "path": "\/api\/v1\/archive\/2020\/all\/K701001.json"
+        }
+    ]
+}

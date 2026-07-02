@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "松本章",
+        "lecturerKey": "89ec9a00472a"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S2180",
+            "courseName": "視覚デザイン論",
+            "lecturer": [
+                "松本章",
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2020年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/11\/22",
+            "path": "\/api\/v1\/archive\/2020\/all\/S2180.json"
+        }
+    ]
+}
