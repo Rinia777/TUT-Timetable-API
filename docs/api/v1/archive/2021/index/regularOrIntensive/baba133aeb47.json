@@ -1,0 +1,121 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門基礎教育科目実験・総合",
+        "regularOrIntensiveKey": "baba133aeb47"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "C10501",
+            "courseName": "プログラミング実験[AG]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目実験・総合",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｃ１００３",
+                "片柳研究所Ｃ１００４"
+            ],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/C10501.json"
+        },
+        {
+            "lectureCode": "C10503",
+            "courseName": "プログラミング実験[AM]",
+            "lecturer": [
+                "服部聖彦"
+            ],
+            "regularOrIntensive": "専門基礎教育科目実験・総合",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｃ１００３",
+                "片柳研究所Ｃ１００４"
+            ],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/C10503.json"
+        },
+        {
+            "lectureCode": "C10502",
+            "courseName": "プログラミング実験[BT]",
+            "lecturer": [
+                "石畑宏明"
+            ],
+            "regularOrIntensive": "専門基礎教育科目実験・総合",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｃ１００３",
+                "片柳研究所Ｃ１００４"
+            ],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/C10502.json"
+        },
+        {
+            "lectureCode": "C10504",
+            "courseName": "プログラミング実験[BF]",
+            "lecturer": [
+                "服部聖彦"
+            ],
+            "regularOrIntensive": "専門基礎教育科目実験・総合",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｃ１００３",
+                "片柳研究所Ｃ１００４"
+            ],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/C10504.json"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "filters": {
+        "lecturer": "都丸亜希子",
+        "lecturerKey": "9bd9c354336b"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "T2810",
+            "courseName": "医療科学の基礎I[看護]",
+            "lecturer": [
+                "都丸亜希子",
+                "下村美文"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義・実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室",
+                "Ｍ４０７生物・化学実習室"
+            ],
+            "updateAt": "2021\/01\/21",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2810.json"
+        }
+    ]
+}

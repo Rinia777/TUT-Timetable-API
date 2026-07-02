@@ -1,0 +1,81 @@
+{
+    "filters": {
+        "regularOrIntensive": "基礎教育科目心身ウェルネス",
+        "regularOrIntensiveKey": "053b93095ba1"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "T1700",
+            "courseName": "集中実技I（野外活動）[医療]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/02\/03",
+            "path": "\/api\/v1\/archive\/2021\/all\/T1700.json"
+        },
+        {
+            "lectureCode": "T1400",
+            "courseName": "栄養と健康[水]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/25",
+            "path": "\/api\/v1\/archive\/2021\/all\/T1400.json"
+        },
+        {
+            "lectureCode": "T1500",
+            "courseName": "スポーツ・コンディショニング[医療]",
+            "lecturer": [
+                "佐藤宏継"
+            ],
+            "regularOrIntensive": "基礎教育科目心身ウェルネス",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/08\/25",
+            "path": "\/api\/v1\/archive\/2021\/all\/T1500.json"
+        }
+    ]
+}

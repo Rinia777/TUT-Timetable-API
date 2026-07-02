@@ -1,0 +1,263 @@
+{
+    "filters": {
+        "lecturer": "飯沼瑞穂",
+        "lecturerKey": "86c333e73bc1"
+    },
+    "count": 11,
+    "lectures": [
+        {
+            "lectureCode": "M400101",
+            "courseName": "卒業研究I",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M400101.json"
+        },
+        {
+            "lectureCode": "GGM11501",
+            "courseName": "ソーシャルデザイン特論",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGM11501.json"
+        },
+        {
+            "lectureCode": "11050M02",
+            "courseName": "フレッシャーズゼミI[MS]",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11050M02.json"
+        },
+        {
+            "lectureCode": "M200901",
+            "courseName": "教育メディア論",
+            "lecturer": [
+                "松永信介",
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2021\/01\/29",
+            "path": "\/api\/v1\/archive\/2021\/all\/M200901.json"
+        },
+        {
+            "lectureCode": "M4001011",
+            "courseName": "卒業研究I[後期]",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/08\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/M4001011.json"
+        },
+        {
+            "lectureCode": "M400201",
+            "courseName": "卒業研究II",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M400201.json"
+        },
+        {
+            "lectureCode": "M300301",
+            "courseName": "ソーシャルデザイン論",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M300301.json"
+        },
+        {
+            "lectureCode": "M202201",
+            "courseName": "グローバルメディア論",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M202201.json"
+        },
+        {
+            "lectureCode": "11121M13",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/18",
+            "path": "\/api\/v1\/archive\/2021\/all\/11121M13.json"
+        },
+        {
+            "lectureCode": "M300201",
+            "courseName": "創成課題",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M300201.json"
+        },
+        {
+            "lectureCode": "11051M27",
+            "courseName": "フレッシャーズゼミII[MS]",
+            "lecturer": [
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11051M27.json"
+        }
+    ]
+}

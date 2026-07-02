@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "田代洋一郎",
+        "lecturerKey": "44002ff9ccaa"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "K604401",
+            "courseName": "電気法規と電気施設管理",
+            "lecturer": [
+                "田代洋一郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2021\/07\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604401.json"
+        }
+    ]
+}

@@ -1,0 +1,365 @@
+{
+    "filters": {
+        "lecturer": "酒井正",
+        "lecturerKey": "3453e45aedcb"
+    },
+    "count": 11,
+    "lectures": [
+        {
+            "lectureCode": "GF20010",
+            "courseName": "デザイン研究企画",
+            "lecturer": [
+                "黒川修一",
+                "暮沢剛巳",
+                "伊藤丙雄",
+                "酒百宏一",
+                "本郷信二",
+                "松村誠一郎",
+                "宮元三恵",
+                "中島健太",
+                "田村吾郎",
+                "大西景太",
+                "深澤健作",
+                "伊藤英高",
+                "加藤一葉",
+                "末房志野",
+                "酒井正"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/01\/27",
+            "path": "\/api\/v1\/archive\/2021\/all\/GF20010.json"
+        },
+        {
+            "lectureCode": "GF20030",
+            "courseName": "デザイン研究II",
+            "lecturer": [
+                "黒川修一",
+                "暮沢剛巳",
+                "伊藤丙雄",
+                "酒百宏一",
+                "本郷信二",
+                "松村誠一郎",
+                "宮元三恵",
+                "中島健太",
+                "田村吾郎",
+                "大西景太",
+                "深澤健作",
+                "伊藤英高",
+                "加藤一葉",
+                "末房志野",
+                "酒井正"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/01\/27",
+            "path": "\/api\/v1\/archive\/2021\/all\/GF20030.json"
+        },
+        {
+            "lectureCode": "GF1004",
+            "courseName": "インダストリークリエイションI",
+            "lecturer": [
+                "本郷信二",
+                "宮元三恵",
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１０１７教室"
+            ],
+            "updateAt": "2021\/01\/21",
+            "path": "\/api\/v1\/archive\/2021\/all\/GF1004.json"
+        },
+        {
+            "lectureCode": "S3272",
+            "courseName": "工業デザインコース専門演習I［工業デザイン］",
+            "lecturer": [
+                "酒井正",
+                "堀川卓哉",
+                "山岸由敦",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2021\/04\/11",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3272.json"
+        },
+        {
+            "lectureCode": "GF1001",
+            "courseName": "デザイン特論",
+            "lecturer": [
+                "伊藤丙雄",
+                "酒百宏一",
+                "本郷信二",
+                "松村誠一郎",
+                "宮元三恵",
+                "中島健太",
+                "田村吾郎",
+                "大西景太",
+                "深澤健作",
+                "伊藤英高",
+                "加藤一葉",
+                "末房志野",
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2021\/01\/27",
+            "path": "\/api\/v1\/archive\/2021\/all\/GF1001.json"
+        },
+        {
+            "lectureCode": "S1080",
+            "courseName": "立体表現の基礎",
+            "lecturer": [
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2021\/04\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/S1080.json"
+        },
+        {
+            "lectureCode": "GF20020",
+            "courseName": "デザイン研究I",
+            "lecturer": [
+                "黒川修一",
+                "暮沢剛巳",
+                "伊藤丙雄",
+                "酒百宏一",
+                "本郷信二",
+                "松村誠一郎",
+                "宮元三恵",
+                "中島健太",
+                "田村吾郎",
+                "大西景太",
+                "深澤健作",
+                "伊藤英高",
+                "加藤一葉",
+                "末房志野",
+                "酒井正",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/GF20020.json"
+        },
+        {
+            "lectureCode": "GF20040",
+            "courseName": "デザイン研究III",
+            "lecturer": [
+                "黒川修一",
+                "暮沢剛巳",
+                "伊藤丙雄",
+                "酒百宏一",
+                "本郷信二",
+                "松村誠一郎",
+                "宮元三恵",
+                "中島健太",
+                "田村吾郎",
+                "大西景太",
+                "深澤健作",
+                "伊藤英高",
+                "加藤一葉",
+                "末房志野",
+                "酒井正",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/GF20040.json"
+        },
+        {
+            "lectureCode": "GF1005",
+            "courseName": "インダストリークリエイションII",
+            "lecturer": [
+                "本郷信二",
+                "宮元三恵",
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [
+                "３１４１１専門演習室１"
+            ],
+            "updateAt": "2021\/01\/21",
+            "path": "\/api\/v1\/archive\/2021\/all\/GF1005.json"
+        },
+        {
+            "lectureCode": "S2281",
+            "courseName": "工業ものづくりデザインコース専門演習I［3Q］",
+            "lecturer": [
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１１デザイン演習室２"
+            ],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/S2281.json"
+        },
+        {
+            "lectureCode": "S2282",
+            "courseName": "工業ものづくりデザインコース専門演習I［4Q］",
+            "lecturer": [
+                "酒井正"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１１デザイン演習室２"
+            ],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/S2282.json"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "filters": {
+        "lecturer": "榊俊吾",
+        "lecturerKey": "cd1b8a65e71f"
+    },
+    "count": 12,
+    "lectures": [
+        {
+            "lectureCode": "M400110",
+            "courseName": "卒業研究I",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M400110.json"
+        },
+        {
+            "lectureCode": "11050M11",
+            "courseName": "フレッシャーズゼミI[MS]",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11050M11.json"
+        },
+        {
+            "lectureCode": "M3001S2",
+            "courseName": "メディア専門演習II[広告マーケティングと経済分析]",
+            "lecturer": [
+                "榊俊吾",
+                "進藤美希",
+                "藤崎実"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟３０６"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M3001S2.json"
+        },
+        {
+            "lectureCode": "M301401",
+            "courseName": "社会経済論",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2021\/01\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/M301401.json"
+        },
+        {
+            "lectureCode": "M400210",
+            "courseName": "卒業研究II",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M400210.json"
+        },
+        {
+            "lectureCode": "M2011S2",
+            "courseName": "メディア専門演習I[広告マーケティングと経済分析]",
+            "lecturer": [
+                "榊俊吾",
+                "進藤美希",
+                "藤崎実"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟３０６"
+            ],
+            "updateAt": "2021\/05\/24",
+            "path": "\/api\/v1\/archive\/2021\/all\/M2011S2.json"
+        },
+        {
+            "lectureCode": "M000416",
+            "courseName": "先端メディアゼミナールI[社会経済調査分析]",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M000416.json"
+        },
+        {
+            "lectureCode": "M302701",
+            "courseName": "社会経済シミュレーション論",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2021\/01\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/M302701.json"
+        },
+        {
+            "lectureCode": "GGY00201",
+            "courseName": "ビジネスシミュレーション特論",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "専門科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻,バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGY00201.json"
+        },
+        {
+            "lectureCode": "11120M18",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/18",
+            "path": "\/api\/v1\/archive\/2021\/all\/11120M18.json"
+        },
+        {
+            "lectureCode": "M300211",
+            "courseName": "創成課題",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M300211.json"
+        },
+        {
+            "lectureCode": "11051M04",
+            "courseName": "フレッシャーズゼミII[MS]",
+            "lecturer": [
+                "榊俊吾"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11051M04.json"
+        }
+    ]
+}

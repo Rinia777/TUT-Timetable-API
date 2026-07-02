@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "岡野利津子",
+        "lecturerKey": "71d0d2258a9a"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "1108101",
+            "courseName": "人間と倫理[合A]",
+            "lecturer": [
+                "岡野利津子"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/08\/28",
+            "path": "\/api\/v1\/archive\/2021\/all\/1108101.json"
+        },
+        {
+            "lectureCode": "1108102",
+            "courseName": "人間と倫理[合B]",
+            "lecturer": [
+                "岡野利津子"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/08\/28",
+            "path": "\/api\/v1\/archive\/2021\/all\/1108102.json"
+        }
+    ]
+}

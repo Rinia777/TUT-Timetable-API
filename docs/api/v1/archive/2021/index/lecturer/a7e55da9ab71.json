@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "上田裕巳",
+        "lecturerKey": "a7e55da9ab71"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "C30701",
+            "courseName": "IPネットワーク[2018以前]",
+            "lecturer": [
+                "上田裕巳"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2021\/01\/28",
+            "path": "\/api\/v1\/archive\/2021\/all\/C30701.json"
+        }
+    ]
+}

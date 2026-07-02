@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "永田大輔",
+        "lecturerKey": "ec0069173dc7"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "1109001",
+            "courseName": "社会学入門[合A]",
+            "lecturer": [
+                "永田大輔"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/02\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/1109001.json"
+        },
+        {
+            "lectureCode": "1109002",
+            "courseName": "社会学入門[合B]",
+            "lecturer": [
+                "永田大輔"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/1109002.json"
+        }
+    ]
+}

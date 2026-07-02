@@ -1,0 +1,194 @@
+{
+    "filters": {
+        "lecturer": "岩月すみ江",
+        "lecturerKey": "2b1cb49cccc1"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "W14056",
+            "courseName": "卒業研究[NU6]",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14056.json"
+        },
+        {
+            "lectureCode": "W14066",
+            "courseName": "統合看護実習[6]",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14066.json"
+        },
+        {
+            "lectureCode": "W14130",
+            "courseName": "リハビリテーションケア",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14130.json"
+        },
+        {
+            "lectureCode": "W12060",
+            "courseName": "成人看護学概論",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/03\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/W12060.json"
+        },
+        {
+            "lectureCode": "W13120",
+            "courseName": "成人看護学実習",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 5,
+            "classroom": [],
+            "updateAt": "2021\/01\/20",
+            "path": "\/api\/v1\/archive\/2021\/all\/W13120.json"
+        },
+        {
+            "lectureCode": "W13230",
+            "courseName": "成人看護学実習[2013年以前入学]",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/01\/20",
+            "path": "\/api\/v1\/archive\/2021\/all\/W13230.json"
+        },
+        {
+            "lectureCode": "W14090",
+            "courseName": "看護総合セミナー",
+            "lecturer": [
+                "岩月すみ江"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14090.json"
+        },
+        {
+            "lectureCode": "W12120",
+            "courseName": "成人看護学I",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "厚澤博美"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室",
+                "３１０１３教室",
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2021\/03\/30",
+            "path": "\/api\/v1\/archive\/2021\/all\/W12120.json"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "寺島達夫",
+        "lecturerKey": "a2d30557ea2d"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U21010",
+            "courseName": "人体解剖学I",
+            "lecturer": [
+                "寺島達夫"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/U21010.json"
+        },
+        {
+            "lectureCode": "U21020",
+            "courseName": "人体解剖学II",
+            "lecturer": [
+                "寺島達夫"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/U21020.json"
+        }
+    ]
+}

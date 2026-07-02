@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "中田衣都香",
+        "lecturerKey": "ffa59b840311"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S3170",
+            "courseName": "専門スキル演習（空間系3D-CG）",
+            "lecturer": [
+                "中田衣都香",
+                "田村吾郎"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2021\/04\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3170.json"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "東郷史治",
+        "lecturerKey": "bd144e7463c7"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U12050",
+            "courseName": "保健統計学",
+            "lecturer": [
+                "東郷史治",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2021\/08\/10",
+            "path": "\/api\/v1\/archive\/2021\/all\/U12050.json"
+        }
+    ]
+}

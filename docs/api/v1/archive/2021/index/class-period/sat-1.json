@@ -1,0 +1,344 @@
+{
+    "filters": {
+        "classPeriod": "土1",
+        "classPeriodKey": "sat-1"
+    },
+    "count": 9,
+    "lectures": [
+        {
+            "lectureCode": "B20701",
+            "courseName": "生物化学I",
+            "lecturer": [
+                "吉田亘"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "土1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/07\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/B20701.json"
+        },
+        {
+            "lectureCode": "B10205",
+            "courseName": "生物・化学基礎実験I[5AD]",
+            "lecturer": [
+                "矢野和義",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子",
+                "関洋子",
+                "中村知世"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2",
+                "土1",
+                "土2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/03\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/B10205.json"
+        },
+        {
+            "lectureCode": "B10206",
+            "courseName": "生物・化学基礎実験I[5AE]",
+            "lecturer": [
+                "矢野和義",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子",
+                "関洋子",
+                "中村知世"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2",
+                "土1",
+                "土2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/03\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/B10206.json"
+        },
+        {
+            "lectureCode": "B10203",
+            "courseName": "生物・化学基礎実験I[3AD]",
+            "lecturer": [
+                "矢野和義",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子",
+                "関洋子",
+                "中村知世"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5",
+                "土1",
+                "土2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/03\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/B10203.json"
+        },
+        {
+            "lectureCode": "B10204",
+            "courseName": "生物・化学基礎実験I[3AE]",
+            "lecturer": [
+                "矢野和義",
+                "松井徹",
+                "永瀬翠",
+                "中西昭仁",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "村上優子",
+                "関洋子",
+                "中村知世"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5",
+                "土1",
+                "土2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/03\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/B10204.json"
+        },
+        {
+            "lectureCode": "B10301",
+            "courseName": "生物・化学基礎実験II[1AD]",
+            "lecturer": [
+                "秋元卓央",
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "中西昭仁",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2",
+                "土1",
+                "土2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/12\/17",
+            "path": "\/api\/v1\/archive\/2021\/all\/B10301.json"
+        },
+        {
+            "lectureCode": "B10302",
+            "courseName": "生物・化学基礎実験II[1AE]",
+            "lecturer": [
+                "秋元卓央",
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "中西昭仁",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月4",
+                "月5",
+                "水2",
+                "土1",
+                "土2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/12\/17",
+            "path": "\/api\/v1\/archive\/2021\/all\/B10302.json"
+        },
+        {
+            "lectureCode": "B10305",
+            "courseName": "生物・化学基礎実験II[5AD]",
+            "lecturer": [
+                "秋元卓央",
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "中西昭仁",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5",
+                "土1",
+                "土2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/12\/17",
+            "path": "\/api\/v1\/archive\/2021\/all\/B10305.json"
+        },
+        {
+            "lectureCode": "B10306",
+            "courseName": "生物・化学基礎実験II[5AE]",
+            "lecturer": [
+                "秋元卓央",
+                "佐藤拓己",
+                "岩渕徳郎",
+                "永瀬翠",
+                "中西昭仁",
+                "岡田麻衣子",
+                "伊澤千尋",
+                "丸山竜人",
+                "西良太郎",
+                "松井毅"
+            ],
+            "regularOrIntensive": "専門基礎教育科目講義付き実験",
+            "courseType": "講義・実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水2",
+                "木4",
+                "木5",
+                "土1",
+                "土2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/12\/17",
+            "path": "\/api\/v1\/archive\/2021\/all\/B10306.json"
+        }
+    ]
+}

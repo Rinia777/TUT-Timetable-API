@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "regularOrIntensive": "教養教育科目ウェルネス",
+        "regularOrIntensiveKey": "7b41eeb48693"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "R1230",
+            "courseName": "集中実技I[野外活動］デザイン",
+            "lecturer": [
+                "佐久間裕司",
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/04\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/R1230.json"
+        },
+        {
+            "lectureCode": "R1210",
+            "courseName": "栄養と健康[デザイン]",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/25",
+            "path": "\/api\/v1\/archive\/2021\/all\/R1210.json"
+        },
+        {
+            "lectureCode": "R1240",
+            "courseName": "集中実技II[スキー］デザイン",
+            "lecturer": [
+                "佐久間裕司",
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "courseType": "実習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/R1240.json"
+        },
+        {
+            "lectureCode": "R1220",
+            "courseName": "スポーツ・コンディショニング[デザイン]",
+            "lecturer": [
+                "佐藤宏継"
+            ],
+            "regularOrIntensive": "教養教育科目ウェルネス",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/08\/25",
+            "path": "\/api\/v1\/archive\/2021\/all\/R1220.json"
+        }
+    ]
+}

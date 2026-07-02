@@ -1,0 +1,208 @@
+{
+    "filters": {
+        "lecturer": "大木正隆",
+        "lecturerKey": "c38dea80f437"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "W14010",
+            "courseName": "在宅看護学実習",
+            "lecturer": [
+                "大木正隆",
+                "一色喜保",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/01\/21",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14010.json"
+        },
+        {
+            "lectureCode": "W14059",
+            "courseName": "卒業研究[NU9]",
+            "lecturer": [
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14059.json"
+        },
+        {
+            "lectureCode": "W14069",
+            "courseName": "統合看護実習[9]",
+            "lecturer": [
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14069.json"
+        },
+        {
+            "lectureCode": "W13080",
+            "courseName": "在宅看護学",
+            "lecturer": [
+                "大木正隆",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室",
+                "Ｍ５１０ＡＤＬ室",
+                "Ｍ５１２多目的実習室"
+            ],
+            "updateAt": "2021\/01\/21",
+            "path": "\/api\/v1\/archive\/2021\/all\/W13080.json"
+        },
+        {
+            "lectureCode": "W12160",
+            "courseName": "家族看護学",
+            "lecturer": [
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2021\/01\/21",
+            "path": "\/api\/v1\/archive\/2021\/all\/W12160.json"
+        },
+        {
+            "lectureCode": "U12010",
+            "courseName": "疫学",
+            "lecturer": [
+                "五十嵐千代",
+                "大木正隆",
+                "一色喜保"
+            ],
+            "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/01\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/U12010.json"
+        },
+        {
+            "lectureCode": "W12150",
+            "courseName": "医療・看護情報学",
+            "lecturer": [
+                "石垣恭子",
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/W12150.json"
+        },
+        {
+            "lectureCode": "W12090",
+            "courseName": "在宅看護学概論",
+            "lecturer": [
+                "大木正隆",
+                "浅海くるみ"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2021\/01\/21",
+            "path": "\/api\/v1\/archive\/2021\/all\/W12090.json"
+        }
+    ]
+}

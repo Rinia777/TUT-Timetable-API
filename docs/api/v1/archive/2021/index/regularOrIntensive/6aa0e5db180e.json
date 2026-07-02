@@ -1,0 +1,47 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門教育科目専門・卒業研究",
+        "regularOrIntensiveKey": "6aa0e5db180e"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S4010",
+            "courseName": "デザイン専門研究",
+            "lecturer": [],
+            "regularOrIntensive": "専門教育科目専門・卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/02\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/S4010.json"
+        },
+        {
+            "lectureCode": "S4020",
+            "courseName": "デザイン卒業研究",
+            "lecturer": [],
+            "regularOrIntensive": "専門教育科目専門・卒業研究",
+            "courseType": "実習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/25",
+            "path": "\/api\/v1\/archive\/2021\/all\/S4020.json"
+        }
+    ]
+}

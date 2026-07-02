@@ -1,0 +1,81 @@
+{
+    "filters": {
+        "lecturer": "加茂秀隆",
+        "lecturerKey": "6c5cbf11bdbe"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "11103B08",
+            "courseName": "IntegratedEnglishIV[8]BS電電応化",
+            "lecturer": [
+                "加茂秀隆"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2021\/09\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/11103B08.json"
+        },
+        {
+            "lectureCode": "11101B09",
+            "courseName": "IntegratedEnglishII[9]BS電電応化",
+            "lecturer": [
+                "加茂秀隆"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "応用生物学部,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2021\/09\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/11101B09.json"
+        },
+        {
+            "lectureCode": "11016B07",
+            "courseName": "AcademicEnglishII[B2]BS",
+            "lecturer": [
+                "加茂秀隆"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2021\/09\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/11016B07.json"
+        }
+    ]
+}

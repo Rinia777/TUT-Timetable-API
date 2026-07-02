@@ -1,0 +1,81 @@
+{
+    "filters": {
+        "lecturer": "深田喜八郎",
+        "lecturerKey": "fd51aabbf70c"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "1106413",
+            "courseName": "スポーツ実技II[金1サッカー]",
+            "lecturer": [
+                "深田喜八郎"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実技科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "工学部電気電子工学科,メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/08\/30",
+            "path": "\/api\/v1\/archive\/2021\/all\/1106413.json"
+        },
+        {
+            "lectureCode": "1106423",
+            "courseName": "スポーツ実技II[金2サッカー]",
+            "lecturer": [
+                "深田喜八郎"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科,工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/08\/30",
+            "path": "\/api\/v1\/archive\/2021\/all\/1106423.json"
+        },
+        {
+            "lectureCode": "1106433",
+            "courseName": "スポーツ実技II[金3サッカー]",
+            "lecturer": [
+                "深田喜八郎"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "応用生物学部,コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/08\/30",
+            "path": "\/api\/v1\/archive\/2021\/all\/1106433.json"
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "filters": {
+        "lecturer": "苗村潔",
+        "lecturerKey": "443b4988c0dd"
+    },
+    "count": 18,
+    "lectures": [
+        {
+            "lectureCode": "GGB90310",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGB90310.json"
+        },
+        {
+            "lectureCode": "W24065",
+            "courseName": "卒業研究I[CE5]",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W24065.json"
+        },
+        {
+            "lectureCode": "GH1001",
+            "courseName": "医療技術学概論",
+            "lecturer": [
+                "篠原一彦",
+                "佐々木聰",
+                "苗村潔",
+                "細萱茂実",
+                "梅田勝",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "中川和美",
+                "田仲浩平",
+                "十島純子",
+                "櫻井進",
+                "柴崎芳一",
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2021\/01\/27",
+            "path": "\/api\/v1\/archive\/2021\/all\/GH1001.json"
+        },
+        {
+            "lectureCode": "W23020",
+            "courseName": "医用画像機器学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2021\/01\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/W23020.json"
+        },
+        {
+            "lectureCode": "W24020",
+            "courseName": "臨床工学セミナー",
+            "lecturer": [
+                "苗村潔",
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月3",
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/W24020.json"
+        },
+        {
+            "lectureCode": "U22110",
+            "courseName": "工学実験I",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ７０１臨床工学科実習室１",
+                "Ｍ７０３生体医工学実習室",
+                "Ｍ７０４工学実習室"
+            ],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/U22110.json"
+        },
+        {
+            "lectureCode": "U22100",
+            "courseName": "電気工学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/U22100.json"
+        },
+        {
+            "lectureCode": "T2722",
+            "courseName": "フレッシャーズゼミ[臨工2]",
+            "lecturer": [
+                "苗村潔",
+                "宮地寛登"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ４０５基礎医学実習室"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2722.json"
+        },
+        {
+            "lectureCode": "GH1004",
+            "courseName": "医療情報技術総論",
+            "lecturer": [
+                "苗村潔",
+                "細萱茂実",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2021\/01\/21",
+            "path": "\/api\/v1\/archive\/2021\/all\/GH1004.json"
+        },
+        {
+            "lectureCode": "U24010",
+            "courseName": "工学演習II",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室",
+                "３０２１１教室",
+                "３０２１２教室",
+                "３１０１３教室"
+            ],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/U24010.json"
+        },
+        {
+            "lectureCode": "GGB90410",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGB90410.json"
+        },
+        {
+            "lectureCode": "W24021",
+            "courseName": "臨床工学セミナー[再]",
+            "lecturer": [
+                "苗村潔",
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/W24021.json"
+        },
+        {
+            "lectureCode": "W24075",
+            "courseName": "卒業研究II[CE5]",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W24075.json"
+        },
+        {
+            "lectureCode": "U23020",
+            "courseName": "工学演習I",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１３教室",
+                "３１０１６教室",
+                "３１０１７教室"
+            ],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/U23020.json"
+        },
+        {
+            "lectureCode": "U22120",
+            "courseName": "工学実験II",
+            "lecturer": [
+                "苗村潔",
+                "伊東雅之"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ７０１臨床工学科実習室１",
+                "Ｍ７０３生体医工学実習室",
+                "Ｍ７０４工学実習室"
+            ],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/U22120.json"
+        },
+        {
+            "lectureCode": "U22090",
+            "courseName": "医用機械工学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部臨床工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/U22090.json"
+        },
+        {
+            "lectureCode": "U23010",
+            "courseName": "システム制御工学",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2021\/01\/13",
+            "path": "\/api\/v1\/archive\/2021\/all\/U23010.json"
+        },
+        {
+            "lectureCode": "W24030",
+            "courseName": "医用工学特別演習",
+            "lecturer": [
+                "苗村潔"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/W24030.json"
+        }
+    ]
+}

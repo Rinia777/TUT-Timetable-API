@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "中村美奈子",
+        "lecturerKey": "57369b5dc8eb"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11102M02",
+            "courseName": "IntegratedEnglishIII[AW2]MS",
+            "lecturer": [
+                "中村美奈子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2021\/02\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/11102M02.json"
+        },
+        {
+            "lectureCode": "11102M07",
+            "courseName": "IntegratedEnglishIII[BW2]MS",
+            "lecturer": [
+                "中村美奈子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2021\/02\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/11102M07.json"
+        },
+        {
+            "lectureCode": "11103M02",
+            "courseName": "IntegratedEnglishIV[AW2]MS",
+            "lecturer": [
+                "中村美奈子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2021\/02\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/11103M02.json"
+        },
+        {
+            "lectureCode": "11103M07",
+            "courseName": "IntegratedEnglishIV[BW2]MS",
+            "lecturer": [
+                "中村美奈子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2021\/02\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/11103M07.json"
+        }
+    ]
+}

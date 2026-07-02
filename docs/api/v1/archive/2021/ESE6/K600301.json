@@ -1,0 +1,38 @@
+{
+    "lectureCode": "K600301",
+    "courseName": "線形代数(E)",
+    "lecturer": [
+        "鶴岡誠"
+    ],
+    "regularOrIntensive": "専門教育科目専門基礎",
+    "courseType": "講義科目",
+    "courseStart": "2021年度前期",
+    "classPeriod": [
+        "水2"
+    ],
+    "targetDepartment": "工学部電気電子工学科",
+    "targetGrade": [
+        "1年",
+        "2年",
+        "3年",
+        "4年"
+    ],
+    "numberOfCredits": 2,
+    "classroom": [
+        "研究棟Ａ３０２"
+    ],
+    "courceDetails": {
+        "courseOverview": "線形代数は、自然科学、工学、情報科学、社会科学などに幅広く応用される基礎科目である。本講義では、ベクトルの計算に関する基礎、ベクトルの積（スカラー積、ベクトル積）、およびベクトルの応用について学ぶ。次に、行列計算の基礎、逆行列、行列式、固有ベクトル、固有値、線形写像を学ぶ。行列およびベクトルの応用として、線形変換、連立方程式の解法や最小二乗データフィッティング、その他の技術分野において線形代数を応用できるようになる。",
+        "outcomesMeasuredBy": "この講義を通じて、線形代数学に関する専門知識、論理的な思考力および問題解決力を身につけることを目標とする。具体的には、ベクトルおよび行列の基礎計算力を身につけること。技術や社会における線形代数の応用についての理解ができること。これらを通じて、電気工学および電子工学の基礎力を身につける。以上が到達目標である。",
+        "learningOutcomes": "",
+        "teachingMethod": "教科書に沿って講義を行うが、所々に重要と思われる応用について説明を行う。コンピューターを用いて小課題の解答状況を把握し、その結果を当回または次回の授業内でグラフにより受講生全体の正答率として示す。これにより、授業時間内の理解を深め知識の定着を目指す。ほぼ毎回の授業で小課題が出され、別途2回程度のレポート課題が出されるものとする。いくつかの小課題では、授業内でのWebサイトを用いたインタラクティブ授業を行う。教科書およびノートPCは必携とする。",
+        "notices": "本講義の参考図書（参考書欄に記載）について、(1)は比較的読みやすい。さらに学びたい人には同(2)をすすめる。",
+        "preparatoryStudy": "授業の理解を早めかつ深めるためには、高等学校（または同レベル）のベクトルと行列について復習しておくとよい。ベクトル・行列を初めて学ぶ人は、高校の教科書や参考書を参照できるようにしておくことをすすめる。なお、予習・復習の具体的な範囲や内容については、各回授業の中で指摘し詳しく注釈を行うので注意を要する。指摘した内容の復習および予習には少なくとも合計で約120分の時間が必要である。",
+        "gradingGuidelines": "授業における小課題に対する解答とレポートの内容（30％）、および期末試験の結果（70％）により、上記割合を元に評価する。",
+        "textbook": "\"MathematicsforElectricalEngineeringandComputing\"byM.Attenborough,Newnes(AnimprintofElsevier,LinacreHouse,JordanHill,OxfordOX28DP200WheelerRoad,BurlingtonMA01803)",
+        "referenceMaterials": "(1)「線形代数」、江見圭司、中西祥司共著、東京図書．(2)「線形代数入門」、齋藤正彦著、東京大学出版会．",
+        "courseSchedule": "第1回：Vectors,additionandsubtraction.(ベクトル、足し算、引き算)第2回：MagnitudeandDirectionofa2Dvector-polarco-ordinates.(2次元ベクトルの大きさと向き-極座標)第3回：Applicationofvectors.(ベクトルの応用)第4回：Multiplicationofvectorbyascalar.Basisvectors.(スカラーによるベクトルのかけ算.単位ベクトル)第5回：Productsofvectors.(ベクトルの積)第6回：Vectorequation.(ベクトル方程式)第7回：Summary.(まとめ１)第8回：Matricesandtransformations.(行列と変換)第9回：Systemsofequations.(連立方程式)第10回：Gausselimination.(ガウスの消去法、掃き出し法)第11回：Theinverseanddeterminantofa3x3matrix.(3x3行列の逆行列と行列式)第12回：Eigenvectorsandeigenvalues.(固有ベクトルと固有値)第13回：Leastsquaresdatafitting.(最小二乗データフィッティング)第14回：Applicationofmatrices.(行列の応用)",
+        "courseDataUpdatedAt": "2021\/01\/07"
+    },
+    "updateAt": "2021\/01\/07"
+}

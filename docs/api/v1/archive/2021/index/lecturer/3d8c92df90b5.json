@@ -1,0 +1,37 @@
+{
+    "filters": {
+        "lecturer": "岸由香里",
+        "lecturerKey": "3d8c92df90b5"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "T2713",
+            "courseName": "フレッシャーズゼミ[看護3]",
+            "lecturer": [
+                "宇根川杏子",
+                "岸由香里",
+                "江川優子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2713.json"
+        }
+    ]
+}

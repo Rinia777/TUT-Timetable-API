@@ -1,0 +1,472 @@
+{
+    "filters": {
+        "lecturer": "森本千佳子",
+        "lecturerKey": "5251da2af78b"
+    },
+    "count": 20,
+    "lectures": [
+        {
+            "lectureCode": "C40126",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C40126.json"
+        },
+        {
+            "lectureCode": "GGE90104",
+            "courseName": "アントレプレナー研究企画",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/04\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE90104.json"
+        },
+        {
+            "lectureCode": "GGE902z1",
+            "courseName": "アントレプレナー研究I",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE902z1.json"
+        },
+        {
+            "lectureCode": "GGE90304",
+            "courseName": "アントレプレナー研究II",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/04\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE90304.json"
+        },
+        {
+            "lectureCode": "11050C09",
+            "courseName": "フレッシャーズゼミI[9]CS",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11050C09.json"
+        },
+        {
+            "lectureCode": "C20601",
+            "courseName": "ベンチャービジネス",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目マネジメント",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C20601.json"
+        },
+        {
+            "lectureCode": "C31301",
+            "courseName": "テクノロジーマネジメント[2018以前]",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2021\/02\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C31301.json"
+        },
+        {
+            "lectureCode": "C22603",
+            "courseName": "プロジェクト演習I[テーマC・D]CS",
+            "lecturer": [
+                "井上亮文",
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/C22603.json"
+        },
+        {
+            "lectureCode": "C22604",
+            "courseName": "プロジェクト演習I[テーマD・C]CS",
+            "lecturer": [
+                "井上亮文",
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/C22604.json"
+        },
+        {
+            "lectureCode": "C40225",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C40225.json"
+        },
+        {
+            "lectureCode": "GGE90204",
+            "courseName": "アントレプレナー研究I",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE90204.json"
+        },
+        {
+            "lectureCode": "GGE903z1",
+            "courseName": "アントレプレナー研究II",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE903z1.json"
+        },
+        {
+            "lectureCode": "GGE90404",
+            "courseName": "アントレプレナー研究III",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE90404.json"
+        },
+        {
+            "lectureCode": "GGE11301",
+            "courseName": "プロジェクトマネジメントI",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE11301.json"
+        },
+        {
+            "lectureCode": "GGE11401",
+            "courseName": "プロジェクトマネジメントII",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE11401.json"
+        },
+        {
+            "lectureCode": "C32224",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C32224.json"
+        },
+        {
+            "lectureCode": "C10603",
+            "courseName": "価値創造演習[AM]",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/C10603.json"
+        },
+        {
+            "lectureCode": "11051C09",
+            "courseName": "フレッシャーズゼミII[9]CS",
+            "lecturer": [
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/09\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/11051C09.json"
+        },
+        {
+            "lectureCode": "C22703",
+            "courseName": "プロジェクト演習II[テーマC・D]CS",
+            "lecturer": [
+                "井上亮文",
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/C22703.json"
+        },
+        {
+            "lectureCode": "C22704",
+            "courseName": "プロジェクト演習II[テーマD・C]CS",
+            "lecturer": [
+                "井上亮文",
+                "森本千佳子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/C22704.json"
+        }
+    ]
+}

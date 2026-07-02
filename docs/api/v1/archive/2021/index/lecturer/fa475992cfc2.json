@@ -1,0 +1,57 @@
+{
+    "filters": {
+        "lecturer": "高畠宏之",
+        "lecturerKey": "fa475992cfc2"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "GGE10901",
+            "courseName": "企業データ分析I",
+            "lecturer": [
+                "高畠宏之"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００２"
+            ],
+            "updateAt": "2021\/02\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE10901.json"
+        },
+        {
+            "lectureCode": "GGE11001",
+            "courseName": "企業データ分析II",
+            "lecturer": [
+                "高畠宏之"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００２"
+            ],
+            "updateAt": "2021\/02\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE11001.json"
+        }
+    ]
+}

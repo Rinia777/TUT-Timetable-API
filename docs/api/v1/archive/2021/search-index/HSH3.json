@@ -1,0 +1,654 @@
+{
+    "department": "HSH3",
+    "count": 66,
+    "lectures": [
+        {
+            "courseName": "キネシオロジー演習",
+            "lecturer": [
+                "菅原仁",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32020.json"
+        },
+        {
+            "courseName": "クリニカル・キネシオロジー演習",
+            "lecturer": [
+                "菅原仁",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U33010.json"
+        },
+        {
+            "courseName": "スポーツ科学理学療法学演習",
+            "lecturer": [
+                "中山孝",
+                "吉田真一",
+                "斎藤寛樹",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33150.json"
+        },
+        {
+            "courseName": "マニュアルセラピー",
+            "lecturer": [
+                "中山孝",
+                "斎藤寛樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33130.json"
+        },
+        {
+            "courseName": "マニュアルセラピー実習",
+            "lecturer": [
+                "中山孝",
+                "斎藤寛樹",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33140.json"
+        },
+        {
+            "courseName": "リスク管理論",
+            "lecturer": [
+                "日下さと美",
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33040.json"
+        },
+        {
+            "courseName": "リハビリテーション医学[理学]",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32140.json"
+        },
+        {
+            "courseName": "リハビリテーション工学[理学]",
+            "lecturer": [
+                "石黒圭応",
+                "斎藤寛樹"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32130.json"
+        },
+        {
+            "courseName": "一般臨床医学[理学]",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32080.json"
+        },
+        {
+            "courseName": "人間発達学[理学]",
+            "lecturer": [
+                "栗田英明",
+                "土屋順子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32030.json"
+        },
+        {
+            "courseName": "先端医療総合講義[理学]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34010.json"
+        },
+        {
+            "courseName": "公衆衛生学演習[理学]",
+            "lecturer": [
+                "秋本和哉",
+                "梅田勝",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U33040.json"
+        },
+        {
+            "courseName": "内部障害系理学療法学",
+            "lecturer": [
+                "日下さと美",
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33090.json"
+        },
+        {
+            "courseName": "内部障害系理学療法学実習",
+            "lecturer": [
+                "栗田英明",
+                "日下さと美",
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33100.json"
+        },
+        {
+            "courseName": "内部障害系理学療法評価学",
+            "lecturer": [
+                "日下さと美",
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32030.json"
+        },
+        {
+            "courseName": "医療安全・人間工学概論[理学]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33020.json"
+        },
+        {
+            "courseName": "卒業研究[PT10]",
+            "lecturer": [
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W3405A.json"
+        },
+        {
+            "courseName": "卒業研究[PT11]",
+            "lecturer": [
+                "吉田真一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W3405B.json"
+        },
+        {
+            "courseName": "卒業研究[PT12]",
+            "lecturer": [
+                "土屋順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W3405C.json"
+        },
+        {
+            "courseName": "卒業研究[PT13]",
+            "lecturer": [
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W3405D.json"
+        },
+        {
+            "courseName": "卒業研究[PT14]",
+            "lecturer": [
+                "斎藤寛樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W3405E.json"
+        },
+        {
+            "courseName": "卒業研究[PT1]",
+            "lecturer": [
+                "中山孝"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34051.json"
+        },
+        {
+            "courseName": "卒業研究[PT2]",
+            "lecturer": [
+                "石黒圭応"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34052.json"
+        },
+        {
+            "courseName": "卒業研究[PT3]",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34053.json"
+        },
+        {
+            "courseName": "卒業研究[PT4]",
+            "lecturer": [
+                "菅原仁"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34054.json"
+        },
+        {
+            "courseName": "卒業研究[PT5]",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34055.json"
+        },
+        {
+            "courseName": "卒業研究[PT6]",
+            "lecturer": [
+                "宮﨑貴朗"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34056.json"
+        },
+        {
+            "courseName": "卒業研究[PT7]",
+            "lecturer": [
+                "栗田英明"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34057.json"
+        },
+        {
+            "courseName": "卒業研究[PT8]",
+            "lecturer": [
+                "日下さと美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34058.json"
+        },
+        {
+            "courseName": "卒業研究[PT9]",
+            "lecturer": [
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34059.json"
+        },
+        {
+            "courseName": "地域理学療法学",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33180.json"
+        },
+        {
+            "courseName": "家族社会学[理学]",
+            "lecturer": [
+                "柳采延"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32150.json"
+        },
+        {
+            "courseName": "小児科学[理学]",
+            "lecturer": [
+                "小原明"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32120.json"
+        },
+        {
+            "courseName": "整形外科学[理学]",
+            "lecturer": [
+                "阪本桂造",
+                "伊藤公一",
+                "石黒圭応"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32090.json"
+        },
+        {
+            "courseName": "日常生活活動論",
+            "lecturer": [
+                "栗田英明",
+                "土屋順子",
+                "高木健志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32110.json"
+        },
+        {
+            "courseName": "日常生活活動論実習",
+            "lecturer": [
+                "栗田英明",
+                "土屋順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33160.json"
+        },
+        {
+            "courseName": "物理療法",
+            "lecturer": [
+                "菅原仁",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32070.json"
+        },
+        {
+            "courseName": "物理療法実習",
+            "lecturer": [
+                "吉田真一",
+                "菅原仁",
+                "渡部祥輝",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32080.json"
+        },
+        {
+            "courseName": "理学療法ゼミ",
+            "lecturer": [
+                "日下さと美",
+                "忽那俊樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33030.json"
+        },
+        {
+            "courseName": "理学療法研究",
+            "lecturer": [
+                "菅原仁",
+                "渡部祥輝",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33010.json"
+        },
+        {
+            "courseName": "理学療法総合演習",
+            "lecturer": [
+                "石黒圭応"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34020.json"
+        },
+        {
+            "courseName": "生活環境福祉学",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33170.json"
+        },
+        {
+            "courseName": "生理学実習[理学]",
+            "lecturer": [
+                "菅原仁",
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32010.json"
+        },
+        {
+            "courseName": "画像評価学[理学]",
+            "lecturer": [
+                "竹内真一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32040.json"
+        },
+        {
+            "courseName": "病理・組織学演習",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32040.json"
+        },
+        {
+            "courseName": "病理学[理学]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32060.json"
+        },
+        {
+            "courseName": "発達障害系理学療法学演習",
+            "lecturer": [
+                "栗田英明"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33120.json"
+        },
+        {
+            "courseName": "神経内科学[理学]",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32110.json"
+        },
+        {
+            "courseName": "神経系理学療法学",
+            "lecturer": [
+                "栗田英明",
+                "土屋順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33050.json"
+        },
+        {
+            "courseName": "神経系理学療法学実習",
+            "lecturer": [
+                "栗田英明",
+                "土屋順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33060.json"
+        },
+        {
+            "courseName": "神経系理学療法評価学",
+            "lecturer": [
+                "栗田英明",
+                "土屋順子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32020.json"
+        },
+        {
+            "courseName": "精神医学[理学]",
+            "lecturer": [
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32100.json"
+        },
+        {
+            "courseName": "義肢装具学実習",
+            "lecturer": [
+                "石黒圭応",
+                "斎藤寛樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32100.json"
+        },
+        {
+            "courseName": "義肢装具学演習",
+            "lecturer": [
+                "中山孝",
+                "石黒圭応"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32090.json"
+        },
+        {
+            "courseName": "老年医学[理学]",
+            "lecturer": [
+                "海老原覚",
+                "日下さと美",
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U33030.json"
+        },
+        {
+            "courseName": "老年期理学療法学",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33110.json"
+        },
+        {
+            "courseName": "臨床実習III（評価）",
+            "lecturer": [
+                "菅原仁",
+                "忽那俊樹",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33190.json"
+        },
+        {
+            "courseName": "臨床実習II（検査測定）",
+            "lecturer": [
+                "宮﨑貴朗",
+                "斎藤寛樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32120.json"
+        },
+        {
+            "courseName": "臨床実習IV（インターン）",
+            "lecturer": [
+                "菅原仁",
+                "忽那俊樹",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 12,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W34080.json"
+        },
+        {
+            "courseName": "臨床心理学[理学]",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32070.json"
+        },
+        {
+            "courseName": "臨床薬理学[理学]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/U32050.json"
+        },
+        {
+            "courseName": "運動器系理学療法学",
+            "lecturer": [
+                "中山孝",
+                "吉田真一",
+                "斎藤寛樹",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33070.json"
+        },
+        {
+            "courseName": "運動器系理学療法学実習",
+            "lecturer": [
+                "中山孝",
+                "吉田真一",
+                "斎藤寛樹",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W33080.json"
+        },
+        {
+            "courseName": "運動器系理学療法評価学",
+            "lecturer": [
+                "中山孝",
+                "斎藤寛樹"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32010.json"
+        },
+        {
+            "courseName": "運動療法",
+            "lecturer": [
+                "石黒圭応",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32050.json"
+        },
+        {
+            "courseName": "運動療法実習",
+            "lecturer": [
+                "石黒圭応",
+                "伊藤咲子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH3\/W32060.json"
+        }
+    ]
+}

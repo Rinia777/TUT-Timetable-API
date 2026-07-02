@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "targetGrade": "6年",
+        "targetGradeKey": "6"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "11103M04",
+            "courseName": "IntegratedEnglishIV[AW4]MS",
+            "lecturer": [
+                "ブロックルバンク"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年",
+                "6年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０８"
+            ],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11103M04.json"
+        }
+    ]
+}

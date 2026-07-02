@@ -1,0 +1,104 @@
+{
+    "filters": {
+        "lecturer": "佐々木亮平",
+        "lecturerKey": "3a6725b46fb4"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "C10902",
+            "courseName": "プログラミング基礎I[B]CS",
+            "lecturer": [
+                "菊池眞之",
+                "伏見卓恭",
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義棟Ａ２０２",
+                "講義棟Ａ２０３",
+                "講義棟Ａ２０４",
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/C10902.json"
+        },
+        {
+            "lectureCode": "11041C1",
+            "courseName": "情報リテラシー演習[A]CS",
+            "lecturer": [
+                "細野繁",
+                "董然",
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０３",
+                "講義棟Ａ２０４",
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2021\/07\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/11041C1.json"
+        },
+        {
+            "lectureCode": "C11002",
+            "courseName": "プログラミング基礎II[B]CS",
+            "lecturer": [
+                "井上亮文",
+                "伏見卓恭",
+                "佐々木亮平"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ２０２",
+                "片柳研究所Ｅ３０３",
+                "片柳研究所Ｅ４０２",
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/C11002.json"
+        }
+    ]
+}

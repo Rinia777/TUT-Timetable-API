@@ -1,0 +1,101 @@
+{
+    "filters": {
+        "lecturer": "盛川浩志",
+        "lecturerKey": "5dc955298537"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11050M08",
+            "courseName": "フレッシャーズゼミI[MS]",
+            "lecturer": [
+                "盛川浩志"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/11050M08.json"
+        },
+        {
+            "lectureCode": "11120M31",
+            "courseName": "キャリア設計II[MS]",
+            "lecturer": [
+                "盛川浩志"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/05\/17",
+            "path": "\/api\/v1\/archive\/2021\/all\/11120M31.json"
+        },
+        {
+            "lectureCode": "M300210",
+            "courseName": "創成課題",
+            "lecturer": [
+                "盛川浩志"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/M300210.json"
+        },
+        {
+            "lectureCode": "11051M06",
+            "courseName": "フレッシャーズゼミII[MS]",
+            "lecturer": [
+                "盛川浩志"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/11051M06.json"
+        }
+    ]
+}

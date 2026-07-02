@@ -1,0 +1,312 @@
+{
+    "filters": {
+        "lecturer": "長名優子",
+        "lecturerKey": "b415581e15c0"
+    },
+    "count": 13,
+    "lectures": [
+        {
+            "lectureCode": "C40109",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C40109.json"
+        },
+        {
+            "lectureCode": "C40259",
+            "courseName": "卒業課題II[前期]CS",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C40259.json"
+        },
+        {
+            "lectureCode": "GGC90107",
+            "courseName": "コンピュータサイエンス研究企画",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC90107.json"
+        },
+        {
+            "lectureCode": "C10501",
+            "courseName": "プログラミング実験[AG]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門基礎教育科目実験・総合",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｃ１００３",
+                "片柳研究所Ｃ１００４"
+            ],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/C10501.json"
+        },
+        {
+            "lectureCode": "GGC12401",
+            "courseName": "ニューロコンピューティング",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12401.json"
+        },
+        {
+            "lectureCode": "C32101",
+            "courseName": "コンピュータサイエンス専門演習II[AI]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "講義・演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/C32101.json"
+        },
+        {
+            "lectureCode": "C21901",
+            "courseName": "人工知能[前期]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/C21901.json"
+        },
+        {
+            "lectureCode": "C40159",
+            "courseName": "卒業課題I[後期]CS",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C40159.json"
+        },
+        {
+            "lectureCode": "C40209",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C40209.json"
+        },
+        {
+            "lectureCode": "GGC90207",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC90207.json"
+        },
+        {
+            "lectureCode": "C32209",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C32209.json"
+        },
+        {
+            "lectureCode": "C22903",
+            "courseName": "人工知能専門演習I[AI・3]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "講義・演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2021\/09\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/C22903.json"
+        },
+        {
+            "lectureCode": "C21902",
+            "courseName": "人工知能[後期]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/C21902.json"
+        }
+    ]
+}

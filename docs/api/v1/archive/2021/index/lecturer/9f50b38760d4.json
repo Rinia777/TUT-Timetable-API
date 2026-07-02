@@ -1,0 +1,120 @@
+{
+    "filters": {
+        "lecturer": "小山祐輔",
+        "lecturerKey": "9f50b38760d4"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "S3271",
+            "courseName": "工業デザインコース専門演習I［空間デザイン］",
+            "lecturer": [
+                "田村吾郎",
+                "御幸朋寿",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１１専門演習室１"
+            ],
+            "updateAt": "2021\/01\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3271.json"
+        },
+        {
+            "lectureCode": "S2140",
+            "courseName": "専門スキル演習（3Dモデリング）",
+            "lecturer": [
+                "堀川卓哉",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室",
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2021\/08\/30",
+            "path": "\/api\/v1\/archive\/2021\/all\/S2140.json"
+        },
+        {
+            "lectureCode": "S3300",
+            "courseName": "空間デザイン専攻専門演習II",
+            "lecturer": [
+                "田村吾郎",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１１専門演習室１"
+            ],
+            "updateAt": "2021\/04\/11",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3300.json"
+        },
+        {
+            "lectureCode": "S3240",
+            "courseName": "人間工学",
+            "lecturer": [
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2020\/12\/24",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3240.json"
+        }
+    ]
+}

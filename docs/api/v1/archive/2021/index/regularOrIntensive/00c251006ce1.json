@@ -1,0 +1,727 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+        "regularOrIntensiveKey": "00c251006ce1"
+    },
+    "count": 30,
+    "lectures": [
+        {
+            "lectureCode": "GGC10301",
+            "courseName": "ウェブサイエンス",
+            "lecturer": [
+                "伏見卓恭"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2021\/07\/08",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC10301.json"
+        },
+        {
+            "lectureCode": "GGC12201",
+            "courseName": "敵対探索アルゴリズム",
+            "lecturer": [
+                "ライエルグリムベルゲン"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2020\/12\/23",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12201.json"
+        },
+        {
+            "lectureCode": "GGC10101",
+            "courseName": "ウェアラブルコンピュータ",
+            "lecturer": [
+                "松下宗一郎"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC10101.json"
+        },
+        {
+            "lectureCode": "GGC12401",
+            "courseName": "ニューロコンピューティング",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12401.json"
+        },
+        {
+            "lectureCode": "GGC11501",
+            "courseName": "情報計測システム工学",
+            "lecturer": [
+                "佐藤公則"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/07\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11501.json"
+        },
+        {
+            "lectureCode": "GGC12501",
+            "courseName": "ネットワーク処理技術",
+            "lecturer": [
+                "金光永煥"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2021\/01\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12501.json"
+        },
+        {
+            "lectureCode": "GGC12301",
+            "courseName": "デザインパターン",
+            "lecturer": [
+                "井上亮文"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2021\/07\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12301.json"
+        },
+        {
+            "lectureCode": "GGC11801",
+            "courseName": "数値計算技術",
+            "lecturer": [
+                "生野壮一郎"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11801.json"
+        },
+        {
+            "lectureCode": "GGC12901",
+            "courseName": "マルチエージェント特論",
+            "lecturer": [
+                "服部聖彦"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12901.json"
+        },
+        {
+            "lectureCode": "GGC10501",
+            "courseName": "画像情報処理特論CS",
+            "lecturer": [
+                "永田明徳"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC10501.json"
+        },
+        {
+            "lectureCode": "GGC11401",
+            "courseName": "システムズエンジニアリング",
+            "lecturer": [
+                "細野繁"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/07\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11401.json"
+        },
+        {
+            "lectureCode": "GGC11101",
+            "courseName": "計算数学",
+            "lecturer": [
+                "千葉康生"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2020\/12\/23",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11101.json"
+        },
+        {
+            "lectureCode": "GGC12001",
+            "courseName": "関数型プログラミング入門",
+            "lecturer": [
+                "亀田弘之"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12001.json"
+        },
+        {
+            "lectureCode": "GGC10701",
+            "courseName": "環境分子科学",
+            "lecturer": [
+                "杉本岩雄"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC10701.json"
+        },
+        {
+            "lectureCode": "GGC11901",
+            "courseName": "セキュリティシステム",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11901.json"
+        },
+        {
+            "lectureCode": "GGC70101",
+            "courseName": "創成プロジェクト",
+            "lecturer": [
+                "石畑宏明"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC70101.json"
+        },
+        {
+            "lectureCode": "GGC70201",
+            "courseName": "コンピュータサイエンス特別講義I",
+            "lecturer": [
+                "石畑宏明"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/02\/18",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC70201.json"
+        },
+        {
+            "lectureCode": "GGC10401",
+            "courseName": "音声言語情報処理",
+            "lecturer": [
+                "大野澄雄"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC10401.json"
+        },
+        {
+            "lectureCode": "GGC11301",
+            "courseName": "視覚認知機構",
+            "lecturer": [
+                "菊池眞之"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11301.json"
+        },
+        {
+            "lectureCode": "GGC11601",
+            "courseName": "情報セキュリティ応用",
+            "lecturer": [
+                "布田裕一"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/03",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11601.json"
+        },
+        {
+            "lectureCode": "GGC11701",
+            "courseName": "数値解析",
+            "lecturer": [
+                "山元進"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11701.json"
+        },
+        {
+            "lectureCode": "GGC12101",
+            "courseName": "データサイエンス特論",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12101.json"
+        },
+        {
+            "lectureCode": "GGC11001",
+            "courseName": "クラウド構築技術実践",
+            "lecturer": [
+                "田胡和哉"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００５"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11001.json"
+        },
+        {
+            "lectureCode": "GGC10601",
+            "courseName": "画像処理技法",
+            "lecturer": [
+                "松岡丈平"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６"
+            ],
+            "updateAt": "2021\/02\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC10601.json"
+        },
+        {
+            "lectureCode": "GGC11201",
+            "courseName": "コンピュータビジョン",
+            "lecturer": [
+                "青木輝勝"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC11201.json"
+        },
+        {
+            "lectureCode": "GGC10201",
+            "courseName": "Webサーバ設計",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０４"
+            ],
+            "updateAt": "2021\/08\/25",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC10201.json"
+        },
+        {
+            "lectureCode": "GGC12801",
+            "courseName": "並列プログラミング",
+            "lecturer": [
+                "石畑宏明"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12801.json"
+        },
+        {
+            "lectureCode": "GGC12701",
+            "courseName": "分散システム",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2021\/01\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12701.json"
+        },
+        {
+            "lectureCode": "GGC10801",
+            "courseName": "感性評価技法",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC10801.json"
+        },
+        {
+            "lectureCode": "GGC12601",
+            "courseName": "符号理論と信号処理",
+            "lecturer": [
+                "大石邦夫"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGC12601.json"
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "filters": {
+        "lecturer": "禹珍碩",
+        "lecturerKey": "e90baabe3475"
+    },
+    "count": 9,
+    "lectures": [
+        {
+            "lectureCode": "1104101",
+            "courseName": "情報リテラシー演習[A][機]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/1104101.json"
+        },
+        {
+            "lectureCode": "K501401",
+            "courseName": "プログラミング応用(M)[A]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K501401.json"
+        },
+        {
+            "lectureCode": "K502401",
+            "courseName": "システム制御基礎",
+            "lecturer": [
+                "余錦華",
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2021\/02\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/K502401.json"
+        },
+        {
+            "lectureCode": "K504502",
+            "courseName": "3D機械設計製図[B]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K504502.json"
+        },
+        {
+            "lectureCode": "K501501",
+            "courseName": "プログラミング基礎(M)[A]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K501501.json"
+        },
+        {
+            "lectureCode": "K503801",
+            "courseName": "マイクロコントローラ実習[3Q火]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K503801.json"
+        },
+        {
+            "lectureCode": "K503803",
+            "courseName": "マイクロコントローラ実習[4Q火]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K503803.json"
+        },
+        {
+            "lectureCode": "K503802",
+            "courseName": "マイクロコントローラ実習[3Q金]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K503802.json"
+        },
+        {
+            "lectureCode": "K503804",
+            "courseName": "マイクロコントローラ実習[4Q金]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K503804.json"
+        }
+    ]
+}

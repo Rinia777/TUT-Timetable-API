@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "石垣恭子",
+        "lecturerKey": "4658c5df7fbd"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W12150",
+            "courseName": "医療・看護情報学",
+            "lecturer": [
+                "石垣恭子",
+                "大木正隆"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/W12150.json"
+        }
+    ]
+}

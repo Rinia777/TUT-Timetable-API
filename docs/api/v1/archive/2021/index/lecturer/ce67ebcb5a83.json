@@ -1,0 +1,107 @@
+{
+    "filters": {
+        "lecturer": "高橋百合子",
+        "lecturerKey": "ce67ebcb5a83"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11100M06",
+            "courseName": "IntegratedEnglishI[AT6]MS",
+            "lecturer": [
+                "高橋百合子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2021\/02\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/11100M06.json"
+        },
+        {
+            "lectureCode": "11015M02",
+            "courseName": "AcademicEnglishI[AT2]MS",
+            "lecturer": [
+                "高橋百合子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11015M02.json"
+        },
+        {
+            "lectureCode": "11101M06",
+            "courseName": "IntegratedEnglishII[AT6]MS",
+            "lecturer": [
+                "高橋百合子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2021\/02\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/11101M06.json"
+        },
+        {
+            "lectureCode": "11016M02",
+            "courseName": "AcademicEnglishII[AT2]MS",
+            "lecturer": [
+                "高橋百合子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11016M02.json"
+        }
+    ]
+}

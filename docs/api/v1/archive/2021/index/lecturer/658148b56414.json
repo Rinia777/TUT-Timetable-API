@@ -1,0 +1,148 @@
+{
+    "filters": {
+        "lecturer": "妹尾弘子",
+        "lecturerKey": "658148b56414"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "W1405D",
+            "courseName": "卒業研究[NU13]",
+            "lecturer": [
+                "妹尾弘子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W1405D.json"
+        },
+        {
+            "lectureCode": "W1406D",
+            "courseName": "統合看護実習[13]",
+            "lecturer": [
+                "妹尾弘子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W1406D.json"
+        },
+        {
+            "lectureCode": "W13070",
+            "courseName": "精神看護学",
+            "lecturer": [
+                "妹尾弘子"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１４教室",
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/W13070.json"
+        },
+        {
+            "lectureCode": "W13140",
+            "courseName": "精神看護学実習",
+            "lecturer": [
+                "妹尾弘子"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/10",
+            "path": "\/api\/v1\/archive\/2021\/all\/W13140.json"
+        },
+        {
+            "lectureCode": "W14140",
+            "courseName": "パリアティブケア",
+            "lecturer": [
+                "清好志恵",
+                "生山笑",
+                "妹尾弘子",
+                "田辺大介"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/18",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14140.json"
+        },
+        {
+            "lectureCode": "W12080",
+            "courseName": "精神看護学概論",
+            "lecturer": [
+                "妹尾弘子"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/W12080.json"
+        }
+    ]
+}

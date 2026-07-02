@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "宮内晟",
+        "lecturerKey": "b5d965d031b9"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S2110",
+            "courseName": "専門スキル演習（Webコンテンツデザイン）",
+            "lecturer": [
+                "宮内晟"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室"
+            ],
+            "updateAt": "2021\/04\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/S2110.json"
+        }
+    ]
+}

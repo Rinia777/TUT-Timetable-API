@@ -1,0 +1,396 @@
+{
+    "filters": {
+        "lecturer": "前田就彦",
+        "lecturerKey": "f5ec134fee53"
+    },
+    "count": 16,
+    "lectures": [
+        {
+            "lectureCode": "GE200118",
+            "courseName": "サステイナブル工学研究企画",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE200118.json"
+        },
+        {
+            "lectureCode": "GE200315",
+            "courseName": "サステイナブル工学研究II",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE200315.json"
+        },
+        {
+            "lectureCode": "K605406",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/01\/07",
+            "path": "\/api\/v1\/archive\/2021\/all\/K605406.json"
+        },
+        {
+            "lectureCode": "K602201",
+            "courseName": "電子物性",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K602201.json"
+        },
+        {
+            "lectureCode": "11079K36",
+            "courseName": "フレッシャーズゼミ[6]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2021\/02\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11079K36.json"
+        },
+        {
+            "lectureCode": "K605201",
+            "courseName": "電気電子工学実験III[1Q]",
+            "lecturer": [
+                "木村康男",
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K605201.json"
+        },
+        {
+            "lectureCode": "K605202",
+            "courseName": "電気電子工学実験III[2Q]",
+            "lecturer": [
+                "木村康男",
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K605202.json"
+        },
+        {
+            "lectureCode": "K601901",
+            "courseName": "電子回路II",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K601901.json"
+        },
+        {
+            "lectureCode": "K604901",
+            "courseName": "電子回路演習II",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604901.json"
+        },
+        {
+            "lectureCode": "GE200219",
+            "courseName": "サステイナブル工学研究I",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE200219.json"
+        },
+        {
+            "lectureCode": "GE200415",
+            "courseName": "サステイナブル工学研究III",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE200415.json"
+        },
+        {
+            "lectureCode": "K605506",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/01\/07",
+            "path": "\/api\/v1\/archive\/2021\/all\/K605506.json"
+        },
+        {
+            "lectureCode": "K605306",
+            "courseName": "創成課題[6]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月2",
+                "金2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2021\/01\/07",
+            "path": "\/api\/v1\/archive\/2021\/all\/K605306.json"
+        },
+        {
+            "lectureCode": "GE101301",
+            "courseName": "サステイナブルデバイス工学特論",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE101301.json"
+        },
+        {
+            "lectureCode": "K000336",
+            "courseName": "コーオプ演習I[6][電]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２",
+                "講義実験棟１０３",
+                "講義実験棟１０４"
+            ],
+            "updateAt": "2021\/01\/07",
+            "path": "\/api\/v1\/archive\/2021\/all\/K000336.json"
+        },
+        {
+            "lectureCode": "K604001",
+            "courseName": "プロセス工学",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604001.json"
+        }
+    ]
+}

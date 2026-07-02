@@ -1,0 +1,540 @@
+{
+    "filters": {
+        "lecturer": "新海健",
+        "lecturerKey": "db0a56499872"
+    },
+    "count": 22,
+    "lectures": [
+        {
+            "lectureCode": "GE200108",
+            "courseName": "サステイナブル工学研究企画",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE200108.json"
+        },
+        {
+            "lectureCode": "GE200308",
+            "courseName": "サステイナブル工学研究II",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE200308.json"
+        },
+        {
+            "lectureCode": "K000603",
+            "courseName": "コーオプ実習A[1Q][電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 8,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K000603.json"
+        },
+        {
+            "lectureCode": "K000604",
+            "courseName": "コーオプ実習Ａ[2Q][電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 8,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K000604.json"
+        },
+        {
+            "lectureCode": "K000702",
+            "courseName": "コーオプ実習B[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K000702.json"
+        },
+        {
+            "lectureCode": "K605403",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K605403.json"
+        },
+        {
+            "lectureCode": "11079K33",
+            "courseName": "フレッシャーズゼミ[3]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０３"
+            ],
+            "updateAt": "2021\/02\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11079K33.json"
+        },
+        {
+            "lectureCode": "GE101401",
+            "courseName": "電力システム過渡現象特論",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2021\/02\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE101401.json"
+        },
+        {
+            "lectureCode": "GE200208",
+            "courseName": "サステイナブル工学研究I",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE200208.json"
+        },
+        {
+            "lectureCode": "GE200407",
+            "courseName": "サステイナブル工学研究III",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GE200407.json"
+        },
+        {
+            "lectureCode": "K000802",
+            "courseName": "コーオプ実習C[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K000802.json"
+        },
+        {
+            "lectureCode": "K605503",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/01\/07",
+            "path": "\/api\/v1\/archive\/2021\/all\/K605503.json"
+        },
+        {
+            "lectureCode": "K605303",
+            "courseName": "創成課題[3]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月2",
+                "金2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K605303.json"
+        },
+        {
+            "lectureCode": "K605101",
+            "courseName": "電気電子工学実験II",
+            "lecturer": [
+                "高木茂行",
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K605101.json"
+        },
+        {
+            "lectureCode": "K000431",
+            "courseName": "コーオプ演習II[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K000431.json"
+        },
+        {
+            "lectureCode": "K000503",
+            "courseName": "コーオプ演習III[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２",
+                "講義実験棟１０３",
+                "講義実験棟１０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K000503.json"
+        },
+        {
+            "lectureCode": "K601701",
+            "courseName": "電気回路II",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K601701.json"
+        },
+        {
+            "lectureCode": "K604701",
+            "courseName": "電気回路演習II[A]",
+            "lecturer": [
+                "新海健",
+                "美井野優"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604701.json"
+        },
+        {
+            "lectureCode": "K604702",
+            "courseName": "電気回路演習II[B]",
+            "lecturer": [
+                "新海健",
+                "美井野優"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604702.json"
+        },
+        {
+            "lectureCode": "K000333",
+            "courseName": "コーオプ演習I[3][電]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K000333.json"
+        },
+        {
+            "lectureCode": "K603501",
+            "courseName": "発変電工学",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K603501.json"
+        },
+        {
+            "lectureCode": "K603701",
+            "courseName": "送電システム",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K603701.json"
+        }
+    ]
+}

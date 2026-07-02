@@ -1,0 +1,664 @@
+{
+    "department": "HSH4",
+    "count": 71,
+    "lectures": [
+        {
+            "courseName": "リハビリテーションと国際協力",
+            "lecturer": [
+                "安倍あき子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43210.json"
+        },
+        {
+            "courseName": "リハビリテーション医学[作業]",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42110.json"
+        },
+        {
+            "courseName": "リハビリテーション工学[作業]",
+            "lecturer": [
+                "石黒圭応"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U43040.json"
+        },
+        {
+            "courseName": "一般臨床医学[作業]",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42060.json"
+        },
+        {
+            "courseName": "作業療法セミナー",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44040.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[10]",
+            "lecturer": [
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W4405A.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[11]",
+            "lecturer": [
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W4405B.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[1]",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44051.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[2]",
+            "lecturer": [
+                "安倍あき子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44052.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[3]",
+            "lecturer": [
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44053.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[4]",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44054.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[5]",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44055.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[6]",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44056.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[7]",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44057.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[8]",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44058.json"
+        },
+        {
+            "courseName": "作業療法卒業研究[9]",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44059.json"
+        },
+        {
+            "courseName": "作業療法原論",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42010.json"
+        },
+        {
+            "courseName": "作業療法原論演習",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43020.json"
+        },
+        {
+            "courseName": "作業療法実践論",
+            "lecturer": [
+                "安倍あき子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42080.json"
+        },
+        {
+            "courseName": "作業療法研究法",
+            "lecturer": [
+                "友利幸之介",
+                "大野勘太",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43010.json"
+        },
+        {
+            "courseName": "作業療法管理学",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44010.json"
+        },
+        {
+            "courseName": "作業評価学",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42020.json"
+        },
+        {
+            "courseName": "先端医療総合講義[作業]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44060.json"
+        },
+        {
+            "courseName": "公衆衛生学演習[作業]",
+            "lecturer": [
+                "秋本和哉",
+                "梅田勝",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42050.json"
+        },
+        {
+            "courseName": "医療安全・人間工学概論[作業]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43240.json"
+        },
+        {
+            "courseName": "医療経済学[作業]",
+            "lecturer": [
+                "磯伸彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42140.json"
+        },
+        {
+            "courseName": "地域リハビリテーション論",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43220.json"
+        },
+        {
+            "courseName": "地域生活支援と作業療法[2019以前入学]",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42220.json"
+        },
+        {
+            "courseName": "地域生活支援と作業療法演習",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43150.json"
+        },
+        {
+            "courseName": "地域精神保健と作業療法",
+            "lecturer": [
+                "石橋仁美",
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43170.json"
+        },
+        {
+            "courseName": "多職種連携論",
+            "lecturer": [
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43200.json"
+        },
+        {
+            "courseName": "家族社会学[作業]",
+            "lecturer": [
+                "柳采延"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42120.json"
+        },
+        {
+            "courseName": "小児科学[作業]",
+            "lecturer": [
+                "小原明"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42100.json"
+        },
+        {
+            "courseName": "就労支援と作業療法",
+            "lecturer": [
+                "石橋仁美",
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43160.json"
+        },
+        {
+            "courseName": "整形外科学[作業]",
+            "lecturer": [
+                "阪本桂造",
+                "伊藤公一",
+                "石黒圭応"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42070.json"
+        },
+        {
+            "courseName": "文章表現リテラシー",
+            "lecturer": [
+                "大場一央"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42160.json"
+        },
+        {
+            "courseName": "活動・参加評価学[2019以前入学]",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42210.json"
+        },
+        {
+            "courseName": "特別支援教育と作業療法演習",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43230.json"
+        },
+        {
+            "courseName": "生活行為と作業療法",
+            "lecturer": [
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43070.json"
+        },
+        {
+            "courseName": "生活行為と作業療法演習",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43100.json"
+        },
+        {
+            "courseName": "生理学実習[作業]",
+            "lecturer": [
+                "菅原仁",
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42010.json"
+        },
+        {
+            "courseName": "画像評価学[作業]",
+            "lecturer": [
+                "竹内真一"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42150.json"
+        },
+        {
+            "courseName": "病理学[作業]",
+            "lecturer": [
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42030.json"
+        },
+        {
+            "courseName": "発達と作業療法",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43140.json"
+        },
+        {
+            "courseName": "発達と作業療法I",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42060.json"
+        },
+        {
+            "courseName": "神経内科学[作業]",
+            "lecturer": [
+                "清水潤"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42090.json"
+        },
+        {
+            "courseName": "精神医学[作業]",
+            "lecturer": [
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42080.json"
+        },
+        {
+            "courseName": "精神機能作業療法学",
+            "lecturer": [
+                "石橋仁美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43090.json"
+        },
+        {
+            "courseName": "精神機能作業療法学演習",
+            "lecturer": [
+                "石橋仁美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43110.json"
+        },
+        {
+            "courseName": "精神機能評価学",
+            "lecturer": [
+                "石橋仁美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42050.json"
+        },
+        {
+            "courseName": "精神機能評価学演習",
+            "lecturer": [
+                "石橋仁美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43050.json"
+        },
+        {
+            "courseName": "総合作業療法学",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43190.json"
+        },
+        {
+            "courseName": "義肢装具学",
+            "lecturer": [
+                "酒井弘美",
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43030.json"
+        },
+        {
+            "courseName": "老年医学[作業]",
+            "lecturer": [
+                "海老原覚",
+                "日下さと美",
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U43020.json"
+        },
+        {
+            "courseName": "臨床実習I",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44020.json"
+        },
+        {
+            "courseName": "臨床実習II",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W44030.json"
+        },
+        {
+            "courseName": "臨床心理学[作業]",
+            "lecturer": [
+                "岸竜馬"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42040.json"
+        },
+        {
+            "courseName": "臨床薬理学[作業]",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42020.json"
+        },
+        {
+            "courseName": "臨床運動学演習",
+            "lecturer": [
+                "澤田辰徳"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U43030.json"
+        },
+        {
+            "courseName": "見学実習",
+            "lecturer": [
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42100.json"
+        },
+        {
+            "courseName": "評価実習",
+            "lecturer": [
+                "石橋仁美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43180.json"
+        },
+        {
+            "courseName": "認知機能作業療法学",
+            "lecturer": [
+                "安倍あき子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43080.json"
+        },
+        {
+            "courseName": "認知機能作業療法学演習",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43120.json"
+        },
+        {
+            "courseName": "認知機能評価学",
+            "lecturer": [
+                "酒井弘美",
+                "安倍あき子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42040.json"
+        },
+        {
+            "courseName": "認知機能評価学演習",
+            "lecturer": [
+                "伊藤公一",
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43040.json"
+        },
+        {
+            "courseName": "身体機能作業療法学",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43060.json"
+        },
+        {
+            "courseName": "身体機能作業療法学演習",
+            "lecturer": [
+                "酒井弘美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W43130.json"
+        },
+        {
+            "courseName": "身体機能作業療法総論",
+            "lecturer": [
+                "池田晋平",
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42090.json"
+        },
+        {
+            "courseName": "身体機能評価学",
+            "lecturer": [
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42030.json"
+        },
+        {
+            "courseName": "身体機能評価学演習",
+            "lecturer": [
+                "大野勘太"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/W42070.json"
+        },
+        {
+            "courseName": "運動学実習",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2021\/HSH4\/U42130.json"
+        }
+    ]
+}

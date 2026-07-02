@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "磯伸彦",
+        "lecturerKey": "d9d521608639"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U22070",
+            "courseName": "医療経済学[臨工]",
+            "lecturer": [
+                "磯伸彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2021\/09\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/U22070.json"
+        },
+        {
+            "lectureCode": "U42140",
+            "courseName": "医療経済学[作業]",
+            "lecturer": [
+                "磯伸彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2021\/09\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/U42140.json"
+        }
+    ]
+}

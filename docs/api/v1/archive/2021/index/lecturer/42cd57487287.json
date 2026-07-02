@@ -1,0 +1,53 @@
+{
+    "filters": {
+        "lecturer": "鈴木祥平",
+        "lecturerKey": "42cd57487287"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "M400123",
+            "courseName": "卒業研究I",
+            "lecturer": [
+                "松永信介",
+                "鈴木祥平"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M400123.json"
+        },
+        {
+            "lectureCode": "M400223",
+            "courseName": "卒業研究II",
+            "lecturer": [
+                "松永信介",
+                "鈴木祥平"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/M400223.json"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "filters": {
+        "lecturer": "曽根伸治",
+        "lecturerKey": "9f5a0c084016"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W53120",
+            "courseName": "救急総論",
+            "lecturer": [
+                "〆谷直人",
+                "曽根伸治",
+                "細萱茂実",
+                "栗原由利子",
+                "岡崎充宏",
+                "廣田雅子",
+                "櫻井進",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/07\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/W53120.json"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "filters": {
+        "lecturer": "藤田隆史",
+        "lecturerKey": "42061f0ce704"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "K701101",
+            "courseName": "工学基礎実験I(C)[a]",
+            "lecturer": [
+                "須磨岡淳",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K701101.json"
+        },
+        {
+            "lectureCode": "K700301",
+            "courseName": "化学基礎",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "原賢二",
+                "入谷康平",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2021\/03\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/K700301.json"
+        },
+        {
+            "lectureCode": "K700902",
+            "courseName": "化学基礎演習[2]",
+            "lecturer": [
+                "高橋昌男",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2021\/07\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/K700902.json"
+        },
+        {
+            "lectureCode": "K701001",
+            "courseName": "プログラミング",
+            "lecturer": [
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水1",
+                "水2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K701001.json"
+        },
+        {
+            "lectureCode": "K704101",
+            "courseName": "応用化学実験III[a]",
+            "lecturer": [
+                "高橋昌男",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "片桐利真",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K704101.json"
+        }
+    ]
+}

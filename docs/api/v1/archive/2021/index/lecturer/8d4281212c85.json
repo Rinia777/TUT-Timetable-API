@@ -1,0 +1,150 @@
+{
+    "filters": {
+        "lecturer": "堀川卓哉",
+        "lecturerKey": "8d4281212c85"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "S3110",
+            "courseName": "専門スキル演習（工業系CAD）",
+            "lecturer": [
+                "堀川卓哉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2021\/04\/11",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3110.json"
+        },
+        {
+            "lectureCode": "S3272",
+            "courseName": "工業デザインコース専門演習I［工業デザイン］",
+            "lecturer": [
+                "酒井正",
+                "堀川卓哉",
+                "山岸由敦",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2021\/04\/11",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3272.json"
+        },
+        {
+            "lectureCode": "S3180",
+            "courseName": "専門スキル演習（工業系モデリング）",
+            "lecturer": [
+                "堀川卓哉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2021\/01\/12",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3180.json"
+        },
+        {
+            "lectureCode": "S2140",
+            "courseName": "専門スキル演習（3Dモデリング）",
+            "lecturer": [
+                "堀川卓哉",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室",
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2021\/08\/30",
+            "path": "\/api\/v1\/archive\/2021\/all\/S2140.json"
+        },
+        {
+            "lectureCode": "S3310",
+            "courseName": "工業デザイン専攻専門演習II",
+            "lecturer": [
+                "堀川卓哉",
+                "山岸由敦",
+                "相野谷威雄"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１５１１卒業研究室１"
+            ],
+            "updateAt": "2021\/03\/25",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3310.json"
+        }
+    ]
+}

@@ -1,0 +1,345 @@
+{
+    "filters": {
+        "lecturer": "高橋潔",
+        "lecturerKey": "92f048148726"
+    },
+    "count": 14,
+    "lectures": [
+        {
+            "lectureCode": "T2500",
+            "courseName": "応用コンピュータI",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2021\/03\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2500.json"
+        },
+        {
+            "lectureCode": "T2101",
+            "courseName": "コンピュータ概論I[月3]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/04\/28",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2101.json"
+        },
+        {
+            "lectureCode": "R1110",
+            "courseName": "コンピュータ概論I[デザイン]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/04\/27",
+            "path": "\/api\/v1\/archive\/2021\/all\/R1110.json"
+        },
+        {
+            "lectureCode": "T2102",
+            "courseName": "コンピュータ概論I[月4]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/04\/28",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2102.json"
+        },
+        {
+            "lectureCode": "T1920",
+            "courseName": "コンピュータリテラシー演習I[臨工]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/T1920.json"
+        },
+        {
+            "lectureCode": "T1910",
+            "courseName": "コンピュータリテラシー演習I[看護]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/T1910.json"
+        },
+        {
+            "lectureCode": "T1950",
+            "courseName": "コンピュータリテラシー演習I[臨検]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/T1950.json"
+        },
+        {
+            "lectureCode": "T1961",
+            "courseName": "コンピュータリテラシー演習[理学]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "",
+            "courseType": "",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/T1961.json"
+        },
+        {
+            "lectureCode": "T1962",
+            "courseName": "コンピュータリテラシー演習[作業言語]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "",
+            "courseType": "",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/T1962.json"
+        },
+        {
+            "lectureCode": "T2600",
+            "courseName": "応用コンピュータII",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2600.json"
+        },
+        {
+            "lectureCode": "R1120",
+            "courseName": "コンピュータ概論II[デザイン]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/R1120.json"
+        },
+        {
+            "lectureCode": "T2200",
+            "courseName": "コンピュータ概論II[医療]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2200.json"
+        },
+        {
+            "lectureCode": "T2002",
+            "courseName": "コンピュータリテラシー演習II[臨検]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2002.json"
+        },
+        {
+            "lectureCode": "T2001",
+            "courseName": "コンピュータリテラシー演習II[看護臨工]",
+            "lecturer": [
+                "高橋潔"
+            ],
+            "regularOrIntensive": "基礎教育科目コンピュータ",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2001.json"
+        }
+    ]
+}

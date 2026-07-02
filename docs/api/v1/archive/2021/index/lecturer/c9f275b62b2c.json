@@ -1,0 +1,58 @@
+{
+    "filters": {
+        "lecturer": "鈴木みゆき",
+        "lecturerKey": "c9f275b62b2c"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U22040",
+            "courseName": "病理学[臨工]",
+            "lecturer": [
+                "鈴木みゆき"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2021\/01\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/U22040.json"
+        },
+        {
+            "lectureCode": "W24040",
+            "courseName": "実践医学統合講義",
+            "lecturer": [
+                "鈴木みゆき",
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/W24040.json"
+        }
+    ]
+}

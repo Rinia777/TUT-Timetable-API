@@ -1,0 +1,158 @@
+{
+    "filters": {
+        "lecturer": "武博",
+        "lecturerKey": "c4fd4d1eccac"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "C21201",
+            "courseName": "プログラミングC1",
+            "lecturer": [
+                "福西広晃",
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２",
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2021\/02\/04",
+            "path": "\/api\/v1\/archive\/2021\/all\/C21201.json"
+        },
+        {
+            "lectureCode": "11041C2",
+            "courseName": "情報リテラシー演習[B]CS",
+            "lecturer": [
+                "福西広晃",
+                "松岡丈平",
+                "武博"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ２０２",
+                "講義棟Ａ２０３",
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2021\/07\/20",
+            "path": "\/api\/v1\/archive\/2021\/all\/11041C2.json"
+        },
+        {
+            "lectureCode": "C10901",
+            "courseName": "プログラミング基礎I[A]CS",
+            "lecturer": [
+                "生野壮一郎",
+                "董然",
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "講義棟Ａ２０３",
+                "講義棟Ａ２０４",
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2021\/01\/29",
+            "path": "\/api\/v1\/archive\/2021\/all\/C10901.json"
+        },
+        {
+            "lectureCode": "C21301",
+            "courseName": "プログラミングC2",
+            "lecturer": [
+                "金光永煥",
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２",
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2021\/01\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/C21301.json"
+        },
+        {
+            "lectureCode": "C11001",
+            "courseName": "プログラミング基礎II[A]CS",
+            "lecturer": [
+                "山元進",
+                "董然",
+                "武博"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ２０１",
+                "片柳研究所Ｅ２０３",
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2021\/02\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C11001.json"
+        }
+    ]
+}

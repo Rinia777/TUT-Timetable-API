@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "小野哲章",
+        "lecturerKey": "61204047ce1c"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W22010",
+            "courseName": "医用治療機器学",
+            "lecturer": [
+                "小野哲章",
+                "上條史記",
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2021\/08\/24",
+            "path": "\/api\/v1\/archive\/2021\/all\/W22010.json"
+        }
+    ]
+}

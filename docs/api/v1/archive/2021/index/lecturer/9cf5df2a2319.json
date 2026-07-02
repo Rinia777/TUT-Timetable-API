@@ -1,0 +1,102 @@
+{
+    "filters": {
+        "lecturer": "田邉雄一",
+        "lecturerKey": "9cf5df2a2319"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "S3262",
+            "courseName": "視覚デザインコース専門演習I［映像デザイン］",
+            "lecturer": [
+                "伊藤英高",
+                "早瀬交宣",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 6,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2021\/01\/22",
+            "path": "\/api\/v1\/archive\/2021\/all\/S3262.json"
+        },
+        {
+            "lectureCode": "S2261",
+            "courseName": "視覚情報デザインコース専門演習I［3Q］",
+            "lecturer": [
+                "大西景太",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１５デザイン演習室４"
+            ],
+            "updateAt": "2021\/04\/11",
+            "path": "\/api\/v1\/archive\/2021\/all\/S2261.json"
+        },
+        {
+            "lectureCode": "S2262",
+            "courseName": "視覚情報デザインコース専門演習I［4Q］",
+            "lecturer": [
+                "大西景太",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5",
+                "火3",
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "３１３１５デザイン演習室４"
+            ],
+            "updateAt": "2021\/04\/11",
+            "path": "\/api\/v1\/archive\/2021\/all\/S2262.json"
+        }
+    ]
+}

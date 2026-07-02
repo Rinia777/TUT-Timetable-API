@@ -1,0 +1,62 @@
+{
+    "filters": {
+        "lecturer": "吉原俊雄",
+        "lecturerKey": "572a3ac1d034"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U63101",
+            "courseName": "発声発語系の構造・機能・病態",
+            "lecturer": [
+                "生井友紀子",
+                "吉原俊雄"
+            ],
+            "regularOrIntensive": "",
+            "courseType": "",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2021\/03\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/U63101.json"
+        },
+        {
+            "lectureCode": "U63102",
+            "courseName": "聴覚系の構造・機能・病態",
+            "lecturer": [
+                "吉原俊雄"
+            ],
+            "regularOrIntensive": "",
+            "courseType": "",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2021\/03\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/U63102.json"
+        }
+    ]
+}

@@ -1,0 +1,395 @@
+{
+    "filters": {
+        "lecturer": "竹田昌弘",
+        "lecturerKey": "3fc020737dd3"
+    },
+    "count": 17,
+    "lectures": [
+        {
+            "lectureCode": "C40118",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C40118.json"
+        },
+        {
+            "lectureCode": "C40267",
+            "courseName": "卒業課題II[前期]CS",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C40267.json"
+        },
+        {
+            "lectureCode": "GGE90103",
+            "courseName": "アントレプレナー研究企画",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/04\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE90103.json"
+        },
+        {
+            "lectureCode": "GGE90303",
+            "courseName": "アントレプレナー研究II",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/04\/01",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE90303.json"
+        },
+        {
+            "lectureCode": "GGE10101",
+            "courseName": "経営学I",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "基礎科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/12\/23",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE10101.json"
+        },
+        {
+            "lectureCode": "GGE10501",
+            "courseName": "経営学II",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2020\/12\/23",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE10501.json"
+        },
+        {
+            "lectureCode": "11050C06",
+            "courseName": "フレッシャーズゼミI[6]CS",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11050C06.json"
+        },
+        {
+            "lectureCode": "C22201",
+            "courseName": "ソフトウエアエンジニアリング[前期]",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2021\/07\/07",
+            "path": "\/api\/v1\/archive\/2021\/all\/C22201.json"
+        },
+        {
+            "lectureCode": "C40217",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C40217.json"
+        },
+        {
+            "lectureCode": "GGE70101",
+            "courseName": "アントレプレナー特別講義",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE70101.json"
+        },
+        {
+            "lectureCode": "GGE90203",
+            "courseName": "アントレプレナー研究I",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE90203.json"
+        },
+        {
+            "lectureCode": "GGE90403",
+            "courseName": "アントレプレナー研究III",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目アントレプレナー専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGE90403.json"
+        },
+        {
+            "lectureCode": "C31501",
+            "courseName": "ビジネスモデル設計論[2018以前]",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門教育科目コースコア",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2021\/01\/29",
+            "path": "\/api\/v1\/archive\/2021\/all\/C31501.json"
+        },
+        {
+            "lectureCode": "C32217",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/C32217.json"
+        },
+        {
+            "lectureCode": "C22202",
+            "courseName": "ソフトウエアエンジニアリング[後期]",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2021\/02\/26",
+            "path": "\/api\/v1\/archive\/2021\/all\/C22202.json"
+        },
+        {
+            "lectureCode": "11051C06",
+            "courseName": "フレッシャーズゼミII[6]CS",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/09\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/11051C06.json"
+        },
+        {
+            "lectureCode": "C10801",
+            "courseName": "コンピュータ概論II[A]",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火1",
+                "火3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2021\/01\/29",
+            "path": "\/api\/v1\/archive\/2021\/all\/C10801.json"
+        }
+    ]
+}

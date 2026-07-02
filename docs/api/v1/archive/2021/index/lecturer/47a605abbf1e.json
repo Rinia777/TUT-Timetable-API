@@ -1,0 +1,35 @@
+{
+    "filters": {
+        "lecturer": "永井知代子",
+        "lecturerKey": "47a605abbf1e"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U63103",
+            "courseName": "神経系の構造・機能・病態",
+            "lecturer": [
+                "永井知代子"
+            ],
+            "regularOrIntensive": "",
+            "courseType": "",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2021\/08\/31",
+            "path": "\/api\/v1\/archive\/2021\/all\/U63103.json"
+        }
+    ]
+}

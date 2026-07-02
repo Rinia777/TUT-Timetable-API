@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "海老原覚",
+        "lecturerKey": "cf9edf216764"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U33030",
+            "courseName": "老年医学[理学]",
+            "lecturer": [
+                "海老原覚",
+                "日下さと美",
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/05\/10",
+            "path": "\/api\/v1\/archive\/2021\/all\/U33030.json"
+        },
+        {
+            "lectureCode": "U43020",
+            "courseName": "老年医学[作業]",
+            "lecturer": [
+                "海老原覚",
+                "日下さと美",
+                "池田晋平"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/05\/10",
+            "path": "\/api\/v1\/archive\/2021\/all\/U43020.json"
+        }
+    ]
+}

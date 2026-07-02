@@ -1,0 +1,254 @@
+{
+    "filters": {
+        "lecturer": "美井野優",
+        "lecturerKey": "54f38cd370f2"
+    },
+    "count": 9,
+    "lectures": [
+        {
+            "lectureCode": "11041K61",
+            "courseName": "情報リテラシー演習[電]",
+            "lecturer": [
+                "黒川弘章",
+                "美井野優"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟２０２",
+                "講義実験棟４０１",
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/11041K61.json"
+        },
+        {
+            "lectureCode": "K601601",
+            "courseName": "電気回路I",
+            "lecturer": [
+                "黒川弘章",
+                "美井野優"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2021\/01\/08",
+            "path": "\/api\/v1\/archive\/2021\/all\/K601601.json"
+        },
+        {
+            "lectureCode": "K604601",
+            "courseName": "電気回路演習I[A]",
+            "lecturer": [
+                "黒川弘章",
+                "美井野優"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2021\/01\/08",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604601.json"
+        },
+        {
+            "lectureCode": "K604602",
+            "courseName": "電気回路演習I[B]",
+            "lecturer": [
+                "黒川弘章",
+                "美井野優"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2021\/01\/08",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604602.json"
+        },
+        {
+            "lectureCode": "11042K1",
+            "courseName": "数学概論[ES1]",
+            "lecturer": [
+                "美井野優"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/11042K1.json"
+        },
+        {
+            "lectureCode": "K604801",
+            "courseName": "電子回路演習I[AB]",
+            "lecturer": [
+                "木村康男",
+                "美井野優"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604801.json"
+        },
+        {
+            "lectureCode": "K604701",
+            "courseName": "電気回路演習II[A]",
+            "lecturer": [
+                "新海健",
+                "美井野優"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604701.json"
+        },
+        {
+            "lectureCode": "K604702",
+            "courseName": "電気回路演習II[B]",
+            "lecturer": [
+                "新海健",
+                "美井野優"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/K604702.json"
+        },
+        {
+            "lectureCode": "K601301",
+            "courseName": "電気数学演習",
+            "lecturer": [
+                "高木茂行",
+                "美井野優"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2021\/02\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/K601301.json"
+        }
+    ]
+}

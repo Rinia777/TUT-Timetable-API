@@ -1,0 +1,148 @@
+{
+    "filters": {
+        "lecturer": "宇根川杏子",
+        "lecturerKey": "4a0ce9206c62"
+    },
+    "count": 5,
+    "lectures": [
+        {
+            "lectureCode": "W14057",
+            "courseName": "卒業研究[NU7]",
+            "lecturer": [
+                "宇根川杏子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14057.json"
+        },
+        {
+            "lectureCode": "W14067",
+            "courseName": "統合看護実習[7]",
+            "lecturer": [
+                "宇根川杏子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2021\/03\/19",
+            "path": "\/api\/v1\/archive\/2021\/all\/W14067.json"
+        },
+        {
+            "lectureCode": "T2713",
+            "courseName": "フレッシャーズゼミ[看護3]",
+            "lecturer": [
+                "宇根川杏子",
+                "岸由香里",
+                "江川優子"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/T2713.json"
+        },
+        {
+            "lectureCode": "W13040",
+            "courseName": "成人看護学II",
+            "lecturer": [
+                "西尾奈緒美",
+                "宇根川杏子",
+                "厚澤博美",
+                "折坂真理"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室",
+                "３１０１４教室",
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2021\/03\/09",
+            "path": "\/api\/v1\/archive\/2021\/all\/W13040.json"
+        },
+        {
+            "lectureCode": "W13050",
+            "courseName": "成人・高齢者看護技術演習",
+            "lecturer": [
+                "西尾奈緒美",
+                "新山真奈美",
+                "宇根川杏子",
+                "宮首由美子",
+                "厚澤博美",
+                "折坂真理"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１２教室",
+                "３１０１４教室",
+                "３１７０２看護実習室２",
+                "３１７１２看護実習室１",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2021\/03\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/W13050.json"
+        }
+    ]
+}

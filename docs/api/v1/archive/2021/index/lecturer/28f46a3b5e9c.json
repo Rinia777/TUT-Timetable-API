@@ -1,0 +1,277 @@
+{
+    "filters": {
+        "lecturer": "今井伸二郎",
+        "lecturerKey": "28f46a3b5e9c"
+    },
+    "count": 11,
+    "lectures": [
+        {
+            "lectureCode": "ES00307",
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "今井伸二郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/08\/03",
+            "path": "\/api\/v1\/archive\/2021\/all\/ES00307.json"
+        },
+        {
+            "lectureCode": "GGB90303",
+            "courseName": "バイオニクス研究II",
+            "lecturer": [
+                "今井伸二郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGB90303.json"
+        },
+        {
+            "lectureCode": "B30501",
+            "courseName": "食品実験I",
+            "lecturer": [
+                "遠藤泰志",
+                "今井伸二郎",
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ４０１",
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/B30501.json"
+        },
+        {
+            "lectureCode": "B32401",
+            "courseName": "機能性食品学",
+            "lecturer": [
+                "今井伸二郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2021\/07\/07",
+            "path": "\/api\/v1\/archive\/2021\/all\/B32401.json"
+        },
+        {
+            "lectureCode": "ES00407",
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "今井伸二郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/02\/24",
+            "path": "\/api\/v1\/archive\/2021\/all\/ES00407.json"
+        },
+        {
+            "lectureCode": "GGB90403",
+            "courseName": "バイオニクス研究III",
+            "lecturer": [
+                "今井伸二郎"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2021\/09\/14",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGB90403.json"
+        },
+        {
+            "lectureCode": "B33701",
+            "courseName": "公衆衛生学",
+            "lecturer": [
+                "今井伸二郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2021\/02\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/B33701.json"
+        },
+        {
+            "lectureCode": "B30601",
+            "courseName": "食品実験II",
+            "lecturer": [
+                "遠藤泰志",
+                "今井伸二郎",
+                "野嶽勇一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "実験科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5",
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "片柳研究所Ｅ５０３"
+            ],
+            "updateAt": "2021\/01\/06",
+            "path": "\/api\/v1\/archive\/2021\/all\/B30601.json"
+        },
+        {
+            "lectureCode": "GGB12801",
+            "courseName": "免疫学特論",
+            "lecturer": [
+                "今井伸二郎"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｃ１００２"
+            ],
+            "updateAt": "2020\/12\/25",
+            "path": "\/api\/v1\/archive\/2021\/all\/GGB12801.json"
+        },
+        {
+            "lectureCode": "ES00226",
+            "courseName": "創成課題II[BS]",
+            "lecturer": [
+                "今井伸二郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/02\/24",
+            "path": "\/api\/v1\/archive\/2021\/all\/ES00226.json"
+        },
+        {
+            "lectureCode": "B22801",
+            "courseName": "免疫学[2020以降入学者用]",
+            "lecturer": [
+                "今井伸二郎",
+                "吉田雅紀",
+                "松井毅"
+            ],
+            "regularOrIntensive": "専門基礎教育科目生物学",
+            "courseType": "講義科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2021\/08\/30",
+            "path": "\/api\/v1\/archive\/2021\/all\/B22801.json"
+        }
+    ]
+}

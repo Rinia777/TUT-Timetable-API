@@ -1,0 +1,153 @@
+{
+    "filters": {
+        "lecturer": "原田英子",
+        "lecturerKey": "72521c891a01"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "11102C09",
+            "courseName": "IntegratedEnglishIII[9]CS機械",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2021\/02\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/11102C09.json"
+        },
+        {
+            "lectureCode": "11100C01",
+            "courseName": "IntegratedEnglishI[1]CS機械",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2021\/02\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/11100C01.json"
+        },
+        {
+            "lectureCode": "11015C04",
+            "courseName": "AcademicEnglishI[A4]CS",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11015C04.json"
+        },
+        {
+            "lectureCode": "11103C09",
+            "courseName": "IntegratedEnglishIV[9]CS機械",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2021\/02\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/11103C09.json"
+        },
+        {
+            "lectureCode": "11101C01",
+            "courseName": "IntegratedEnglishII[1]CS機械",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2021\/02\/02",
+            "path": "\/api\/v1\/archive\/2021\/all\/11101C01.json"
+        },
+        {
+            "lectureCode": "11016C04",
+            "courseName": "AcademicEnglishII[A4]CS",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2021年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2021\/03\/05",
+            "path": "\/api\/v1\/archive\/2021\/all\/11016C04.json"
+        }
+    ]
+}

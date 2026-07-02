@@ -1,0 +1,81 @@
+{
+    "filters": {
+        "lecturer": "大西蔵人",
+        "lecturerKey": "b113a0e30083"
+    },
+    "count": 3,
+    "lectures": [
+        {
+            "lectureCode": "1106313",
+            "courseName": "スポーツ実技I[金1卓球]",
+            "lecturer": [
+                "大西蔵人"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実技科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金1"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/1106313.json"
+        },
+        {
+            "lectureCode": "1106323",
+            "courseName": "スポーツ実技I[金2卓球]",
+            "lecturer": [
+                "大西蔵人"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "応用生物学部,コンピュータサイエンス学部,工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/1106323.json"
+        },
+        {
+            "lectureCode": "1106333",
+            "courseName": "スポーツ実技I[金3卓球]",
+            "lecturer": [
+                "大西蔵人"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "実習科目",
+            "courseStart": "2021年度前期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "応用生物学部,コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2021\/03\/15",
+            "path": "\/api\/v1\/archive\/2021\/all\/1106333.json"
+        }
+    ]
+}
