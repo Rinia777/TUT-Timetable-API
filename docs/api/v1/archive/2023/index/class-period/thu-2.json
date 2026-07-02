@@ -1,0 +1,4330 @@
+{
+    "filters": {
+        "classPeriod": "木2",
+        "classPeriodKey": "thu-2"
+    },
+    "count": 174,
+    "lectures": [
+        {
+            "lectureCode": "W63305",
+            "courseName": "発声発語障害学III",
+            "lecturer": [
+                "坂田善政",
+                "生井友紀子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2",
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１９１１発声発語検査室"
+            ],
+            "updateAt": "2023\/02\/03",
+            "path": "\/api\/v1\/archive\/2023\/all\/W63305.json"
+        },
+        {
+            "lectureCode": "M3001C5",
+            "courseName": "メディア専門演習II[作曲演習]",
+            "lecturer": [
+                "伊藤謙一郎"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001C5.json"
+        },
+        {
+            "lectureCode": "M3001C6",
+            "courseName": "メディア専門演習II[ビジュアルコミュニケーション]",
+            "lecturer": [
+                "菊池司"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001C6.json"
+        },
+        {
+            "lectureCode": "M3001C7",
+            "courseName": "メディア専門演習II[ゲームプロデューシング]",
+            "lecturer": [
+                "三上浩司",
+                "安原広和"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001C7.json"
+        },
+        {
+            "lectureCode": "M3001S2",
+            "courseName": "メディア専門演習II[広告マーケティングと経済分析]",
+            "lecturer": [
+                "榊俊吾",
+                "進藤美希",
+                "藤崎実"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001S2.json"
+        },
+        {
+            "lectureCode": "M3001S3",
+            "courseName": "メディア専門演習II[デジタルテキストデザイン]",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001S3.json"
+        },
+        {
+            "lectureCode": "M3001S4",
+            "courseName": "メディア専門演習II[映画プロジェクト開発]",
+            "lecturer": [
+                "森川美幸"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001S4.json"
+        },
+        {
+            "lectureCode": "M3001T5",
+            "courseName": "メディア専門演習II[コミュニケーション・アナリシス技法]",
+            "lecturer": [
+                "榎本美香"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001T5.json"
+        },
+        {
+            "lectureCode": "M3001T7",
+            "courseName": "メディア専門演習II[ネットワーク構築]",
+            "lecturer": [
+                "寺澤卓也"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001T7.json"
+        },
+        {
+            "lectureCode": "S2081",
+            "courseName": "スキル演習（撮影・画像加工）［木曜Aクラス］",
+            "lecturer": [
+                "原田和大",
+                "石山慎治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１",
+                "３１１１５デザインクリエーションルーム２",
+                "３１４０２撮影スタジオ",
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2023\/03\/11",
+            "path": "\/api\/v1\/archive\/2023\/all\/S2081.json"
+        },
+        {
+            "lectureCode": "S2082",
+            "courseName": "スキル演習（撮影・画像加工）［木曜Bクラス］",
+            "lecturer": [
+                "原田和大",
+                "石山慎治"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１",
+                "３１１１５デザインクリエーションルーム２",
+                "３１４０２撮影スタジオ",
+                "３１４１３専門演習室２"
+            ],
+            "updateAt": "2023\/03\/11",
+            "path": "\/api\/v1\/archive\/2023\/all\/S2082.json"
+        },
+        {
+            "lectureCode": "S2090",
+            "courseName": "スキル演習（基礎製図）",
+            "lecturer": [
+                "御幸朋寿"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１１教室",
+                "３１１１２教室",
+                "３１１１３教室"
+            ],
+            "updateAt": "2023\/03\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/S2090.json"
+        },
+        {
+            "lectureCode": "U63204",
+            "courseName": "口腔外科学",
+            "lecturer": [
+                "澁井武夫",
+                "結城百合子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2023\/03\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/U63204.json"
+        },
+        {
+            "lectureCode": "W1318",
+            "courseName": "公衆衛生看護学II",
+            "lecturer": [
+                "五十嵐千代",
+                "一色喜保"
+            ],
+            "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1318.json"
+        },
+        {
+            "lectureCode": "W62301",
+            "courseName": "作業療法研究",
+            "lecturer": [
+                "友利幸之介",
+                "大野勘太",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６０５手工芸室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W62301.json"
+        },
+        {
+            "lectureCode": "W63208",
+            "courseName": "発声発語障害学I",
+            "lecturer": [
+                "山下夕香里",
+                "生井友紀子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１９１１発声発語検査室"
+            ],
+            "updateAt": "2023\/02\/02",
+            "path": "\/api\/v1\/archive\/2023\/all\/W63208.json"
+        },
+        {
+            "lectureCode": "W63310",
+            "courseName": "聴覚障害学III",
+            "lecturer": [
+                "原田浩美"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１９１３聴力検査・モニタリング室"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/W63310.json"
+        },
+        {
+            "lectureCode": "1103206",
+            "courseName": "フランス語I[木2]",
+            "lecturer": [
+                "増田ユリ子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1103206.json"
+        },
+        {
+            "lectureCode": "1103610",
+            "courseName": "中国語I[木2陳]",
+            "lecturer": [
+                "陳淑梅"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1103610.json"
+        },
+        {
+            "lectureCode": "11042C1",
+            "courseName": "数学概論[A]CS",
+            "lecturer": [
+                "山元進"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０２"
+            ],
+            "updateAt": "2023\/05\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/11042C1.json"
+        },
+        {
+            "lectureCode": "11042C2",
+            "courseName": "数学概論[B]CS",
+            "lecturer": [
+                "生野壮一郎"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2023\/05\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/11042C2.json"
+        },
+        {
+            "lectureCode": "11043C1",
+            "courseName": "数学基礎[A]CS",
+            "lecturer": [
+                "高津大樹"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/11043C1.json"
+        },
+        {
+            "lectureCode": "11043C2",
+            "courseName": "数学基礎[B]CS",
+            "lecturer": [
+                "臺信直人"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/11043C2.json"
+        },
+        {
+            "lectureCode": "1106102",
+            "courseName": "栄養と健康[木2]BSMS",
+            "lecturer": [
+                "遠藤大哉"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部,メディア学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1106102.json"
+        },
+        {
+            "lectureCode": "1106202",
+            "courseName": "心と健康[木2]BSMS",
+            "lecturer": [
+                "大迫菜緒"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部,メディア学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1106202.json"
+        },
+        {
+            "lectureCode": "1107002",
+            "courseName": "現代社会論[木2]BSMSES",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1107002.json"
+        },
+        {
+            "lectureCode": "11079K31",
+            "courseName": "フレッシャーズゼミ[1]",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１"
+            ],
+            "updateAt": "2023\/03\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K31.json"
+        },
+        {
+            "lectureCode": "11079K32",
+            "courseName": "フレッシャーズゼミ[2]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2023\/03\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K32.json"
+        },
+        {
+            "lectureCode": "11079K33",
+            "courseName": "フレッシャーズゼミ[3]",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０３"
+            ],
+            "updateAt": "2023\/03\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K33.json"
+        },
+        {
+            "lectureCode": "11079K34",
+            "courseName": "フレッシャーズゼミ[4]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０４"
+            ],
+            "updateAt": "2023\/03\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K34.json"
+        },
+        {
+            "lectureCode": "11079K35",
+            "courseName": "フレッシャーズゼミ[5]",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０７"
+            ],
+            "updateAt": "2023\/03\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K35.json"
+        },
+        {
+            "lectureCode": "11079K36",
+            "courseName": "フレッシャーズゼミ[6]",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０４"
+            ],
+            "updateAt": "2023\/03\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K36.json"
+        },
+        {
+            "lectureCode": "11079K37",
+            "courseName": "フレッシャーズゼミ[7]",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０５"
+            ],
+            "updateAt": "2023\/03\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K37.json"
+        },
+        {
+            "lectureCode": "11079K38",
+            "courseName": "フレッシャーズゼミ[8]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０６"
+            ],
+            "updateAt": "2023\/03\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K38.json"
+        },
+        {
+            "lectureCode": "11079K39",
+            "courseName": "フレッシャーズゼミ[9]",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2023\/03\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K39.json"
+        },
+        {
+            "lectureCode": "11079K40",
+            "courseName": "フレッシャーズゼミ[※]",
+            "lecturer": [
+                "未定"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/01\/12",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K40.json"
+        },
+        {
+            "lectureCode": "1108302",
+            "courseName": "日本文化論[木2]BSMSES",
+            "lecturer": [
+                "神子島健"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1108302.json"
+        },
+        {
+            "lectureCode": "1108403",
+            "courseName": "社会心理[木2]BSMSES",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1108403.json"
+        },
+        {
+            "lectureCode": "1109202",
+            "courseName": "国際関係論[木2]BSMSES",
+            "lecturer": [
+                "落合浩太郎"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ｄ３０１"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1109202.json"
+        },
+        {
+            "lectureCode": "11100C01",
+            "courseName": "IntegratedEnglishI[1]CS機械",
+            "lecturer": [
+                "ブロックルバンク"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2023\/01\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C01.json"
+        },
+        {
+            "lectureCode": "11100C02",
+            "courseName": "IntegratedEnglishI[2]CS機械",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C02.json"
+        },
+        {
+            "lectureCode": "11100C03",
+            "courseName": "IntegratedEnglishI[3]CS機械",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C03.json"
+        },
+        {
+            "lectureCode": "11100C04",
+            "courseName": "IntegratedEnglishI[4]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C04.json"
+        },
+        {
+            "lectureCode": "11100C05",
+            "courseName": "IntegratedEnglishI[5]CS機械",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2023\/01\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C05.json"
+        },
+        {
+            "lectureCode": "11100C06",
+            "courseName": "IntegratedEnglishI[6]CS機械",
+            "lecturer": [
+                "鈴木希"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2023\/01\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C06.json"
+        },
+        {
+            "lectureCode": "11100C07",
+            "courseName": "IntegratedEnglishI[7]CS機械",
+            "lecturer": [
+                "山本三穂"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2023\/01\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C07.json"
+        },
+        {
+            "lectureCode": "11100C08",
+            "courseName": "IntegratedEnglishI[8]CS機械",
+            "lecturer": [
+                "青木美奈"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C08.json"
+        },
+        {
+            "lectureCode": "11100C09",
+            "courseName": "IntegratedEnglishI[9]CS機械",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C09.json"
+        },
+        {
+            "lectureCode": "11100C10",
+            "courseName": "IntegratedEnglishI[10]CS機械",
+            "lecturer": [
+                "大谷ひとみ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C10.json"
+        },
+        {
+            "lectureCode": "11100C11",
+            "courseName": "IntegratedEnglishI[11]CS機械",
+            "lecturer": [
+                "衣川清子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2023\/01\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C11.json"
+        },
+        {
+            "lectureCode": "11100C12",
+            "courseName": "IntegratedEnglishI[12]CS機械",
+            "lecturer": [
+                "尾関浩司"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2023\/02\/20",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C12.json"
+        },
+        {
+            "lectureCode": "11100C13",
+            "courseName": "IntegratedEnglishI[13]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０８"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C13.json"
+        },
+        {
+            "lectureCode": "11100C14",
+            "courseName": "IntegratedEnglishI[14]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０７"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C14.json"
+        },
+        {
+            "lectureCode": "11100C15",
+            "courseName": "IntegratedEnglishI[15]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０８"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C15.json"
+        },
+        {
+            "lectureCode": "11100C16",
+            "courseName": "IntegratedEnglishI[16]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０９"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C16.json"
+        },
+        {
+            "lectureCode": "11100C17",
+            "courseName": "IntegratedEnglishI[17]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１０"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C17.json"
+        },
+        {
+            "lectureCode": "B32301",
+            "courseName": "皮膚科学",
+            "lecturer": [
+                "吉田雅紀",
+                "松井毅"
+            ],
+            "regularOrIntensive": "専門教育科目専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2023\/04\/13",
+            "path": "\/api\/v1\/archive\/2023\/all\/B32301.json"
+        },
+        {
+            "lectureCode": "GE101801",
+            "courseName": "表面科学概論",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/GE101801.json"
+        },
+        {
+            "lectureCode": "GE102601",
+            "courseName": "人間共存型システム特論",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/GE102601.json"
+        },
+        {
+            "lectureCode": "GF1009",
+            "courseName": "サステイナブルデザイン",
+            "lecturer": [
+                "暮沢剛巳"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2023\/03\/22",
+            "path": "\/api\/v1\/archive\/2023\/all\/GF1009.json"
+        },
+        {
+            "lectureCode": "GGB11001",
+            "courseName": "ゲノム機能解析学特論",
+            "lecturer": [
+                "佐藤淳"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGB11001.json"
+        },
+        {
+            "lectureCode": "GGC10101",
+            "courseName": "ウェアラブルコンピュータ",
+            "lecturer": [
+                "松下宗一郎"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2022\/12\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGC10101.json"
+        },
+        {
+            "lectureCode": "GGC12401",
+            "courseName": "ニューロコンピューティング",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGC12401.json"
+        },
+        {
+            "lectureCode": "GGZ00102",
+            "courseName": "サイエンスプレゼンテーション英語[初級クラスB]",
+            "lecturer": [
+                "佐藤淳"
+            ],
+            "regularOrIntensive": "ジェネリックスキル科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻,バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻,バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻,バイオ・情報メディア研究科修士課程アントレプレナー専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/04\/03",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGZ00102.json"
+        },
+        {
+            "lectureCode": "K501701",
+            "courseName": "機構学",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K501701.json"
+        },
+        {
+            "lectureCode": "R1040",
+            "courseName": "経済学[デザイン]",
+            "lecturer": [
+                "板井広明"
+            ],
+            "regularOrIntensive": "教養教育科目人文・社会",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/R1040.json"
+        },
+        {
+            "lectureCode": "R205F",
+            "courseName": "英語インテンシブI［デザイン再履修クラス］",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０３１２教室"
+            ],
+            "updateAt": "2023\/01\/12",
+            "path": "\/api\/v1\/archive\/2023\/all\/R205F.json"
+        },
+        {
+            "lectureCode": "R3010",
+            "courseName": "英語インテンシブIII[デザイン]",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０３１１教室"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/R3010.json"
+        },
+        {
+            "lectureCode": "T0800",
+            "courseName": "経済学[医療]",
+            "lecturer": [
+                "板井広明"
+            ],
+            "regularOrIntensive": "基礎教育科目人文･社会",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/T0800.json"
+        },
+        {
+            "lectureCode": "U1111",
+            "courseName": "医学概論[看護]",
+            "lecturer": [
+                "中山孝"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2023\/03\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/U1111.json"
+        },
+        {
+            "lectureCode": "U2110",
+            "courseName": "医学概論[臨工]",
+            "lecturer": [
+                "中山孝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2023\/03\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/U2110.json"
+        },
+        {
+            "lectureCode": "U5107",
+            "courseName": "医学概論[臨検]",
+            "lecturer": [
+                "中山孝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2023\/03\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/U5107.json"
+        },
+        {
+            "lectureCode": "U60101",
+            "courseName": "医学概論[リハビリ]",
+            "lecturer": [
+                "中山孝"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2023\/03\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/U60101.json"
+        },
+        {
+            "lectureCode": "U61301",
+            "courseName": "クリニカル・キネシオロジー演習",
+            "lecturer": [
+                "吉田真一",
+                "渡部祥輝"
+            ],
+            "regularOrIntensive": "専門基礎科目理学療法学基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2023\/01\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/U61301.json"
+        },
+        {
+            "lectureCode": "W1201",
+            "courseName": "基礎看護技術III",
+            "lecturer": [
+                "宮首由美子",
+                "生田奈美可"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1201.json"
+        },
+        {
+            "lectureCode": "W2202",
+            "courseName": "生体計測機器学",
+            "lecturer": [
+                "島峰徹也"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2022\/12\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/W2202.json"
+        },
+        {
+            "lectureCode": "W2303",
+            "courseName": "医用機器安全管理学",
+            "lecturer": [
+                "阿部盛夫",
+                "田仲浩平"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2022\/12\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/W2303.json"
+        },
+        {
+            "lectureCode": "W5204",
+            "courseName": "血液検査学",
+            "lecturer": [
+                "大畑雅彦",
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2023\/01\/18",
+            "path": "\/api\/v1\/archive\/2023\/all\/W5204.json"
+        },
+        {
+            "lectureCode": "W53010",
+            "courseName": "臨床病理学",
+            "lecturer": [
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2023\/06\/20",
+            "path": "\/api\/v1\/archive\/2023\/all\/W53010.json"
+        },
+        {
+            "lectureCode": "K001102",
+            "courseName": "工学英語B[1Q2限：徳田]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火2",
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/K001102.json"
+        },
+        {
+            "lectureCode": "K001104",
+            "courseName": "工学英語B[2Q2限：徳田]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火2",
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/K001104.json"
+        },
+        {
+            "lectureCode": "K001106",
+            "courseName": "工学英語B[1Q2限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火2",
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３",
+                "講義実験棟１０４"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/K001106.json"
+        },
+        {
+            "lectureCode": "K001108",
+            "courseName": "工学英語B[2Q2限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火2",
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０３",
+                "講義実験棟１０４"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/K001108.json"
+        },
+        {
+            "lectureCode": "U54010",
+            "courseName": "医療リスクマネジメント",
+            "lecturer": [
+                "横田浩充",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月1",
+                "月2",
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/U54010.json"
+        },
+        {
+            "lectureCode": "GF1006",
+            "courseName": "コミュニティとデザイン",
+            "lecturer": [
+                "酒百宏一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室"
+            ],
+            "updateAt": "2023\/03\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GF1006.json"
+        },
+        {
+            "lectureCode": "K001152",
+            "courseName": "工学英語B[3Q木][機]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/K001152.json"
+        },
+        {
+            "lectureCode": "K001154",
+            "courseName": "工学英語B[4Q木][機]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/K001154.json"
+        },
+        {
+            "lectureCode": "M2011C5",
+            "courseName": "メディア専門演習I[作曲演習]",
+            "lecturer": [
+                "伊藤謙一郎"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/15",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011C5.json"
+        },
+        {
+            "lectureCode": "M2011C6",
+            "courseName": "メディア専門演習I[ビジュアルコミュニケーション]",
+            "lecturer": [
+                "菊池司"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011C6.json"
+        },
+        {
+            "lectureCode": "M2011C7",
+            "courseName": "メディア専門演習I[ゲームプロデューシング]",
+            "lecturer": [
+                "三上浩司",
+                "安原広和"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011C7.json"
+        },
+        {
+            "lectureCode": "M2011S2",
+            "courseName": "メディア専門演習I[広告マーケティングと経済分析]",
+            "lecturer": [
+                "榊俊吾",
+                "進藤美希",
+                "藤崎実"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011S2.json"
+        },
+        {
+            "lectureCode": "M2011S3",
+            "courseName": "メディア専門演習I[デジタルテキストデザイン]",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/12",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011S3.json"
+        },
+        {
+            "lectureCode": "M2011T5",
+            "courseName": "メディア専門演習I[コミュニケーション・アナリシス技法]",
+            "lecturer": [
+                "榎本美香"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/22",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011T5.json"
+        },
+        {
+            "lectureCode": "M2011T6",
+            "courseName": "メディア専門演習I[映画プロジェクト開発]",
+            "lecturer": [
+                "森川美幸"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/11",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011T6.json"
+        },
+        {
+            "lectureCode": "M2011T7",
+            "courseName": "メディア専門演習I[ネットワーク構築]",
+            "lecturer": [
+                "寺澤卓也"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011T7.json"
+        },
+        {
+            "lectureCode": "M3001T51",
+            "courseName": "メディア専門演習II[コミュニケーション・アナリシス技法][後期]",
+            "lecturer": [
+                "榎本美香"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001T51.json"
+        },
+        {
+            "lectureCode": "S2100",
+            "courseName": "専門スキル演習（エディトリアルデザイン）",
+            "lecturer": [
+                "舟山貴士"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１４デザインクリエーションルーム１"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/S2100.json"
+        },
+        {
+            "lectureCode": "S2120",
+            "courseName": "専門スキル演習（ユーザインタフェース）",
+            "lecturer": [
+                "加藤一葉"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１４１５専門演習室３"
+            ],
+            "updateAt": "2023\/03\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/S2120.json"
+        },
+        {
+            "lectureCode": "S2140",
+            "courseName": "専門スキル演習（3Dモデリング）",
+            "lecturer": [
+                "堀川卓哉",
+                "小山祐輔"
+            ],
+            "regularOrIntensive": "専門教育科目スキル",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科工業デザイン専攻",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１５デザインクリエーションルーム２",
+                "３１１１６デザインクリエーションルーム３"
+            ],
+            "updateAt": "2023\/08\/03",
+            "path": "\/api\/v1\/archive\/2023\/all\/S2140.json"
+        },
+        {
+            "lectureCode": "U63107",
+            "courseName": "リハビリテーション概論",
+            "lecturer": [
+                "外山稔"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１７教室"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/U63107.json"
+        },
+        {
+            "lectureCode": "W61102",
+            "courseName": "基礎理学療法学実習II",
+            "lecturer": [
+                "吉田真一",
+                "渡部祥輝",
+                "乙戸崇寛"
+            ],
+            "regularOrIntensive": "専門科目理学療法学応用",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2023\/01\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/W61102.json"
+        },
+        {
+            "lectureCode": "W63215",
+            "courseName": "コミュニケーション演習II",
+            "lecturer": [
+                "石津希代子",
+                "宮首由美子",
+                "川上勝也"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１２教室",
+                "３１９１１発声発語検査室"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/W63215.json"
+        },
+        {
+            "lectureCode": "1103306",
+            "courseName": "フランス語II[木2]",
+            "lecturer": [
+                "増田ユリ子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０１"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1103306.json"
+        },
+        {
+            "lectureCode": "1103710",
+            "courseName": "中国語II[木2陳]",
+            "lecturer": [
+                "陳淑梅"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０３"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1103710.json"
+        },
+        {
+            "lectureCode": "1108503",
+            "courseName": "メディアコミュニケーション論[木2]BSMSES",
+            "lecturer": [
+                "鈴木万希枝"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1108503.json"
+        },
+        {
+            "lectureCode": "1109302",
+            "courseName": "グローバル社会論[木2]BSMSES",
+            "lecturer": [
+                "大山昌彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０３"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1109302.json"
+        },
+        {
+            "lectureCode": "1109502",
+            "courseName": "欧米社会文化論[木2]BSMSES",
+            "lecturer": [
+                "小沼義雄"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,工学部機械工学科,工学部電気電子工学科,工学部応用化学科,メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1109502.json"
+        },
+        {
+            "lectureCode": "11101C01",
+            "courseName": "IntegratedEnglishII[1]CS機械",
+            "lecturer": [
+                "ブロックルバンク"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2023\/01\/20",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C01.json"
+        },
+        {
+            "lectureCode": "11101C02",
+            "courseName": "IntegratedEnglishII[2]CS機械",
+            "lecturer": [
+                "原田英子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C02.json"
+        },
+        {
+            "lectureCode": "11101C03",
+            "courseName": "IntegratedEnglishII[3]CS機械",
+            "lecturer": [
+                "岩永祥恵"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C03.json"
+        },
+        {
+            "lectureCode": "11101C04",
+            "courseName": "IntegratedEnglishII[4]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/28",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C04.json"
+        },
+        {
+            "lectureCode": "11101C05",
+            "courseName": "IntegratedEnglishII[5]CS機械",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０３"
+            ],
+            "updateAt": "2023\/01\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C05.json"
+        },
+        {
+            "lectureCode": "11101C06",
+            "courseName": "IntegratedEnglishII[6]CS機械",
+            "lecturer": [
+                "鈴木希"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０４"
+            ],
+            "updateAt": "2023\/01\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C06.json"
+        },
+        {
+            "lectureCode": "11101C07",
+            "courseName": "IntegratedEnglishII[7]CS機械",
+            "lecturer": [
+                "山本三穂"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2023\/01\/19",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C07.json"
+        },
+        {
+            "lectureCode": "11101C08",
+            "courseName": "IntegratedEnglishII[8]CS機械",
+            "lecturer": [
+                "青木美奈"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０１"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C08.json"
+        },
+        {
+            "lectureCode": "11101C09",
+            "courseName": "IntegratedEnglishII[9]CS機械",
+            "lecturer": [
+                "キャンベル，Ａ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C09.json"
+        },
+        {
+            "lectureCode": "11101C10",
+            "courseName": "IntegratedEnglishII[10]CS機械",
+            "lecturer": [
+                "大谷ひとみ"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０４"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C10.json"
+        },
+        {
+            "lectureCode": "11101C11",
+            "courseName": "IntegratedEnglishII[11]CS機械",
+            "lecturer": [
+                "衣川清子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2023\/01\/22",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C11.json"
+        },
+        {
+            "lectureCode": "11101C12",
+            "courseName": "IntegratedEnglishII[12]CS機械",
+            "lecturer": [
+                "尾関浩司"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2023\/02\/20",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C12.json"
+        },
+        {
+            "lectureCode": "11101C13",
+            "courseName": "IntegratedEnglishII[13]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０８"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C13.json"
+        },
+        {
+            "lectureCode": "11101C14",
+            "courseName": "IntegratedEnglishII[14]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０７"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C14.json"
+        },
+        {
+            "lectureCode": "11101C15",
+            "courseName": "IntegratedEnglishII[15]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０８"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C15.json"
+        },
+        {
+            "lectureCode": "11101C16",
+            "courseName": "IntegratedEnglishII[16]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０９"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C16.json"
+        },
+        {
+            "lectureCode": "11101C17",
+            "courseName": "IntegratedEnglishII[17]CS機械",
+            "lecturer": [
+                "楠元洋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３１０"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C17.json"
+        },
+        {
+            "lectureCode": "B10901",
+            "courseName": "一般化学[1]",
+            "lecturer": [
+                "横山憲二"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2023\/01\/05",
+            "path": "\/api\/v1\/archive\/2023\/all\/B10901.json"
+        },
+        {
+            "lectureCode": "B10902",
+            "courseName": "一般化学[2]",
+            "lecturer": [
+                "伊澤千尋"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/B10902.json"
+        },
+        {
+            "lectureCode": "B10903",
+            "courseName": "一般化学[3]",
+            "lecturer": [
+                "岩渕徳郎"
+            ],
+            "regularOrIntensive": "専門基礎教育科目化学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2023\/01\/31",
+            "path": "\/api\/v1\/archive\/2023\/all\/B10903.json"
+        },
+        {
+            "lectureCode": "B33701",
+            "courseName": "公衆衛生学",
+            "lecturer": [
+                "今井伸二郎"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０２"
+            ],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/B33701.json"
+        },
+        {
+            "lectureCode": "C30901",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "青木輝勝"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30901.json"
+        },
+        {
+            "lectureCode": "C30902",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "生野壮一郎"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30902.json"
+        },
+        {
+            "lectureCode": "C30903",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "井上亮文"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30903.json"
+        },
+        {
+            "lectureCode": "C30904",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "岩下志乃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30904.json"
+        },
+        {
+            "lectureCode": "C30905",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "宇田隆哉"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30905.json"
+        },
+        {
+            "lectureCode": "C30906",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "大石邦夫"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30906.json"
+        },
+        {
+            "lectureCode": "C30907",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "大野澄雄"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30907.json"
+        },
+        {
+            "lectureCode": "C30908",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "長名優子"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30908.json"
+        },
+        {
+            "lectureCode": "C30910",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "菊池眞之"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30910.json"
+        },
+        {
+            "lectureCode": "C30911",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "串田高幸"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30911.json"
+        },
+        {
+            "lectureCode": "C30912",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "佐藤公則"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30912.json"
+        },
+        {
+            "lectureCode": "C30913",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30913.json"
+        },
+        {
+            "lectureCode": "C30914",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "瀬之口潤輔"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30914.json"
+        },
+        {
+            "lectureCode": "C30915",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "竹田昌弘"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30915.json"
+        },
+        {
+            "lectureCode": "C30916",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "千葉康生"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30916.json"
+        },
+        {
+            "lectureCode": "C30917",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "服部聖彦"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30917.json"
+        },
+        {
+            "lectureCode": "C30918",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "福西広晃"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30918.json"
+        },
+        {
+            "lectureCode": "C30919",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "伏見卓恭"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30919.json"
+        },
+        {
+            "lectureCode": "C30920",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "布田裕一"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/02",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30920.json"
+        },
+        {
+            "lectureCode": "C30921",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "細野繁"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30921.json"
+        },
+        {
+            "lectureCode": "C30922",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "松岡丈平"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30922.json"
+        },
+        {
+            "lectureCode": "C30923",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "松下宗一郎"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30923.json"
+        },
+        {
+            "lectureCode": "C30924",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "山口淳"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30924.json"
+        },
+        {
+            "lectureCode": "C30925",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "山元進"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30925.json"
+        },
+        {
+            "lectureCode": "C30926",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "ライエルグリムベルゲン"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30926.json"
+        },
+        {
+            "lectureCode": "GE100301",
+            "courseName": "ロボット設計特論",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/GE100301.json"
+        },
+        {
+            "lectureCode": "GE101001",
+            "courseName": "最適化概論",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門科目サステイナブル工学専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2023\/01\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/GE101001.json"
+        },
+        {
+            "lectureCode": "GGB11401",
+            "courseName": "分子生物学特論",
+            "lecturer": [
+                "矢野和義"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2023\/01\/02",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGB11401.json"
+        },
+        {
+            "lectureCode": "GGB13401",
+            "courseName": "発酵食品学特論",
+            "lecturer": [
+                "中村知世"
+            ],
+            "regularOrIntensive": "専門科目バイオニクス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2023\/03\/03",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGB13401.json"
+        },
+        {
+            "lectureCode": "GGM10901",
+            "courseName": "実世界メディアテクノロジー特論",
+            "lecturer": [
+                "羽田久一"
+            ],
+            "regularOrIntensive": "専門科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM10901.json"
+        },
+        {
+            "lectureCode": "GH2001",
+            "courseName": "生理機能検査学特論",
+            "lecturer": [
+                "榎本みのり"
+            ],
+            "regularOrIntensive": "専門領域科目病態機能検査学領域",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６１１多目的実習室"
+            ],
+            "updateAt": "2023\/01\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/GH2001.json"
+        },
+        {
+            "lectureCode": "K000101",
+            "courseName": "コーオプ企業論",
+            "lecturer": [
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000101.json"
+        },
+        {
+            "lectureCode": "K000471",
+            "courseName": "コーオプ演習II[化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000471.json"
+        },
+        {
+            "lectureCode": "K100401",
+            "courseName": "信頼性工学",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/K100401.json"
+        },
+        {
+            "lectureCode": "M101701",
+            "courseName": "プログラミング入門",
+            "lecturer": [
+                "大淵康成"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所ＣＢ０１"
+            ],
+            "updateAt": "2023\/01\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/M101701.json"
+        },
+        {
+            "lectureCode": "M302201",
+            "courseName": "ゲームプログラミング論",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/M302201.json"
+        },
+        {
+            "lectureCode": "R1160",
+            "courseName": "化学の世界[デザイン]",
+            "lecturer": [
+                "中村秀明"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０３１２教室"
+            ],
+            "updateAt": "2023\/01\/19",
+            "path": "\/api\/v1\/archive\/2023\/all\/R1160.json"
+        },
+        {
+            "lectureCode": "S3210",
+            "courseName": "商品企画論",
+            "lecturer": [
+                "田崎咲絵"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2023\/03\/11",
+            "path": "\/api\/v1\/archive\/2023\/all\/S3210.json"
+        },
+        {
+            "lectureCode": "T2400",
+            "courseName": "英語インテンシブII[医療]",
+            "lecturer": [
+                "勝浦寿美"
+            ],
+            "regularOrIntensive": "基礎教育科目英語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０３１１教室"
+            ],
+            "updateAt": "2023\/02\/16",
+            "path": "\/api\/v1\/archive\/2023\/all\/T2400.json"
+        },
+        {
+            "lectureCode": "U2102",
+            "courseName": "人体解剖学II",
+            "lecturer": [
+                "寺島達夫"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2023\/01\/28",
+            "path": "\/api\/v1\/archive\/2023\/all\/U2102.json"
+        },
+        {
+            "lectureCode": "U62101",
+            "courseName": "人間発達学（作業療法）",
+            "lecturer": [
+                "伊藤公一",
+                "石橋仁美",
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門基礎科目作業療法学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ５１２多目的実習室"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/U62101.json"
+        },
+        {
+            "lectureCode": "W1106",
+            "courseName": "感染制御ケア",
+            "lecturer": [
+                "片渕盛将"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2023\/02\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1106.json"
+        },
+        {
+            "lectureCode": "W43290",
+            "courseName": "特別支援教育と作業療法演習[2019年以前]",
+            "lecturer": [
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ６０５手工芸室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W43290.json"
+        },
+        {
+            "lectureCode": "W5105",
+            "courseName": "微生物検査学II",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/W5105.json"
+        },
+        {
+            "lectureCode": "W5211",
+            "courseName": "免疫検査学",
+            "lecturer": [
+                "三上あかね",
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2023\/01\/19",
+            "path": "\/api\/v1\/archive\/2023\/all\/W5211.json"
+        },
+        {
+            "lectureCode": "W64303",
+            "courseName": "生活環境福祉学",
+            "lecturer": [
+                "宮﨑貴朗",
+                "太箸俊宏"
+            ],
+            "regularOrIntensive": "専門科目発展",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/W64303.json"
+        }
+    ]
+}

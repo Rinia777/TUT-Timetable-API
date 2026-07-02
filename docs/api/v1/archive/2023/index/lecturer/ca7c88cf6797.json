@@ -1,0 +1,30 @@
+{
+    "filters": {
+        "lecturer": "笹山桐子",
+        "lecturerKey": "ca7c88cf6797"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W1408",
+            "courseName": "国際看護学",
+            "lecturer": [
+                "笹山桐子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/16",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1408.json"
+        }
+    ]
+}

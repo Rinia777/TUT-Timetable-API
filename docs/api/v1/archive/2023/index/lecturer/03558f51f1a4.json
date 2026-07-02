@@ -1,0 +1,465 @@
+{
+    "filters": {
+        "lecturer": "渡辺大地",
+        "lecturerKey": "03558f51f1a4"
+    },
+    "count": 20,
+    "lectures": [
+        {
+            "lectureCode": "GGM90126",
+            "courseName": "メディアサイエンス研究企画",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/03\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM90126.json"
+        },
+        {
+            "lectureCode": "GGM90326",
+            "courseName": "メディアサイエンス研究II",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/03\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM90326.json"
+        },
+        {
+            "lectureCode": "M400127",
+            "courseName": "卒業研究I",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/M400127.json"
+        },
+        {
+            "lectureCode": "11050M28",
+            "courseName": "フレッシャーズゼミI[MS]",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/11050M28.json"
+        },
+        {
+            "lectureCode": "M201001",
+            "courseName": "CG・ゲームのための数学",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/M201001.json"
+        },
+        {
+            "lectureCode": "M000309",
+            "courseName": "先端メディア学II[アドバンスドゲームプログラミング]",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門基礎教育科目共通科目・メディア共通演習",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水5",
+                "木5"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/M000309.json"
+        },
+        {
+            "lectureCode": "M000519",
+            "courseName": "先端メディアゼミナールII[アドバンスドゲームプログラミング]",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水5",
+                "木5"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/M000519.json"
+        },
+        {
+            "lectureCode": "M3001T4",
+            "courseName": "メディア専門演習II[リアルタイム3DCGプログラミング]",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001T4.json"
+        },
+        {
+            "lectureCode": "GGM10801",
+            "courseName": "リアルタイムグラフィックス特論",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０３"
+            ],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM10801.json"
+        },
+        {
+            "lectureCode": "GGM90226",
+            "courseName": "メディアサイエンス研究I",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/10\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM90226.json"
+        },
+        {
+            "lectureCode": "GGM90426",
+            "courseName": "メディアサイエンス研究III",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/10\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM90426.json"
+        },
+        {
+            "lectureCode": "M301603",
+            "courseName": "メディアプログラミング演習[C++実践プログラミング]",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/M301603.json"
+        },
+        {
+            "lectureCode": "M400227",
+            "courseName": "卒業研究II",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/M400227.json"
+        },
+        {
+            "lectureCode": "P022827",
+            "courseName": "プロジェクト演習II[インタラクティブ・ゲーム制作＜イントロダクションII＞]",
+            "lecturer": [
+                "渡辺大地",
+                "三上浩司"
+            ],
+            "regularOrIntensive": "専門基礎教育科目共通科目・メディア共通演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/P022827.json"
+        },
+        {
+            "lectureCode": "M302201",
+            "courseName": "ゲームプログラミング論",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目コース専門",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ２０２"
+            ],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/M302201.json"
+        },
+        {
+            "lectureCode": "M000410",
+            "courseName": "先端メディアゼミナールI[アドバンスドゲームプログラミング]",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/M000410.json"
+        },
+        {
+            "lectureCode": "M101801",
+            "courseName": "メディアのための数学",
+            "lecturer": [
+                "松永信介",
+                "渡辺大地",
+                "松吉俊"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2023\/01\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/M101801.json"
+        },
+        {
+            "lectureCode": "M2011T4",
+            "courseName": "メディア専門演習I[リアルタイム3DCGプログラミング]",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011T4.json"
+        },
+        {
+            "lectureCode": "M300227",
+            "courseName": "創成課題",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/M300227.json"
+        },
+        {
+            "lectureCode": "11051M03",
+            "courseName": "フレッシャーズゼミII[MS]",
+            "lecturer": [
+                "渡辺大地"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/11051M03.json"
+        }
+    ]
+}

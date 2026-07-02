@@ -1,0 +1,307 @@
+{
+    "filters": {
+        "lecturer": "花尾麻美",
+        "lecturerKey": "611d265a2f2c"
+    },
+    "count": 10,
+    "lectures": [
+        {
+            "lectureCode": "W540807",
+            "courseName": "卒業研究I[MT7]",
+            "lecturer": [
+                "花尾麻美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W540807.json"
+        },
+        {
+            "lectureCode": "W5216",
+            "courseName": "生理検査学II",
+            "lecturer": [
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2023\/03\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/W5216.json"
+        },
+        {
+            "lectureCode": "T2751",
+            "courseName": "フレッシャーズゼミ[臨検1]",
+            "lecturer": [
+                "花尾麻美",
+                "迫西大輔"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２"
+            ],
+            "updateAt": "2023\/03\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/T2751.json"
+        },
+        {
+            "lectureCode": "W53081",
+            "courseName": "生理検査学実習II",
+            "lecturer": [
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水3",
+                "水4",
+                "水5",
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０３生理学実習室"
+            ],
+            "updateAt": "2023\/01\/19",
+            "path": "\/api\/v1\/archive\/2023\/all\/W53081.json"
+        },
+        {
+            "lectureCode": "W54020",
+            "courseName": "臨床検査総合演習II",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火1",
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室",
+                "３１０１３教室"
+            ],
+            "updateAt": "2023\/02\/16",
+            "path": "\/api\/v1\/archive\/2023\/all\/W54020.json"
+        },
+        {
+            "lectureCode": "W53100",
+            "courseName": "臨床検査総合演習I",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/16",
+            "path": "\/api\/v1\/archive\/2023\/all\/W53100.json"
+        },
+        {
+            "lectureCode": "W54030",
+            "courseName": "臨床検査総合演習III",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W54030.json"
+        },
+        {
+            "lectureCode": "W540907",
+            "courseName": "卒業研究II[MT7]",
+            "lecturer": [
+                "花尾麻美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W540907.json"
+        },
+        {
+            "lectureCode": "W5218",
+            "courseName": "生理検査学実習I",
+            "lecturer": [
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０３生理学実習室"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/W5218.json"
+        },
+        {
+            "lectureCode": "W5205",
+            "courseName": "血液検査学実習I",
+            "lecturer": [
+                "大畑雅彦",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "金3",
+                "金4",
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２",
+                "Ｍ３０２臨床検査実習室３"
+            ],
+            "updateAt": "2023\/01\/16",
+            "path": "\/api\/v1\/archive\/2023\/all\/W5205.json"
+        }
+    ]
+}

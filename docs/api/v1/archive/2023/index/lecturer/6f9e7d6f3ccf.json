@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "深川雅文",
+        "lecturerKey": "6f9e7d6f3ccf"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "S2020",
+            "courseName": "企画と展示",
+            "lecturer": [
+                "深川雅文"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2023\/02\/15",
+            "path": "\/api\/v1\/archive\/2023\/all\/S2020.json"
+        }
+    ]
+}

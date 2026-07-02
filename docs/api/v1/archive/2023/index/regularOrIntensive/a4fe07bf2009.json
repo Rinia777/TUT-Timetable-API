@@ -1,0 +1,64 @@
+{
+    "filters": {
+        "regularOrIntensive": "専門教育科目食品・化粧品専門科目",
+        "regularOrIntensiveKey": "a4fe07bf2009"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "B11203",
+            "courseName": "食品・化粧品概論",
+            "lecturer": [
+                "遠藤泰志",
+                "西野智彦",
+                "柴田雅史",
+                "吉田雅紀",
+                "松井毅",
+                "関洋子"
+            ],
+            "regularOrIntensive": "専門教育科目食品・化粧品専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2023\/02\/02",
+            "path": "\/api\/v1\/archive\/2023\/all\/B11203.json"
+        },
+        {
+            "lectureCode": "B33402",
+            "courseName": "食品開発概論",
+            "lecturer": [
+                "遠藤泰志"
+            ],
+            "regularOrIntensive": "専門教育科目食品・化粧品専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/B33402.json"
+        }
+    ]
+}

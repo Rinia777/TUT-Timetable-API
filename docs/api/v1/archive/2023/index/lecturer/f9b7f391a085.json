@@ -1,0 +1,197 @@
+{
+    "filters": {
+        "lecturer": "西尾奈緒美",
+        "lecturerKey": "f9b7f391a085"
+    },
+    "count": 7,
+    "lectures": [
+        {
+            "lectureCode": "W140514",
+            "courseName": "卒業研究[NU14]",
+            "lecturer": [
+                "西尾奈緒美"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W140514.json"
+        },
+        {
+            "lectureCode": "W140614",
+            "courseName": "統合看護実習[14]",
+            "lecturer": [
+                "西尾奈緒美"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W140614.json"
+        },
+        {
+            "lectureCode": "W1203",
+            "courseName": "ヘルスアセスメント",
+            "lecturer": [
+                "未定",
+                "西尾奈緒美",
+                "岩月すみ江",
+                "折坂真理"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1203.json"
+        },
+        {
+            "lectureCode": "W1304",
+            "courseName": "成人看護学II",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "折坂真理",
+                "安井大輔"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1304.json"
+        },
+        {
+            "lectureCode": "W1305",
+            "courseName": "成人・高齢者看護技術演習",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "折坂真理",
+                "安井大輔",
+                "篠田巴留香",
+                "長坂奎英"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2023\/04\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1305.json"
+        },
+        {
+            "lectureCode": "W1312",
+            "courseName": "成人看護学実習",
+            "lecturer": [
+                "西尾奈緒美",
+                "岩月すみ江",
+                "折坂真理",
+                "安井大輔"
+            ],
+            "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 5,
+            "classroom": [],
+            "updateAt": "2023\/01\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1312.json"
+        },
+        {
+            "lectureCode": "W1212",
+            "courseName": "成人看護学I",
+            "lecturer": [
+                "西尾奈緒美",
+                "安井大輔"
+            ],
+            "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１０１６教室",
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1212.json"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "中川明博",
+        "lecturerKey": "c2bf84b085e8"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "1108001",
+            "courseName": "哲学と思考[合A]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2022\/12\/28",
+            "path": "\/api\/v1\/archive\/2023\/all\/1108001.json"
+        },
+        {
+            "lectureCode": "1108002",
+            "courseName": "哲学と思考[合B]",
+            "lecturer": [
+                "中川明博"
+            ],
+            "regularOrIntensive": "教養教育科目人文",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/1108002.json"
+        }
+    ]
+}

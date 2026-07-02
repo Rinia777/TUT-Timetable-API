@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "大内田優子",
+        "lecturerKey": "faf19df65ced"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11100M05",
+            "courseName": "IntegratedEnglishI[AT5]MS",
+            "lecturer": [
+                "大内田優子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100M05.json"
+        },
+        {
+            "lectureCode": "11015M03",
+            "courseName": "AcademicEnglishI[AT3]MS",
+            "lecturer": [
+                "大内田優子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11015M03.json"
+        },
+        {
+            "lectureCode": "11101M05",
+            "courseName": "IntegratedEnglishII[AT5]MS",
+            "lecturer": [
+                "大内田優子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101M05.json"
+        },
+        {
+            "lectureCode": "11016M03",
+            "courseName": "AcademicEnglishII[AT3]MS",
+            "lecturer": [
+                "大内田優子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11016M03.json"
+        }
+    ]
+}

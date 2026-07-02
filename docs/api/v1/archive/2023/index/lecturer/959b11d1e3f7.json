@@ -1,0 +1,63 @@
+{
+    "filters": {
+        "lecturer": "澁井武夫",
+        "lecturerKey": "959b11d1e3f7"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "U63204",
+            "courseName": "口腔外科学",
+            "lecturer": [
+                "澁井武夫",
+                "結城百合子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０１教室"
+            ],
+            "updateAt": "2023\/03\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/U63204.json"
+        },
+        {
+            "lectureCode": "U63203",
+            "courseName": "臨床歯科医学",
+            "lecturer": [
+                "澁井武夫",
+                "結城百合子"
+            ],
+            "regularOrIntensive": "専門基礎科目言語聴覚学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2023\/03\/08",
+            "path": "\/api\/v1\/archive\/2023\/all\/U63203.json"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "filters": {
+        "lecturer": "小藤貴之",
+        "lecturerKey": "d3c4a38f2d2e"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "S1045",
+            "courseName": "デジタルスキルA［BC2］",
+            "lecturer": [
+                "小藤貴之",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2023\/02\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/S1045.json"
+        },
+        {
+            "lectureCode": "S1052",
+            "courseName": "デジタルスキルB［AC2］",
+            "lecturer": [
+                "小藤貴之",
+                "田邉雄一"
+            ],
+            "regularOrIntensive": "専門教育科目共通科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2023\/02\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/S1052.json"
+        }
+    ]
+}

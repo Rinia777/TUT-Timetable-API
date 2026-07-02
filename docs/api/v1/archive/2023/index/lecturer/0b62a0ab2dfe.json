@@ -1,0 +1,361 @@
+{
+    "filters": {
+        "lecturer": "塩野康徳",
+        "lecturerKey": "0b62a0ab2dfe"
+    },
+    "count": 15,
+    "lectures": [
+        {
+            "lectureCode": "C40114",
+            "courseName": "卒業課題I[CS]",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C40114.json"
+        },
+        {
+            "lectureCode": "C40276",
+            "courseName": "卒業課題II[前期]CS",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/04\/21",
+            "path": "\/api\/v1\/archive\/2023\/all\/C40276.json"
+        },
+        {
+            "lectureCode": "GGC13101",
+            "courseName": "知能数理特論",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGC13101.json"
+        },
+        {
+            "lectureCode": "11050C05",
+            "courseName": "フレッシャーズゼミI[5]CS",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/11050C05.json"
+        },
+        {
+            "lectureCode": "C22101",
+            "courseName": "オペレーティングシステム[前期]",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2022\/12\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/C22101.json"
+        },
+        {
+            "lectureCode": "C40164",
+            "courseName": "卒業課題I[後期]CS",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C40164.json"
+        },
+        {
+            "lectureCode": "C40214",
+            "courseName": "卒業課題II[CS]",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C40214.json"
+        },
+        {
+            "lectureCode": "GGC90217",
+            "courseName": "コンピュータサイエンス研究I",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/10\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGC90217.json"
+        },
+        {
+            "lectureCode": "GGC90417",
+            "courseName": "コンピュータサイエンス研究III",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目コンピュータサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/10\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGC90417.json"
+        },
+        {
+            "lectureCode": "C30913",
+            "courseName": "創成課題[CS]",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門教育科目実験・総合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C30913.json"
+        },
+        {
+            "lectureCode": "C22102",
+            "courseName": "オペレーティングシステム[後期]",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門教育科目コア科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2023\/02\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/C22102.json"
+        },
+        {
+            "lectureCode": "11040C1",
+            "courseName": "情報リテラシー[A]CS",
+            "lecturer": [
+                "松岡丈平",
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2023\/05\/18",
+            "path": "\/api\/v1\/archive\/2023\/all\/11040C1.json"
+        },
+        {
+            "lectureCode": "11040C2",
+            "courseName": "情報リテラシー[B]CS",
+            "lecturer": [
+                "松岡丈平",
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ４０３"
+            ],
+            "updateAt": "2023\/02\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/11040C2.json"
+        },
+        {
+            "lectureCode": "11051C05",
+            "courseName": "フレッシャーズゼミII[5]CS",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "教養教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/02\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/11051C05.json"
+        },
+        {
+            "lectureCode": "C10801",
+            "courseName": "コンピュータ概論II[A]",
+            "lecturer": [
+                "塩野康徳"
+            ],
+            "regularOrIntensive": "専門基礎教育科目コンピュータ",
+            "courseType": "講義・演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "火1",
+                "火3"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 3,
+            "classroom": [
+                "研究棟Ａ４０２"
+            ],
+            "updateAt": "2022\/12\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/C10801.json"
+        }
+    ]
+}

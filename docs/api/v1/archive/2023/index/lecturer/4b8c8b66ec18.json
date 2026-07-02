@@ -1,0 +1,213 @@
+{
+    "filters": {
+        "lecturer": "佐藤宏樹",
+        "lecturerKey": "4b8c8b66ec18"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "11118M06",
+            "courseName": "アカデミックスキルズI[MS6]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11118M06.json"
+        },
+        {
+            "lectureCode": "11118B06",
+            "courseName": "アカデミックスキルズI[BS6]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11118B06.json"
+        },
+        {
+            "lectureCode": "11118C06",
+            "courseName": "アカデミックスキルズI[CS6]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０３"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11118C06.json"
+        },
+        {
+            "lectureCode": "1112501",
+            "courseName": "サービスラーニングIV",
+            "lecturer": [
+                "佐藤宏樹",
+                "神子島健",
+                "中島敏博"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１",
+                "講義実験棟３０２"
+            ],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/1112501.json"
+        },
+        {
+            "lectureCode": "11119M02",
+            "courseName": "アカデミックスキルズII[MS2]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11119M02.json"
+        },
+        {
+            "lectureCode": "11119B08",
+            "courseName": "アカデミックスキルズII[BSCS8]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11119B08.json"
+        },
+        {
+            "lectureCode": "11119C08",
+            "courseName": "アカデミックスキルズII[BSCS20]",
+            "lecturer": [
+                "佐藤宏樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11119C08.json"
+        },
+        {
+            "lectureCode": "1112401",
+            "courseName": "サービスラーニングIII",
+            "lecturer": [
+                "佐藤宏樹",
+                "神子島健",
+                "中島敏博"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "null",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０１"
+            ],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/1112401.json"
+        }
+    ]
+}

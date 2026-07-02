@@ -1,0 +1,111 @@
+{
+    "filters": {
+        "lecturer": "松下優一",
+        "lecturerKey": "f8aeda8fd531"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "1109001",
+            "courseName": "社会学入門[合A]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2023\/02\/20",
+            "path": "\/api\/v1\/archive\/2023\/all\/1109001.json"
+        },
+        {
+            "lectureCode": "1109002",
+            "courseName": "社会学入門[合B]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "教養教育科目社会",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ５０２"
+            ],
+            "updateAt": "2023\/02\/20",
+            "path": "\/api\/v1\/archive\/2023\/all\/1109002.json"
+        },
+        {
+            "lectureCode": "11118B10",
+            "courseName": "アカデミックスキルズI[BS10]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０５"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11118B10.json"
+        },
+        {
+            "lectureCode": "11118C10",
+            "courseName": "アカデミックスキルズI[CS10]",
+            "lecturer": [
+                "松下優一"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟３０５"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11118C10.json"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "filters": {
+        "lecturer": "鈴木祥平",
+        "lecturerKey": "42cd57487287"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "M400123",
+            "courseName": "卒業研究I",
+            "lecturer": [
+                "松永信介",
+                "鈴木祥平"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/M400123.json"
+        },
+        {
+            "lectureCode": "GGM90214",
+            "courseName": "メディアサイエンス研究I",
+            "lecturer": [
+                "鈴木祥平"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/10\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM90214.json"
+        },
+        {
+            "lectureCode": "GGM90414",
+            "courseName": "メディアサイエンス研究III",
+            "lecturer": [
+                "鈴木祥平"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/10\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM90414.json"
+        },
+        {
+            "lectureCode": "GGM13001",
+            "courseName": "観光情報特論",
+            "lecturer": [
+                "鈴木祥平"
+            ],
+            "regularOrIntensive": "専門科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０４"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM13001.json"
+        }
+    ]
+}

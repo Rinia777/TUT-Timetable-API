@@ -1,0 +1,37 @@
+{
+    "filters": {
+        "lecturer": "坂田善政",
+        "lecturerKey": "e56c562ab40b"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W63305",
+            "courseName": "発声発語障害学III",
+            "lecturer": [
+                "坂田善政",
+                "生井友紀子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2",
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１９１１発声発語検査室"
+            ],
+            "updateAt": "2023\/02\/03",
+            "path": "\/api\/v1\/archive\/2023\/all\/W63305.json"
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "filters": {
+        "lecturer": "三上あかね",
+        "lecturerKey": "a136902225e9"
+    },
+    "count": 12,
+    "lectures": [
+        {
+            "lectureCode": "W540809",
+            "courseName": "卒業研究I[MT9]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W540809.json"
+        },
+        {
+            "lectureCode": "T2752",
+            "courseName": "フレッシャーズゼミ[臨検2]",
+            "lecturer": [
+                "三上あかね",
+                "宿利淳"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０７臨床検査実習室４"
+            ],
+            "updateAt": "2023\/03\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/T2752.json"
+        },
+        {
+            "lectureCode": "W54020",
+            "courseName": "臨床検査総合演習II",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火1",
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３１００３教室",
+                "３１０１３教室"
+            ],
+            "updateAt": "2023\/02\/16",
+            "path": "\/api\/v1\/archive\/2023\/all\/W54020.json"
+        },
+        {
+            "lectureCode": "W5213",
+            "courseName": "遺伝子検査学",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2023\/01\/19",
+            "path": "\/api\/v1\/archive\/2023\/all\/W5213.json"
+        },
+        {
+            "lectureCode": "W53100",
+            "courseName": "臨床検査総合演習I",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/16",
+            "path": "\/api\/v1\/archive\/2023\/all\/W53100.json"
+        },
+        {
+            "lectureCode": "W54030",
+            "courseName": "臨床検査総合演習III",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W54030.json"
+        },
+        {
+            "lectureCode": "W540909",
+            "courseName": "卒業研究II[MT9]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W540909.json"
+        },
+        {
+            "lectureCode": "T3150",
+            "courseName": "化学の世界[臨検]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "基礎教育科目自然科学",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部臨床検査学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０３１１教室"
+            ],
+            "updateAt": "2023\/02\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/T3150.json"
+        },
+        {
+            "lectureCode": "U5108",
+            "courseName": "検査機器総論（含む実習）",
+            "lecturer": [
+                "三上あかね",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義・実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2023\/01\/19",
+            "path": "\/api\/v1\/archive\/2023\/all\/U5108.json"
+        },
+        {
+            "lectureCode": "U5206",
+            "courseName": "公衆衛生学実習[臨検2021年以前]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月3",
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/19",
+            "path": "\/api\/v1\/archive\/2023\/all\/U5206.json"
+        },
+        {
+            "lectureCode": "W5211",
+            "courseName": "免疫検査学",
+            "lecturer": [
+                "三上あかね",
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2023\/01\/19",
+            "path": "\/api\/v1\/archive\/2023\/all\/W5211.json"
+        },
+        {
+            "lectureCode": "W5214",
+            "courseName": "遺伝子検査学実習",
+            "lecturer": [
+                "三上あかね",
+                "國枝泰希",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ３０７臨床検査実習室４",
+                "Ｍ３０８臨床検査実習室５"
+            ],
+            "updateAt": "2023\/01\/19",
+            "path": "\/api\/v1\/archive\/2023\/all\/W5214.json"
+        }
+    ]
+}

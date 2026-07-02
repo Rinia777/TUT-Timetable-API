@@ -1,0 +1,236 @@
+{
+    "filters": {
+        "lecturer": "伊藤公一",
+        "lecturerKey": "caba6c15236c"
+    },
+    "count": 9,
+    "lectures": [
+        {
+            "lectureCode": "W440508",
+            "courseName": "卒業研究I[OT8]",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440508.json"
+        },
+        {
+            "lectureCode": "W44208",
+            "courseName": "作業療法卒業研究[8]",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W44208.json"
+        },
+        {
+            "lectureCode": "W43240",
+            "courseName": "生活行為と作業療法演習[2019年以前]",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０９レクリエーション室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W43240.json"
+        },
+        {
+            "lectureCode": "W440608",
+            "courseName": "卒業研究II[OT8]",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440608.json"
+        },
+        {
+            "lectureCode": "W4404",
+            "courseName": "作業療法セミナー",
+            "lecturer": [
+                "伊藤公一",
+                "石橋仁美",
+                "酒井弘美",
+                "池田晋平",
+                "澤田辰徳",
+                "友利幸之介",
+                "大野勘太",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１８０４作業療法卒研室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W4404.json"
+        },
+        {
+            "lectureCode": "W62303",
+            "courseName": "発達と作業療法II",
+            "lecturer": [
+                "伊藤公一",
+                "友利幸之介"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "Ｍ５０９レクリエーション室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W62303.json"
+        },
+        {
+            "lectureCode": "W62206",
+            "courseName": "発達と作業療法I",
+            "lecturer": [
+                "伊藤公一"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W62206.json"
+        },
+        {
+            "lectureCode": "U62101",
+            "courseName": "人間発達学（作業療法）",
+            "lecturer": [
+                "伊藤公一",
+                "石橋仁美",
+                "中川和美"
+            ],
+            "regularOrIntensive": "専門基礎科目作業療法学基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ５１２多目的実習室"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/U62101.json"
+        },
+        {
+            "lectureCode": "W62102",
+            "courseName": "基礎作業学実習",
+            "lecturer": [
+                "伊藤公一",
+                "石橋仁美",
+                "中川和美",
+                "清家庸佑"
+            ],
+            "regularOrIntensive": "専門科目作業療法学応用",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木3",
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ６０５手工芸室",
+                "Ｍ６０６木工室"
+            ],
+            "updateAt": "2023\/01\/26",
+            "path": "\/api\/v1\/archive\/2023\/all\/W62102.json"
+        }
+    ]
+}

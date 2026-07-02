@@ -1,0 +1,61 @@
+{
+    "filters": {
+        "lecturer": "未定",
+        "lecturerKey": "befbe9146ca8"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "W1203",
+            "courseName": "ヘルスアセスメント",
+            "lecturer": [
+                "未定",
+                "西尾奈緒美",
+                "岩月すみ江",
+                "折坂真理"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1203.json"
+        },
+        {
+            "lectureCode": "11079K40",
+            "courseName": "フレッシャーズゼミ[※]",
+            "lecturer": [
+                "未定"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2024\/01\/12",
+            "path": "\/api\/v1\/archive\/2023\/all\/11079K40.json"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "filters": {
+        "lecturer": "迫西大輔",
+        "lecturerKey": "72c191468df1"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "T2751",
+            "courseName": "フレッシャーズゼミ[臨検1]",
+            "lecturer": [
+                "花尾麻美",
+                "迫西大輔"
+            ],
+            "regularOrIntensive": "基礎教育科目人間形成",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "Ｍ３０１臨床検査実習室２"
+            ],
+            "updateAt": "2023\/03\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/T2751.json"
+        }
+    ]
+}

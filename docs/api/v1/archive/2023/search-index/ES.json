@@ -1,0 +1,3792 @@
+{
+    "department": "ES",
+    "count": 404,
+    "lectures": [
+        {
+            "courseName": "3D機械設計製作[3Q火]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504601.json"
+        },
+        {
+            "courseName": "3D機械設計製作[3Q金]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504602.json"
+        },
+        {
+            "courseName": "3D機械設計製作[4Q火]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504603.json"
+        },
+        {
+            "courseName": "3D機械設計製作[4Q金]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504604.json"
+        },
+        {
+            "courseName": "3D機械設計製図[A]",
+            "lecturer": [
+                "上野祐樹",
+                "加藤太朗"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504501.json"
+        },
+        {
+            "courseName": "3D機械設計製図[B]",
+            "lecturer": [
+                "加藤太朗"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504502.json"
+        },
+        {
+            "courseName": "インターンシップII[化]",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/1105903.json"
+        },
+        {
+            "courseName": "インターンシップII[機]",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/1105901.json"
+        },
+        {
+            "courseName": "インターンシップII[電]",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/1105902.json"
+        },
+        {
+            "courseName": "インターンシップI[電]",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/1105802.json"
+        },
+        {
+            "courseName": "エネルギー工学",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603201.json"
+        },
+        {
+            "courseName": "オプトエレクトロニクス",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604201.json"
+        },
+        {
+            "courseName": "グリーンエネルギー",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603601.json"
+        },
+        {
+            "courseName": "コーオプ企業論",
+            "lecturer": [
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000101.json"
+        },
+        {
+            "courseName": "コーオプ実習A[1Q][化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000605.json"
+        },
+        {
+            "courseName": "コーオプ実習A[1Q][電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000603.json"
+        },
+        {
+            "courseName": "コーオプ実習A[2Q][化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000606.json"
+        },
+        {
+            "courseName": "コーオプ実習A[2Q][電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000604.json"
+        },
+        {
+            "courseName": "コーオプ実習A[3Q][機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000601.json"
+        },
+        {
+            "courseName": "コーオプ実習A[4Q][機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 8,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000602.json"
+        },
+        {
+            "courseName": "コーオプ実習B[化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000703.json"
+        },
+        {
+            "courseName": "コーオプ実習B[機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000701.json"
+        },
+        {
+            "courseName": "コーオプ実習B[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000702.json"
+        },
+        {
+            "courseName": "コーオプ実習C[化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000803.json"
+        },
+        {
+            "courseName": "コーオプ実習C[機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K0008011.json"
+        },
+        {
+            "courseName": "コーオプ実習C[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000802.json"
+        },
+        {
+            "courseName": "コーオプ演習III[化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000502.json"
+        },
+        {
+            "courseName": "コーオプ演習III[機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000501.json"
+        },
+        {
+            "courseName": "コーオプ演習III[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000503.json"
+        },
+        {
+            "courseName": "コーオプ演習II[化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000471.json"
+        },
+        {
+            "courseName": "コーオプ演習II[機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000401.json"
+        },
+        {
+            "courseName": "コーオプ演習II[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000431.json"
+        },
+        {
+            "courseName": "コーオプ演習I[10][電]",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000340.json"
+        },
+        {
+            "courseName": "コーオプ演習I[1][電]",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000331.json"
+        },
+        {
+            "courseName": "コーオプ演習I[2][電]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000332.json"
+        },
+        {
+            "courseName": "コーオプ演習I[3][電]",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000333.json"
+        },
+        {
+            "courseName": "コーオプ演習I[5][電]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000335.json"
+        },
+        {
+            "courseName": "コーオプ演習I[6][電]",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000336.json"
+        },
+        {
+            "courseName": "コーオプ演習I[7][電]",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000337.json"
+        },
+        {
+            "courseName": "コーオプ演習I[8][電]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000338.json"
+        },
+        {
+            "courseName": "コーオプ演習I[9][電]",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000339.json"
+        },
+        {
+            "courseName": "コーオプ演習I[化]",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000371.json"
+        },
+        {
+            "courseName": "コーオプ演習I[機]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "関口暁宣",
+                "古井光明",
+                "高橋秀智",
+                "大久保友雅",
+                "福島E文彦",
+                "上野祐樹",
+                "戸井朗人",
+                "禹珍碩",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000301.json"
+        },
+        {
+            "courseName": "サステイナブルエネルギー化学",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703501.json"
+        },
+        {
+            "courseName": "サステイナブル化学概論",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真",
+                "入谷康平",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K700401.json"
+        },
+        {
+            "courseName": "サステイナブル化学特別講義",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "江頭靖幸",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "原賢二",
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703601.json"
+        },
+        {
+            "courseName": "サステイナブル工学プロジェクト演習[A]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001301.json"
+        },
+        {
+            "courseName": "サステイナブル工学プロジェクト演習[B]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001302.json"
+        },
+        {
+            "courseName": "サステイナブル工学基礎[AB][化]",
+            "lecturer": [
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000271.json"
+        },
+        {
+            "courseName": "サステイナブル工学基礎[AB][機]",
+            "lecturer": [
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000201.json"
+        },
+        {
+            "courseName": "サステイナブル工学基礎[AB][電]",
+            "lecturer": [
+                "高橋秀智",
+                "木村康男",
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000231.json"
+        },
+        {
+            "courseName": "サステイナブル工学実習[1Q][化]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001205.json"
+        },
+        {
+            "courseName": "サステイナブル工学実習[1Q][電]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001203.json"
+        },
+        {
+            "courseName": "サステイナブル工学実習[2Q][化]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001206.json"
+        },
+        {
+            "courseName": "サステイナブル工学実習[2Q][電]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001204.json"
+        },
+        {
+            "courseName": "サステイナブル工学実習[3Q][機]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001201.json"
+        },
+        {
+            "courseName": "サステイナブル工学実習[4Q][機]",
+            "lecturer": [
+                "江頭靖幸",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001202.json"
+        },
+        {
+            "courseName": "サステイナブル応用化学",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703201.json"
+        },
+        {
+            "courseName": "サステイナブル材料化学",
+            "lecturer": [
+                "山下俊"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703401.json"
+        },
+        {
+            "courseName": "サステイナブル機械材料",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504401.json"
+        },
+        {
+            "courseName": "サステイナブル機械設計",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502701.json"
+        },
+        {
+            "courseName": "サステイナブル環境化学",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703301.json"
+        },
+        {
+            "courseName": "サステイナブル生産技術",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503201.json"
+        },
+        {
+            "courseName": "サステイナブル電気電子",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603401.json"
+        },
+        {
+            "courseName": "システム制御基礎",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502401.json"
+        },
+        {
+            "courseName": "システム工学",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502601.json"
+        },
+        {
+            "courseName": "システム工学",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603301.json"
+        },
+        {
+            "courseName": "センサー工学",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K602701.json"
+        },
+        {
+            "courseName": "ディジタル回路",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K602901.json"
+        },
+        {
+            "courseName": "パワーエレクトロニクス",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603801.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[10]",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K10.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[1]",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K01.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[1]",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K31.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[1]",
+            "lecturer": [
+                "山下俊",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K71.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[2]",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K02.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[2]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K32.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[2]",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K72.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[3]",
+            "lecturer": [
+                "野田龍介"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K03.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[3]",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K33.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[3]",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K73.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[4]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K04.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[4]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K34.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[4]",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K74.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[5]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K05.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[5]",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K35.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[5]",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K75.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[6]",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K06.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[6]",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K36.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[6]",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K76.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[7]",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K07.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[7]",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K37.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[7]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K77.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[8]",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K08.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[8]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K38.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[8]",
+            "lecturer": [
+                "上野聡"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K78.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[9]",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K09.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[9]",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K39.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[9]",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K79.json"
+        },
+        {
+            "courseName": "フレッシャーズゼミ[※]",
+            "lecturer": [
+                "未定"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11079K40.json"
+        },
+        {
+            "courseName": "フーリエ解析",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K100601.json"
+        },
+        {
+            "courseName": "プログラミング",
+            "lecturer": [
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701001.json"
+        },
+        {
+            "courseName": "プログラミング基礎(M)[A]",
+            "lecturer": [
+                "加藤太朗"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501501.json"
+        },
+        {
+            "courseName": "プログラミング基礎(M)[B]",
+            "lecturer": [
+                "加藤太朗"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501502.json"
+        },
+        {
+            "courseName": "プログラミング基礎（E）",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601101.json"
+        },
+        {
+            "courseName": "プログラミング応用(E)",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601201.json"
+        },
+        {
+            "courseName": "プログラミング応用(M)",
+            "lecturer": [
+                "戸井朗人",
+                "加藤太朗"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501401.json"
+        },
+        {
+            "courseName": "プロセス工学",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604001.json"
+        },
+        {
+            "courseName": "マイクロコントローラ実習[3Q火]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503801.json"
+        },
+        {
+            "courseName": "マイクロコントローラ実習[3Q金]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503802.json"
+        },
+        {
+            "courseName": "マイクロコントローラ実習[4Q火]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503803.json"
+        },
+        {
+            "courseName": "マイクロコントローラ実習[4Q金]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503804.json"
+        },
+        {
+            "courseName": "マイクロプロセッサ",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604101.json"
+        },
+        {
+            "courseName": "ロボット知能学",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503001.json"
+        },
+        {
+            "courseName": "ロボット運動学",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502501.json"
+        },
+        {
+            "courseName": "信号処理",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K602401.json"
+        },
+        {
+            "courseName": "信頼性工学",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K100401.json"
+        },
+        {
+            "courseName": "光化学",
+            "lecturer": [
+                "山下俊"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K702701.json"
+        },
+        {
+            "courseName": "分析化学",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701801.json"
+        },
+        {
+            "courseName": "制御システム設計",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502901.json"
+        },
+        {
+            "courseName": "創成課題[10]",
+            "lecturer": [
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504110.json"
+        },
+        {
+            "courseName": "創成課題[10]",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605310.json"
+        },
+        {
+            "courseName": "創成課題[1]",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504101.json"
+        },
+        {
+            "courseName": "創成課題[1]",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605301.json"
+        },
+        {
+            "courseName": "創成課題[1]",
+            "lecturer": [
+                "山下俊"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7042011.json"
+        },
+        {
+            "courseName": "創成課題[2]",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504102.json"
+        },
+        {
+            "courseName": "創成課題[2]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605302.json"
+        },
+        {
+            "courseName": "創成課題[2]",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704202.json"
+        },
+        {
+            "courseName": "創成課題[3]",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504103.json"
+        },
+        {
+            "courseName": "創成課題[3]",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605303.json"
+        },
+        {
+            "courseName": "創成課題[3]",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704203.json"
+        },
+        {
+            "courseName": "創成課題[4]",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504104.json"
+        },
+        {
+            "courseName": "創成課題[4]",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704204.json"
+        },
+        {
+            "courseName": "創成課題[5]",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504105.json"
+        },
+        {
+            "courseName": "創成課題[5]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605305.json"
+        },
+        {
+            "courseName": "創成課題[5]",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704205.json"
+        },
+        {
+            "courseName": "創成課題[6]",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504106.json"
+        },
+        {
+            "courseName": "創成課題[6]",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605306.json"
+        },
+        {
+            "courseName": "創成課題[6]",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704206.json"
+        },
+        {
+            "courseName": "創成課題[7]",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504107.json"
+        },
+        {
+            "courseName": "創成課題[7]",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605307.json"
+        },
+        {
+            "courseName": "創成課題[7]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704207.json"
+        },
+        {
+            "courseName": "創成課題[8]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504108.json"
+        },
+        {
+            "courseName": "創成課題[8]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605308.json"
+        },
+        {
+            "courseName": "創成課題[8]",
+            "lecturer": [
+                "上野聡"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704208.json"
+        },
+        {
+            "courseName": "創成課題[9]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504109.json"
+        },
+        {
+            "courseName": "創成課題[9]",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605309.json"
+        },
+        {
+            "courseName": "創成課題[9]",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704209.json"
+        },
+        {
+            "courseName": "加工学",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502301.json"
+        },
+        {
+            "courseName": "化学基礎",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "原賢二",
+                "入谷康平",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K700301.json"
+        },
+        {
+            "courseName": "化学基礎演習[1]",
+            "lecturer": [
+                "山下俊",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K700901.json"
+        },
+        {
+            "courseName": "化学基礎演習[2]",
+            "lecturer": [
+                "高橋昌男",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K700902.json"
+        },
+        {
+            "courseName": "化学基礎演習[3]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K700903.json"
+        },
+        {
+            "courseName": "化学工学",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K702001.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504201.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504202.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504203.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504204.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504205.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504206.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504207.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504208.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504209.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504210.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605401.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605402.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605403.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605404.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605405.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605406.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605407.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605408.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605409.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605410.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "山下俊"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704301.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704302.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704303.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704304.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704305.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704306.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704307.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "上野聡"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704308.json"
+        },
+        {
+            "courseName": "卒業課題I",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704309.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504301.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504302.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504303.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504304.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504305.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504306.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504307.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504308.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504309.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504310.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605501.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605502.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605503.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605504.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605505.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605506.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605507.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605508.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605509.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605510.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "山下俊"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704401.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704402.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704403.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704404.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704405.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704406.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704407.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "上野聡"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704408.json"
+        },
+        {
+            "courseName": "卒業課題II",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704409.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043011.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043021.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043031.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043041.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043051.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043061.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043071.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043081.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043091.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5043101.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6055011.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6055021.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6055031.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6055041.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6055051.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6055061.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6055071.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6055081.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6055091.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "山下俊"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7044011.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7044021.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7044031.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7044041.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7044051.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7044061.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7044071.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "上野聡"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7044081.json"
+        },
+        {
+            "courseName": "卒業課題II[前期]",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7044091.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "余錦華"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042011.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042021.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042031.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042041.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042051.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042061.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042071.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042081.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042091.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K5042101.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6054011.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6054021.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6054031.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6054041.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6054051.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6054061.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6054071.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6054081.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K6054091.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "山下俊"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7043011.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7043021.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7043031.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "江頭靖幸"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7043041.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7043051.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7043061.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7043071.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "上野聡"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7043081.json"
+        },
+        {
+            "courseName": "卒業課題I[後期]",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 4,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K7043091.json"
+        },
+        {
+            "courseName": "地域連携課題[1Q][化]",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000905.json"
+        },
+        {
+            "courseName": "地域連携課題[1Q][電]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000903.json"
+        },
+        {
+            "courseName": "地域連携課題[2Q][化]",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000906.json"
+        },
+        {
+            "courseName": "地域連携課題[2Q][電]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000904.json"
+        },
+        {
+            "courseName": "地域連携課題[3Q][機]",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000901.json"
+        },
+        {
+            "courseName": "地域連携課題[4Q][機]",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K000902.json"
+        },
+        {
+            "courseName": "基礎力学",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K100101.json"
+        },
+        {
+            "courseName": "安全工学",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K100301.json"
+        },
+        {
+            "courseName": "工学基礎実験(M)[A]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501601.json"
+        },
+        {
+            "courseName": "工学基礎実験(M)[B]",
+            "lecturer": [
+                "関口暁宣",
+                "大久保友雅",
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501602.json"
+        },
+        {
+            "courseName": "工学基礎実験I(C)",
+            "lecturer": [
+                "須磨岡淳",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701101.json"
+        },
+        {
+            "courseName": "工学基礎実験I(E)[A]",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601401.json"
+        },
+        {
+            "courseName": "工学基礎実験I(E)[B]",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601402.json"
+        },
+        {
+            "courseName": "工学基礎実験II(C)a",
+            "lecturer": [
+                "江頭靖幸",
+                "原賢二",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701201.json"
+        },
+        {
+            "courseName": "工学基礎実験II(C)b",
+            "lecturer": [
+                "江頭靖幸",
+                "原賢二",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701202.json"
+        },
+        {
+            "courseName": "工学基礎実験II(E)[A]",
+            "lecturer": [
+                "黒川弘章",
+                "小原翔馬"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601501.json"
+        },
+        {
+            "courseName": "工学基礎実験II(E)[B]",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601502.json"
+        },
+        {
+            "courseName": "工学英語A[1Q1限：シルベスター，M]",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001005.json"
+        },
+        {
+            "courseName": "工学英語A[1Q1限：岩渕]",
+            "lecturer": [
+                "岩渕誠"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001001.json"
+        },
+        {
+            "courseName": "工学英語A[1Q2限：シルベスター，M]",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001006.json"
+        },
+        {
+            "courseName": "工学英語A[1Q2限：岩渕]",
+            "lecturer": [
+                "岩渕誠"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001002.json"
+        },
+        {
+            "courseName": "工学英語A[2Q1限：シルベスター，M]",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001007.json"
+        },
+        {
+            "courseName": "工学英語A[2Q1限：岩渕]",
+            "lecturer": [
+                "岩渕誠"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001003.json"
+        },
+        {
+            "courseName": "工学英語A[2Q2限：シルベスター，M]",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001008.json"
+        },
+        {
+            "courseName": "工学英語A[2Q2限：岩渕]",
+            "lecturer": [
+                "岩渕誠"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001004.json"
+        },
+        {
+            "courseName": "工学英語A[3Q1][機]",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001051.json"
+        },
+        {
+            "courseName": "工学英語A[3Q2][機]",
+            "lecturer": [
+                "岩渕誠"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001052.json"
+        },
+        {
+            "courseName": "工学英語A[4Q1][機]",
+            "lecturer": [
+                "シルベスター，M"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001053.json"
+        },
+        {
+            "courseName": "工学英語A[4Q2][機]",
+            "lecturer": [
+                "岩渕誠"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001054.json"
+        },
+        {
+            "courseName": "工学英語B[1Q1限：徳田]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001101.json"
+        },
+        {
+            "courseName": "工学英語B[1Q1限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001105.json"
+        },
+        {
+            "courseName": "工学英語B[1Q2限：徳田]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001102.json"
+        },
+        {
+            "courseName": "工学英語B[1Q2限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001106.json"
+        },
+        {
+            "courseName": "工学英語B[2Q1限：徳田]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001103.json"
+        },
+        {
+            "courseName": "工学英語B[2Q1限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001107.json"
+        },
+        {
+            "courseName": "工学英語B[2Q2限：徳田]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001104.json"
+        },
+        {
+            "courseName": "工学英語B[2Q2限：浦]",
+            "lecturer": [
+                "浦聡美"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001108.json"
+        },
+        {
+            "courseName": "工学英語B[3Q木][機]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001152.json"
+        },
+        {
+            "courseName": "工学英語B[3Q火][機]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001151.json"
+        },
+        {
+            "courseName": "工学英語B[4Q木][機]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001154.json"
+        },
+        {
+            "courseName": "工学英語B[4Q火][機]",
+            "lecturer": [
+                "徳田皇毅"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K001153.json"
+        },
+        {
+            "courseName": "工業物理化学",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703001.json"
+        },
+        {
+            "courseName": "微分方程式",
+            "lecturer": [
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K500901.json"
+        },
+        {
+            "courseName": "微分積分",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K700101.json"
+        },
+        {
+            "courseName": "微分積分I",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K500201.json"
+        },
+        {
+            "courseName": "微分積分I",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K600101.json"
+        },
+        {
+            "courseName": "微分積分II",
+            "lecturer": [
+                "松永栄一",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K500301.json"
+        },
+        {
+            "courseName": "微分積分II",
+            "lecturer": [
+                "中払周"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K600201.json"
+        },
+        {
+            "courseName": "応用化学実験I",
+            "lecturer": [
+                "山下俊",
+                "高橋昌男",
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703901.json"
+        },
+        {
+            "courseName": "応用化学実験II",
+            "lecturer": [
+                "森本樹",
+                "上野聡",
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704001.json"
+        },
+        {
+            "courseName": "応用化学実験III[a]",
+            "lecturer": [
+                "高橋昌男",
+                "須磨岡淳",
+                "西尾和之",
+                "森本樹",
+                "上野聡",
+                "片桐利真",
+                "藤田隆史"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704101.json"
+        },
+        {
+            "courseName": "応用化学実験III[b]",
+            "lecturer": [
+                "山下俊",
+                "江頭靖幸",
+                "原賢二",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704102.json"
+        },
+        {
+            "courseName": "情報リテラシー[化]",
+            "lecturer": [
+                "上野聡"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11040K7.json"
+        },
+        {
+            "courseName": "情報リテラシー[機]",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11040K5.json"
+        },
+        {
+            "courseName": "情報リテラシー[電]",
+            "lecturer": [
+                "天野直紀"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11040K6.json"
+        },
+        {
+            "courseName": "情報リテラシー演習[化]",
+            "lecturer": [
+                "上野聡"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11041K7.json"
+        },
+        {
+            "courseName": "情報リテラシー演習[機]",
+            "lecturer": [
+                "加藤太朗"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/1104101.json"
+        },
+        {
+            "courseName": "情報リテラシー演習[電]",
+            "lecturer": [
+                "黒川弘章",
+                "小原翔馬"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11041K61.json"
+        },
+        {
+            "courseName": "放射線化学",
+            "lecturer": [
+                "須磨岡淳"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K702801.json"
+        },
+        {
+            "courseName": "数学基礎[ES]",
+            "lecturer": [
+                "松永栄一"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11043K2.json"
+        },
+        {
+            "courseName": "数学概論[ES1]",
+            "lecturer": [
+                "高津大樹"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11042K1.json"
+        },
+        {
+            "courseName": "数学概論[ES2]",
+            "lecturer": [
+                "亀井聡"
+            ],
+            "regularOrIntensive": "教養教育科目情報・数理・自然科学",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/11042K2.json"
+        },
+        {
+            "courseName": "有機化学I",
+            "lecturer": [
+                "上野聡",
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701301.json"
+        },
+        {
+            "courseName": "有機化学II",
+            "lecturer": [
+                "上野聡",
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701401.json"
+        },
+        {
+            "courseName": "有機化学演習[1Q]",
+            "lecturer": [
+                "須磨岡淳",
+                "上野聡"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703701.json"
+        },
+        {
+            "courseName": "有機化学演習[2Q]",
+            "lecturer": [
+                "須磨岡淳",
+                "上野聡"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703702.json"
+        },
+        {
+            "courseName": "有機合成化学",
+            "lecturer": [
+                "上野聡",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K702901.json"
+        },
+        {
+            "courseName": "有機工業化学",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K704501.json"
+        },
+        {
+            "courseName": "材料力学",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501801.json"
+        },
+        {
+            "courseName": "機械創造基礎[A]",
+            "lecturer": [
+                "高橋秀智",
+                "福島E文彦",
+                "上野祐樹",
+                "禹珍碩",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503401.json"
+        },
+        {
+            "courseName": "機械創造基礎[B]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "関口暁宣",
+                "古井光明",
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503402.json"
+        },
+        {
+            "courseName": "機械創造応用[一般]F",
+            "lecturer": [
+                "三田俊裕",
+                "古井光明",
+                "高橋秀智",
+                "福島E文彦",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503503.json"
+        },
+        {
+            "courseName": "機械創造応用[一般]T",
+            "lecturer": [
+                "余錦華",
+                "関口暁宣",
+                "大久保友雅",
+                "福島E文彦",
+                "禹珍碩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503502.json"
+        },
+        {
+            "courseName": "機械創造応用[挑戦]",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503501.json"
+        },
+        {
+            "courseName": "機械力学",
+            "lecturer": [
+                "福島E文彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502001.json"
+        },
+        {
+            "courseName": "機械工学基礎実験[A]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "関口暁宣",
+                "古井光明",
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503901.json"
+        },
+        {
+            "courseName": "機械工学基礎実験[B]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "関口暁宣",
+                "古井光明",
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503902.json"
+        },
+        {
+            "courseName": "機械工学応用実験[A]",
+            "lecturer": [
+                "高橋秀智",
+                "福島E文彦",
+                "上野祐樹",
+                "禹珍碩",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504001.json"
+        },
+        {
+            "courseName": "機械工学応用実験[B]",
+            "lecturer": [
+                "高橋秀智",
+                "福島E文彦",
+                "上野祐樹",
+                "禹珍碩",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K504002.json"
+        },
+        {
+            "courseName": "機械工学特別講義I",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502801.json"
+        },
+        {
+            "courseName": "機械工学特別講義II",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503301.json"
+        },
+        {
+            "courseName": "機構学",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501701.json"
+        },
+        {
+            "courseName": "流体力学",
+            "lecturer": [
+                "三田俊裕"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502101.json"
+        },
+        {
+            "courseName": "無機化学",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701701.json"
+        },
+        {
+            "courseName": "無機工業化学",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703101.json"
+        },
+        {
+            "courseName": "熱力学",
+            "lecturer": [
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K502201.json"
+        },
+        {
+            "courseName": "物理化学I",
+            "lecturer": [
+                "高橋昌男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701501.json"
+        },
+        {
+            "courseName": "物理化学II",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701601.json"
+        },
+        {
+            "courseName": "物理化学演習[1Q]",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703801.json"
+        },
+        {
+            "courseName": "物理化学演習[2Q]",
+            "lecturer": [
+                "森本樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K703802.json"
+        },
+        {
+            "courseName": "生物化学",
+            "lecturer": [
+                "須磨岡淳",
+                "入谷康平"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K702201.json"
+        },
+        {
+            "courseName": "界面化学",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K702501.json"
+        },
+        {
+            "courseName": "発変電工学",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603501.json"
+        },
+        {
+            "courseName": "知的財産権",
+            "lecturer": [
+                "北山高雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K100501.json"
+        },
+        {
+            "courseName": "確率と統計[A]",
+            "lecturer": [
+                "古井光明"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K100201.json"
+        },
+        {
+            "courseName": "確率と統計[B]",
+            "lecturer": [
+                "木下俊之"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K100202.json"
+        },
+        {
+            "courseName": "線形代数(C)",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K700201.json"
+        },
+        {
+            "courseName": "線形代数(E)",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K600301.json"
+        },
+        {
+            "courseName": "線形代数(M)",
+            "lecturer": [
+                "関口暁宣"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K500401.json"
+        },
+        {
+            "courseName": "触媒化学",
+            "lecturer": [
+                "原賢二"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K702101.json"
+        },
+        {
+            "courseName": "計測工学",
+            "lecturer": [
+                "高橋秀智"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501901.json"
+        },
+        {
+            "courseName": "計算力学",
+            "lecturer": [
+                "大久保友雅"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K503101.json"
+        },
+        {
+            "courseName": "計算機工学",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K602601.json"
+        },
+        {
+            "courseName": "論理回路",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K602301.json"
+        },
+        {
+            "courseName": "送電システム",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603701.json"
+        },
+        {
+            "courseName": "通信システム",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604301.json"
+        },
+        {
+            "courseName": "通信工学",
+            "lecturer": [
+                "坪川宏"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K602801.json"
+        },
+        {
+            "courseName": "量子化学",
+            "lecturer": [
+                "片桐利真"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K702601.json"
+        },
+        {
+            "courseName": "集積回路",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603901.json"
+        },
+        {
+            "courseName": "電子デバイス",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K602501.json"
+        },
+        {
+            "courseName": "電子回路I",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601801.json"
+        },
+        {
+            "courseName": "電子回路II",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601901.json"
+        },
+        {
+            "courseName": "電子回路演習II",
+            "lecturer": [
+                "前田就彦",
+                "小原翔馬"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604901.json"
+        },
+        {
+            "courseName": "電子回路演習I[AB]",
+            "lecturer": [
+                "木村康男"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604801.json"
+        },
+        {
+            "courseName": "電子回路設計",
+            "lecturer": [
+                "黒川弘章"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603001.json"
+        },
+        {
+            "courseName": "電子物性",
+            "lecturer": [
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K602201.json"
+        },
+        {
+            "courseName": "電気化学",
+            "lecturer": [
+                "西尾和之"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K702401.json"
+        },
+        {
+            "courseName": "電気回路I",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601601.json"
+        },
+        {
+            "courseName": "電気回路II",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601701.json"
+        },
+        {
+            "courseName": "電気回路演習II",
+            "lecturer": [
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604701.json"
+        },
+        {
+            "courseName": "電気回路演習I[A]",
+            "lecturer": [
+                "荒川貴博",
+                "小原翔馬"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604601.json"
+        },
+        {
+            "courseName": "電気回路演習I[B]",
+            "lecturer": [
+                "荒川貴博",
+                "小原翔馬"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604602.json"
+        },
+        {
+            "courseName": "電気数学",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K600401.json"
+        },
+        {
+            "courseName": "電気数学演習",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K601301.json"
+        },
+        {
+            "courseName": "電気機器",
+            "lecturer": [
+                "高木茂行"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K603101.json"
+        },
+        {
+            "courseName": "電気法規と電気施設管理",
+            "lecturer": [
+                "田代洋一郎"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604401.json"
+        },
+        {
+            "courseName": "電気磁気学I",
+            "lecturer": [
+                "鶴岡誠"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605601.json"
+        },
+        {
+            "courseName": "電気磁気学II",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605701.json"
+        },
+        {
+            "courseName": "電気電子回路I",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501201.json"
+        },
+        {
+            "courseName": "電気電子回路II",
+            "lecturer": [
+                "上野祐樹"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K501301.json"
+        },
+        {
+            "courseName": "電気電子工学実験I",
+            "lecturer": [
+                "天野直紀",
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605001.json"
+        },
+        {
+            "courseName": "電気電子工学実験II",
+            "lecturer": [
+                "高木茂行",
+                "新海健"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605101.json"
+        },
+        {
+            "courseName": "電気電子工学実験III[1Q]",
+            "lecturer": [
+                "木村康男",
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605201.json"
+        },
+        {
+            "courseName": "電気電子工学実験III[2Q]",
+            "lecturer": [
+                "木村康男",
+                "前田就彦"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 3,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K605202.json"
+        },
+        {
+            "courseName": "電気電子計測",
+            "lecturer": [
+                "荒川貴博"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K602101.json"
+        },
+        {
+            "courseName": "電波法規",
+            "lecturer": [
+                "鈴木昭浩"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K604501.json"
+        },
+        {
+            "courseName": "高分子化学",
+            "lecturer": [
+                "山下俊"
+            ],
+            "regularOrIntensive": "専門教育科目専門",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/ES\/K701901.json"
+        }
+    ]
+}

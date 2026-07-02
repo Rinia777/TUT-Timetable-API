@@ -1,0 +1,105 @@
+{
+    "filters": {
+        "lecturer": "閔由眞",
+        "lecturerKey": "436aefa3848e"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11102M04",
+            "courseName": "IntegratedEnglishIII[A4]MS",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11102M04.json"
+        },
+        {
+            "lectureCode": "11102M11",
+            "courseName": "IntegratedEnglishIII[B4]MS",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11102M11.json"
+        },
+        {
+            "lectureCode": "11103M11",
+            "courseName": "IntegratedEnglishIV[B4]MS",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11103M11.json"
+        },
+        {
+            "lectureCode": "11103M04",
+            "courseName": "IntegratedEnglishIV[A4]MS",
+            "lecturer": [
+                "閔由眞"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０４"
+            ],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/11103M04.json"
+        }
+    ]
+}

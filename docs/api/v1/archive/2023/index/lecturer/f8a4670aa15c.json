@@ -1,0 +1,60 @@
+{
+    "filters": {
+        "lecturer": "大場一央",
+        "lecturerKey": "f8a4670aa15c"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "W63103",
+            "courseName": "ベーシックセミナーI",
+            "lecturer": [
+                "大場一央"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/W63103.json"
+        },
+        {
+            "lectureCode": "U60209",
+            "courseName": "文章表現リテラシー",
+            "lecturer": [
+                "大場一央"
+            ],
+            "regularOrIntensive": "専門基礎科目共通",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/U60209.json"
+        }
+    ]
+}

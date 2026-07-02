@@ -1,0 +1,614 @@
+{
+    "filters": {
+        "lecturer": "戸井朗人",
+        "lecturerKey": "fe2bfc98ab64"
+    },
+    "count": 24,
+    "lectures": [
+        {
+            "lectureCode": "1112701",
+            "courseName": "コーオプII",
+            "lecturer": [
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科,メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/31",
+            "path": "\/api\/v1\/archive\/2023\/all\/1112701.json"
+        },
+        {
+            "lectureCode": "K000603",
+            "courseName": "コーオプ実習A[1Q][電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 8,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000603.json"
+        },
+        {
+            "lectureCode": "K000604",
+            "courseName": "コーオプ実習A[2Q][電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 8,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000604.json"
+        },
+        {
+            "lectureCode": "K000605",
+            "courseName": "コーオプ実習A[1Q][化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 8,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000605.json"
+        },
+        {
+            "lectureCode": "K000606",
+            "courseName": "コーオプ実習A[2Q][化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 8,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000606.json"
+        },
+        {
+            "lectureCode": "K000701",
+            "courseName": "コーオプ実習B[機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000701.json"
+        },
+        {
+            "lectureCode": "K000702",
+            "courseName": "コーオプ実習B[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000702.json"
+        },
+        {
+            "lectureCode": "K000703",
+            "courseName": "コーオプ実習B[化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000703.json"
+        },
+        {
+            "lectureCode": "K000501",
+            "courseName": "コーオプ演習III[機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０１",
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000501.json"
+        },
+        {
+            "lectureCode": "K000401",
+            "courseName": "コーオプ演習II[機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２",
+                "講義実験棟１０３",
+                "講義実験棟１０４",
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000401.json"
+        },
+        {
+            "lectureCode": "K500901",
+            "courseName": "微分方程式",
+            "lecturer": [
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０３"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K500901.json"
+        },
+        {
+            "lectureCode": "K501401",
+            "courseName": "プログラミング応用(M)",
+            "lecturer": [
+                "戸井朗人",
+                "加藤太朗"
+            ],
+            "regularOrIntensive": "専門教育科目専門基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "研究棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/K501401.json"
+        },
+        {
+            "lectureCode": "1112601",
+            "courseName": "コーオプI",
+            "lecturer": [
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "応用生物学部,コンピュータサイエンス学部,メディア学部",
+            "targetGrade": [
+                "2年",
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/31",
+            "path": "\/api\/v1\/archive\/2023\/all\/1112601.json"
+        },
+        {
+            "lectureCode": "K000601",
+            "courseName": "コーオプ実習A[3Q][機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 8,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000601.json"
+        },
+        {
+            "lectureCode": "K000602",
+            "courseName": "コーオプ実習A[4Q][機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 8,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000602.json"
+        },
+        {
+            "lectureCode": "K0008011",
+            "courseName": "コーオプ実習C[機]",
+            "lecturer": [
+                "福島E文彦",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K0008011.json"
+        },
+        {
+            "lectureCode": "K000802",
+            "courseName": "コーオプ実習C[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000802.json"
+        },
+        {
+            "lectureCode": "K000803",
+            "courseName": "コーオプ実習C[化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000803.json"
+        },
+        {
+            "lectureCode": "K000431",
+            "courseName": "コーオプ演習II[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000431.json"
+        },
+        {
+            "lectureCode": "K000101",
+            "courseName": "コーオプ企業論",
+            "lecturer": [
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部機械工学科,工学部電気電子工学科,工学部応用化学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "メディアホール"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000101.json"
+        },
+        {
+            "lectureCode": "K000471",
+            "courseName": "コーオプ演習II[化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000471.json"
+        },
+        {
+            "lectureCode": "K000502",
+            "courseName": "コーオプ演習III[化]",
+            "lecturer": [
+                "須磨岡淳",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "工学部応用化学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000502.json"
+        },
+        {
+            "lectureCode": "K000503",
+            "courseName": "コーオプ演習III[電]",
+            "lecturer": [
+                "新海健",
+                "戸井朗人"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "工学部電気電子工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０２",
+                "講義実験棟１０３",
+                "講義実験棟１０４"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000503.json"
+        },
+        {
+            "lectureCode": "K000301",
+            "courseName": "コーオプ演習I[機]",
+            "lecturer": [
+                "余錦華",
+                "三田俊裕",
+                "関口暁宣",
+                "古井光明",
+                "高橋秀智",
+                "大久保友雅",
+                "福島E文彦",
+                "上野祐樹",
+                "戸井朗人",
+                "禹珍碩",
+                "野田龍介"
+            ],
+            "regularOrIntensive": "専門教育科目学部共通",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "工学部機械工学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟１０１",
+                "講義実験棟１０３",
+                "講義実験棟２０１",
+                "講義実験棟２０２"
+            ],
+            "updateAt": "2023\/01\/06",
+            "path": "\/api\/v1\/archive\/2023\/all\/K000301.json"
+        }
+    ]
+}

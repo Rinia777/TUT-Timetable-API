@@ -1,0 +1,899 @@
+{
+    "department": "HSH5",
+    "count": 88,
+    "lectures": [
+        {
+            "courseName": "チーム医療概論",
+            "lecturer": [
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53110.json"
+        },
+        {
+            "courseName": "一般検査学・寄生虫学",
+            "lecturer": [
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5103.json"
+        },
+        {
+            "courseName": "一般検査学・寄生虫学実習",
+            "lecturer": [
+                "岡崎充宏",
+                "奥橋佑基",
+                "國枝泰希",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5209.json"
+        },
+        {
+            "courseName": "保健医療福祉総論[臨検]",
+            "lecturer": [
+                "今村倫敦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U54020.json"
+        },
+        {
+            "courseName": "健康食品総論",
+            "lecturer": [
+                "栗原由利子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W54050.json"
+        },
+        {
+            "courseName": "先端医療総合講義[臨検]",
+            "lecturer": [
+                "篠原一彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W54070.json"
+        },
+        {
+            "courseName": "免疫検査学",
+            "lecturer": [
+                "三上あかね",
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5211.json"
+        },
+        {
+            "courseName": "免疫検査学実習",
+            "lecturer": [
+                "廣田雅子",
+                "奥橋佑基",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53070.json"
+        },
+        {
+            "courseName": "公衆衛生学[臨検]",
+            "lecturer": [
+                "川又紀彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5202.json"
+        },
+        {
+            "courseName": "公衆衛生学実習[臨検2021年以前]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5206.json"
+        },
+        {
+            "courseName": "医動物学（含む実習）[2021年以前]",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5221.json"
+        },
+        {
+            "courseName": "医学概論[臨検]",
+            "lecturer": [
+                "中山孝"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5107.json"
+        },
+        {
+            "courseName": "医用工学実習",
+            "lecturer": [
+                "兵後充史",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5204.json"
+        },
+        {
+            "courseName": "医用工学概論",
+            "lecturer": [
+                "佐々木聰"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5203.json"
+        },
+        {
+            "courseName": "医療リスクマネジメント",
+            "lecturer": [
+                "横田浩充",
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U54010.json"
+        },
+        {
+            "courseName": "医療情報処理演習II",
+            "lecturer": [
+                "奥橋佑基",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W54040.json"
+        },
+        {
+            "courseName": "医療情報処理演習I[2021年以前]",
+            "lecturer": [
+                "奥橋佑基",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5222.json"
+        },
+        {
+            "courseName": "卒業研究II[MT10]",
+            "lecturer": [
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540910.json"
+        },
+        {
+            "courseName": "卒業研究II[MT11]",
+            "lecturer": [
+                "吉田祥子",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540911.json"
+        },
+        {
+            "courseName": "卒業研究II[MT1]",
+            "lecturer": [
+                "榎本みのり"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540901.json"
+        },
+        {
+            "courseName": "卒業研究II[MT2]",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540902.json"
+        },
+        {
+            "courseName": "卒業研究II[MT3]",
+            "lecturer": [
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540903.json"
+        },
+        {
+            "courseName": "卒業研究II[MT4]",
+            "lecturer": [
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540904.json"
+        },
+        {
+            "courseName": "卒業研究II[MT5]",
+            "lecturer": [
+                "栗原由利子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540905.json"
+        },
+        {
+            "courseName": "卒業研究II[MT6]",
+            "lecturer": [
+                "佐々木聰"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540906.json"
+        },
+        {
+            "courseName": "卒業研究II[MT7]",
+            "lecturer": [
+                "花尾麻美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540907.json"
+        },
+        {
+            "courseName": "卒業研究II[MT8]",
+            "lecturer": [
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540908.json"
+        },
+        {
+            "courseName": "卒業研究II[MT9]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540909.json"
+        },
+        {
+            "courseName": "卒業研究I[MT10]",
+            "lecturer": [
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540810.json"
+        },
+        {
+            "courseName": "卒業研究I[MT11]",
+            "lecturer": [
+                "吉田祥子",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540811.json"
+        },
+        {
+            "courseName": "卒業研究I[MT1]",
+            "lecturer": [
+                "榎本みのり"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540801.json"
+        },
+        {
+            "courseName": "卒業研究I[MT2]",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540802.json"
+        },
+        {
+            "courseName": "卒業研究I[MT3]",
+            "lecturer": [
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540803.json"
+        },
+        {
+            "courseName": "卒業研究I[MT4]",
+            "lecturer": [
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540804.json"
+        },
+        {
+            "courseName": "卒業研究I[MT5]",
+            "lecturer": [
+                "栗原由利子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540805.json"
+        },
+        {
+            "courseName": "卒業研究I[MT6]",
+            "lecturer": [
+                "佐々木聰"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540806.json"
+        },
+        {
+            "courseName": "卒業研究I[MT7]",
+            "lecturer": [
+                "花尾麻美"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540807.json"
+        },
+        {
+            "courseName": "卒業研究I[MT8]",
+            "lecturer": [
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540808.json"
+        },
+        {
+            "courseName": "卒業研究I[MT9]",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W540809.json"
+        },
+        {
+            "courseName": "基礎微生物学",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5106.json"
+        },
+        {
+            "courseName": "基礎病理学",
+            "lecturer": [
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5105.json"
+        },
+        {
+            "courseName": "微生物検査学I",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5104.json"
+        },
+        {
+            "courseName": "微生物検査学II",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5105.json"
+        },
+        {
+            "courseName": "微生物検査学実習I",
+            "lecturer": [
+                "岡崎充宏",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5210.json"
+        },
+        {
+            "courseName": "微生物検査学実習II",
+            "lecturer": [
+                "岡崎充宏",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53060.json"
+        },
+        {
+            "courseName": "救急総論",
+            "lecturer": [
+                "〆谷直人",
+                "荒木秀夫",
+                "坂本大",
+                "栗原由利子",
+                "岡崎充宏",
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53120.json"
+        },
+        {
+            "courseName": "検査機器総論（含む実習）",
+            "lecturer": [
+                "三上あかね",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5108.json"
+        },
+        {
+            "courseName": "検査管理総論",
+            "lecturer": [
+                "荒木秀夫",
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53090.json"
+        },
+        {
+            "courseName": "生化学",
+            "lecturer": [
+                "佐々木聰"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5104.json"
+        },
+        {
+            "courseName": "生化学実習",
+            "lecturer": [
+                "栗原由利子",
+                "國枝泰希",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5201.json"
+        },
+        {
+            "courseName": "生理学[臨検]",
+            "lecturer": [
+                "十島純子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5103.json"
+        },
+        {
+            "courseName": "生理学実習[臨検]",
+            "lecturer": [
+                "佐々木聰",
+                "栗原由利子",
+                "吉田祥子",
+                "榎本みのり",
+                "櫻井進",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5106.json"
+        },
+        {
+            "courseName": "生理検査学I",
+            "lecturer": [
+                "榎本みのり",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5215.json"
+        },
+        {
+            "courseName": "生理検査学II",
+            "lecturer": [
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5216.json"
+        },
+        {
+            "courseName": "生理検査学III",
+            "lecturer": [
+                "榎本みのり",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5217.json"
+        },
+        {
+            "courseName": "生理検査学実習I",
+            "lecturer": [
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5218.json"
+        },
+        {
+            "courseName": "生理検査学実習II",
+            "lecturer": [
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53081.json"
+        },
+        {
+            "courseName": "病態解析学",
+            "lecturer": [
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W54010.json"
+        },
+        {
+            "courseName": "病理学[臨検2021年以前]",
+            "lecturer": [
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5110.json"
+        },
+        {
+            "courseName": "病理検査学I",
+            "lecturer": [
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5101.json"
+        },
+        {
+            "courseName": "病理検査学II",
+            "lecturer": [
+                "吉田祥子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5202.json"
+        },
+        {
+            "courseName": "病理検査学実習I",
+            "lecturer": [
+                "吉田祥子",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5203.json"
+        },
+        {
+            "courseName": "病理検査学実習II",
+            "lecturer": [
+                "吉田祥子",
+                "國枝泰希",
+                "佐藤瑞穂"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53020.json"
+        },
+        {
+            "courseName": "臨地実習",
+            "lecturer": [
+                "岡崎充宏"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 10,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53130.json"
+        },
+        {
+            "courseName": "臨床化学検査学I",
+            "lecturer": [
+                "佐々木聰",
+                "栗原由利子",
+                "國枝泰希"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5206.json"
+        },
+        {
+            "courseName": "臨床化学検査学II",
+            "lecturer": [
+                "栗原由利子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5207.json"
+        },
+        {
+            "courseName": "臨床化学検査学III",
+            "lecturer": [
+                "栗原由利子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53040.json"
+        },
+        {
+            "courseName": "臨床化学検査学実習",
+            "lecturer": [
+                "栗原由利子",
+                "國枝泰希",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5208.json"
+        },
+        {
+            "courseName": "臨床化学検査学実習II",
+            "lecturer": [
+                "栗原由利子",
+                "國枝泰希",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53050.json"
+        },
+        {
+            "courseName": "臨床医学総論",
+            "lecturer": [
+                "川又紀彦"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5201.json"
+        },
+        {
+            "courseName": "臨床検査概論",
+            "lecturer": [
+                "栗原由利子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5107.json"
+        },
+        {
+            "courseName": "臨床検査総合演習I",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53100.json"
+        },
+        {
+            "courseName": "臨床検査総合演習II",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "櫻井進",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W54020.json"
+        },
+        {
+            "courseName": "臨床検査総合演習III",
+            "lecturer": [
+                "佐々木聰",
+                "三上あかね",
+                "栗原由利子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W54030.json"
+        },
+        {
+            "courseName": "臨床検査総合演習[2018年以前]",
+            "lecturer": [
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53140.json"
+        },
+        {
+            "courseName": "臨床病理学",
+            "lecturer": [
+                "横田恭子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53010.json"
+        },
+        {
+            "courseName": "臨床薬理学",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5205.json"
+        },
+        {
+            "courseName": "薬理学",
+            "lecturer": [
+                "岸野吏志"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W54060.json"
+        },
+        {
+            "courseName": "血液学[1年]",
+            "lecturer": [
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5102.json"
+        },
+        {
+            "courseName": "血液学[2021年以前]",
+            "lecturer": [
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5207.json"
+        },
+        {
+            "courseName": "血液検査学",
+            "lecturer": [
+                "大畑雅彦",
+                "廣田雅子"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5204.json"
+        },
+        {
+            "courseName": "血液検査学実習I",
+            "lecturer": [
+                "大畑雅彦",
+                "栗原由利子",
+                "横田恭子",
+                "岡崎充宏",
+                "吉田祥子",
+                "廣田雅子",
+                "奥橋佑基",
+                "榎本みのり",
+                "花尾麻美",
+                "國枝泰希",
+                "佐藤瑞穂",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5205.json"
+        },
+        {
+            "courseName": "血液検査学実習II",
+            "lecturer": [
+                "大畑雅彦",
+                "横田恭子",
+                "廣田雅子",
+                "奥橋佑基",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W53030.json"
+        },
+        {
+            "courseName": "解剖学[臨検]",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5101.json"
+        },
+        {
+            "courseName": "解剖学実習",
+            "lecturer": [
+                "阿部達彦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/U5102.json"
+        },
+        {
+            "courseName": "輸血・移植検査学",
+            "lecturer": [
+                "奥橋佑基"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 2,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5212.json"
+        },
+        {
+            "courseName": "遺伝子検査学",
+            "lecturer": [
+                "三上あかね"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5213.json"
+        },
+        {
+            "courseName": "遺伝子検査学実習",
+            "lecturer": [
+                "三上あかね",
+                "國枝泰希",
+                "水野元貴"
+            ],
+            "regularOrIntensive": "専門科目",
+            "numberOfCredits": 1,
+            "path": "\/api\/v1\/archive\/2023\/HSH5\/W5214.json"
+        }
+    ]
+}

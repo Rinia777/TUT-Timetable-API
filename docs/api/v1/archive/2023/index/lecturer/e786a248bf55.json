@@ -1,0 +1,266 @@
+{
+    "filters": {
+        "lecturer": "松永信介",
+        "lecturerKey": "e786a248bf55"
+    },
+    "count": 11,
+    "lectures": [
+        {
+            "lectureCode": "M400123",
+            "courseName": "卒業研究I",
+            "lecturer": [
+                "松永信介",
+                "鈴木祥平"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/M400123.json"
+        },
+        {
+            "lectureCode": "M200901",
+            "courseName": "教育メディア論",
+            "lecturer": [
+                "松永信介",
+                "飯沼瑞穂"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2023\/03\/15",
+            "path": "\/api\/v1\/archive\/2023\/all\/M200901.json"
+        },
+        {
+            "lectureCode": "M3001S3",
+            "courseName": "メディア専門演習II[デジタルテキストデザイン]",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/M3001S3.json"
+        },
+        {
+            "lectureCode": "M400223",
+            "courseName": "卒業研究II",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/M400223.json"
+        },
+        {
+            "lectureCode": "P023026",
+            "courseName": "プロジェクト演習IV[eBookデザイン]",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/P023026.json"
+        },
+        {
+            "lectureCode": "P023226",
+            "courseName": "プロジェクト演習VI[eBookデザイン]",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "3年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/P023226.json"
+        },
+        {
+            "lectureCode": "M2011S3",
+            "courseName": "メディア専門演習I[デジタルテキストデザイン]",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/05\/12",
+            "path": "\/api\/v1\/archive\/2023\/all\/M2011S3.json"
+        },
+        {
+            "lectureCode": "M101801",
+            "courseName": "メディアのための数学",
+            "lecturer": [
+                "松永信介",
+                "渡辺大地",
+                "松吉俊"
+            ],
+            "regularOrIntensive": "専門基礎教育科目メディア基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "片柳研究所Ｅ４０３"
+            ],
+            "updateAt": "2023\/01\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/M101801.json"
+        },
+        {
+            "lectureCode": "GGM12101",
+            "courseName": "数理最適化特論",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門科目メディアサイエンス専攻",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ３０２"
+            ],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/GGM12101.json"
+        },
+        {
+            "lectureCode": "M202701",
+            "courseName": "統計データ分析",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目メディア専門",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "講義実験棟４０１"
+            ],
+            "updateAt": "2023\/01\/09",
+            "path": "\/api\/v1\/archive\/2023\/all\/M202701.json"
+        },
+        {
+            "lectureCode": "M300223",
+            "courseName": "創成課題",
+            "lecturer": [
+                "松永信介"
+            ],
+            "regularOrIntensive": "専門教育科目総合・演習",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/03\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/M300223.json"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "filters": {
+        "regularOrIntensive": "研究・プロジェクト科目",
+        "regularOrIntensiveKey": "4c04bd93b7ba"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "GF20010",
+            "courseName": "デザイン研究企画",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [],
+            "updateAt": "2023\/03\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GF20010.json"
+        },
+        {
+            "lectureCode": "GF20030",
+            "courseName": "デザイン研究II",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/03\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GF20030.json"
+        },
+        {
+            "lectureCode": "GF20020",
+            "courseName": "デザイン研究I",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/03\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GF20020.json"
+        },
+        {
+            "lectureCode": "GF20040",
+            "courseName": "デザイン研究III",
+            "lecturer": [
+                "伊藤丙雄"
+            ],
+            "regularOrIntensive": "研究・プロジェクト科目",
+            "courseType": "実験科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 4,
+            "classroom": [],
+            "updateAt": "2023\/03\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/GF20040.json"
+        }
+    ]
+}

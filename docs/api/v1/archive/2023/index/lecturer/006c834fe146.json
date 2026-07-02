@@ -1,0 +1,109 @@
+{
+    "filters": {
+        "lecturer": "兼子諭",
+        "lecturerKey": "006c834fe146"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "11118B02",
+            "courseName": "アカデミックスキルズI[BS2]",
+            "lecturer": [
+                "兼子諭"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11118B02.json"
+        },
+        {
+            "lectureCode": "11118C02",
+            "courseName": "アカデミックスキルズI[CS2]",
+            "lecturer": [
+                "兼子諭"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ２０２"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11118C02.json"
+        },
+        {
+            "lectureCode": "11119B05",
+            "courseName": "アカデミックスキルズII[BSCS5]",
+            "lecturer": [
+                "兼子諭"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11119B05.json"
+        },
+        {
+            "lectureCode": "11119C05",
+            "courseName": "アカデミックスキルズII[BSCS17]",
+            "lecturer": [
+                "兼子諭"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "応用生物学部応用生物学科,コンピュータサイエンス学部コンピュータサイエンス学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ１０２"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11119C05.json"
+        }
+    ]
+}

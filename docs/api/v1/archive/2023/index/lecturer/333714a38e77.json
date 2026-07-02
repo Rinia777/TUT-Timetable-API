@@ -1,0 +1,63 @@
+{
+    "filters": {
+        "lecturer": "山下夕香里",
+        "lecturerKey": "333714a38e77"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "W63208",
+            "courseName": "発声発語障害学I",
+            "lecturer": [
+                "山下夕香里",
+                "生井友紀子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１９１１発声発語検査室"
+            ],
+            "updateAt": "2023\/02\/02",
+            "path": "\/api\/v1\/archive\/2023\/all\/W63208.json"
+        },
+        {
+            "lectureCode": "W63209",
+            "courseName": "発声発語障害学II",
+            "lecturer": [
+                "山下夕香里",
+                "生井友紀子"
+            ],
+            "regularOrIntensive": "専門科目言語聴覚学応用",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１９１１発声発語検査室"
+            ],
+            "updateAt": "2023\/02\/02",
+            "path": "\/api\/v1\/archive\/2023\/all\/W63209.json"
+        }
+    ]
+}

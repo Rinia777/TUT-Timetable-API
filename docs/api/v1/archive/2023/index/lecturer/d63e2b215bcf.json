@@ -1,0 +1,201 @@
+{
+    "filters": {
+        "lecturer": "竹内朋子",
+        "lecturerKey": "d63e2b215bcf"
+    },
+    "count": 8,
+    "lectures": [
+        {
+            "lectureCode": "11102M05",
+            "courseName": "IntegratedEnglishIII[A5]MS",
+            "lecturer": [
+                "竹内朋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/11102M05.json"
+        },
+        {
+            "lectureCode": "11102M12",
+            "courseName": "IntegratedEnglishIII[B5]MS",
+            "lecturer": [
+                "竹内朋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/11102M12.json"
+        },
+        {
+            "lectureCode": "11100M02",
+            "courseName": "IntegratedEnglishI[AT2]MS",
+            "lecturer": [
+                "竹内朋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100M02.json"
+        },
+        {
+            "lectureCode": "11015M06",
+            "courseName": "AcademicEnglishI[AT6]MS",
+            "lecturer": [
+                "竹内朋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11015M06.json"
+        },
+        {
+            "lectureCode": "11103M12",
+            "courseName": "IntegratedEnglishIV[B5]MS",
+            "lecturer": [
+                "竹内朋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/11103M12.json"
+        },
+        {
+            "lectureCode": "11103M05",
+            "courseName": "IntegratedEnglishIV[A5]MS",
+            "lecturer": [
+                "竹内朋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/11103M05.json"
+        },
+        {
+            "lectureCode": "11101M02",
+            "courseName": "IntegratedEnglishII[AT2]MS",
+            "lecturer": [
+                "竹内朋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2023\/08\/11",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101M02.json"
+        },
+        {
+            "lectureCode": "11016M06",
+            "courseName": "AcademicEnglishII[AT6]MS",
+            "lecturer": [
+                "竹内朋子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０２"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11016M06.json"
+        }
+    ]
+}

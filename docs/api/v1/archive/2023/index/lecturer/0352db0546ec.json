@@ -1,0 +1,30 @@
+{
+    "filters": {
+        "lecturer": "伊東都",
+        "lecturerKey": "0352db0546ec"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W1403",
+            "courseName": "看護管理学",
+            "lecturer": [
+                "伊東都"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/23",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1403.json"
+        }
+    ]
+}

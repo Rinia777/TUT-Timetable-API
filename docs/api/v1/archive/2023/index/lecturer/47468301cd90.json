@@ -1,0 +1,111 @@
+{
+    "filters": {
+        "lecturer": "野条美貴",
+        "lecturerKey": "47468301cd90"
+    },
+    "count": 4,
+    "lectures": [
+        {
+            "lectureCode": "R2080",
+            "courseName": "キャリアデザインII［デザイン］",
+            "lecturer": [
+                "野条美貴",
+                "野条美貴"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2023\/03\/18",
+            "path": "\/api\/v1\/archive\/2023\/all\/R2080.json"
+        },
+        {
+            "lectureCode": "R3030",
+            "courseName": "キャリアデザインIV[デザイン]",
+            "lecturer": [
+                "野条美貴",
+                "野条美貴"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2023\/03\/03",
+            "path": "\/api\/v1\/archive\/2023\/all\/R3030.json"
+        },
+        {
+            "lectureCode": "R1190",
+            "courseName": "キャリアデザインI[デザイン]",
+            "lecturer": [
+                "野条美貴"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "1年",
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2023\/08\/31",
+            "path": "\/api\/v1\/archive\/2023\/all\/R1190.json"
+        },
+        {
+            "lectureCode": "R3040",
+            "courseName": "キャリアデザインV[デザイン]",
+            "lecturer": [
+                "篠山雅美",
+                "野条美貴"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "デザイン学部デザイン学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2023\/11\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/R3040.json"
+        }
+    ]
+}

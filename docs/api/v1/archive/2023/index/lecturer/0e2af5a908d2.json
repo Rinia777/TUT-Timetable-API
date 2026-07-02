@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "今村倫敦",
+        "lecturerKey": "0e2af5a908d2"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U54020",
+            "courseName": "保健医療福祉総論[臨検]",
+            "lecturer": [
+                "今村倫敦"
+            ],
+            "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/U54020.json"
+        }
+    ]
+}

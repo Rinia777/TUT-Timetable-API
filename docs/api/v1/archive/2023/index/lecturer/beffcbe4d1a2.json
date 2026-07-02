@@ -1,0 +1,34 @@
+{
+    "filters": {
+        "lecturer": "吉森真由美",
+        "lecturerKey": "beffcbe4d1a2"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "U1207",
+            "courseName": "病理病態学II",
+            "lecturer": [
+                "野妻敬子",
+                "吉森真由美",
+                "日向奈惠"
+            ],
+            "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "2年"
+            ],
+            "numberOfCredits": 2,
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2023\/03\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/U1207.json"
+        }
+    ]
+}

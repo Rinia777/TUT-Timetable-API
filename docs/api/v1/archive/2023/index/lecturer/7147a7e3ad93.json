@@ -1,0 +1,32 @@
+{
+    "filters": {
+        "lecturer": "三浦英恵",
+        "lecturerKey": "7147a7e3ad93"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W1404",
+            "courseName": "災害看護学",
+            "lecturer": [
+                "石田千絵",
+                "三浦英恵",
+                "野澤美江子"
+            ],
+            "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [],
+            "updateAt": "2023\/01\/27",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1404.json"
+        }
+    ]
+}

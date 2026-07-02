@@ -1,0 +1,59 @@
+{
+    "filters": {
+        "lecturer": "安藤公彦",
+        "lecturerKey": "0cef659ad7b9"
+    },
+    "count": 2,
+    "lectures": [
+        {
+            "lectureCode": "11118M12",
+            "courseName": "アカデミックスキルズI[MS12]",
+            "lecturer": [
+                "安藤公彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義実験棟４０２"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11118M12.json"
+        },
+        {
+            "lectureCode": "11119M06",
+            "courseName": "アカデミックスキルズII[MS6]",
+            "lecturer": [
+                "安藤公彦"
+            ],
+            "regularOrIntensive": "教養教育科目社会人基礎",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "メディア学部メディア学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "片柳研究所Ｅ２０１"
+            ],
+            "updateAt": "2023\/02\/14",
+            "path": "\/api\/v1\/archive\/2023\/all\/11119M06.json"
+        }
+    ]
+}

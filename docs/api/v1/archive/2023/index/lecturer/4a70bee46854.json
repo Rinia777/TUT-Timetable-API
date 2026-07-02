@@ -1,0 +1,33 @@
+{
+    "filters": {
+        "lecturer": "片渕盛将",
+        "lecturerKey": "4a70bee46854"
+    },
+    "count": 1,
+    "lectures": [
+        {
+            "lectureCode": "W1106",
+            "courseName": "感染制御ケア",
+            "lecturer": [
+                "片渕盛将"
+            ],
+            "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2023\/02\/10",
+            "path": "\/api\/v1\/archive\/2023\/all\/W1106.json"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "filters": {
+        "lecturer": "奈古明子",
+        "lecturerKey": "07aa933eda2b"
+    },
+    "count": 6,
+    "lectures": [
+        {
+            "lectureCode": "11102C02",
+            "courseName": "IntegratedEnglishIII[2]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/28",
+            "path": "\/api\/v1\/archive\/2023\/all\/11102C02.json"
+        },
+        {
+            "lectureCode": "11100C04",
+            "courseName": "IntegratedEnglishI[4]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/11100C04.json"
+        },
+        {
+            "lectureCode": "11015C10",
+            "courseName": "AcademicEnglishI[B4]CS",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11015C10.json"
+        },
+        {
+            "lectureCode": "11103C02",
+            "courseName": "IntegratedEnglishIV[2]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部コンピュータサイエンス学科,工学部機械工学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/28",
+            "path": "\/api\/v1\/archive\/2023\/all\/11103C02.json"
+        },
+        {
+            "lectureCode": "11101C04",
+            "courseName": "IntegratedEnglishII[4]CS機械",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "コンピュータサイエンス学部,工学部機械工学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/01\/28",
+            "path": "\/api\/v1\/archive\/2023\/all\/11101C04.json"
+        },
+        {
+            "lectureCode": "11016C10",
+            "courseName": "AcademicEnglishII[B4]CS",
+            "lecturer": [
+                "奈古明子"
+            ],
+            "regularOrIntensive": "教養教育科目外国語",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "1年"
+            ],
+            "numberOfCredits": 1,
+            "classroom": [
+                "講義棟Ａ３０３"
+            ],
+            "updateAt": "2023\/02\/17",
+            "path": "\/api\/v1\/archive\/2023\/all\/11016C10.json"
+        }
+    ]
+}
