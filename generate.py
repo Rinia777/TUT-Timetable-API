@@ -21,6 +21,7 @@ ARCHIVE_ROOT = f"{API_ROOT}/archive"
 LECTURE_CODES_FILE = "output/lecture_codes.json"
 LECTURE_CODES_BY_YEAR_FILE = "output/lecture_codes_by_year.json"
 SEARCH_INDEX_DIRECTORY = "search-index"
+MAX_ARCHIVE_AGE_YEARS = 2
 
 WEEKDAY_KEYS = {
     "月": "mon",
@@ -57,6 +58,21 @@ def _driver_init():
 def _get_current_academic_year() -> int:
     return get_timetable.get_current_academic_year()
 
+def _get_retained_academic_years() -> list[int]:
+    current_year = _get_current_academic_year()
+    return [current_year - offset for offset in range(MAX_ARCHIVE_AGE_YEARS + 1)]
+
+def _validate_requested_year(requested_year: int | None) -> None:
+    if requested_year is None:
+        return
+
+    retained_years = _get_retained_academic_years()
+    if requested_year in retained_years:
+        return
+
+    retained_years_text = ", ".join(str(year) for year in retained_years)
+    raise ValueError(f"Only retained academic years can be fetched: {retained_years_text}")
+
 def _load_json(file_path: str, default):
     if not os.path.exists(file_path):
         return default
@@ -86,16 +102,41 @@ def _load_lecture_codes_by_year() -> dict:
     return {str(current_year): legacy_lecture_codes}
 
 def _get_lecture_code_target_years(requested_year: int | None = None) -> list[int]:
+    _validate_requested_year(requested_year)
     if requested_year is not None:
         return [requested_year]
 
-    return [_get_current_academic_year()]
+    return _get_retained_academic_years()
 
 def _get_lecture_data_target_years(department: str, requested_year: int | None = None) -> list[int]:
+    _validate_requested_year(requested_year)
     if requested_year is not None:
         return [requested_year]
 
-    return [_get_current_academic_year()]
+    return _get_retained_academic_years()
+
+def _cleanup_expired_archive_data(lecture_codes_by_year: dict) -> bool:
+    retained_years = set(_get_retained_academic_years())
+    changed = False
+
+    for academic_year in sorted(_get_archive_years()):
+        if academic_year in retained_years:
+            continue
+
+        archive_path = f"{ARCHIVE_ROOT}/{academic_year}"
+        print(f"Delete expired archive data: {archive_path}")
+        shutil.rmtree(archive_path)
+        changed = True
+
+    for year_key in sorted(list(lecture_codes_by_year.keys()), key=lambda key: int(key)):
+        if int(year_key) in retained_years:
+            continue
+
+        print(f"Delete expired lecture codes: {year_key}")
+        lecture_codes_by_year.pop(year_key)
+        changed = True
+
+    return changed
 
 def _write_lecture_data(lecture_data: dict, lecture_code: str, academic_year: int) -> None:
     current_year = _get_current_academic_year()
@@ -367,7 +408,10 @@ def _get_archive_years() -> list[int]:
     )
 
 def _build_indexes(requested_year: int | None = None) -> None:
+    _validate_requested_year(requested_year)
     lecture_codes_by_year = _load_lecture_codes_by_year()
+    if _cleanup_expired_archive_data(lecture_codes_by_year):
+        _dump_json(LECTURE_CODES_BY_YEAR_FILE, lecture_codes_by_year)
 
     if requested_year is None:
         current_year = _get_current_academic_year()
@@ -388,8 +432,9 @@ def _build_indexes(requested_year: int | None = None) -> None:
         )
 
 def _get_lecture_code(requested_year: int | None = None):
-    lecture_codes_by_year = _load_lecture_codes_by_year()
     target_years = _get_lecture_code_target_years(requested_year)
+    lecture_codes_by_year = _load_lecture_codes_by_year()
+    _cleanup_expired_archive_data(lecture_codes_by_year)
     current_year = _get_current_academic_year()
 
     print(f"Start getting lecture codes: {target_years}")
@@ -426,15 +471,19 @@ def _get_lecture_code(requested_year: int | None = None):
         if academic_year == current_year:
             _dump_json(LECTURE_CODES_FILE, lecture_codes)
 
+    _cleanup_expired_archive_data(lecture_codes_by_year)
     _dump_json(LECTURE_CODES_BY_YEAR_FILE, lecture_codes_by_year)
 
 def _get_lecture_data(department: str, requested_year: int | None = None):
+    target_years = _get_lecture_data_target_years(department, requested_year)
     lecture_codes_by_year = _load_lecture_codes_by_year()
+    if _cleanup_expired_archive_data(lecture_codes_by_year):
+        _dump_json(LECTURE_CODES_BY_YEAR_FILE, lecture_codes_by_year)
+
     if not lecture_codes_by_year:
         print("Failed to get lecture data: lecture code files are not found.")
         return
 
-    target_years = _get_lecture_data_target_years(department, requested_year)
     print(f"Getting {department} lecture data: {target_years}")
 
     for academic_year in target_years:
@@ -473,10 +522,19 @@ if __name__ == '__main__':
         os.makedirs(directory, exist_ok=True)
 
     if args.type == "lecture_codes":
-        _get_lecture_code(args.year)
+        try:
+            _get_lecture_code(args.year)
+        except ValueError as error:
+            parser.error(str(error))
 
     if args.type == "lecture_data":
-        _get_lecture_data(args.department, args.year)
+        try:
+            _get_lecture_data(args.department, args.year)
+        except ValueError as error:
+            parser.error(str(error))
 
     if args.type == "indexes":
-        _build_indexes(args.year)
+        try:
+            _build_indexes(args.year)
+        except ValueError as error:
+            parser.error(str(error))
