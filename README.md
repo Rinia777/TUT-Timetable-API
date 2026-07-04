@@ -15,31 +15,21 @@ API URLは `https://tut-timetable-api.pages.dev` です。
 https://tut-timetable-api.pages.dev/api/v1/all/{時間割コード}.json
 ```
 
-#### 学部指定検索(GET)
-> [!WARNING]
-> 学部指定の詳細JSONは廃止予定です。新規実装では `search-index` から `lectureCode` を取得し、`/api/v1/all/{時間割コード}.json` を参照してください。
-
-`{時間割コード}`は、一意に講義を特定できる英数字のコードです。(例: `11040C1`)  
-`{学部名}`は、学内で広く認知されている略称を使用し指定します。  
-
-以下のリストのいずれかを指定してください。(2024年9月20日時点)  
-`["BT", "CS", "MS", "ES", "ESE5", "ESE6", "ESE7", "X1", "DS", "HS", "HSH1", "HSH2", "HSH3", "HSH4", "HSH5", "HSH6", "X3", "GF", "GH"]`
-```
-https://tut-timetable-api.pages.dev/api/v1/{学部名}/{時間割コード}.json
-```
-
 #### 年度指定検索(GET)
 過去年度のデータは、年度別アーカイブとして保存されます。  
 `{年度}`は西暦の年度を指定してください。(例: `2025`)
 
 ```
 https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/all/{時間割コード}.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/{学部名}/{時間割コード}.json
 ```
 
 #### 学部別サーチインデックス(GET)
 クライアント側で講義検索を行うための軽量な学部別一覧です。  
 講義名、教員名、曜日・時限、対象学年、教室、絞り込み用キー、詳細JSONへの `path` を返します。曜日・時限・授業科目区分・教員名・開講時期・対象学年・科目区分の絞り込みは、このレスポンス内の `filters` と各講義の `*Key` / `*Keys` を使用してください。
+
+`{学部名}`は、学内で広く認知されている略称を使用し指定します。
+以下のリストのいずれかを指定してください。
+`["BT", "CS", "MS", "ES", "ESE5", "ESE6", "ESE7", "X1", "DS", "HS", "HSH1", "HSH2", "HSH3", "HSH4", "HSH5", "HSH6", "X3", "GF", "GH"]`
 
 ```
 https://tut-timetable-api.pages.dev/api/v1/search-index/{学部名}.json
@@ -89,7 +79,7 @@ https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/search-index/{学部
 ```
 
 > [!NOTE]
-> 404 Not Foundが返却された場合は、時間割コードが存在しないか、指定された学部名が存在しない可能性があります。
+> 404 Not Foundが返却された場合は、時間割コードが存在しない可能性があります。
 > また、その他のエラーはCloudFlare Pagesのエラーページが返却されます。
 
 #### 学部別サーチインデックス成功時

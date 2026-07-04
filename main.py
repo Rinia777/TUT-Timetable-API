@@ -35,6 +35,7 @@ def driver_init():
 os.makedirs("docs", exist_ok=True)
 os.makedirs("docs/api", exist_ok=True)
 os.makedirs("docs/api/v1", exist_ok=True)
+os.makedirs("docs/api/v1/all", exist_ok=True)
 os.makedirs("output", exist_ok=True)
 
 
@@ -53,7 +54,6 @@ if is_skip_fetch_flag:
 else:
     print("Start getting lecture codes.")
     for dept in tqdm.tqdm(department):
-        os.makedirs(f"docs/api/v1/{dept}", exist_ok=True)
         # 指定学部の講義コードを取得
         lecture_codes[dept] = get_lecture_code.get_lecture_code(dept, driver_init)
         
@@ -82,7 +82,7 @@ for dept in department:
             print(f"Failed to get {dept} lecture data: {lecture_code}")
             continue
 
-        with open(f"docs/api/v1/{dept}/{lecture_code}.json", 'w') as f:
+        with open(f"docs/api/v1/all/{lecture_code}.json", 'w') as f:
             json.dump(lecture_data, f, ensure_ascii=False, indent=4)
 
         print(f"Successfully got {dept} lecture data: {lecture_code}")

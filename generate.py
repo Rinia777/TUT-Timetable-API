@@ -97,20 +97,16 @@ def _get_lecture_data_target_years(department: str, requested_year: int | None =
 
     return [_get_current_academic_year()]
 
-def _write_lecture_data(lecture_data: dict, department: str, lecture_code: str, academic_year: int) -> None:
+def _write_lecture_data(lecture_data: dict, lecture_code: str, academic_year: int) -> None:
     current_year = _get_current_academic_year()
 
-    archive_department_path = f"{ARCHIVE_ROOT}/{academic_year}/{department}/{lecture_code}.json"
     archive_all_path = f"{ARCHIVE_ROOT}/{academic_year}/all/{lecture_code}.json"
-    _dump_json(archive_department_path, lecture_data)
     _dump_json(archive_all_path, lecture_data)
 
     if academic_year != current_year:
         return
 
-    latest_department_path = f"{API_ROOT}/{department}/{lecture_code}.json"
     latest_all_path = f"{API_ROOT}/all/{lecture_code}.json"
-    _dump_json(latest_department_path, lecture_data)
     _dump_json(latest_all_path, lecture_data)
 
 def _as_list(value) -> list:
@@ -318,24 +314,25 @@ def _build_search_filter_metadata(lectures: list[dict]) -> dict:
 
     return metadata
 
-def _build_search_indexes_for_base(base_path: str, api_prefix: str) -> bool:
+def _build_search_indexes_for_base(base_path: str, api_prefix: str, lecture_codes: dict) -> bool:
+    all_directory = f"{base_path}/all"
+    if not os.path.isdir(all_directory):
+        print(f"Skip search indexes: {all_directory} is not found.")
+        return False
+
     search_index_root = f"{base_path}/{SEARCH_INDEX_DIRECTORY}"
     if os.path.isdir(search_index_root):
         shutil.rmtree(search_index_root)
 
     built_count = 0
     for department in DEPARTMENT:
-        department_directory = f"{base_path}/{department}"
-        if not os.path.isdir(department_directory):
+        department_lecture_codes = lecture_codes.get(department)
+        if department_lecture_codes is None:
             continue
 
         lectures = []
-        for file_name in sorted(os.listdir(department_directory)):
-            if not file_name.endswith(".json"):
-                continue
-
-            lecture_code = file_name[:-5]
-            lecture_data = _load_json(f"{department_directory}/{file_name}", None)
+        for lecture_code in sorted(set(department_lecture_codes)):
+            lecture_data = _load_json(f"{all_directory}/{lecture_code}.json", None)
             if lecture_data is None:
                 continue
 
@@ -370,8 +367,15 @@ def _get_archive_years() -> list[int]:
     )
 
 def _build_indexes(requested_year: int | None = None) -> None:
+    lecture_codes_by_year = _load_lecture_codes_by_year()
+
     if requested_year is None:
-        _build_search_indexes_for_base(API_ROOT, "/api/v1")
+        current_year = _get_current_academic_year()
+        _build_search_indexes_for_base(
+            API_ROOT,
+            "/api/v1",
+            lecture_codes_by_year.get(str(current_year), {}),
+        )
         target_years = _get_archive_years()
     else:
         target_years = [requested_year]
@@ -380,6 +384,7 @@ def _build_indexes(requested_year: int | None = None) -> None:
         _build_search_indexes_for_base(
             f"{ARCHIVE_ROOT}/{academic_year}",
             f"/api/v1/archive/{academic_year}",
+            lecture_codes_by_year.get(str(academic_year), {}),
         )
 
 def _get_lecture_code(requested_year: int | None = None):
@@ -450,7 +455,7 @@ def _get_lecture_data(department: str, requested_year: int | None = None):
                 print(f"Failed to get {academic_year} {department} lecture data: {lecture_code}")
                 continue
 
-            _write_lecture_data(lecture_data, department, lecture_code, academic_year)
+            _write_lecture_data(lecture_data, lecture_code, academic_year)
 
             print(f"Successfully got {academic_year} {department} lecture data: {lecture_code}")
 

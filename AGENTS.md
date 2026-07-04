@@ -10,10 +10,9 @@
 - `src/get_timetable.py`: 個別シラバス HTML を取得・解析し、API レスポンス用 dict を作ります。
 - `output/lecture_codes.json`: 現在年度の学部ごとの時間割コード一覧です。従来互換用に維持されています。
 - `output/lecture_codes_by_year.json`: 年度別の時間割コード一覧です。通常実行では現在年度を更新し、過去年度は `--year` 指定で手動更新します。
-- `docs/api/v1/{department}/*.json`: 学部指定 API 用の生成済み講義 JSON です。
-- `docs/api/v1/all/*.json`: 全体検索 API 用の生成済み講義 JSON です。
+- `docs/api/v1/all/*.json`: 講義詳細 API 用の生成済み講義 JSON です。詳細 JSON はこのディレクトリに一本化されています。
 - `docs/api/v1/search-index/{department}.json`: 現在データの学部別サーチインデックスです。講義名、教員名、曜日・時限、絞り込み用キー、詳細 JSON への `path` を含みます。
-- `docs/api/v1/archive/{year}/{department}/*.json`: 年度指定 API 用の生成済み講義 JSON です。過去データは削除しません。
+- `docs/api/v1/archive/{year}/all/*.json`: 年度指定 API 用の生成済み講義 JSON です。過去データは削除しません。
 - `docs/api/v1/archive/{year}/search-index/{department}.json`: 年度別アーカイブの学部別サーチインデックスです。
 - `.github/workflows/build.yaml`: 3 か月ごとの定期更新と手動実行のワークフローです。
 
@@ -68,13 +67,13 @@ docker compose up -d
 python main.py
 ```
 
-`main.py` は `output/lecture_codes.json` が存在すると講義コード取得をスキップします。また、`main.py` は `docs/api/v1/all` へは書き込みません。通常の更新や CI と同じ挙動を確認したい場合は `generate.py` を使ってください。
+`main.py` は `output/lecture_codes.json` が存在すると講義コード取得をスキップします。通常の更新や CI と同じ挙動を確認したい場合は `generate.py` を使ってください。
 
 ## 開発時の注意
 
 - 生成済み JSON は大量にあります。スクレイピングや整形ロジックを変更した場合でも、必要な学部・必要な講義だけを確認してから広範囲の再生成を行ってください。
 - API レスポンスのキーは利用者向けの契約です。特に `courceDetails` はスペルミスに見えますが、既存 API のキーなので、互換性の意図なしに `courseDetails` へ変更しないでください。
-- 現在年度のデータは `docs/api/v1/{department}` と `docs/api/v1/all` にも書き込みます。年度別データは常に `docs/api/v1/archive/{year}` に書き込みます。
+- 現在年度の詳細データは `docs/api/v1/all` に書き込みます。年度別の詳細データは `docs/api/v1/archive/{year}/all` に書き込みます。学部別詳細 JSON は廃止済みです。
 - 過去データは削除しない方針です。生成ロジックを変える場合も、明示的な依頼なしに `docs/api/v1/archive` 配下の古い年度を消さないでください。
 - `search-index` 配下のファイルは講義 JSON から作り直せる派生データです。索引生成では古い `search-index` ディレクトリだけを削除して再生成しますが、講義 JSON 本体は削除しません。
 - `output/lecture_codes_by_year.json` は講義データ生成の主な入力です。講義コード取得ロジックを変更したときは、このファイルと従来互換用の `output/lecture_codes.json` の差分を確認してください。
