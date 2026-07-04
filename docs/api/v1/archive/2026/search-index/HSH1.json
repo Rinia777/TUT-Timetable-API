@@ -1,27 +1,660 @@
 {
     "department": "HSH1",
     "count": 140,
+    "filters": {
+        "weekday": [
+            {
+                "key": "mon",
+                "label": "月",
+                "count": 17
+            },
+            {
+                "key": "tue",
+                "label": "火",
+                "count": 16
+            },
+            {
+                "key": "wed",
+                "label": "水",
+                "count": 11
+            },
+            {
+                "key": "thu",
+                "label": "木",
+                "count": 14
+            },
+            {
+                "key": "fri",
+                "label": "金",
+                "count": 8
+            },
+            {
+                "key": "other",
+                "label": "他",
+                "count": 76
+            }
+        ],
+        "period": [
+            {
+                "key": "1",
+                "label": "1",
+                "count": 18
+            },
+            {
+                "key": "2",
+                "label": "2",
+                "count": 21
+            },
+            {
+                "key": "3",
+                "label": "3",
+                "count": 16
+            },
+            {
+                "key": "4",
+                "label": "4",
+                "count": 14
+            },
+            {
+                "key": "5",
+                "label": "5",
+                "count": 11
+            },
+            {
+                "key": "other",
+                "label": "他",
+                "count": 76
+            }
+        ],
+        "classPeriod": [
+            {
+                "key": "mon-1",
+                "label": "月1",
+                "count": 6
+            },
+            {
+                "key": "mon-2",
+                "label": "月2",
+                "count": 7
+            },
+            {
+                "key": "mon-3",
+                "label": "月3",
+                "count": 5
+            },
+            {
+                "key": "mon-4",
+                "label": "月4",
+                "count": 3
+            },
+            {
+                "key": "mon-5",
+                "label": "月5",
+                "count": 3
+            },
+            {
+                "key": "tue-1",
+                "label": "火1",
+                "count": 3
+            },
+            {
+                "key": "tue-2",
+                "label": "火2",
+                "count": 5
+            },
+            {
+                "key": "tue-3",
+                "label": "火3",
+                "count": 4
+            },
+            {
+                "key": "tue-4",
+                "label": "火4",
+                "count": 4
+            },
+            {
+                "key": "tue-5",
+                "label": "火5",
+                "count": 3
+            },
+            {
+                "key": "wed-1",
+                "label": "水1",
+                "count": 5
+            },
+            {
+                "key": "wed-2",
+                "label": "水2",
+                "count": 1
+            },
+            {
+                "key": "wed-3",
+                "label": "水3",
+                "count": 3
+            },
+            {
+                "key": "wed-4",
+                "label": "水4",
+                "count": 1
+            },
+            {
+                "key": "wed-5",
+                "label": "水5",
+                "count": 1
+            },
+            {
+                "key": "thu-1",
+                "label": "木1",
+                "count": 3
+            },
+            {
+                "key": "thu-2",
+                "label": "木2",
+                "count": 4
+            },
+            {
+                "key": "thu-3",
+                "label": "木3",
+                "count": 3
+            },
+            {
+                "key": "thu-4",
+                "label": "木4",
+                "count": 3
+            },
+            {
+                "key": "thu-5",
+                "label": "木5",
+                "count": 4
+            },
+            {
+                "key": "fri-1",
+                "label": "金1",
+                "count": 2
+            },
+            {
+                "key": "fri-2",
+                "label": "金2",
+                "count": 4
+            },
+            {
+                "key": "fri-3",
+                "label": "金3",
+                "count": 1
+            },
+            {
+                "key": "fri-4",
+                "label": "金4",
+                "count": 3
+            },
+            {
+                "key": "other",
+                "label": "他",
+                "count": 76
+            }
+        ],
+        "regularOrIntensive": [
+            {
+                "key": "89b946447769",
+                "label": "専門基礎科目人体のメカニズムと疾病・障害",
+                "count": 17
+            },
+            {
+                "key": "3e6aaf4b9183",
+                "label": "専門基礎科目人間社会と医療",
+                "count": 10
+            },
+            {
+                "key": "acaa38dd2782",
+                "label": "専門科目看護の基礎",
+                "count": 16
+            },
+            {
+                "key": "c7b799943237",
+                "label": "専門科目看護の実践",
+                "count": 10
+            },
+            {
+                "key": "d267b4233d46",
+                "label": "専門科目看護の方法",
+                "count": 19
+            },
+            {
+                "key": "8699a186ae88",
+                "label": "専門科目看護の発展",
+                "count": 14
+            },
+            {
+                "key": "b1318b5984fa",
+                "label": "専門科目看護の統合",
+                "count": 54
+            }
+        ],
+        "lecturer": [
+            {
+                "key": "7147a7e3ad93",
+                "label": "三浦英恵",
+                "count": 1
+            },
+            {
+                "key": "62486deaf8a6",
+                "label": "中川和美",
+                "count": 1
+            },
+            {
+                "key": "9be1cc7c513f",
+                "label": "中田なぎさ",
+                "count": 1
+            },
+            {
+                "key": "44f776ba6459",
+                "label": "五十嵐千代",
+                "count": 18
+            },
+            {
+                "key": "a60f2e4553c7",
+                "label": "井上信明",
+                "count": 1
+            },
+            {
+                "key": "5b83dbe8e9dc",
+                "label": "佐藤智子",
+                "count": 6
+            },
+            {
+                "key": "452495276ccb",
+                "label": "内林諒輔",
+                "count": 2
+            },
+            {
+                "key": "4288c1b87ce6",
+                "label": "加柴美里",
+                "count": 1
+            },
+            {
+                "key": "31c74c84ffb9",
+                "label": "加納江利子",
+                "count": 1
+            },
+            {
+                "key": "7e35e5754d0a",
+                "label": "勝又木綿子",
+                "count": 2
+            },
+            {
+                "key": "71c2baa1656f",
+                "label": "印東桂子",
+                "count": 8
+            },
+            {
+                "key": "4880e8b51b30",
+                "label": "只野ちがや",
+                "count": 1
+            },
+            {
+                "key": "0e26c6d65925",
+                "label": "大橋彩香",
+                "count": 1
+            },
+            {
+                "key": "658148b56414",
+                "label": "妹尾弘子",
+                "count": 7
+            },
+            {
+                "key": "0cc78de220d1",
+                "label": "安井大輔",
+                "count": 9
+            },
+            {
+                "key": "31f8363fc751",
+                "label": "宮首由美子",
+                "count": 8
+            },
+            {
+                "key": "36bcb26e637b",
+                "label": "小田和美",
+                "count": 12
+            },
+            {
+                "key": "0240465e18e9",
+                "label": "尾玉剛士",
+                "count": 1
+            },
+            {
+                "key": "f5ce66778c26",
+                "label": "山形寛",
+                "count": 7
+            },
+            {
+                "key": "2d3e4be0b816",
+                "label": "岡野浩",
+                "count": 1
+            },
+            {
+                "key": "2f17c8d7e01e",
+                "label": "岩波浩美",
+                "count": 10
+            },
+            {
+                "key": "ddac66bd1aac",
+                "label": "岸竜馬",
+                "count": 2
+            },
+            {
+                "key": "fb0b754ef731",
+                "label": "岸野吏志",
+                "count": 1
+            },
+            {
+                "key": "c9f3c87d8b8c",
+                "label": "帆苅なおみ",
+                "count": 14
+            },
+            {
+                "key": "0313f32e75c5",
+                "label": "手嶋昭子",
+                "count": 1
+            },
+            {
+                "key": "efb7ff5ded6a",
+                "label": "日向奈惠",
+                "count": 3
+            },
+            {
+                "key": "e64d6548ea89",
+                "label": "杉村直孝",
+                "count": 8
+            },
+            {
+                "key": "8d7e38135860",
+                "label": "東雅啓",
+                "count": 6
+            },
+            {
+                "key": "438e6fa0f47b",
+                "label": "柳采延",
+                "count": 1
+            },
+            {
+                "key": "affb0a265768",
+                "label": "森千恵子",
+                "count": 5
+            },
+            {
+                "key": "c3660390a8cb",
+                "label": "横田恭子",
+                "count": 1
+            },
+            {
+                "key": "347a368e7781",
+                "label": "浅海くるみ",
+                "count": 7
+            },
+            {
+                "key": "b08048659122",
+                "label": "清水潤",
+                "count": 1
+            },
+            {
+                "key": "2fc5013b8b02",
+                "label": "渋木琢磨",
+                "count": 1
+            },
+            {
+                "key": "c0aa5ff6d2bb",
+                "label": "瀬戸山陽子",
+                "count": 1
+            },
+            {
+                "key": "5578776d6eaf",
+                "label": "瀬戸愛子",
+                "count": 6
+            },
+            {
+                "key": "4a70bee46854",
+                "label": "片渕盛将",
+                "count": 1
+            },
+            {
+                "key": "d58b5648ce7e",
+                "label": "生山笑",
+                "count": 1
+            },
+            {
+                "key": "28b16994946a",
+                "label": "田村南海子",
+                "count": 1
+            },
+            {
+                "key": "5e4b58f4eebf",
+                "label": "田辺大介",
+                "count": 5
+            },
+            {
+                "key": "d24e41e81d0a",
+                "label": "白石裕子",
+                "count": 9
+            },
+            {
+                "key": "1d86f8a4afef",
+                "label": "知念正佳",
+                "count": 1
+            },
+            {
+                "key": "44f77d35f611",
+                "label": "石川ふみよ",
+                "count": 1
+            },
+            {
+                "key": "2f3f9f65643c",
+                "label": "石田千絵",
+                "count": 1
+            },
+            {
+                "key": "184db071f47b",
+                "label": "竹内真一",
+                "count": 1
+            },
+            {
+                "key": "e283a2a0155d",
+                "label": "篠原一彦",
+                "count": 3
+            },
+            {
+                "key": "2a5373cd4207",
+                "label": "篠田巴留香",
+                "count": 6
+            },
+            {
+                "key": "8c57aae2ddfc",
+                "label": "繁永元樹",
+                "count": 8
+            },
+            {
+                "key": "f9b7f391a085",
+                "label": "西尾奈緒美",
+                "count": 1
+            },
+            {
+                "key": "97558804f402",
+                "label": "遠山寛子",
+                "count": 7
+            },
+            {
+                "key": "3f35efa7149d",
+                "label": "野澤美江子",
+                "count": 6
+            },
+            {
+                "key": "9898bf11bb86",
+                "label": "鈴木雅子",
+                "count": 6
+            },
+            {
+                "key": "36d87a526b21",
+                "label": "飯塚敏子",
+                "count": 8
+            },
+            {
+                "key": "133826c0e7d2",
+                "label": "鷲澤尚宏",
+                "count": 1
+            },
+            {
+                "key": "5b9c5bb61d06",
+                "label": "黒川有来",
+                "count": 5
+            }
+        ],
+        "courseStart": [
+            {
+                "key": "2026-first",
+                "label": "2026年度前期",
+                "count": 97
+            },
+            {
+                "key": "2026-second",
+                "label": "2026年度後期",
+                "count": 43
+            }
+        ],
+        "targetGrade": [
+            {
+                "key": "1",
+                "label": "1年",
+                "count": 17
+            },
+            {
+                "key": "2",
+                "label": "2年",
+                "count": 48
+            },
+            {
+                "key": "3",
+                "label": "3年",
+                "count": 32
+            },
+            {
+                "key": "4",
+                "label": "4年",
+                "count": 94
+            }
+        ],
+        "courseType": [
+            {
+                "key": "4ab0c6a3f107",
+                "label": "実習科目",
+                "count": 36
+            },
+            {
+                "key": "3beabbaa9998",
+                "label": "演習科目",
+                "count": 57
+            },
+            {
+                "key": "6592eaa7277c",
+                "label": "講義・演習科目",
+                "count": 1
+            },
+            {
+                "key": "dd5e37aedc2b",
+                "label": "講義科目",
+                "count": 46
+            }
+        ]
+    },
     "lectures": [
         {
+            "lectureCode": "W1412",
             "courseName": "パリアティブケア",
             "lecturer": [
                 "生山笑",
                 "知念正佳"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1412.json"
+            "classroom": [
+                "３０２０１教室",
+                "３１０１４教室",
+                "３１０１６教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1412.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "d58b5648ce7e",
+                "1d86f8a4afef"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1410",
             "courseName": "ファミリーサポート論",
             "lecturer": [
                 "白石裕子"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1410.json"
+            "classroom": [
+                "３０２０１教室",
+                "３０２０２教室",
+                "３１０１６教室"
+            ],
+            "updateAt": "2026\/01\/28",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1410.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "d24e41e81d0a"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1203",
             "courseName": "ヘルスアセスメント",
             "lecturer": [
                 "飯塚敏子",
@@ -31,76 +664,359 @@
                 "杉村直孝"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1203.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/06\/29",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1203.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "4",
+                "5"
+            ],
+            "classPeriodKeys": [
+                "tue-4",
+                "tue-5"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "36d87a526b21",
+                "31f8363fc751",
+                "8c57aae2ddfc",
+                "2f17c8d7e01e",
+                "e64d6548ea89"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1411",
             "courseName": "リハビリテーションケア",
             "lecturer": [
                 "小田和美"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1411.json"
+            "classroom": [
+                "３０２０１教室",
+                "３０２０２教室",
+                "３１０１４教室",
+                "３１０１６教室",
+                "３１０１７教室"
+            ],
+            "updateAt": "2026\/01\/26",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1411.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "36bcb26e637b"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1409",
             "courseName": "リプロダクティブ・ヘルスケア",
             "lecturer": [
                 "野澤美江子",
                 "野澤美江子"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1409.json"
+            "classroom": [
+                "３０２０１教室",
+                "３０２０２教室",
+                "３１０１３教室",
+                "３１０１７教室"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1409.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "3f35efa7149d",
+                "3f35efa7149d"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1105",
             "courseName": "人体構造学",
             "lecturer": [
                 "東雅啓"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1105.json"
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1105.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "4"
+            ],
+            "classPeriodKeys": [
+                "fri-4"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "8d7e38135860"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "U1107",
             "courseName": "人体構造機能学演習",
             "lecturer": [
                 "東雅啓"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1107.json"
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1107.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "thu-2"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "8d7e38135860"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "U1106",
             "courseName": "人体機能学",
             "lecturer": [
                 "只野ちがや"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1106.json"
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2026\/03\/05",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1106.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "tue-3"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "4880e8b51b30"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "U1102",
             "courseName": "保健医療福祉論I",
             "lecturer": [
                 "五十嵐千代",
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1102.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1102.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "tue-2"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1203",
             "courseName": "保健医療福祉論II",
             "lecturer": [
                 "五十嵐千代",
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1203.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1203.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "wed-2"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1215",
             "courseName": "保健指導論",
             "lecturer": [
                 "五十嵐千代",
@@ -108,48 +1024,217 @@
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1215.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1215.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "wed-3"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "71c2baa1656f",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1408",
             "courseName": "先端医療総合講義[看護]",
             "lecturer": [
                 "日向奈惠"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1408.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/24",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1408.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "efb7ff5ded6a"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1101",
             "courseName": "公衆衛生学[看護]",
             "lecturer": [
                 "渋木琢磨",
                 "五十嵐千代"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1101.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1101.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "tue-1"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "2fc5013b8b02",
+                "44f776ba6459"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1218",
             "courseName": "公衆衛生看護学I",
             "lecturer": [
                 "五十嵐千代"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1218.json"
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1218.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "fri-2"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "44f776ba6459"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1321",
             "courseName": "公衆衛生看護学II",
             "lecturer": [
                 "五十嵐千代",
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1321.json"
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1321.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "thu-1",
+                "thu-2"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1413",
             "courseName": "公衆衛生看護学III",
             "lecturer": [
                 "五十嵐千代",
@@ -157,20 +1242,86 @@
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1413.json"
+            "classroom": [
+                "３０２０１教室",
+                "３１０１７教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1413.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "71c2baa1656f",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1415",
             "courseName": "公衆衛生看護学実習I",
             "lecturer": [
                 "五十嵐千代",
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1415.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/21",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1415.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1416",
             "courseName": "公衆衛生看護学実習II",
             "lecturer": [
                 "五十嵐千代",
@@ -178,38 +1329,167 @@
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1416.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1416.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "71c2baa1656f",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1414",
             "courseName": "公衆衛生看護管理論",
             "lecturer": [
                 "五十嵐千代",
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1414.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1414.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1111",
             "courseName": "医学概論[看護]",
             "lecturer": [
                 "清水潤"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1111.json"
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1111.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "thu-2"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "b08048659122"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1216",
             "courseName": "医療・看護情報学",
             "lecturer": [
                 "瀬戸山陽子"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1216.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1216.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "mon-2"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "c0aa5ff6d2bb"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1319",
             "courseName": "医療安全・人間工学概論[看護]",
             "lecturer": [
                 "篠原一彦",
@@ -218,283 +1498,1238 @@
                 "内林諒輔"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1319.json"
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/12\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1319.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "4"
+            ],
+            "classPeriodKeys": [
+                "fri-4"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "e283a2a0155d",
+                "e283a2a0155d",
+                "efb7ff5ded6a",
+                "452495276ccb"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W140510",
             "courseName": "卒業研究[NU10]",
             "lecturer": [
                 "白石裕子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140510.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140510.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "d24e41e81d0a"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140511",
             "courseName": "卒業研究[NU11]",
             "lecturer": [
                 "小田和美"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140511.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140511.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "36bcb26e637b"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140512",
             "courseName": "卒業研究[NU12]",
             "lecturer": [
                 "山形寛"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140512.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140512.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "f5ce66778c26"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140513",
             "courseName": "卒業研究[NU13]",
             "lecturer": [
                 "安井大輔"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140513.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140513.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "0cc78de220d1"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140514",
             "courseName": "卒業研究[NU14]",
             "lecturer": [
                 "佐藤智子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140514.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140514.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "5b83dbe8e9dc"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140515",
             "courseName": "卒業研究[NU15]",
             "lecturer": [
                 "篠田巴留香"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140515.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140515.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "2a5373cd4207"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140516",
             "courseName": "卒業研究[NU16]",
             "lecturer": [
                 "妹尾弘子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140516.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140516.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "658148b56414"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140517",
             "courseName": "卒業研究[NU17]",
             "lecturer": [
                 "田辺大介"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140517.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140517.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "5e4b58f4eebf"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140518",
             "courseName": "卒業研究[NU18]",
             "lecturer": [
                 "遠山寛子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140518.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140518.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "97558804f402"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140519",
             "courseName": "卒業研究[NU19]",
             "lecturer": [
                 "浅海くるみ"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140519.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140519.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "347a368e7781"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140501",
             "courseName": "卒業研究[NU1]",
             "lecturer": [
                 "東雅啓"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140501.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140501.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "8d7e38135860"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140520",
             "courseName": "卒業研究[NU20]",
             "lecturer": [
                 "五十嵐千代"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140520.json"
+            "classroom": [],
+            "updateAt": "2026\/04\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140520.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "44f776ba6459"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140521",
             "courseName": "卒業研究[NU21]",
             "lecturer": [
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140521.json"
+            "classroom": [],
+            "updateAt": "2026\/04\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140521.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140522",
             "courseName": "卒業研究[NU22]",
             "lecturer": [
                 "印東桂子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140522.json"
+            "classroom": [],
+            "updateAt": "2026\/04\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140522.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "71c2baa1656f"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140523",
             "courseName": "卒業研究[NU23]",
             "lecturer": [
                 "鈴木雅子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140523.json"
+            "classroom": [],
+            "updateAt": "2026\/04\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140523.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "9898bf11bb86"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140502",
             "courseName": "卒業研究[NU2]",
             "lecturer": [
                 "岩波浩美"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140502.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140502.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "2f17c8d7e01e"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140503",
             "courseName": "卒業研究[NU3]",
             "lecturer": [
                 "宮首由美子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140503.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140503.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "31f8363fc751"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140504",
             "courseName": "卒業研究[NU4]",
             "lecturer": [
                 "飯塚敏子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140504.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140504.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "36d87a526b21"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140505",
             "courseName": "卒業研究[NU5]",
             "lecturer": [
                 "繁永元樹"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140505.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140505.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "8c57aae2ddfc"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140506",
             "courseName": "卒業研究[NU6]",
             "lecturer": [
                 "杉村直孝"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140506.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140506.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "e64d6548ea89"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140507",
             "courseName": "卒業研究[NU7]",
             "lecturer": [
                 "瀬戸愛子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140507.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140507.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "5578776d6eaf"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140508",
             "courseName": "卒業研究[NU8]",
             "lecturer": [
                 "黒川有来"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140508.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140508.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "5b9c5bb61d06"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W140509",
             "courseName": "卒業研究[NU9]",
             "lecturer": [
                 "森千恵子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部,医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140509.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140509.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "affb0a265768"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1405",
             "courseName": "卒業研究[NU]",
             "lecturer": [],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1405.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1405.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1318",
             "courseName": "国際看護学",
             "lecturer": [
                 "手嶋昭子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1318.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/08",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1318.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "0313f32e75c5"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1214",
             "courseName": "在宅看護学I",
             "lecturer": [
                 "浅海くるみ",
                 "遠山寛子"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1214.json"
+            "classroom": [
+                "３１００３教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1214.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "tue-2"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "347a368e7781",
+                "97558804f402"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1308",
             "courseName": "在宅看護学II",
             "lecturer": [
                 "浅海くるみ",
                 "遠山寛子"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科看護師コース",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1308.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1308.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "347a368e7781",
+                "97558804f402"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1401",
             "courseName": "在宅看護学実習",
             "lecturer": [
                 "浅海くるみ",
                 "遠山寛子"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1401.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/12",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1401.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "347a368e7781",
+                "97558804f402"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1209",
             "courseName": "在宅看護学概論",
             "lecturer": [
                 "浅海くるみ",
                 "遠山寛子"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1209.json"
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1209.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "tue-2"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "347a368e7781",
+                "97558804f402"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1309",
             "courseName": "在宅看護学演習",
             "lecturer": [
                 "浅海くるみ",
                 "遠山寛子"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月4",
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1309.json"
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/02\/19",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1309.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "4",
+                "5"
+            ],
+            "classPeriodKeys": [
+                "mon-4",
+                "mon-5"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "347a368e7781",
+                "97558804f402"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1105",
             "courseName": "地域看護学",
             "lecturer": [
                 "五十嵐千代",
@@ -502,10 +2737,46 @@
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1105.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1105.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "wed-1"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "71c2baa1656f",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1402",
             "courseName": "地域看護学実習",
             "lecturer": [
                 "五十嵐千代",
@@ -513,10 +2784,42 @@
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1402.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1402.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "71c2baa1656f",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1217",
             "courseName": "基礎看護学実習",
             "lecturer": [
                 "飯塚敏子",
@@ -526,10 +2829,44 @@
                 "杉村直孝"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1217.json"
+            "classroom": [],
+            "updateAt": "2026\/06\/29",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1217.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "36d87a526b21",
+                "31f8363fc751",
+                "8c57aae2ddfc",
+                "2f17c8d7e01e",
+                "e64d6548ea89"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1103",
             "courseName": "基礎看護技術I",
             "lecturer": [
                 "飯塚敏子",
@@ -539,10 +2876,54 @@
                 "杉村直孝"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1103.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1103.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "mon-1",
+                "mon-2"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "36d87a526b21",
+                "31f8363fc751",
+                "8c57aae2ddfc",
+                "2f17c8d7e01e",
+                "e64d6548ea89"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1104",
             "courseName": "基礎看護技術II",
             "lecturer": [
                 "飯塚敏子",
@@ -552,10 +2933,54 @@
                 "杉村直孝"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1104.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2026\/06\/29",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1104.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "fri-1",
+                "fri-2"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "36d87a526b21",
+                "31f8363fc751",
+                "8c57aae2ddfc",
+                "2f17c8d7e01e",
+                "e64d6548ea89"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1201",
             "courseName": "基礎看護技術III",
             "lecturer": [
                 "飯塚敏子",
@@ -565,78 +2990,357 @@
                 "杉村直孝"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木1",
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1201.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1201.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "thu-1",
+                "thu-2"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "36d87a526b21",
+                "31f8363fc751",
+                "8c57aae2ddfc",
+                "2f17c8d7e01e",
+                "e64d6548ea89"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "U1104",
             "courseName": "家族社会学[看護]",
             "lecturer": [
                 "柳采延"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1104.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1104.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "5"
+            ],
+            "classPeriodKeys": [
+                "thu-5"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "438e6fa0f47b"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1211",
             "courseName": "小児看護学I",
             "lecturer": [
                 "白石裕子",
                 "鈴木雅子"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1211.json"
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1211.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "wed-3"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "d24e41e81d0a",
+                "9898bf11bb86"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1303",
             "courseName": "小児看護学II",
             "lecturer": [
                 "白石裕子",
                 "鈴木雅子"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1303.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/01\/28",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1303.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "4"
+            ],
+            "classPeriodKeys": [
+                "thu-4"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "d24e41e81d0a",
+                "9898bf11bb86"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1312",
             "courseName": "小児看護学実習",
             "lecturer": [
                 "白石裕子",
                 "鈴木雅子"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1312.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/28",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1312.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "d24e41e81d0a",
+                "9898bf11bb86"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1205",
             "courseName": "小児看護学概論",
             "lecturer": [
                 "白石裕子",
                 "鈴木雅子"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1205.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1205.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "4"
+            ],
+            "classPeriodKeys": [
+                "tue-4"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "d24e41e81d0a",
+                "9898bf11bb86"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1106",
             "courseName": "感染制御ケア",
             "lecturer": [
                 "片渕盛将"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1106.json"
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1106.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "thu-1"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "4a70bee46854"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1327",
             "courseName": "成人・高齢者看護技術演習[2021以前]",
             "lecturer": [
                 "安井大輔",
                 "小田和美"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部看護学科看護師コース",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1327.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/22",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1327.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "5"
+            ],
+            "classPeriodKeys": [
+                "tue-5"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "0cc78de220d1",
+                "36bcb26e637b"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1212",
             "courseName": "成人看護学I",
             "lecturer": [
                 "石川ふみよ",
@@ -644,97 +3348,448 @@
                 "小田和美"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木4",
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1212.json"
+            "classroom": [
+                "３１０１６教室",
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1212.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "4",
+                "5"
+            ],
+            "classPeriodKeys": [
+                "thu-4",
+                "thu-5"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "44f77d35f611",
+                "28b16994946a",
+                "36bcb26e637b"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1304",
             "courseName": "成人看護学II",
             "lecturer": [
                 "小田和美",
                 "山形寛"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1304.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３",
+                "３１８０１病棟模擬実習室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1304.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "3",
+                "4"
+            ],
+            "classPeriodKeys": [
+                "tue-3",
+                "tue-4"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "36bcb26e637b",
+                "f5ce66778c26"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1324",
             "courseName": "成人看護学II[2021以前]",
             "lecturer": [
                 "西尾奈緒美"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3",
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1324.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1324.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "3",
+                "4"
+            ],
+            "classPeriodKeys": [
+                "tue-3",
+                "tue-4"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "f9b7f391a085"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1313",
             "courseName": "成人看護学実習I",
             "lecturer": [
                 "小田和美",
                 "山形寛"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1313.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1313.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "36bcb26e637b",
+                "f5ce66778c26"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1314",
             "courseName": "成人看護学実習II",
             "lecturer": [
                 "小田和美",
                 "山形寛"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1314.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1314.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "36bcb26e637b",
+                "f5ce66778c26"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1326",
             "courseName": "成人看護学実習[2021以前]",
             "lecturer": [
                 "小田和美",
                 "山形寛"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 5,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1326.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/25",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1326.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "36bcb26e637b",
+                "f5ce66778c26"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1206",
             "courseName": "成人看護学概論",
             "lecturer": [
                 "小田和美"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1206.json"
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1206.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "mon-2"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "36bcb26e637b"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1305",
             "courseName": "成人看護技術演習",
             "lecturer": [
                 "小田和美",
                 "山形寛"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1305.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1305.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "5"
+            ],
+            "classPeriodKeys": [
+                "tue-5"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "36bcb26e637b",
+                "f5ce66778c26"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "U1108",
             "courseName": "栄養代謝学[看護]",
             "lecturer": [
                 "加柴美里"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1108.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2025\/12\/26",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1108.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "tue-1"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "4288c1b87ce6"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1323",
             "courseName": "母性・小児看護技術演習[2021以前]",
             "lecturer": [
                 "野澤美江子",
                 "白石裕子"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科看護師コース",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1323.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1323.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "3f35efa7149d",
+                "d24e41e81d0a"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1210",
             "courseName": "母性看護学I",
             "lecturer": [
                 "勝又木綿子",
@@ -743,10 +3798,50 @@
                 "森千恵子"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1210.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1210.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "3",
+                "4"
+            ],
+            "classPeriodKeys": [
+                "mon-3",
+                "mon-4"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "7e35e5754d0a",
+                "5b9c5bb61d06",
+                "5578776d6eaf",
+                "affb0a265768"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1302",
             "courseName": "母性看護学II",
             "lecturer": [
                 "野澤美江子",
@@ -755,10 +3850,49 @@
                 "森千恵子"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1302.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/04\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1302.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "thu-3"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "3f35efa7149d",
+                "5b9c5bb61d06",
+                "5578776d6eaf",
+                "affb0a265768"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1311",
             "courseName": "母性看護学実習",
             "lecturer": [
                 "黒川有来",
@@ -766,19 +3900,85 @@
                 "森千恵子"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1311.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1311.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "5b9c5bb61d06",
+                "5578776d6eaf",
+                "affb0a265768"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1204",
             "courseName": "母性看護学概論",
             "lecturer": [
                 "瀬戸愛子"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1204.json"
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1204.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "fri-2"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "5578776d6eaf"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1404",
             "courseName": "災害看護学",
             "lecturer": [
                 "石田千絵",
@@ -786,46 +3986,219 @@
                 "野澤美江子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1404.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/20",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1404.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "2f3f9f65643c",
+                "7147a7e3ad93",
+                "3f35efa7149d"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "U1103",
             "courseName": "生命倫理[看護]",
             "lecturer": [
                 "岡野浩"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1103.json"
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1103.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "mon-2"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "2d3e4be0b816"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1322",
             "courseName": "産業保健演習",
             "lecturer": [
                 "五十嵐千代"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1322.json"
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1322.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "mon-3"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "44f776ba6459"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1310",
             "courseName": "産業看護学",
             "lecturer": [
                 "五十嵐千代"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1310.json"
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1310.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "mon-1",
+                "mon-2"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "44f776ba6459"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1214",
             "courseName": "画像評価学[看護]",
             "lecturer": [
                 "竹内真一"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1214.json"
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/01\/29",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1214.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "5"
+            ],
+            "classPeriodKeys": [
+                "wed-5"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "184db071f47b"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2",
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1201",
             "courseName": "疫学の基礎",
             "lecturer": [
                 "五十嵐千代",
@@ -833,29 +4206,134 @@
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1201.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1201.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "mon-1",
+                "mon-2"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "71c2baa1656f",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1202",
             "courseName": "疫学の応用",
             "lecturer": [
                 "五十嵐千代",
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1202.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1202.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "mon-1",
+                "mon-2"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "44f776ba6459",
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1208",
             "courseName": "疾病治療論I",
             "lecturer": [
                 "横田恭子"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1208.json"
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/04\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1208.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "thu-3"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "c3660390a8cb"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1209",
             "courseName": "疾病治療論II",
             "lecturer": [
                 "篠原一彦",
@@ -863,128 +4341,596 @@
                 "内林諒輔"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1209.json"
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2025\/12\/18",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1209.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "4"
+            ],
+            "classPeriodKeys": [
+                "fri-4"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "e283a2a0155d",
+                "efb7ff5ded6a",
+                "452495276ccb"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1210",
             "courseName": "疾病治療論III",
             "lecturer": [
                 "勝又木綿子"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月3",
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1210.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1210.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "3",
+                "4"
+            ],
+            "classPeriodKeys": [
+                "mon-3",
+                "mon-4"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "7e35e5754d0a"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1211",
             "courseName": "疾病治療論IV",
             "lecturer": [
                 "井上信明",
                 "白石裕子"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1211.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/28",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1211.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "tue-3"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "a60f2e4553c7",
+                "d24e41e81d0a"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1212",
             "courseName": "疾病治療論V",
             "lecturer": [
                 "中川和美"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1212.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1212.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "wed-1"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "62486deaf8a6"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1110",
             "courseName": "病理病態学I",
             "lecturer": [
                 "東雅啓"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1110.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1110.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "mon-1"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "8d7e38135860"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1207",
             "courseName": "病理病態学II",
             "lecturer": [
                 "東雅啓"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1207.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1207.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "4"
+            ],
+            "classPeriodKeys": [
+                "thu-4"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "8d7e38135860"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1204",
             "courseName": "発達心理学[看護]",
             "lecturer": [
                 "岸竜馬"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1204.json"
+            "classroom": [
+                "３０２１２教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1204.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "5"
+            ],
+            "classPeriodKeys": [
+                "mon-5"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "ddac66bd1aac"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2",
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1301",
             "courseName": "看護倫理学",
             "lecturer": [
                 "妹尾弘子"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火1",
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1301.json"
+            "classroom": [
+                "３１００３教室",
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/14",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1301.json",
+            "weekdayKeys": [
+                "tue",
+                "wed"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "tue-1",
+                "wed-1"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "658148b56414"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1101",
             "courseName": "看護入門講座",
             "lecturer": [
                 "安井大輔"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1101.json"
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1101.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "mon-3"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "0cc78de220d1"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1102",
             "courseName": "看護学概論",
             "lecturer": [
                 "岩波浩美"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年",
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1102.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/17",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1102.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "tue-2"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "2f17c8d7e01e"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "1",
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1420",
             "courseName": "看護工学",
             "lecturer": [
                 "野澤美江子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1420.json"
+            "classroom": [],
+            "updateAt": "2026\/02\/12",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1420.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "3f35efa7149d"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1317",
             "courseName": "看護研究",
             "lecturer": [
                 "岩波浩美"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1317.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1317.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "2f17c8d7e01e"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1403",
             "courseName": "看護管理学",
             "lecturer": [
                 "加納江利子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1403.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1403.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "31c74c84ffb9"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1407",
             "courseName": "看護総合セミナー",
             "lecturer": [
                 "妹尾弘子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1407.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1407.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "658148b56414"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1202",
             "courseName": "看護過程",
             "lecturer": [
                 "飯塚敏子",
@@ -994,309 +4940,1371 @@
                 "杉村直孝"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義・演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1202.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1202.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "mon-3"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "36d87a526b21",
+                "31f8363fc751",
+                "8c57aae2ddfc",
+                "2f17c8d7e01e",
+                "e64d6548ea89"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "6592eaa7277c"
         },
         {
+            "lectureCode": "U1206",
             "courseName": "社会経済学",
             "lecturer": [
                 "尾玉剛士"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年",
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1206.json"
+            "classroom": [
+                "３０２０２教室"
+            ],
+            "updateAt": "2026\/01\/22",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1206.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "wed-1"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "0240465e18e9"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2",
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1307",
             "courseName": "精神看護学",
             "lecturer": [
                 "妹尾弘子",
                 "田辺大介"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部看護学科看護師コース",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1307.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1307.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "fri-1",
+                "fri-2"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "658148b56414",
+                "5e4b58f4eebf"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1316",
             "courseName": "精神看護学実習",
             "lecturer": [
                 "妹尾弘子",
                 "田辺大介"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1316.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1316.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "658148b56414",
+                "5e4b58f4eebf"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1208",
             "courseName": "精神看護学概論",
             "lecturer": [
                 "妹尾弘子",
                 "田辺大介"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1208.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1208.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "thu-3"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "658148b56414",
+                "5e4b58f4eebf"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1406",
             "courseName": "統合看護実習",
             "lecturer": [],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1406.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/28",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1406.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140610",
             "courseName": "統合看護実習[10]",
             "lecturer": [
                 "白石裕子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140610.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140610.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "d24e41e81d0a"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140611",
             "courseName": "統合看護実習[11]",
             "lecturer": [
                 "小田和美"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140611.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140611.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "36bcb26e637b"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140612",
             "courseName": "統合看護実習[12]",
             "lecturer": [
                 "山形寛"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140612.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140612.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "f5ce66778c26"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140613",
             "courseName": "統合看護実習[13]",
             "lecturer": [
                 "安井大輔"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140613.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140613.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "0cc78de220d1"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140614",
             "courseName": "統合看護実習[14]",
             "lecturer": [
                 "佐藤智子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140614.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140614.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "5b83dbe8e9dc"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140615",
             "courseName": "統合看護実習[15]",
             "lecturer": [
                 "篠田巴留香"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140615.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140615.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "2a5373cd4207"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140616",
             "courseName": "統合看護実習[16]",
             "lecturer": [
                 "妹尾弘子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140616.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140616.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "658148b56414"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140617",
             "courseName": "統合看護実習[17]",
             "lecturer": [
                 "田辺大介"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140617.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140617.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "5e4b58f4eebf"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140618",
             "courseName": "統合看護実習[18]",
             "lecturer": [
                 "遠山寛子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140618.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140618.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "97558804f402"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140619",
             "courseName": "統合看護実習[19]",
             "lecturer": [
                 "浅海くるみ"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140619.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140619.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "347a368e7781"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140601",
             "courseName": "統合看護実習[1]",
             "lecturer": [
                 "東雅啓"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140601.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140601.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "8d7e38135860"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140620",
             "courseName": "統合看護実習[20]",
             "lecturer": [
                 "五十嵐千代"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140620.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140620.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "44f776ba6459"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140621",
             "courseName": "統合看護実習[21]",
             "lecturer": [
                 "帆苅なおみ"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140621.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140621.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "c9f3c87d8b8c"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140622",
             "courseName": "統合看護実習[22]",
             "lecturer": [
                 "印東桂子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140622.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140622.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "71c2baa1656f"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140623",
             "courseName": "統合看護実習[23]",
             "lecturer": [
                 "鈴木雅子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140623.json"
+            "classroom": [],
+            "updateAt": "2026\/04\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140623.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "9898bf11bb86"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140602",
             "courseName": "統合看護実習[2]",
             "lecturer": [
                 "岩波浩美"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140602.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140602.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "2f17c8d7e01e"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140603",
             "courseName": "統合看護実習[3]",
             "lecturer": [
                 "宮首由美子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140603.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140603.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "31f8363fc751"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140604",
             "courseName": "統合看護実習[4]",
             "lecturer": [
                 "飯塚敏子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140604.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140604.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "36d87a526b21"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140605",
             "courseName": "統合看護実習[5]",
             "lecturer": [
                 "繁永元樹"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140605.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140605.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "8c57aae2ddfc"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140606",
             "courseName": "統合看護実習[6]",
             "lecturer": [
                 "杉村直孝"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140606.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140606.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "e64d6548ea89"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140607",
             "courseName": "統合看護実習[7]",
             "lecturer": [
                 "瀬戸愛子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140607.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140607.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "5578776d6eaf"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140608",
             "courseName": "統合看護実習[8]",
             "lecturer": [
                 "黒川有来"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140608.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140608.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "5b9c5bb61d06"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W140609",
             "courseName": "統合看護実習[9]",
             "lecturer": [
                 "森千恵子"
             ],
             "regularOrIntensive": "専門科目看護の統合",
+            "courseType": "実習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W140609.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W140609.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "b1318b5984fa",
+            "lecturerKeys": [
+                "affb0a265768"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "U1302",
             "courseName": "臨床工学演習[2021以前]",
             "lecturer": [
                 "小田和美"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1302.json"
+            "classroom": [],
+            "updateAt": "2026\/01\/15",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1302.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "36bcb26e637b"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "U1109",
             "courseName": "臨床微生物・免疫学[看護]",
             "lecturer": [
                 "大橋彩香",
                 "中田なぎさ"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "1年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1109.json"
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2026\/01\/16",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1109.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "5"
+            ],
+            "classPeriodKeys": [
+                "thu-5"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "0e26c6d65925",
+                "9be1cc7c513f"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "1"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1205",
             "courseName": "臨床心理学[看護]",
             "lecturer": [
                 "岸竜馬"
             ],
             "regularOrIntensive": "専門基礎科目人間社会と医療",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "月5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1205.json"
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1205.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "5"
+            ],
+            "classPeriodKeys": [
+                "mon-5"
+            ],
+            "regularOrIntensiveKey": "3e6aaf4b9183",
+            "lecturerKeys": [
+                "ddac66bd1aac"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1301",
             "courseName": "臨床栄養学",
             "lecturer": [
                 "鷲澤尚宏"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "火2",
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1301.json"
+            "classroom": [
+                "３１０１４教室",
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1301.json",
+            "weekdayKeys": [
+                "tue",
+                "wed"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "tue-2",
+                "wed-1"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "133826c0e7d2"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U1213",
             "courseName": "臨床薬理学[看護]",
             "lecturer": [
                 "岸野吏志"
             ],
             "regularOrIntensive": "専門基礎科目人体のメカニズムと疾病・障害",
+            "courseType": "講義科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "水4"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/U1213.json"
+            "classroom": [
+                "３Ｂ１１０大講義室（地下ホール）"
+            ],
+            "updateAt": "2026\/01\/04",
+            "path": "\/api\/v1\/archive\/2026\/all\/U1213.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "4"
+            ],
+            "classPeriodKeys": [
+                "wed-4"
+            ],
+            "regularOrIntensiveKey": "89b946447769",
+            "lecturerKeys": [
+                "fb0b754ef731"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1320",
             "courseName": "認知症ケア",
             "lecturer": [
                 "佐藤智子",
@@ -1304,10 +6312,46 @@
                 "篠田巴留香"
             ],
             "regularOrIntensive": "専門科目看護の発展",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "木5"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1320.json"
+            "classroom": [
+                "３１７１４多目的実習室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1320.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "5"
+            ],
+            "classPeriodKeys": [
+                "thu-5"
+            ],
+            "regularOrIntensiveKey": "8699a186ae88",
+            "lecturerKeys": [
+                "5b83dbe8e9dc",
+                "0cc78de220d1",
+                "2a5373cd4207"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W1213",
             "courseName": "高齢者看護学I",
             "lecturer": [
                 "佐藤智子",
@@ -1315,10 +6359,44 @@
                 "篠田巴留香"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1213.json"
+            "classroom": [
+                "３１０１３教室"
+            ],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1213.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "fri-3"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "5b83dbe8e9dc",
+                "0cc78de220d1",
+                "2a5373cd4207"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1306",
             "courseName": "高齢者看護学II",
             "lecturer": [
                 "佐藤智子",
@@ -1326,10 +6404,48 @@
                 "篠田巴留香"
             ],
             "regularOrIntensive": "専門科目看護の方法",
+            "courseType": "演習科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1306.json"
+            "classroom": [
+                "３１７０２看護実習室２",
+                "３１７１４多目的実習室",
+                "３１７１６看護実習室３"
+            ],
+            "updateAt": "2026\/04\/09",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1306.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "wed-3"
+            ],
+            "regularOrIntensiveKey": "d267b4233d46",
+            "lecturerKeys": [
+                "5b83dbe8e9dc",
+                "0cc78de220d1",
+                "2a5373cd4207"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W1315",
             "courseName": "高齢者看護学実習",
             "lecturer": [
                 "佐藤智子",
@@ -1337,17 +6453,82 @@
                 "篠田巴留香"
             ],
             "regularOrIntensive": "専門科目看護の実践",
+            "courseType": "実習科目",
+            "courseStart": "2026年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 3,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1315.json"
+            "classroom": [],
+            "updateAt": "2026\/03\/06",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1315.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "c7b799943237",
+            "lecturerKeys": [
+                "5b83dbe8e9dc",
+                "0cc78de220d1",
+                "2a5373cd4207"
+            ],
+            "courseStartKey": "2026-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W1207",
             "courseName": "高齢者看護学概論",
             "lecturer": [
                 "安井大輔"
             ],
             "regularOrIntensive": "専門科目看護の基礎",
+            "courseType": "講義科目",
+            "courseStart": "2026年度前期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部看護学科",
+            "targetGrade": [
+                "2年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2026\/HSH1\/W1207.json"
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2026\/02\/08",
+            "path": "\/api\/v1\/archive\/2026\/all\/W1207.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "mon-1"
+            ],
+            "regularOrIntensiveKey": "acaa38dd2782",
+            "lecturerKeys": [
+                "0cc78de220d1"
+            ],
+            "courseStartKey": "2026-first",
+            "targetGradeKeys": [
+                "2"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         }
     ]
 }

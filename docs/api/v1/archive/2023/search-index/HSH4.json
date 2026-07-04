@@ -1,8 +1,212 @@
 {
     "department": "HSH4",
     "count": 34,
+    "filters": {
+        "weekday": [
+            {
+                "key": "mon",
+                "label": "月",
+                "count": 1
+            },
+            {
+                "key": "tue",
+                "label": "火",
+                "count": 2
+            },
+            {
+                "key": "wed",
+                "label": "水",
+                "count": 1
+            },
+            {
+                "key": "thu",
+                "label": "木",
+                "count": 1
+            },
+            {
+                "key": "fri",
+                "label": "金",
+                "count": 1
+            },
+            {
+                "key": "other",
+                "label": "他",
+                "count": 28
+            }
+        ],
+        "period": [
+            {
+                "key": "1",
+                "label": "1",
+                "count": 2
+            },
+            {
+                "key": "2",
+                "label": "2",
+                "count": 1
+            },
+            {
+                "key": "3",
+                "label": "3",
+                "count": 2
+            },
+            {
+                "key": "4",
+                "label": "4",
+                "count": 1
+            },
+            {
+                "key": "other",
+                "label": "他",
+                "count": 28
+            }
+        ],
+        "classPeriod": [
+            {
+                "key": "mon-1",
+                "label": "月1",
+                "count": 1
+            },
+            {
+                "key": "tue-3",
+                "label": "火3",
+                "count": 1
+            },
+            {
+                "key": "tue-4",
+                "label": "火4",
+                "count": 1
+            },
+            {
+                "key": "wed-1",
+                "label": "水1",
+                "count": 1
+            },
+            {
+                "key": "thu-2",
+                "label": "木2",
+                "count": 1
+            },
+            {
+                "key": "fri-3",
+                "label": "金3",
+                "count": 1
+            },
+            {
+                "key": "other",
+                "label": "他",
+                "count": 28
+            }
+        ],
+        "regularOrIntensive": [
+            {
+                "key": "63707e8fb9ad",
+                "label": "専門科目",
+                "count": 34
+            }
+        ],
+        "lecturer": [
+            {
+                "key": "62486deaf8a6",
+                "label": "中川和美",
+                "count": 2
+            },
+            {
+                "key": "caba6c15236c",
+                "label": "伊藤公一",
+                "count": 5
+            },
+            {
+                "key": "ddd06dbc4ea3",
+                "label": "友利幸之介",
+                "count": 4
+            },
+            {
+                "key": "0d61690ea66f",
+                "label": "大野勘太",
+                "count": 4
+            },
+            {
+                "key": "169cb8f0e2e8",
+                "label": "柴橋広智",
+                "count": 1
+            },
+            {
+                "key": "e7c68ba55ee3",
+                "label": "池田晋平",
+                "count": 3
+            },
+            {
+                "key": "8f20de6ec64c",
+                "label": "清家庸佑",
+                "count": 4
+            },
+            {
+                "key": "41c0dfed1b23",
+                "label": "澤田辰徳",
+                "count": 4
+            },
+            {
+                "key": "365398c3282a",
+                "label": "石橋仁美",
+                "count": 7
+            },
+            {
+                "key": "bce10904f91c",
+                "label": "酒井弘美",
+                "count": 6
+            },
+            {
+                "key": "b219ee45aa0a",
+                "label": "阿部達彦",
+                "count": 2
+            }
+        ],
+        "courseStart": [
+            {
+                "key": "2023-first",
+                "label": "2023年度前期",
+                "count": 19
+            },
+            {
+                "key": "2023-second",
+                "label": "2023年度後期",
+                "count": 15
+            }
+        ],
+        "targetGrade": [
+            {
+                "key": "3",
+                "label": "3年",
+                "count": 6
+            },
+            {
+                "key": "4",
+                "label": "4年",
+                "count": 34
+            }
+        ],
+        "courseType": [
+            {
+                "key": "4ab0c6a3f107",
+                "label": "実習科目",
+                "count": 5
+            },
+            {
+                "key": "3beabbaa9998",
+                "label": "演習科目",
+                "count": 25
+            },
+            {
+                "key": "dd5e37aedc2b",
+                "label": "講義科目",
+                "count": 4
+            }
+        ]
+    },
     "lectures": [
         {
+            "lectureCode": "W4404",
             "courseName": "作業療法セミナー",
             "lecturer": [
                 "伊藤公一",
@@ -15,306 +219,1357 @@
                 "清家庸佑"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W4404.json"
+            "classroom": [
+                "３１８０４作業療法卒研室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W4404.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "mon-1"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "caba6c15236c",
+                "365398c3282a",
+                "bce10904f91c",
+                "e7c68ba55ee3",
+                "41c0dfed1b23",
+                "ddd06dbc4ea3",
+                "0d61690ea66f",
+                "8f20de6ec64c"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W44206",
             "courseName": "作業療法卒業研究[6]",
             "lecturer": [
                 "石橋仁美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W44206.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W44206.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "365398c3282a"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W44208",
             "courseName": "作業療法卒業研究[8]",
             "lecturer": [
                 "伊藤公一"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W44208.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W44208.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "caba6c15236c"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W4401",
             "courseName": "作業療法管理学",
             "lecturer": [
                 "澤田辰徳"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部作業療法学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W4401.json"
+            "classroom": [],
+            "updateAt": "2023\/01\/25",
+            "path": "\/api\/v1\/archive\/2023\/all\/W4401.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "41c0dfed1b23"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W440610",
             "courseName": "卒業研究II[OT10]",
             "lecturer": [
                 "清家庸佑"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440610.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440610.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "8f20de6ec64c"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440601",
             "courseName": "卒業研究II[OT1]",
             "lecturer": [
                 "酒井弘美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440601.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440601.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "bce10904f91c"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440602",
             "courseName": "卒業研究II[OT2]",
             "lecturer": [
                 "中川和美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440602.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440602.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "62486deaf8a6"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440603",
             "courseName": "卒業研究II[OT3]",
             "lecturer": [
                 "阿部達彦"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440603.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440603.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "b219ee45aa0a"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440604",
             "courseName": "卒業研究II[OT4]",
             "lecturer": [
                 "澤田辰徳"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440604.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440604.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "41c0dfed1b23"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440605",
             "courseName": "卒業研究II[OT5]",
             "lecturer": [
                 "友利幸之介"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440605.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440605.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "ddd06dbc4ea3"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440606",
             "courseName": "卒業研究II[OT6]",
             "lecturer": [
                 "石橋仁美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440606.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440606.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "365398c3282a"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440607",
             "courseName": "卒業研究II[OT7]",
             "lecturer": [
                 "池田晋平"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440607.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440607.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "e7c68ba55ee3"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440608",
             "courseName": "卒業研究II[OT8]",
             "lecturer": [
                 "伊藤公一"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440608.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440608.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "caba6c15236c"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440609",
             "courseName": "卒業研究II[OT9]",
             "lecturer": [
                 "大野勘太"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440609.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440609.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "0d61690ea66f"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440510",
             "courseName": "卒業研究I[OT10]",
             "lecturer": [
                 "清家庸佑"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440510.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440510.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "8f20de6ec64c"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440501",
             "courseName": "卒業研究I[OT1]",
             "lecturer": [
                 "酒井弘美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440501.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440501.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "bce10904f91c"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440502",
             "courseName": "卒業研究I[OT2]",
             "lecturer": [
                 "中川和美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440502.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440502.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "62486deaf8a6"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440503",
             "courseName": "卒業研究I[OT3]",
             "lecturer": [
                 "阿部達彦"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440503.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440503.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "b219ee45aa0a"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440504",
             "courseName": "卒業研究I[OT4]",
             "lecturer": [
                 "澤田辰徳"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440504.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440504.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "41c0dfed1b23"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440505",
             "courseName": "卒業研究I[OT5]",
             "lecturer": [
                 "友利幸之介"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440505.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440505.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "ddd06dbc4ea3"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440506",
             "courseName": "卒業研究I[OT6]",
             "lecturer": [
                 "石橋仁美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440506.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440506.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "365398c3282a"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440507",
             "courseName": "卒業研究I[OT7]",
             "lecturer": [
                 "池田晋平"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440507.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440507.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "e7c68ba55ee3"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440508",
             "courseName": "卒業研究I[OT8]",
             "lecturer": [
                 "伊藤公一"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440508.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440508.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "caba6c15236c"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W440509",
             "courseName": "卒業研究I[OT9]",
             "lecturer": [
                 "大野勘太"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W440509.json"
+            "classroom": [],
+            "updateAt": "2023\/04\/24",
+            "path": "\/api\/v1\/archive\/2023\/all\/W440509.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "0d61690ea66f"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W43270",
             "courseName": "多職種連携論[2019年以前]",
             "lecturer": [
                 "清家庸佑"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W43270.json"
+            "classroom": [
+                "３１１１３教室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W43270.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "fri-3"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "8f20de6ec64c"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W43290",
             "courseName": "特別支援教育と作業療法演習[2019年以前]",
             "lecturer": [
                 "友利幸之介"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W43290.json"
+            "classroom": [
+                "Ｍ６０５手工芸室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W43290.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "thu-2"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "ddd06dbc4ea3"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W43230",
             "courseName": "生活行為と作業療法[2019年以前]",
             "lecturer": [
                 "大野勘太"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W43230.json"
+            "classroom": [
+                "Ｍ５０９レクリエーション室"
+            ],
+            "updateAt": "2023\/02\/16",
+            "path": "\/api\/v1\/archive\/2023\/all\/W43230.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "wed-1"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "0d61690ea66f"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W43240",
             "courseName": "生活行為と作業療法演習[2019年以前]",
             "lecturer": [
                 "伊藤公一"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W43240.json"
+            "classroom": [
+                "Ｍ５０９レクリエーション室"
+            ],
+            "updateAt": "2023\/03\/07",
+            "path": "\/api\/v1\/archive\/2023\/all\/W43240.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "tue-3"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "caba6c15236c"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W4402",
             "courseName": "臨床実習II",
             "lecturer": [
                 "酒井弘美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部作業療法学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 7,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W4402.json"
+            "classroom": [],
+            "updateAt": "2023\/01\/31",
+            "path": "\/api\/v1\/archive\/2023\/all\/W4402.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "bce10904f91c"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W4403",
             "courseName": "臨床実習III",
             "lecturer": [
                 "石橋仁美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部作業療法学科",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 7,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W4403.json"
+            "classroom": [],
+            "updateAt": "2023\/02\/01",
+            "path": "\/api\/v1\/archive\/2023\/all\/W4403.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "365398c3282a"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W4412",
             "courseName": "臨床実習II[2019年以前]",
             "lecturer": [
                 "石橋仁美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 8,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W4412.json"
+            "classroom": [],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/W4412.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "365398c3282a"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W4411",
             "courseName": "臨床実習I[2019年以前]",
             "lecturer": [
                 "酒井弘美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 8,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W4411.json"
+            "classroom": [],
+            "updateAt": "2023\/01\/31",
+            "path": "\/api\/v1\/archive\/2023\/all\/W4411.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "bce10904f91c"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W43260",
             "courseName": "評価実習[2019年以前]",
             "lecturer": [
                 "石橋仁美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2023年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W43260.json"
+            "classroom": [],
+            "updateAt": "2023\/01\/29",
+            "path": "\/api\/v1\/archive\/2023\/all\/W43260.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "365398c3282a"
+            ],
+            "courseStartKey": "2023-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W43220",
             "courseName": "身体機能作業療法学[2019年以前]",
             "lecturer": [
                 "酒井弘美",
                 "柴橋広智"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2023年度前期",
+            "classPeriod": [
+                "火4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2023\/HSH4\/W43220.json"
+            "classroom": [
+                "Ｍ５０９レクリエーション室"
+            ],
+            "updateAt": "2023\/01\/30",
+            "path": "\/api\/v1\/archive\/2023\/all\/W43220.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "4"
+            ],
+            "classPeriodKeys": [
+                "tue-4"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "bce10904f91c",
+                "169cb8f0e2e8"
+            ],
+            "courseStartKey": "2023-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         }
     ]
 }

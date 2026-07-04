@@ -213,14 +213,138 @@ def _get_lecture_summary(lecture_data: dict, api_prefix: str) -> dict:
 
     return summary
 
-def _get_search_index_entry(lecture_data: dict, api_prefix: str, department: str, lecture_code: str) -> dict:
+def _get_filter_keys(lecture_data: dict) -> dict:
+    weekdays, periods, class_periods = _get_schedule_keys(_as_list(lecture_data.get("classPeriod")))
+    regular_or_intensive = lecture_data.get("regularOrIntensive") or ""
+    course_start = lecture_data.get("courseStart") or ""
+    course_type = lecture_data.get("courseType") or ""
+
     return {
+        "weekdayKeys": sorted(weekdays),
+        "periodKeys": sorted(periods, key=lambda key: int(key) if key.isdigit() else 9999),
+        "classPeriodKeys": sorted(class_periods),
+        "regularOrIntensiveKey": _get_regular_or_intensive_id(regular_or_intensive),
+        "lecturerKeys": [
+            _get_hashed_id(str(lecturer or ""))
+            for lecturer in _as_list(lecture_data.get("lecturer"))
+        ],
+        "courseStartKey": _get_course_start_id(course_start),
+        "targetGradeKeys": [
+            _get_target_grade_id(str(target_grade or ""))
+            for target_grade in _as_list(lecture_data.get("targetGrade"))
+        ],
+        "courseTypeKey": _get_hashed_id(course_type),
+    }
+
+def _get_search_index_entry(lecture_data: dict, api_prefix: str, department: str, lecture_code: str) -> dict:
+    entry = {
+        "lectureCode": lecture_data.get("lectureCode") or lecture_code,
         "courseName": lecture_data.get("courseName"),
         "lecturer": lecture_data.get("lecturer"),
         "regularOrIntensive": lecture_data.get("regularOrIntensive"),
+        "courseType": lecture_data.get("courseType"),
+        "courseStart": lecture_data.get("courseStart"),
+        "classPeriod": lecture_data.get("classPeriod"),
+        "targetDepartment": lecture_data.get("targetDepartment"),
+        "targetGrade": lecture_data.get("targetGrade"),
         "numberOfCredits": lecture_data.get("numberOfCredits"),
-        "path": f"{api_prefix}/{department}/{lecture_code}.json",
+        "classroom": lecture_data.get("classroom"),
+        "updateAt": lecture_data.get("updateAt"),
+        "path": f"{api_prefix}/all/{lecture_code}.json",
     }
+    entry.update(_get_filter_keys(lecture_data))
+    return entry
+
+def _increment_filter_count(filters: dict, category: str, key: str, label: str) -> None:
+    if not key:
+        key = "unknown"
+
+    category_filters = filters.setdefault(category, {})
+    item = category_filters.setdefault(key, {
+        "key": key,
+        "label": label,
+        "count": 0,
+    })
+    item["count"] += 1
+
+def _build_search_filter_metadata(lectures: list[dict]) -> dict:
+    filters = {}
+
+    for lecture in lectures:
+        for weekday_key in lecture.get("weekdayKeys") or []:
+            _increment_filter_count(filters, "weekday", weekday_key, WEEKDAY_LABELS.get(weekday_key, weekday_key))
+
+        for period_key in lecture.get("periodKeys") or []:
+            _increment_filter_count(filters, "period", period_key, "他" if period_key == "other" else period_key)
+
+        for class_period_key in lecture.get("classPeriodKeys") or []:
+            if class_period_key == "other":
+                class_period_label = "他"
+            else:
+                weekday_key, period_key = class_period_key.split("-", 1)
+                class_period_label = f"{WEEKDAY_LABELS.get(weekday_key, weekday_key)}{period_key}"
+            _increment_filter_count(filters, "classPeriod", class_period_key, class_period_label)
+
+        regular_or_intensive = lecture.get("regularOrIntensive") or ""
+        _increment_filter_count(
+            filters,
+            "regularOrIntensive",
+            lecture.get("regularOrIntensiveKey"),
+            regular_or_intensive,
+        )
+
+        for lecturer, lecturer_key in zip(
+            _as_list(lecture.get("lecturer")),
+            lecture.get("lecturerKeys") or [],
+        ):
+            _increment_filter_count(filters, "lecturer", lecturer_key, str(lecturer or ""))
+
+        course_start = lecture.get("courseStart") or ""
+        _increment_filter_count(filters, "courseStart", lecture.get("courseStartKey"), course_start)
+
+        for target_grade, target_grade_key in zip(
+            _as_list(lecture.get("targetGrade")),
+            lecture.get("targetGradeKeys") or [],
+        ):
+            _increment_filter_count(filters, "targetGrade", target_grade_key, str(target_grade or ""))
+
+        course_type = lecture.get("courseType") or ""
+        _increment_filter_count(filters, "courseType", lecture.get("courseTypeKey"), course_type)
+
+    weekday_order = {key: index for index, key in enumerate(["mon", "tue", "wed", "thu", "fri", "sat", "sun", "other"])}
+
+    def filter_sort_key(category: str, item: dict):
+        key = item["key"]
+        label = item["label"] or ""
+
+        if category == "weekday":
+            return (weekday_order.get(key, 9999), label, key)
+
+        if category in {"period", "targetGrade"}:
+            return (int(key) if key.isdigit() else 9999, label, key)
+
+        if category == "classPeriod":
+            if key == "other":
+                return (9999, 9999, label, key)
+
+            weekday_key, period_key = key.split("-", 1)
+            return (
+                weekday_order.get(weekday_key, 9999),
+                int(period_key) if period_key.isdigit() else 9999,
+                label,
+                key,
+            )
+
+        return (label, key)
+
+    metadata = {}
+    for category, values in filters.items():
+        metadata[category] = sorted(
+            values.values(),
+            key=lambda item: filter_sort_key(category, item),
+        )
+
+    return metadata
 
 def _sort_lecture_summaries(lectures: dict) -> list[dict]:
     return sorted(
@@ -491,6 +615,7 @@ def _build_search_indexes_for_base(base_path: str, api_prefix: str) -> bool:
             {
                 "department": department,
                 "count": len(lectures),
+                "filters": _build_search_filter_metadata(lectures),
                 "lectures": lectures,
             }
         )

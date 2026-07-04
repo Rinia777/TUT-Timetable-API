@@ -1,8 +1,347 @@
 {
     "department": "HSH3",
     "count": 40,
+    "filters": {
+        "weekday": [
+            {
+                "key": "mon",
+                "label": "月",
+                "count": 5
+            },
+            {
+                "key": "tue",
+                "label": "火",
+                "count": 6
+            },
+            {
+                "key": "wed",
+                "label": "水",
+                "count": 4
+            },
+            {
+                "key": "thu",
+                "label": "木",
+                "count": 5
+            },
+            {
+                "key": "fri",
+                "label": "金",
+                "count": 4
+            },
+            {
+                "key": "other",
+                "label": "他",
+                "count": 16
+            }
+        ],
+        "period": [
+            {
+                "key": "1",
+                "label": "1",
+                "count": 9
+            },
+            {
+                "key": "2",
+                "label": "2",
+                "count": 8
+            },
+            {
+                "key": "3",
+                "label": "3",
+                "count": 8
+            },
+            {
+                "key": "4",
+                "label": "4",
+                "count": 5
+            },
+            {
+                "key": "5",
+                "label": "5",
+                "count": 3
+            },
+            {
+                "key": "other",
+                "label": "他",
+                "count": 16
+            }
+        ],
+        "classPeriod": [
+            {
+                "key": "mon-1",
+                "label": "月1",
+                "count": 2
+            },
+            {
+                "key": "mon-2",
+                "label": "月2",
+                "count": 2
+            },
+            {
+                "key": "mon-3",
+                "label": "月3",
+                "count": 1
+            },
+            {
+                "key": "mon-4",
+                "label": "月4",
+                "count": 1
+            },
+            {
+                "key": "tue-1",
+                "label": "火1",
+                "count": 3
+            },
+            {
+                "key": "tue-2",
+                "label": "火2",
+                "count": 2
+            },
+            {
+                "key": "tue-3",
+                "label": "火3",
+                "count": 2
+            },
+            {
+                "key": "tue-4",
+                "label": "火4",
+                "count": 1
+            },
+            {
+                "key": "tue-5",
+                "label": "火5",
+                "count": 1
+            },
+            {
+                "key": "wed-1",
+                "label": "水1",
+                "count": 2
+            },
+            {
+                "key": "wed-2",
+                "label": "水2",
+                "count": 1
+            },
+            {
+                "key": "wed-3",
+                "label": "水3",
+                "count": 1
+            },
+            {
+                "key": "wed-4",
+                "label": "水4",
+                "count": 1
+            },
+            {
+                "key": "wed-5",
+                "label": "水5",
+                "count": 1
+            },
+            {
+                "key": "thu-1",
+                "label": "木1",
+                "count": 1
+            },
+            {
+                "key": "thu-2",
+                "label": "木2",
+                "count": 2
+            },
+            {
+                "key": "thu-3",
+                "label": "木3",
+                "count": 2
+            },
+            {
+                "key": "thu-4",
+                "label": "木4",
+                "count": 1
+            },
+            {
+                "key": "fri-1",
+                "label": "金1",
+                "count": 1
+            },
+            {
+                "key": "fri-2",
+                "label": "金2",
+                "count": 1
+            },
+            {
+                "key": "fri-3",
+                "label": "金3",
+                "count": 2
+            },
+            {
+                "key": "fri-4",
+                "label": "金4",
+                "count": 1
+            },
+            {
+                "key": "fri-5",
+                "label": "金5",
+                "count": 1
+            },
+            {
+                "key": "other",
+                "label": "他",
+                "count": 16
+            }
+        ],
+        "regularOrIntensive": [
+            {
+                "key": "a8b2666aa3df",
+                "label": "専門基礎科目",
+                "count": 4
+            },
+            {
+                "key": "63707e8fb9ad",
+                "label": "専門科目",
+                "count": 36
+            }
+        ],
+        "lecturer": [
+            {
+                "key": "aa6345fa9f1d",
+                "label": "中山孝",
+                "count": 8
+            },
+            {
+                "key": "c5d4f84ffdd8",
+                "label": "乙戸崇寛",
+                "count": 1
+            },
+            {
+                "key": "03385f5b6f80",
+                "label": "伊藤咲子",
+                "count": 7
+            },
+            {
+                "key": "c81bf3da2729",
+                "label": "十島純子",
+                "count": 1
+            },
+            {
+                "key": "142f8b94a4b7",
+                "label": "吉田真一",
+                "count": 5
+            },
+            {
+                "key": "cfbc503b5e8b",
+                "label": "土屋順子",
+                "count": 6
+            },
+            {
+                "key": "0b8008e229b0",
+                "label": "太箸俊宏",
+                "count": 5
+            },
+            {
+                "key": "a4f92924e1fe",
+                "label": "宮﨑貴朗",
+                "count": 8
+            },
+            {
+                "key": "7c8ca1306004",
+                "label": "忽那俊樹",
+                "count": 7
+            },
+            {
+                "key": "e45b54e303b3",
+                "label": "斎藤寛樹",
+                "count": 6
+            },
+            {
+                "key": "4afebe8332fa",
+                "label": "日下さと美",
+                "count": 6
+            },
+            {
+                "key": "a7b69cabac2b",
+                "label": "梅田勝",
+                "count": 1
+            },
+            {
+                "key": "cf9edf216764",
+                "label": "海老原覚",
+                "count": 1
+            },
+            {
+                "key": "b08048659122",
+                "label": "清水潤",
+                "count": 1
+            },
+            {
+                "key": "ac9d63925e75",
+                "label": "渡部祥輝",
+                "count": 5
+            },
+            {
+                "key": "cd5ab8ef19e8",
+                "label": "石黒圭応",
+                "count": 5
+            },
+            {
+                "key": "e283a2a0155d",
+                "label": "篠原一彦",
+                "count": 2
+            },
+            {
+                "key": "7c2de3854ef6",
+                "label": "野田雅司",
+                "count": 1
+            },
+            {
+                "key": "274ecc88f4eb",
+                "label": "高木健志",
+                "count": 6
+            }
+        ],
+        "courseStart": [
+            {
+                "key": "2022-first",
+                "label": "2022年度前期",
+                "count": 30
+            },
+            {
+                "key": "2022-second",
+                "label": "2022年度後期",
+                "count": 10
+            }
+        ],
+        "targetGrade": [
+            {
+                "key": "3",
+                "label": "3年",
+                "count": 22
+            },
+            {
+                "key": "4",
+                "label": "4年",
+                "count": 40
+            }
+        ],
+        "courseType": [
+            {
+                "key": "4ab0c6a3f107",
+                "label": "実習科目",
+                "count": 7
+            },
+            {
+                "key": "3beabbaa9998",
+                "label": "演習科目",
+                "count": 22
+            },
+            {
+                "key": "dd5e37aedc2b",
+                "label": "講義科目",
+                "count": 11
+            }
+        ]
+    },
     "lectures": [
         {
+            "lectureCode": "U33010",
             "courseName": "クリニカル・キネシオロジー演習",
             "lecturer": [
                 "吉田真一",
@@ -10,10 +349,48 @@
                 "渡部祥輝"
             ],
             "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/U33010.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/U33010.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "thu-2"
+            ],
+            "regularOrIntensiveKey": "a8b2666aa3df",
+            "lecturerKeys": [
+                "142f8b94a4b7",
+                "cd5ab8ef19e8",
+                "ac9d63925e75"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W33140",
             "courseName": "スポーツ科学理学療法学演習",
             "lecturer": [
                 "中山孝",
@@ -23,243 +400,1106 @@
                 "乙戸崇寛"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33140.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33140.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "wed-3"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "aa6345fa9f1d",
+                "142f8b94a4b7",
+                "e45b54e303b3",
+                "03385f5b6f80",
+                "c5d4f84ffdd8"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W33120",
             "courseName": "マニュアルセラピー",
             "lecturer": [
                 "中山孝",
                 "斎藤寛樹"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33120.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33120.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "mon-2"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "aa6345fa9f1d",
+                "e45b54e303b3"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W33130",
             "courseName": "マニュアルセラピー実習",
             "lecturer": [
                 "中山孝",
                 "斎藤寛樹"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "火1",
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33130.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33130.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "tue-1",
+                "tue-2"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "aa6345fa9f1d",
+                "e45b54e303b3"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W33030",
             "courseName": "リスク管理論",
             "lecturer": [
                 "日下さと美",
                 "忽那俊樹"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33030.json"
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33030.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "thu-3"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "4afebe8332fa",
+                "7c8ca1306004"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W34010",
             "courseName": "先端医療総合講義[理学]",
             "lecturer": [
                 "篠原一彦"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水4",
+                "水5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34010.json"
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34010.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "4",
+                "5"
+            ],
+            "classPeriodKeys": [
+                "wed-4",
+                "wed-5"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "e283a2a0155d"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U33030",
             "courseName": "公衆衛生学演習[理学]",
             "lecturer": [
                 "梅田勝",
                 "太箸俊宏"
             ],
             "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/U33030.json"
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2022\/01\/06",
+            "path": "\/api\/v1\/archive\/2022\/all\/U33030.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "tue-3"
+            ],
+            "regularOrIntensiveKey": "a8b2666aa3df",
+            "lecturerKeys": [
+                "a7b69cabac2b",
+                "0b8008e229b0"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W33080",
             "courseName": "内部障害系理学療法学",
             "lecturer": [
                 "日下さと美",
                 "忽那俊樹"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33080.json"
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33080.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "mon-3"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "4afebe8332fa",
+                "7c8ca1306004"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W33090",
             "courseName": "内部障害系理学療法学実習",
             "lecturer": [
                 "日下さと美",
                 "忽那俊樹"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月1",
+                "月2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33090.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/01\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33090.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "mon-1",
+                "mon-2"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "4afebe8332fa",
+                "7c8ca1306004"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W33200",
             "courseName": "医療安全・人間工学概論[理学]",
             "lecturer": [
                 "篠原一彦"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33200.json"
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2021\/12\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33200.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "tue-1"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "e283a2a0155d"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "U34010",
             "courseName": "医療情報演習",
             "lecturer": [
                 "野田雅司"
             ],
             "regularOrIntensive": "専門基礎科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "金3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/U34010.json"
+            "classroom": [
+                "３１１１２教室"
+            ],
+            "updateAt": "2022\/01\/25",
+            "path": "\/api\/v1\/archive\/2022\/all\/U34010.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "3"
+            ],
+            "classPeriodKeys": [
+                "fri-3"
+            ],
+            "regularOrIntensiveKey": "a8b2666aa3df",
+            "lecturerKeys": [
+                "7c2de3854ef6"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W3405A",
             "courseName": "卒業研究[PT10]",
             "lecturer": [
                 "吉田真一"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W3405A.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W3405A.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "142f8b94a4b7"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W3405B",
             "courseName": "卒業研究[PT11]",
             "lecturer": [
                 "土屋順子"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W3405B.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W3405B.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "cfbc503b5e8b"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W3405C",
             "courseName": "卒業研究[PT12]",
             "lecturer": [
                 "太箸俊宏"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W3405C.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W3405C.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "0b8008e229b0"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W3405D",
             "courseName": "卒業研究[PT13]",
             "lecturer": [
                 "斎藤寛樹"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W3405D.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W3405D.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "e45b54e303b3"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W3405E",
             "courseName": "卒業研究[PT14]",
             "lecturer": [
                 "伊藤咲子"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W3405E.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W3405E.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "03385f5b6f80"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34051",
             "courseName": "卒業研究[PT1]",
             "lecturer": [
                 "中山孝"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34051.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34051.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "aa6345fa9f1d"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34052",
             "courseName": "卒業研究[PT2]",
             "lecturer": [
                 "石黒圭応"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34052.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34052.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "cd5ab8ef19e8"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34053",
             "courseName": "卒業研究[PT3]",
             "lecturer": [
                 "十島純子"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34053.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34053.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "c81bf3da2729"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34054",
             "courseName": "卒業研究[PT4]",
             "lecturer": [
                 "清水潤"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34054.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34054.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "b08048659122"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34055",
             "courseName": "卒業研究[PT5]",
             "lecturer": [
                 "宮﨑貴朗"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34055.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34055.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "a4f92924e1fe"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34056",
             "courseName": "卒業研究[PT6]",
             "lecturer": [
                 "高木健志"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34056.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34056.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "274ecc88f4eb"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34057",
             "courseName": "卒業研究[PT7]",
             "lecturer": [
                 "日下さと美"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34057.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34057.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "4afebe8332fa"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34058",
             "courseName": "卒業研究[PT8]",
             "lecturer": [
                 "忽那俊樹"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34058.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34058.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "7c8ca1306004"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34059",
             "courseName": "卒業研究[PT9]",
             "lecturer": [
                 "渡部祥輝"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 4,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34059.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/22",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34059.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "ac9d63925e75"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W33170",
             "courseName": "地域理学療法学",
             "lecturer": [
                 "宮﨑貴朗",
                 "太箸俊宏"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "水1",
+                "水2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33170.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/01\/23",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33170.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "wed-1",
+                "wed-2"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "a4f92924e1fe",
+                "0b8008e229b0"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W33150",
             "courseName": "日常生活活動論実習",
             "lecturer": [
                 "宮﨑貴朗",
                 "土屋順子"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火4",
+                "火5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33150.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/01\/23",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33150.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "4",
+                "5"
+            ],
+            "classPeriodKeys": [
+                "tue-4",
+                "tue-5"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "a4f92924e1fe",
+                "cfbc503b5e8b"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W33020",
             "courseName": "理学療法ゼミ",
             "lecturer": [
                 "宮﨑貴朗",
@@ -270,10 +1510,49 @@
                 "高木健志"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "月1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33020.json"
+            "classroom": [
+                "３１０１４教室"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33020.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "mon-1"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "a4f92924e1fe",
+                "cd5ab8ef19e8",
+                "4afebe8332fa",
+                "7c8ca1306004",
+                "ac9d63925e75",
+                "274ecc88f4eb"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W33010",
             "courseName": "理学療法研究",
             "lecturer": [
                 "中山孝",
@@ -282,10 +1561,49 @@
                 "渡部祥輝"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "月4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33010.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/01\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33010.json",
+            "weekdayKeys": [
+                "mon"
+            ],
+            "periodKeys": [
+                "4"
+            ],
+            "classPeriodKeys": [
+                "mon-4"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "aa6345fa9f1d",
+                "4afebe8332fa",
+                "7c8ca1306004",
+                "ac9d63925e75"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W34020",
             "courseName": "理学療法総合演習",
             "lecturer": [
                 "中山孝",
@@ -293,68 +1611,323 @@
                 "伊藤咲子"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火1",
+                "火3"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34020.json"
+            "classroom": [
+                "３１０１２教室"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34020.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "1",
+                "3"
+            ],
+            "classPeriodKeys": [
+                "tue-1",
+                "tue-3"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "aa6345fa9f1d",
+                "7c8ca1306004",
+                "03385f5b6f80"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W33160",
             "courseName": "生活環境福祉学",
             "lecturer": [
                 "宮﨑貴朗",
                 "太箸俊宏"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33160.json"
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33160.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "thu-2"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "a4f92924e1fe",
+                "0b8008e229b0"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W33110",
             "courseName": "発達障害系理学療法学演習",
             "lecturer": [
                 "高木健志"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "演習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "火2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33110.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/01\/21",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33110.json",
+            "weekdayKeys": [
+                "tue"
+            ],
+            "periodKeys": [
+                "2"
+            ],
+            "classPeriodKeys": [
+                "tue-2"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "274ecc88f4eb"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "3beabbaa9998"
         },
         {
+            "lectureCode": "W33040",
             "courseName": "神経系理学療法学",
             "lecturer": [
                 "土屋順子",
                 "高木健志"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金1",
+                "金2"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33040.json"
+            "classroom": [
+                "３０２１１教室"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33040.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "1",
+                "2"
+            ],
+            "classPeriodKeys": [
+                "fri-1",
+                "fri-2"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "cfbc503b5e8b",
+                "274ecc88f4eb"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W33050",
             "courseName": "神経系理学療法学実習",
             "lecturer": [
                 "土屋順子",
                 "高木健志"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金3",
+                "金4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33050.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33050.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "3",
+                "4"
+            ],
+            "classPeriodKeys": [
+                "fri-3",
+                "fri-4"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "cfbc503b5e8b",
+                "274ecc88f4eb"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "U33020",
             "courseName": "老年医学[理学]",
             "lecturer": [
                 "海老原覚"
             ],
             "regularOrIntensive": "専門基礎科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "金5"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/U33020.json"
+            "classroom": [
+                "３１００１階段教室２"
+            ],
+            "updateAt": "2022\/01\/19",
+            "path": "\/api\/v1\/archive\/2022\/all\/U33020.json",
+            "weekdayKeys": [
+                "fri"
+            ],
+            "periodKeys": [
+                "5"
+            ],
+            "classPeriodKeys": [
+                "fri-5"
+            ],
+            "regularOrIntensiveKey": "a8b2666aa3df",
+            "lecturerKeys": [
+                "cf9edf216764"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W33100",
             "courseName": "老年期理学療法学",
             "lecturer": [
                 "宮﨑貴朗",
                 "太箸俊宏"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "木1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33100.json"
+            "classroom": [
+                "３１１１１教室"
+            ],
+            "updateAt": "2022\/08\/07",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33100.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "thu-1"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "a4f92924e1fe",
+                "0b8008e229b0"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W33180",
             "courseName": "臨床実習III（総合）[2020年]",
             "lecturer": [
                 "宮﨑貴朗",
@@ -366,10 +1939,48 @@
                 "高木健志"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度後期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 6,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33180.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33180.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "a4f92924e1fe",
+                "142f8b94a4b7",
+                "cd5ab8ef19e8",
+                "cfbc503b5e8b",
+                "ac9d63925e75",
+                "03385f5b6f80",
+                "274ecc88f4eb"
+            ],
+            "courseStartKey": "2022-second",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W34080",
             "courseName": "臨床実習IV（インターン）",
             "lecturer": [
                 "宮﨑貴朗",
@@ -379,10 +1990,44 @@
                 "伊藤咲子"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "他"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "4年"
+            ],
             "numberOfCredits": 12,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W34080.json"
+            "classroom": [],
+            "updateAt": "2022\/03\/15",
+            "path": "\/api\/v1\/archive\/2022\/all\/W34080.json",
+            "weekdayKeys": [
+                "other"
+            ],
+            "periodKeys": [
+                "other"
+            ],
+            "classPeriodKeys": [
+                "other"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "a4f92924e1fe",
+                "142f8b94a4b7",
+                "cd5ab8ef19e8",
+                "cfbc503b5e8b",
+                "03385f5b6f80"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         },
         {
+            "lectureCode": "W33060",
             "courseName": "運動器系理学療法学",
             "lecturer": [
                 "中山孝",
@@ -390,10 +2035,48 @@
                 "伊藤咲子"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "講義科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "水1"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 2,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33060.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/01\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33060.json",
+            "weekdayKeys": [
+                "wed"
+            ],
+            "periodKeys": [
+                "1"
+            ],
+            "classPeriodKeys": [
+                "wed-1"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "aa6345fa9f1d",
+                "e45b54e303b3",
+                "03385f5b6f80"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "dd5e37aedc2b"
         },
         {
+            "lectureCode": "W33070",
             "courseName": "運動器系理学療法学実習",
             "lecturer": [
                 "中山孝",
@@ -401,8 +2084,48 @@
                 "伊藤咲子"
             ],
             "regularOrIntensive": "専門科目",
+            "courseType": "実習科目",
+            "courseStart": "2022年度前期",
+            "classPeriod": [
+                "木3",
+                "木4"
+            ],
+            "targetDepartment": "医療保健学部",
+            "targetGrade": [
+                "3年",
+                "4年"
+            ],
             "numberOfCredits": 1,
-            "path": "\/api\/v1\/archive\/2022\/HSH3\/W33070.json"
+            "classroom": [
+                "Ｍ５０８理学・作業療法実習室",
+                "Ｍ６０８治癒室",
+                "Ｍ６０９機能訓練室２"
+            ],
+            "updateAt": "2022\/01\/24",
+            "path": "\/api\/v1\/archive\/2022\/all\/W33070.json",
+            "weekdayKeys": [
+                "thu"
+            ],
+            "periodKeys": [
+                "3",
+                "4"
+            ],
+            "classPeriodKeys": [
+                "thu-3",
+                "thu-4"
+            ],
+            "regularOrIntensiveKey": "63707e8fb9ad",
+            "lecturerKeys": [
+                "aa6345fa9f1d",
+                "e45b54e303b3",
+                "03385f5b6f80"
+            ],
+            "courseStartKey": "2022-first",
+            "targetGradeKeys": [
+                "3",
+                "4"
+            ],
+            "courseTypeKey": "4ab0c6a3f107"
         }
     ]
 }
