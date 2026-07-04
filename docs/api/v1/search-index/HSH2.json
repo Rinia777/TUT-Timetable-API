@@ -1,6 +1,6 @@
 {
     "department": "HSH2",
-    "count": 93,
+    "count": 89,
     "filters": {
         "weekday": [
             {
@@ -11,7 +11,7 @@
             {
                 "key": "tue",
                 "label": "火",
-                "count": 11
+                "count": 10
             },
             {
                 "key": "wed",
@@ -21,12 +21,12 @@
             {
                 "key": "thu",
                 "label": "木",
-                "count": 14
+                "count": 12
             },
             {
                 "key": "fri",
                 "label": "金",
-                "count": 15
+                "count": 14
             },
             {
                 "key": "other",
@@ -48,17 +48,17 @@
             {
                 "key": "3",
                 "label": "3",
-                "count": 17
+                "count": 16
             },
             {
                 "key": "4",
                 "label": "4",
-                "count": 18
+                "count": 16
             },
             {
                 "key": "5",
                 "label": "5",
-                "count": 12
+                "count": 11
             },
             {
                 "key": "other",
@@ -110,7 +110,7 @@
             {
                 "key": "tue-4",
                 "label": "火4",
-                "count": 6
+                "count": 5
             },
             {
                 "key": "tue-5",
@@ -160,12 +160,12 @@
             {
                 "key": "thu-4",
                 "label": "木4",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "thu-5",
                 "label": "木5",
-                "count": 2
+                "count": 1
             },
             {
                 "key": "fri-1",
@@ -180,7 +180,7 @@
             {
                 "key": "fri-3",
                 "label": "金3",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "fri-4",
@@ -202,12 +202,12 @@
             {
                 "key": "a8b2666aa3df",
                 "label": "専門基礎科目",
-                "count": 33
+                "count": 30
             },
             {
                 "key": "63707e8fb9ad",
                 "label": "専門科目",
-                "count": 60
+                "count": 59
             }
         ],
         "lecturer": [
@@ -232,11 +232,6 @@
                 "count": 11
             },
             {
-                "key": "b629b6515254",
-                "label": "伊東雅之(医療保健学部臨床工学科)",
-                "count": 1
-            },
-            {
                 "key": "7d5ca288b3bc",
                 "label": "佐藤広隆",
                 "count": 12
@@ -252,11 +247,6 @@
                 "count": 8
             },
             {
-                "key": "a8a0f5269c4f",
-                "label": "内田庸助(医療保健学部臨床工学科)",
-                "count": 1
-            },
-            {
                 "key": "bb72d315ac59",
                 "label": "内藤通昭",
                 "count": 1
@@ -265,11 +255,6 @@
                 "key": "50166de9399a",
                 "label": "加用一者",
                 "count": 3
-            },
-            {
-                "key": "11042ea38d19",
-                "label": "加用一者(教養学環)",
-                "count": 1
             },
             {
                 "key": "db3bc3607cb6",
@@ -317,19 +302,9 @@
                 "count": 13
             },
             {
-                "key": "c7bed0c40a7f",
-                "label": "川又紀彦(医療保健学部臨床検査学科)",
-                "count": 2
-            },
-            {
                 "key": "efb7ff5ded6a",
                 "label": "日向奈惠",
                 "count": 12
-            },
-            {
-                "key": "5585544e82f7",
-                "label": "日向奈惠(医療保健学部臨床工学科)",
-                "count": 1
             },
             {
                 "key": "a7b69cabac2b",
@@ -344,11 +319,6 @@
             {
                 "key": "b08048659122",
                 "label": "清水潤",
-                "count": 1
-            },
-            {
-                "key": "30efd89dd82c",
-                "label": "清水潤(医療保健学部リハビリテーション学科理学療法学専攻)",
                 "count": 1
             },
             {
@@ -387,11 +357,6 @@
                 "count": 11
             },
             {
-                "key": "0fd11161a0d1",
-                "label": "野田雅司(兼任講師)",
-                "count": 1
-            },
-            {
                 "key": "c9f275b62b2c",
                 "label": "鈴木みゆき",
                 "count": 2
@@ -414,16 +379,6 @@
         ],
         "courseStart": [
             {
-                "key": "2025-first",
-                "label": "2025年度前期",
-                "count": 2
-            },
-            {
-                "key": "2025-second",
-                "label": "2025年度後期",
-                "count": 2
-            },
-            {
                 "key": "2026-first",
                 "label": "2026年度前期",
                 "count": 46
@@ -438,22 +393,22 @@
             {
                 "key": "1",
                 "label": "1年",
-                "count": 13
+                "count": 12
             },
             {
                 "key": "2",
                 "label": "2年",
-                "count": 37
+                "count": 35
             },
             {
                 "key": "3",
                 "label": "3年",
-                "count": 50
+                "count": 48
             },
             {
                 "key": "4",
                 "label": "4年",
-                "count": 93
+                "count": 89
             }
         ],
         "courseType": [
@@ -470,12 +425,12 @@
             {
                 "key": "3beabbaa9998",
                 "label": "演習科目",
-                "count": 47
+                "count": 45
             },
             {
                 "key": "dd5e37aedc2b",
                 "label": "講義科目",
-                "count": 40
+                "count": 38
             }
         ]
     },
@@ -705,47 +660,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "U2404",
-            "courseName": "公衆衛生学",
-            "lecturer": [
-                "川又紀彦(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門基礎科目",
-            "courseType": "講義科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "木5"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３１０１４教室"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/U2404.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "thu-5"
-            ],
-            "regularOrIntensiveKey": "a8b2666aa3df",
-            "lecturerKeys": [
-                "c7bed0c40a7f"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "U2401",
             "courseName": "公衆衛生学[臨工]",
             "lecturer": [
@@ -784,55 +698,6 @@
             ],
             "courseStartKey": "2026-first",
             "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "W2207",
-            "courseName": "内科系臨床医学I",
-            "lecturer": [
-                "日向奈惠(医療保健学部臨床工学科)",
-                "清水潤(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "川又紀彦(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "木4"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０２１２教室"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/W2207.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "thu-4"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "5585544e82f7",
-                "30efd89dd82c",
-                "c7bed0c40a7f"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
                 "4"
             ],
             "courseTypeKey": "dd5e37aedc2b"
@@ -1422,47 +1287,6 @@
                 "4"
             ],
             "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "U2403",
-            "courseName": "医療情報演習",
-            "lecturer": [
-                "野田雅司(兼任講師)"
-            ],
-            "regularOrIntensive": "専門基礎科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "金3"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３１１１２教室"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/U2403.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "fri-3"
-            ],
-            "regularOrIntensiveKey": "a8b2666aa3df",
-            "lecturerKeys": [
-                "0fd11161a0d1"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
         },
         {
             "lectureCode": "U2207",
@@ -3155,58 +2979,6 @@
                 "ed126e388328"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "U2111",
-            "courseName": "工学基礎演習[2022年以前]",
-            "lecturer": [
-                "加用一者(教養学環)",
-                "伊東雅之(医療保健学部臨床工学科)",
-                "内田庸助(医療保健学部臨床工学科)"
-            ],
-            "regularOrIntensive": "専門基礎科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "火",
-                "火4"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０２１１教室"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/U2111.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "tue-4"
-            ],
-            "regularOrIntensiveKey": "a8b2666aa3df",
-            "lecturerKeys": [
-                "11042ea38d19",
-                "b629b6515254",
-                "a8a0f5269c4f"
-            ],
-            "courseStartKey": "2025-first",
             "targetGradeKeys": [
                 "1",
                 "2",

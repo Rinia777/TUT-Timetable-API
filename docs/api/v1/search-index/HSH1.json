@@ -1,6 +1,6 @@
 {
     "department": "HSH1",
-    "count": 145,
+    "count": 140,
     "filters": {
         "weekday": [
             {
@@ -21,7 +21,7 @@
             {
                 "key": "thu",
                 "label": "木",
-                "count": 15
+                "count": 14
             },
             {
                 "key": "fri",
@@ -31,7 +31,7 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 80
+                "count": 76
             }
         ],
         "period": [
@@ -53,17 +53,17 @@
             {
                 "key": "4",
                 "label": "4",
-                "count": 15
+                "count": 14
             },
             {
                 "key": "5",
                 "label": "5",
-                "count": 12
+                "count": 11
             },
             {
                 "key": "other",
                 "label": "他",
-                "count": 80
+                "count": 76
             }
         ],
         "classPeriod": [
@@ -160,12 +160,12 @@
             {
                 "key": "thu-4",
                 "label": "木4",
-                "count": 4
+                "count": 3
             },
             {
                 "key": "thu-5",
                 "label": "木5",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "fri-1",
@@ -190,7 +190,7 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 80
+                "count": 76
             }
         ],
         "regularOrIntensive": [
@@ -203,11 +203,6 @@
                 "key": "3e6aaf4b9183",
                 "label": "専門基礎科目人間社会と医療",
                 "count": 10
-            },
-            {
-                "key": "63707e8fb9ad",
-                "label": "専門科目",
-                "count": 5
             },
             {
                 "key": "acaa38dd2782",
@@ -237,11 +232,6 @@
         ],
         "lecturer": [
             {
-                "key": "3ef5e7909c79",
-                "label": "一色喜保(医療保健学部看護学科)",
-                "count": 1
-            },
-            {
                 "key": "7147a7e3ad93",
                 "label": "三浦英恵",
                 "count": 1
@@ -260,11 +250,6 @@
                 "key": "44f776ba6459",
                 "label": "五十嵐千代",
                 "count": 18
-            },
-            {
-                "key": "aa000ee09549",
-                "label": "五十嵐千代(医療保健学部看護学科)",
-                "count": 1
             },
             {
                 "key": "a60f2e4553c7",
@@ -322,19 +307,9 @@
                 "count": 9
             },
             {
-                "key": "88d5a4c0fd51",
-                "label": "安井大輔(医療保健学部看護学科)",
-                "count": 2
-            },
-            {
                 "key": "31f8363fc751",
                 "label": "宮首由美子",
                 "count": 8
-            },
-            {
-                "key": "38b27a29dc4f",
-                "label": "宮首由美子(医療保健学部看護学科)",
-                "count": 2
             },
             {
                 "key": "36bcb26e637b",
@@ -357,19 +332,9 @@
                 "count": 1
             },
             {
-                "key": "001af2707be0",
-                "label": "岩月すみ江(医療保健学部看護学科)",
-                "count": 1
-            },
-            {
                 "key": "2f17c8d7e01e",
                 "label": "岩波浩美",
                 "count": 10
-            },
-            {
-                "key": "4207c9de671d",
-                "label": "岩波浩美(医療保健学部看護学科)",
-                "count": 2
             },
             {
                 "key": "ddac66bd1aac",
@@ -507,11 +472,6 @@
                 "count": 8
             },
             {
-                "key": "46d6e98b9bb3",
-                "label": "繁永元樹(医療保健学部看護学科)",
-                "count": 2
-            },
-            {
                 "key": "f9b7f391a085",
                 "label": "西尾奈緒美",
                 "count": 1
@@ -537,11 +497,6 @@
                 "count": 8
             },
             {
-                "key": "90456a49cb1e",
-                "label": "飯塚敏子(医療保健学部看護学科)",
-                "count": 2
-            },
-            {
                 "key": "133826c0e7d2",
                 "label": "鷲澤尚宏",
                 "count": 1
@@ -553,16 +508,6 @@
             }
         ],
         "courseStart": [
-            {
-                "key": "2024-first",
-                "label": "2024年度前期",
-                "count": 2
-            },
-            {
-                "key": "2024-second",
-                "label": "2024年度後期",
-                "count": 3
-            },
             {
                 "key": "2026-first",
                 "label": "2026年度前期",
@@ -578,12 +523,12 @@
             {
                 "key": "1",
                 "label": "1年",
-                "count": 18
+                "count": 17
             },
             {
                 "key": "2",
                 "label": "2年",
-                "count": 51
+                "count": 48
             },
             {
                 "key": "3",
@@ -593,19 +538,19 @@
             {
                 "key": "4",
                 "label": "4年",
-                "count": 96
+                "count": 94
             }
         ],
         "courseType": [
             {
                 "key": "4ab0c6a3f107",
                 "label": "実習科目",
-                "count": 40
+                "count": 36
             },
             {
                 "key": "3beabbaa9998",
                 "label": "演習科目",
-                "count": 58
+                "count": 57
             },
             {
                 "key": "6592eaa7277c",
@@ -1413,88 +1358,6 @@
                 "c9f3c87d8b8c"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "W1418",
-            "courseName": "公衆衛生看護学実習II（産業保健）",
-            "lecturer": [
-                "五十嵐千代(医療保健学部看護学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W1418.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "aa000ee09549"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "W1417",
-            "courseName": "公衆衛生看護学実習I（行政保健）",
-            "lecturer": [
-                "一色喜保(医療保健学部看護学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W1417.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "3ef5e7909c79"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "4"
             ],
@@ -3003,106 +2866,6 @@
             "courseTypeKey": "4ab0c6a3f107"
         },
         {
-            "lectureCode": "W1220",
-            "courseName": "基礎看護学実習II[2021年以前]",
-            "lecturer": [
-                "岩波浩美(医療保健学部看護学科)",
-                "飯塚敏子(医療保健学部看護学科)",
-                "宮首由美子(医療保健学部看護学科)",
-                "繁永元樹(医療保健学部看護学科)",
-                "安井大輔(医療保健学部看護学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W1220.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "4207c9de671d",
-                "90456a49cb1e",
-                "38b27a29dc4f",
-                "46d6e98b9bb3",
-                "88d5a4c0fd51"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "W1219",
-            "courseName": "基礎看護学実習I[2021年以前]",
-            "lecturer": [
-                "岩波浩美(医療保健学部看護学科)",
-                "飯塚敏子(医療保健学部看護学科)",
-                "宮首由美子(医療保健学部看護学科)",
-                "繁永元樹(医療保健学部看護学科)",
-                "安井大輔(医療保健学部看護学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W1219.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "4207c9de671d",
-                "90456a49cb1e",
-                "38b27a29dc4f",
-                "46d6e98b9bb3",
-                "88d5a4c0fd51"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
             "lectureCode": "W1103",
             "courseName": "基礎看護技術I",
             "lecturer": [
@@ -3719,50 +3482,6 @@
             "targetGradeKeys": [
                 "3",
                 "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W1221",
-            "courseName": "成人看護学I[2021年以前]",
-            "lecturer": [
-                "岩月すみ江(医療保健学部看護学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木4",
-                "木5"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１０１７教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W1221.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "4",
-                "5"
-            ],
-            "classPeriodKeys": [
-                "thu-4",
-                "thu-5"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "001af2707be0"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
             ],
             "courseTypeKey": "3beabbaa9998"
         },

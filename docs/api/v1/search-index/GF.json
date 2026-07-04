@@ -1,6 +1,6 @@
 {
     "department": "GF",
-    "count": 14,
+    "count": 12,
     "filters": {
         "weekday": [
             {
@@ -11,7 +11,7 @@
             {
                 "key": "tue",
                 "label": "火",
-                "count": 4
+                "count": 3
             },
             {
                 "key": "wed",
@@ -21,7 +21,7 @@
             {
                 "key": "thu",
                 "label": "木",
-                "count": 3
+                "count": 2
             },
             {
                 "key": "fri",
@@ -43,7 +43,7 @@
             {
                 "key": "2",
                 "label": "2",
-                "count": 10
+                "count": 8
             },
             {
                 "key": "other",
@@ -70,7 +70,7 @@
             {
                 "key": "tue-2",
                 "label": "火2",
-                "count": 4
+                "count": 3
             },
             {
                 "key": "wed-2",
@@ -85,7 +85,7 @@
             {
                 "key": "thu-2",
                 "label": "木2",
-                "count": 3
+                "count": 2
             },
             {
                 "key": "fri-1",
@@ -107,7 +107,7 @@
             {
                 "key": "63707e8fb9ad",
                 "label": "専門科目",
-                "count": 10
+                "count": 8
             },
             {
                 "key": "4c04bd93b7ba",
@@ -127,19 +127,9 @@
                 "count": 1
             },
             {
-                "key": "b86a67db7e50",
-                "label": "暮沢剛巳(デザイン学部デザイン学科)",
-                "count": 1
-            },
-            {
                 "key": "61f7856a28f7",
                 "label": "松村誠一郎",
                 "count": 3
-            },
-            {
-                "key": "e249a654a662",
-                "label": "松村誠一郎(デザイン学部デザイン学科)",
-                "count": 1
             },
             {
                 "key": "74fd8ef5664c",
@@ -153,11 +143,6 @@
             }
         ],
         "courseStart": [
-            {
-                "key": "2024-first",
-                "label": "2024年度前期",
-                "count": 2
-            },
             {
                 "key": "2026-first",
                 "label": "2026年度前期",
@@ -178,7 +163,7 @@
             {
                 "key": "2",
                 "label": "2年",
-                "count": 14
+                "count": 12
             }
         ],
         "courseType": [
@@ -200,7 +185,7 @@
             {
                 "key": "dd5e37aedc2b",
                 "label": "講義科目",
-                "count": 6
+                "count": 4
             }
         ]
     },
@@ -244,47 +229,6 @@
             "courseStartKey": "2026-first",
             "targetGradeKeys": [
                 "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GF1009",
-            "courseName": "クリエイティブキュレーション",
-            "lecturer": [
-                "暮沢剛巳(デザイン学部デザイン学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木2"
-            ],
-            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１０１６教室"
-            ],
-            "updateAt": "2024\/03\/19",
-            "path": "\/api\/v1\/all\/GF1009.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "b86a67db7e50"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
                 "2"
             ],
             "courseTypeKey": "dd5e37aedc2b"
@@ -371,47 +315,6 @@
                 "61f7856a28f7"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GF1010",
-            "courseName": "ソニックインタラクション",
-            "lecturer": [
-                "松村誠一郎(デザイン学部デザイン学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "火2"
-            ],
-            "targetDepartment": "デザイン研究科修士課程デザイン専攻",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１４０４専門スキル演習室１"
-            ],
-            "updateAt": "2024\/03\/19",
-            "path": "\/api\/v1\/all\/GF1010.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "tue-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "e249a654a662"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "2"
             ],

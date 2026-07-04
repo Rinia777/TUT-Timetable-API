@@ -1,37 +1,37 @@
 {
     "department": "ESE6",
-    "count": 155,
+    "count": 122,
     "filters": {
         "weekday": [
             {
                 "key": "mon",
                 "label": "月",
-                "count": 26
+                "count": 16
             },
             {
                 "key": "tue",
                 "label": "火",
-                "count": 23
+                "count": 20
             },
             {
                 "key": "wed",
                 "label": "水",
-                "count": 15
+                "count": 13
             },
             {
                 "key": "thu",
                 "label": "木",
-                "count": 22
+                "count": 19
             },
             {
                 "key": "fri",
                 "label": "金",
-                "count": 41
+                "count": 30
             },
             {
                 "key": "other",
                 "label": "他",
-                "count": 50
+                "count": 37
             }
         ],
         "period": [
@@ -43,17 +43,17 @@
             {
                 "key": "2",
                 "label": "2",
-                "count": 34
+                "count": 22
             },
             {
                 "key": "3",
                 "label": "3",
-                "count": 30
+                "count": 26
             },
             {
                 "key": "4",
                 "label": "4",
-                "count": 28
+                "count": 25
             },
             {
                 "key": "5",
@@ -63,7 +63,7 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 50
+                "count": 37
             }
         ],
         "classPeriod": [
@@ -75,7 +75,7 @@
             {
                 "key": "mon-2",
                 "label": "月2",
-                "count": 12
+                "count": 3
             },
             {
                 "key": "mon-3",
@@ -85,7 +85,7 @@
             {
                 "key": "mon-4",
                 "label": "月4",
-                "count": 8
+                "count": 7
             },
             {
                 "key": "mon-5",
@@ -100,17 +100,17 @@
             {
                 "key": "tue-2",
                 "label": "火2",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "tue-3",
                 "label": "火3",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "tue-4",
                 "label": "火4",
-                "count": 9
+                "count": 8
             },
             {
                 "key": "tue-5",
@@ -130,7 +130,7 @@
             {
                 "key": "wed-3",
                 "label": "水3",
-                "count": 6
+                "count": 5
             },
             {
                 "key": "thu-1",
@@ -140,12 +140,12 @@
             {
                 "key": "thu-2",
                 "label": "木2",
-                "count": 3
+                "count": 2
             },
             {
                 "key": "thu-3",
                 "label": "木3",
-                "count": 8
+                "count": 7
             },
             {
                 "key": "thu-4",
@@ -165,17 +165,17 @@
             {
                 "key": "fri-2",
                 "label": "金2",
-                "count": 22
+                "count": 12
             },
             {
                 "key": "fri-3",
                 "label": "金3",
-                "count": 9
+                "count": 8
             },
             {
                 "key": "fri-4",
                 "label": "金4",
-                "count": 8
+                "count": 7
             },
             {
                 "key": "fri-5",
@@ -185,15 +185,10 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 50
+                "count": 37
             }
         ],
         "regularOrIntensive": [
-            {
-                "key": "4b43e459b3d6",
-                "label": "実学基礎科目",
-                "count": 1
-            },
             {
                 "key": "b9662cf29d68",
                 "label": "実学基礎科目情報・数理",
@@ -208,11 +203,6 @@
                 "key": "3d69e97d6459",
                 "label": "実学基礎科目社会連携",
                 "count": 3
-            },
-            {
-                "key": "08d22cf12876",
-                "label": "専門教育科目",
-                "count": 31
             },
             {
                 "key": "bd4643744a47",
@@ -230,11 +220,6 @@
                 "count": 12
             },
             {
-                "key": "40b5f6ac517e",
-                "label": "教養教育科目",
-                "count": 1
-            },
-            {
                 "key": "33031180d624",
                 "label": "教養教育科目社会人基礎",
                 "count": 1
@@ -247,19 +232,9 @@
                 "count": 13
             },
             {
-                "key": "e0f1d450f0ce",
-                "label": "中払周(工学部電気電子工学科)",
-                "count": 2
-            },
-            {
                 "key": "f5ec134fee53",
                 "label": "前田就彦",
                 "count": 4
-            },
-            {
-                "key": "5a9bb208d469",
-                "label": "前田就彦(工学部電気電子工学科)",
-                "count": 5
             },
             {
                 "key": "727c477ffd32",
@@ -277,24 +252,9 @@
                 "count": 14
             },
             {
-                "key": "f80c42dfcf82",
-                "label": "坪川宏(工学部電気電子工学科)",
-                "count": 3
-            },
-            {
                 "key": "a4d91482181b",
                 "label": "天野直紀",
                 "count": 11
-            },
-            {
-                "key": "a7e16e419e04",
-                "label": "天野直紀(工学部電気電子工学科)",
-                "count": 6
-            },
-            {
-                "key": "36ba89757714",
-                "label": "小原翔馬(工学部電気電子工学科)",
-                "count": 2
             },
             {
                 "key": "1a8e0f1b3021",
@@ -302,19 +262,9 @@
                 "count": 4
             },
             {
-                "key": "7bad0d084eff",
-                "label": "戸井朗人(工学部機械工学科)",
-                "count": 2
-            },
-            {
                 "key": "db0a56499872",
                 "label": "新海健",
                 "count": 23
-            },
-            {
-                "key": "1cdf24836a95",
-                "label": "新海健(工学部電気電子工学科)",
-                "count": 5
             },
             {
                 "key": "06dcf37b34c3",
@@ -322,19 +272,9 @@
                 "count": 13
             },
             {
-                "key": "4f8b3d7de4f5",
-                "label": "木村康男(工学部電気電子工学科)",
-                "count": 1
-            },
-            {
                 "key": "befbe9146ca8",
                 "label": "未定",
                 "count": 3
-            },
-            {
-                "key": "d5c24413aed8",
-                "label": "未定(所属なし)",
-                "count": 2
             },
             {
                 "key": "f184b1823ccc",
@@ -372,11 +312,6 @@
                 "count": 12
             },
             {
-                "key": "c691423049a0",
-                "label": "荒川貴博(工学部電気電子工学科)",
-                "count": 2
-            },
-            {
                 "key": "4dc5c5ec18d9",
                 "label": "野田龍介",
                 "count": 3
@@ -392,24 +327,9 @@
                 "count": 4
             },
             {
-                "key": "64be26c0aa11",
-                "label": "関根謙一郎(片柳研究所)",
-                "count": 2
-            },
-            {
                 "key": "dcdc65177189",
                 "label": "須磨岡淳",
                 "count": 1
-            },
-            {
-                "key": "038d53aead27",
-                "label": "須磨岡淳(工学部応用化学科)",
-                "count": 1
-            },
-            {
-                "key": "ce62f4883e9b",
-                "label": "高木茂行(工学部電気電子工学科)",
-                "count": 4
             },
             {
                 "key": "d03c5313932d",
@@ -420,34 +340,9 @@
                 "key": "cb135e8ebf82",
                 "label": "黒川弘章",
                 "count": 12
-            },
-            {
-                "key": "1975dded23ad",
-                "label": "黒川弘章(工学部電気電子工学科)",
-                "count": 1
             }
         ],
         "courseStart": [
-            {
-                "key": "2024-first",
-                "label": "2024年度前期",
-                "count": 3
-            },
-            {
-                "key": "2024-second",
-                "label": "2024年度後期",
-                "count": 7
-            },
-            {
-                "key": "2025-first",
-                "label": "2025年度前期",
-                "count": 9
-            },
-            {
-                "key": "2025-second",
-                "label": "2025年度後期",
-                "count": 14
-            },
             {
                 "key": "2026-first",
                 "label": "2026年度前期",
@@ -463,39 +358,39 @@
             {
                 "key": "1",
                 "label": "1年",
-                "count": 33
+                "count": 30
             },
             {
                 "key": "2",
                 "label": "2年",
-                "count": 65
+                "count": 56
             },
             {
                 "key": "3",
                 "label": "3年",
-                "count": 113
+                "count": 91
             },
             {
                 "key": "4",
                 "label": "4年",
-                "count": 155
+                "count": 122
             }
         ],
         "courseType": [
             {
                 "key": "4ab0c6a3f107",
                 "label": "実習科目",
-                "count": 11
+                "count": 9
             },
             {
                 "key": "c592a381d4ee",
                 "label": "実験科目",
-                "count": 47
+                "count": 37
             },
             {
                 "key": "3beabbaa9998",
                 "label": "演習科目",
-                "count": 42
+                "count": 27
             },
             {
                 "key": "6592eaa7277c",
@@ -505,7 +400,7 @@
             {
                 "key": "dd5e37aedc2b",
                 "label": "講義科目",
-                "count": 53
+                "count": 47
             }
         ]
     },
@@ -589,51 +484,6 @@
                 "dcdc65177189"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "1105802",
-            "courseName": "インターンシップI[電]",
-            "lecturer": [
-                "須磨岡淳(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "実習科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/1105802.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "038d53aead27"
-            ],
-            "courseStartKey": "2025-first",
             "targetGradeKeys": [
                 "2",
                 "3",
@@ -943,49 +793,6 @@
             "courseTypeKey": "4ab0c6a3f107"
         },
         {
-            "lectureCode": "K000702",
-            "courseName": "コーオプ実習B[電]",
-            "lecturer": [
-                "新海健(工学部電気電子工学科)",
-                "戸井朗人(工学部機械工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実習科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K000702.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "1cdf24836a95",
-                "7bad0d084eff"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
             "lectureCode": "K0008101",
             "courseName": "コーオプ実習C",
             "lecturer": [
@@ -1070,98 +877,6 @@
                 "4"
             ],
             "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "K000503",
-            "courseName": "コーオプ演習III[電]",
-            "lecturer": [
-                "坪川宏(工学部電気電子工学科)",
-                "未定(所属なし)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "木3"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "講義実験棟１０１",
-                "講義実験棟１０２",
-                "講義実験棟１０３",
-                "講義実験棟１０４"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K000503.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "thu-3"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "f80c42dfcf82",
-                "d5c24413aed8"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K000431",
-            "courseName": "コーオプ演習II[電]",
-            "lecturer": [
-                "坪川宏(工学部電気電子工学科)",
-                "戸井朗人(工学部機械工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "講義実験棟２０１",
-                "講義実験棟２０２"
-            ],
-            "updateAt": "2024\/12\/02",
-            "path": "\/api\/v1\/all\/K000431.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "f80c42dfcf82",
-                "7bad0d084eff"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
         },
         {
             "lectureCode": "K000231",
@@ -1312,49 +1027,6 @@
             "courseTypeKey": "4ab0c6a3f107"
         },
         {
-            "lectureCode": "K603401",
-            "courseName": "サステイナブル電気電子",
-            "lecturer": [
-                "天野直紀(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "月4"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟４０３"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K603401.json",
-            "weekdayKeys": [
-                "mon"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "mon-4"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "a7e16e419e04"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "K60601",
             "courseName": "サステイナブル電気電子工学概論I",
             "lecturer": [
@@ -1460,47 +1132,6 @@
             "courseStartKey": "2026-first",
             "targetGradeKeys": [
                 "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "K603301",
-            "courseName": "システム工学",
-            "lecturer": [
-                "中払周(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "水"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟４０３"
-            ],
-            "updateAt": "2024\/12\/02",
-            "path": "\/api\/v1\/all\/K603301.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "e0f1d450f0ce"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
                 "2",
                 "3",
                 "4"
@@ -1770,53 +1401,6 @@
                 "b1340ce767b3"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "11079K33",
-            "courseName": "フレッシャーズゼミ[3]",
-            "lecturer": [
-                "高木茂行(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "講義実験棟２０３"
-            ],
-            "updateAt": "2024\/12\/02",
-            "path": "\/api\/v1\/all\/11079K33.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "ce62f4883e9b"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -2103,103 +1687,6 @@
                 "d9a0f3ffa2b0"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K601103",
-            "courseName": "プログラミング基礎(E)",
-            "lecturer": [
-                "天野直紀(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "金3",
-                "金4"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟２０１",
-                "講義実験棟２０２"
-            ],
-            "updateAt": "2024\/12\/02",
-            "path": "\/api\/v1\/all\/K601103.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "3",
-                "4"
-            ],
-            "classPeriodKeys": [
-                "fri-3",
-                "fri-4"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "a7e16e419e04"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K601104",
-            "courseName": "プログラミング基礎(E)",
-            "lecturer": [
-                "天野直紀(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/02",
-            "path": "\/api\/v1\/all\/K601104.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "a7e16e419e04"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -2525,100 +2012,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "K605310",
-            "courseName": "創成課題[10]",
-            "lecturer": [
-                "中払周(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "月2",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義棟Ａ３０３",
-                "講義実験棟１０３",
-                "講義実験棟１０４"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605310.json",
-            "weekdayKeys": [
-                "fri",
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2",
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "e0f1d450f0ce"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K605301",
-            "courseName": "創成課題[1]",
-            "lecturer": [
-                "木村康男(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "月2",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟２０１"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605301.json",
-            "weekdayKeys": [
-                "fri",
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2",
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "4f8b3d7de4f5"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "K605308",
             "courseName": "創成課題[2023年以前入学者用]",
             "lecturer": [
@@ -2658,331 +2051,6 @@
                 "727c477ffd32"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K605302",
-            "courseName": "創成課題[2]",
-            "lecturer": [
-                "新海健(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "月2",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟２０２"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605302.json",
-            "weekdayKeys": [
-                "fri",
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2",
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "1cdf24836a95"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K605303",
-            "courseName": "創成課題[3]",
-            "lecturer": [
-                "高木茂行(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "月2",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/K605303.json",
-            "weekdayKeys": [
-                "fri",
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2",
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "ce62f4883e9b"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K605304",
-            "courseName": "創成課題[4]",
-            "lecturer": [
-                "関根謙一郎(片柳研究所)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "月2",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟２０４"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605304.json",
-            "weekdayKeys": [
-                "fri",
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2",
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "64be26c0aa11"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K605305",
-            "courseName": "創成課題[5]",
-            "lecturer": [
-                "前田就彦(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "月2",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟２０７"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605305.json",
-            "weekdayKeys": [
-                "fri",
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2",
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "5a9bb208d469"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K605306",
-            "courseName": "創成課題[6]",
-            "lecturer": [
-                "天野直紀(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "月2",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟３０５"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605306.json",
-            "weekdayKeys": [
-                "fri",
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2",
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "a7e16e419e04"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K605307",
-            "courseName": "創成課題[7]",
-            "lecturer": [
-                "黒川弘章(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "月2",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟３０３",
-                "講義実験棟３０６"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605307.json",
-            "weekdayKeys": [
-                "fri",
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2",
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "1975dded23ad"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "K605309",
-            "courseName": "創成課題[9]",
-            "lecturer": [
-                "荒川貴博(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "月2",
-                "金2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義棟Ａ３０２",
-                "講義実験棟１０１",
-                "講義実験棟１０２"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605309.json",
-            "weekdayKeys": [
-                "fri",
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2",
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "c691423049a0"
-            ],
-            "courseStartKey": "2025-second",
             "targetGradeKeys": [
                 "3",
                 "4"
@@ -3185,47 +2253,6 @@
                 "c9bf06b8722f"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
-            "lectureCode": "K605405",
-            "courseName": "卒業課題I",
-            "lecturer": [
-                "前田就彦(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605405.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "5a9bb208d469"
-            ],
-            "courseStartKey": "2025-first",
             "targetGradeKeys": [
                 "4"
             ],
@@ -3585,47 +2612,6 @@
             "courseTypeKey": "c592a381d4ee"
         },
         {
-            "lectureCode": "K605505",
-            "courseName": "卒業課題II",
-            "lecturer": [
-                "前田就彦(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K605505.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "5a9bb208d469"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
             "lectureCode": "K605506",
             "courseName": "卒業課題II",
             "lecturer": [
@@ -3860,172 +2846,6 @@
             "courseTypeKey": "c592a381d4ee"
         },
         {
-            "lectureCode": "K6055021",
-            "courseName": "卒業課題II[前期]",
-            "lecturer": [
-                "新海健(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K6055021.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "1cdf24836a95"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
-            "lectureCode": "K6055041",
-            "courseName": "卒業課題II[前期]",
-            "lecturer": [
-                "関根謙一郎(片柳研究所)",
-                "未定(所属なし)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K6055041.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "64be26c0aa11",
-                "d5c24413aed8"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
-            "lectureCode": "K6055051",
-            "courseName": "卒業課題II[前期]",
-            "lecturer": [
-                "前田就彦(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K6055051.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "5a9bb208d469"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
-            "lectureCode": "K6055061",
-            "courseName": "卒業課題II[前期]",
-            "lecturer": [
-                "天野直紀(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K6055061.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "a7e16e419e04"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
             "lectureCode": "K6055071",
             "courseName": "卒業課題II[前期]",
             "lecturer": [
@@ -4059,88 +2879,6 @@
                 "cb135e8ebf82"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
-            "lectureCode": "K6055081",
-            "courseName": "卒業課題II[前期]",
-            "lecturer": [
-                "坪川宏(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K6055081.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "f80c42dfcf82"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
-            "lectureCode": "K6055091",
-            "courseName": "卒業課題II[前期]",
-            "lecturer": [
-                "荒川貴博(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K6055091.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "c691423049a0"
-            ],
-            "courseStartKey": "2025-first",
             "targetGradeKeys": [
                 "4"
             ],
@@ -4264,47 +3002,6 @@
             "courseTypeKey": "c592a381d4ee"
         },
         {
-            "lectureCode": "K6054031",
-            "courseName": "卒業課題I[後期]",
-            "lecturer": [
-                "高木茂行(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/02",
-            "path": "\/api\/v1\/all\/K6054031.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "ce62f4883e9b"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
             "lectureCode": "K6054041",
             "courseName": "卒業課題I[後期]",
             "lecturer": [
@@ -4340,47 +3037,6 @@
                 "c9bf06b8722f"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
-            "lectureCode": "K6054051",
-            "courseName": "卒業課題I[後期]",
-            "lecturer": [
-                "前田就彦(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K6054051.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "5a9bb208d469"
-            ],
-            "courseStartKey": "2025-second",
             "targetGradeKeys": [
                 "4"
             ],
@@ -4690,55 +3346,6 @@
                 "4"
             ],
             "courseTypeKey": "6592eaa7277c"
-        },
-        {
-            "lectureCode": "K001502",
-            "courseName": "実践工学プロジェクト演習II(電気自動車(EV)開発プロジェクト)",
-            "lecturer": [
-                "高木茂行(工学部電気電子工学科)",
-                "天野直紀(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/02",
-            "path": "\/api\/v1\/all\/K001502.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "ce62f4883e9b",
-                "a7e16e419e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
         },
         {
             "lectureCode": "K601401",
@@ -5540,49 +4147,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "K603501",
-            "courseName": "発変電工学",
-            "lecturer": [
-                "新海健(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "火4"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟４０１"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K603501.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "tue-4"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "1cdf24836a95"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "K0005101",
             "courseName": "社会連携演習III[電][A]",
             "lecturer": [
@@ -5902,49 +4466,6 @@
             "courseStartKey": "2026-first",
             "targetGradeKeys": [
                 "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "K603701",
-            "courseName": "送電システム",
-            "lecturer": [
-                "新海健(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "火2"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義実験棟４０１"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/K603701.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "tue-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "1cdf24836a95"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
                 "3",
                 "4"
             ],
@@ -6952,96 +5473,6 @@
             ],
             "courseStartKey": "2026-first",
             "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "K605601",
-            "courseName": "電気磁気学I",
-            "lecturer": [
-                "小原翔馬(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "火3"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義棟Ｄ３０１"
-            ],
-            "updateAt": "2024\/12\/02",
-            "path": "\/api\/v1\/all\/K605601.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "tue-3"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "36ba89757714"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "K605701",
-            "courseName": "電気磁気学II",
-            "lecturer": [
-                "小原翔馬(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "水3"
-            ],
-            "targetDepartment": "工学部電気電子工学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "研究棟Ａ５０３"
-            ],
-            "updateAt": "2024\/12\/02",
-            "path": "\/api\/v1\/all\/K605701.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "wed-3"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "36ba89757714"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
                 "4"
             ],
             "courseTypeKey": "dd5e37aedc2b"

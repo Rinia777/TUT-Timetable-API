@@ -1,6 +1,6 @@
 {
     "department": "HS",
-    "count": 658,
+    "count": 638,
     "filters": {
         "weekday": [
             {
@@ -11,12 +11,12 @@
             {
                 "key": "tue",
                 "label": "火",
-                "count": 99
+                "count": 98
             },
             {
                 "key": "wed",
                 "label": "水",
-                "count": 115
+                "count": 102
             },
             {
                 "key": "thu",
@@ -31,7 +31,7 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 218
+                "count": 212
             }
         ],
         "period": [
@@ -43,12 +43,12 @@
             {
                 "key": "2",
                 "label": "2",
-                "count": 154
+                "count": 141
             },
             {
                 "key": "3",
                 "label": "3",
-                "count": 132
+                "count": 131
             },
             {
                 "key": "4",
@@ -63,7 +63,7 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 215
+                "count": 209
             }
         ],
         "classPeriod": [
@@ -105,7 +105,7 @@
             {
                 "key": "tue-3",
                 "label": "火3",
-                "count": 34
+                "count": 33
             },
             {
                 "key": "tue-4",
@@ -125,7 +125,7 @@
             {
                 "key": "wed-2",
                 "label": "水2",
-                "count": 45
+                "count": 32
             },
             {
                 "key": "wed-3",
@@ -210,24 +210,14 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 215
+                "count": 209
             }
         ],
         "regularOrIntensive": [
             {
-                "key": "0b182d3c89fc",
-                "label": "他学部・他大学科目",
-                "count": 6
-            },
-            {
                 "key": "1f056f39e619",
                 "label": "他学部・他大学科目他学部基礎教育科目",
                 "count": 12
-            },
-            {
-                "key": "531ed8b488cd",
-                "label": "基礎教育科目",
-                "count": 14
             },
             {
                 "key": "1f73e0464219",
@@ -362,11 +352,6 @@
                 "count": 1
             },
             {
-                "key": "437047731b3b",
-                "label": "キャンベル，Ａ(教養学環)",
-                "count": 1
-            },
-            {
                 "key": "d8ea6fd9e6aa",
                 "label": "ブロックルバンク",
                 "count": 1
@@ -392,11 +377,6 @@
                 "count": 8
             },
             {
-                "key": "3474f4fe3d93",
-                "label": "下村美文(医療保健学部臨床工学科)",
-                "count": 1
-            },
-            {
                 "key": "62486deaf8a6",
                 "label": "中川和美",
                 "count": 8
@@ -415,11 +395,6 @@
                 "key": "c5d4f84ffdd8",
                 "label": "乙戸崇寛",
                 "count": 18
-            },
-            {
-                "key": "e78521e46a46",
-                "label": "乙戸崇寛(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
             },
             {
                 "key": "44f776ba6459",
@@ -452,19 +427,9 @@
                 "count": 1
             },
             {
-                "key": "ed567ecbcd9d",
-                "label": "伊藤公一(医療保健学部リハビリテーション学科作業療法学専攻)",
-                "count": 1
-            },
-            {
                 "key": "03385f5b6f80",
                 "label": "伊藤咲子",
                 "count": 11
-            },
-            {
-                "key": "e8f450c2dc4f",
-                "label": "伊藤咲子(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
             },
             {
                 "key": "4bf6c230b678",
@@ -477,11 +442,6 @@
                 "count": 7
             },
             {
-                "key": "384af1c70609",
-                "label": "佐々木聰(医療保健学部臨床検査学科)",
-                "count": 1
-            },
-            {
                 "key": "7d5ca288b3bc",
                 "label": "佐藤広隆",
                 "count": 13
@@ -492,19 +452,9 @@
                 "count": 6
             },
             {
-                "key": "1d5e74a45559",
-                "label": "佐藤智子(医療保健学部看護学科)",
-                "count": 1
-            },
-            {
                 "key": "d0bd402bc7ce",
                 "label": "佐藤瑞穂",
                 "count": 8
-            },
-            {
-                "key": "c09753664031",
-                "label": "内山美保(医療保健学部リハビリテーション学科言語聴覚学専攻)",
-                "count": 1
             },
             {
                 "key": "452495276ccb",
@@ -537,11 +487,6 @@
                 "count": 14
             },
             {
-                "key": "d064c2f3ded7",
-                "label": "加納敬(医療保健学部臨床工学科)",
-                "count": 1
-            },
-            {
                 "key": "31c74c84ffb9",
                 "label": "加納江利子",
                 "count": 1
@@ -562,11 +507,6 @@
                 "count": 51
             },
             {
-                "key": "35c77d6d7e04",
-                "label": "勝浦寿美(教養学環)",
-                "count": 1
-            },
-            {
                 "key": "97e8eb0eada7",
                 "label": "北村新",
                 "count": 13
@@ -575,11 +515,6 @@
                 "key": "c81bf3da2729",
                 "label": "十島純子",
                 "count": 9
-            },
-            {
-                "key": "b14d95ab7fbd",
-                "label": "十島純子(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
             },
             {
                 "key": "36ccd86a43ed",
@@ -617,34 +552,14 @@
                 "count": 14
             },
             {
-                "key": "683c5e5b1ee6",
-                "label": "吉田真一(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
-            },
-            {
                 "key": "d33e89c898ac",
                 "label": "吉田祥子",
                 "count": 7
             },
             {
-                "key": "6caa0b0dd5b3",
-                "label": "吉田祥子(医療保健学部臨床検査学科)",
-                "count": 1
-            },
-            {
                 "key": "71577322d13d",
                 "label": "吉田秀昭",
                 "count": 2
-            },
-            {
-                "key": "a013f3e95d52",
-                "label": "國枝泰希(医療保健学部臨床検査学科)",
-                "count": 1
-            },
-            {
-                "key": "41914cdf94b5",
-                "label": "土屋順子(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
             },
             {
                 "key": "cc290567d870",
@@ -677,19 +592,9 @@
                 "count": 13
             },
             {
-                "key": "3d9eaff08ece",
-                "label": "太箸俊宏(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
-            },
-            {
                 "key": "33146c62cc8a",
                 "label": "奥橋佑基",
                 "count": 6
-            },
-            {
-                "key": "9956605abb2a",
-                "label": "奥橋佑基(医療保健学部臨床検査学科)",
-                "count": 1
             },
             {
                 "key": "658148b56414",
@@ -715,11 +620,6 @@
                 "key": "31f8363fc751",
                 "label": "宮首由美子",
                 "count": 9
-            },
-            {
-                "key": "fa860ebbbbb5",
-                "label": "宮﨑貴朗(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
             },
             {
                 "key": "1923bcbb4527",
@@ -802,11 +702,6 @@
                 "count": 10
             },
             {
-                "key": "4207c9de671d",
-                "label": "岩波浩美(医療保健学部看護学科)",
-                "count": 1
-            },
-            {
                 "key": "ddac66bd1aac",
                 "label": "岸竜馬",
                 "count": 5
@@ -832,24 +727,9 @@
                 "count": 14
             },
             {
-                "key": "c7bed0c40a7f",
-                "label": "川又紀彦(医療保健学部臨床検査学科)",
-                "count": 1
-            },
-            {
-                "key": "8ff89ea194a1",
-                "label": "巴伸一(兼任講師)",
-                "count": 1
-            },
-            {
                 "key": "c9f3c87d8b8c",
                 "label": "帆苅なおみ",
                 "count": 14
-            },
-            {
-                "key": "bdf4a89b16b8",
-                "label": "帆苅なおみ(医療保健学部看護学科)",
-                "count": 1
             },
             {
                 "key": "28fc6cdebeeb",
@@ -887,11 +767,6 @@
                 "count": 16
             },
             {
-                "key": "9cf56dba6552",
-                "label": "忽那俊樹(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
-            },
-            {
                 "key": "1aec0268ff3c",
                 "label": "成瀬初音",
                 "count": 1
@@ -907,19 +782,9 @@
                 "count": 12
             },
             {
-                "key": "c7ccb1eb2373",
-                "label": "斎藤寛樹(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
-            },
-            {
                 "key": "4afebe8332fa",
                 "label": "日下さと美",
                 "count": 12
-            },
-            {
-                "key": "b2e8e4e3e91d",
-                "label": "日下さと美(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
             },
             {
                 "key": "efb7ff5ded6a",
@@ -950,11 +815,6 @@
                 "key": "8d7e38135860",
                 "label": "東雅啓",
                 "count": 11
-            },
-            {
-                "key": "508eaae47f4e",
-                "label": "東雅啓(医療保健学部看護学科)",
-                "count": 1
             },
             {
                 "key": "ece0536a661d",
@@ -997,11 +857,6 @@
                 "count": 3
             },
             {
-                "key": "8a2610fa17ef",
-                "label": "楠元洋子(教養学環)",
-                "count": 3
-            },
-            {
                 "key": "50d36595f5f7",
                 "label": "榎本みのり",
                 "count": 7
@@ -1022,18 +877,8 @@
                 "count": 6
             },
             {
-                "key": "4f98f5f7dd4b",
-                "label": "水野元貴(医療保健学部臨床検査学科)",
-                "count": 1
-            },
-            {
                 "key": "47a605abbf1e",
                 "label": "永井知代子",
-                "count": 1
-            },
-            {
-                "key": "669fd150d64f",
-                "label": "池田晋平(医療保健学部リハビリテーション学科作業療法学専攻)",
                 "count": 1
             },
             {
@@ -1067,11 +912,6 @@
                 "count": 9
             },
             {
-                "key": "30efd89dd82c",
-                "label": "清水潤(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
-            },
-            {
                 "key": "2fc5013b8b02",
                 "label": "渋木琢磨",
                 "count": 1
@@ -1080,11 +920,6 @@
                 "key": "ac9d63925e75",
                 "label": "渡部祥輝",
                 "count": 10
-            },
-            {
-                "key": "83f3f4f20322",
-                "label": "渡部祥輝(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
             },
             {
                 "key": "7830869b12d5",
@@ -1137,11 +972,6 @@
                 "count": 13
             },
             {
-                "key": "0c47bc5b96b3",
-                "label": "田中周(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
-            },
-            {
                 "key": "530838a1a2cf",
                 "label": "田仲浩平",
                 "count": 4
@@ -1187,11 +1017,6 @@
                 "count": 1
             },
             {
-                "key": "a79a267a311a",
-                "label": "石塚美佳(教養学環)",
-                "count": 1
-            },
-            {
                 "key": "44f77d35f611",
                 "label": "石川ふみよ",
                 "count": 1
@@ -1207,18 +1032,8 @@
                 "count": 20
             },
             {
-                "key": "46812c070a2b",
-                "label": "石津希代子(医療保健学部リハビリテーション学科言語聴覚学専攻)",
-                "count": 1
-            },
-            {
                 "key": "2f3f9f65643c",
                 "label": "石田千絵",
-                "count": 1
-            },
-            {
-                "key": "da0520b195e1",
-                "label": "石黒圭応(医療保健学部リハビリテーション学科理学療法学専攻)",
                 "count": 1
             },
             {
@@ -1245,11 +1060,6 @@
                 "key": "fa65837480cc",
                 "label": "笠井亮佑",
                 "count": 15
-            },
-            {
-                "key": "9a85077722ae",
-                "label": "笠井亮佑(医療保健学部臨床工学科)",
-                "count": 1
             },
             {
                 "key": "e283a2a0155d",
@@ -1290,11 +1100,6 @@
                 "key": "28382f8a5cd2",
                 "label": "荻野稔",
                 "count": 11
-            },
-            {
-                "key": "ed728fcff0d3",
-                "label": "荻野稔(医療保健学部臨床工学科)",
-                "count": 1
             },
             {
                 "key": "92d4b2804e05",
@@ -1402,11 +1207,6 @@
                 "count": 10
             },
             {
-                "key": "9e5dcedefa25",
-                "label": "高木健志(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "count": 1
-            },
-            {
                 "key": "1c5c99c4f600",
                 "label": "高橋玄宇",
                 "count": 1
@@ -1444,16 +1244,6 @@
         ],
         "courseStart": [
             {
-                "key": "2024-first",
-                "label": "2024年度前期",
-                "count": 17
-            },
-            {
-                "key": "2024-second",
-                "label": "2024年度後期",
-                "count": 3
-            },
-            {
                 "key": "2026-first",
                 "label": "2026年度前期",
                 "count": 371
@@ -1468,29 +1258,29 @@
             {
                 "key": "1",
                 "label": "1年",
-                "count": 223
+                "count": 203
             },
             {
                 "key": "2",
                 "label": "2年",
-                "count": 368
+                "count": 348
             },
             {
                 "key": "3",
                 "label": "3年",
-                "count": 434
+                "count": 414
             },
             {
                 "key": "4",
                 "label": "4年",
-                "count": 608
+                "count": 588
             }
         ],
         "courseType": [
             {
                 "key": "4ab0c6a3f107",
                 "label": "実習科目",
-                "count": 108
+                "count": 101
             },
             {
                 "key": "c592a381d4ee",
@@ -1500,7 +1290,7 @@
             {
                 "key": "3beabbaa9998",
                 "label": "演習科目",
-                "count": 278
+                "count": 265
             },
             {
                 "key": "37f77488a9ce",
@@ -2491,53 +2281,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "T1600",
-            "courseName": "スポーツ・コンディショニング実習",
-            "lecturer": [
-                "巴伸一(兼任講師)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "火3"
-            ],
-            "targetDepartment": "医療保健学部リハビリテーション学科言語聴覚学専攻",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T1600.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "tue-3"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "8ff89ea194a1"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
             "lectureCode": "W61313",
             "courseName": "スポーツ科学理学療法学演習",
             "lecturer": [
@@ -3283,55 +3026,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "T27621",
-            "courseName": "フレッシャーズゼミ[作業]",
-            "lecturer": [
-                "池田晋平(医療保健学部リハビリテーション学科作業療法学専攻)",
-                "伊藤公一(医療保健学部リハビリテーション学科作業療法学専攻)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "Ｍ６０５手工芸室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T27621.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "669fd150d64f",
-                "ed567ecbcd9d"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "T2500",
             "courseName": "フレッシャーズゼミ[医療]",
             "lecturer": [],
@@ -3364,126 +3058,6 @@
             "regularOrIntensiveKey": "62fc51e963b7",
             "lecturerKeys": [],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "T27611",
-            "courseName": "フレッシャーズゼミ[理学1]",
-            "lecturer": [
-                "宮﨑貴朗(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "吉田真一(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "石黒圭応(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "十島純子(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "太箸俊宏(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "伊藤咲子(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "高木健志(医療保健学部リハビリテーション学科理学療法学専攻)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１０１３教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T27611.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "fa860ebbbbb5",
-                "683c5e5b1ee6",
-                "da0520b195e1",
-                "b14d95ab7fbd",
-                "3d9eaff08ece",
-                "e8f450c2dc4f",
-                "9e5dcedefa25"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "T27612",
-            "courseName": "フレッシャーズゼミ[理学2]",
-            "lecturer": [
-                "忽那俊樹(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "日下さと美(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "土屋順子(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "渡部祥輝(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "清水潤(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "斎藤寛樹(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "田中周(医療保健学部リハビリテーション学科理学療法学専攻)",
-                "乙戸崇寛(医療保健学部リハビリテーション学科理学療法学専攻)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１０１７教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T27612.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "9cf56dba6552",
-                "b2e8e4e3e91d",
-                "41914cdf94b5",
-                "83f3f4f20322",
-                "30efd89dd82c",
-                "c7ccb1eb2373",
-                "0c47bc5b96b3",
-                "e78521e46a46"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -3642,55 +3216,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "T2713",
-            "courseName": "フレッシャーズゼミ[看護3]",
-            "lecturer": [
-                "岩波浩美(医療保健学部看護学科)",
-                "佐藤智子(医療保健学部看護学科)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１１１２ＰＣ演習室２"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T2713.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "4207c9de671d",
-                "1d5e74a45559"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "T2514",
             "courseName": "フレッシャーズゼミ[看護4]",
             "lecturer": [
@@ -3733,55 +3258,6 @@
                 "5578776d6eaf"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "T2714",
-            "courseName": "フレッシャーズゼミ[看護4]",
-            "lecturer": [
-                "帆苅なおみ(医療保健学部看護学科)",
-                "東雅啓(医療保健学部看護学科)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０３１２教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T2714.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "bdf4a89b16b8",
-                "508eaae47f4e"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -3838,53 +3314,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "T2721",
-            "courseName": "フレッシャーズゼミ[臨工1]",
-            "lecturer": [
-                "荻野稔(医療保健学部臨床工学科)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "Ｍ４０５基礎医学実習室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T2721.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "ed728fcff0d3"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "T2522",
             "courseName": "フレッシャーズゼミ[臨工2]",
             "lecturer": [
@@ -3923,53 +3352,6 @@
                 "3a3d8fcd602c"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "T2722",
-            "courseName": "フレッシャーズゼミ[臨工2]",
-            "lecturer": [
-                "笠井亮佑(医療保健学部臨床工学科)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "Ｍ４０５基礎医学実習室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T2722.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "9a85077722ae"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -4026,53 +3408,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "T2723",
-            "courseName": "フレッシャーズゼミ[臨工3]",
-            "lecturer": [
-                "加納敬(医療保健学部臨床工学科)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "Ｍ４０７生物・化学実習室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T2723.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "d064c2f3ded7"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "T2524",
             "courseName": "フレッシャーズゼミ[臨工4]",
             "lecturer": [
@@ -4111,53 +3446,6 @@
                 "403ce2623153"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "T2724",
-            "courseName": "フレッシャーズゼミ[臨工4]",
-            "lecturer": [
-                "下村美文(医療保健学部臨床工学科)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "Ｍ４０７生物・化学実習室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T2724.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "3474f4fe3d93"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -4216,55 +3504,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "T2751",
-            "courseName": "フレッシャーズゼミ[臨検1]",
-            "lecturer": [
-                "川又紀彦(医療保健学部臨床検査学科)",
-                "奥橋佑基(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "Ｍ３０１臨床検査実習室２"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T2751.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "c7bed0c40a7f",
-                "9956605abb2a"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "T2552",
             "courseName": "フレッシャーズゼミ[臨検2]",
             "lecturer": [
@@ -4305,153 +3544,6 @@
                 "c5a8947383f5"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "T2752",
-            "courseName": "フレッシャーズゼミ[臨検2]",
-            "lecturer": [
-                "佐々木聰(医療保健学部臨床検査学科)",
-                "國枝泰希(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "Ｍ３０７臨床検査実習室４"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T2752.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "384af1c70609",
-                "a013f3e95d52"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "T2753",
-            "courseName": "フレッシャーズゼミ[臨検3]",
-            "lecturer": [
-                "吉田祥子(医療保健学部臨床検査学科)",
-                "水野元貴(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "Ｍ３０８臨床検査実習室５"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T2753.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "6caa0b0dd5b3",
-                "4f98f5f7dd4b"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "T27631",
-            "courseName": "フレッシャーズゼミ[言語]",
-            "lecturer": [
-                "石津希代子(医療保健学部リハビリテーション学科言語聴覚学専攻)",
-                "内山美保(医療保健学部リハビリテーション学科言語聴覚学専攻)"
-            ],
-            "regularOrIntensive": "基礎教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０２０１教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T27631.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "531ed8b488cd",
-            "lecturerKeys": [
-                "46812c070a2b",
-                "c09753664031"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -19611,53 +18703,6 @@
             "courseTypeKey": "4ab0c6a3f107"
         },
         {
-            "lectureCode": "T4222",
-            "courseName": "海外研修II[ロサンゼルス]2025年春HS",
-            "lecturer": [
-                "キャンベル，Ａ(教養学環)"
-            ],
-            "regularOrIntensive": "他学部・他大学科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T4222.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "0b182d3c89fc",
-            "lecturerKeys": [
-                "437047731b3b"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
             "lectureCode": "T4321",
             "courseName": "海外研修II[ロサンゼルス]2027年春実施・医療",
             "lecturer": [
@@ -19703,53 +18748,6 @@
             "courseTypeKey": "4ab0c6a3f107"
         },
         {
-            "lectureCode": "T4212",
-            "courseName": "海外研修I[シンガポール]2024年夏HS",
-            "lecturer": [
-                "石塚美佳(教養学環)"
-            ],
-            "regularOrIntensive": "他学部・他大学科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T4212.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "0b182d3c89fc",
-            "lecturerKeys": [
-                "a79a267a311a"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
             "lectureCode": "T4312",
             "courseName": "海外研修I[シンガポール]2026年夏実施・医療",
             "lecturer": [
@@ -19786,53 +18784,6 @@
                 "082b2db5af3f"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "T4211",
-            "courseName": "海外研修I[韓国]2024年夏HS",
-            "lecturer": [
-                "楠元洋子(教養学環)"
-            ],
-            "regularOrIntensive": "他学部・他大学科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T4211.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "0b182d3c89fc",
-            "lecturerKeys": [
-                "8a2610fa17ef"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -28183,147 +27134,6 @@
                 "4"
             ],
             "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "T3911",
-            "courseName": "英語集中講座[2024夏実施フィリピン]HS",
-            "lecturer": [
-                "楠元洋子(教養学環)"
-            ],
-            "regularOrIntensive": "他学部・他大学科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T3911.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "0b182d3c89fc",
-            "lecturerKeys": [
-                "8a2610fa17ef"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "T3912",
-            "courseName": "英語集中講座[2024夏実施登別]HS",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "他学部・他大学科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T3912.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "0b182d3c89fc",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "T3921",
-            "courseName": "英語集中講座[2025春実施フィリピン]HS",
-            "lecturer": [
-                "楠元洋子(教養学環)"
-            ],
-            "regularOrIntensive": "他学部・他大学科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/T3921.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "0b182d3c89fc",
-            "lecturerKeys": [
-                "8a2610fa17ef"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
         },
         {
             "lectureCode": "T4111",

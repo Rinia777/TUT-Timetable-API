@@ -1,6 +1,6 @@
 {
     "department": "DS",
-    "count": 237,
+    "count": 212,
     "filters": {
         "weekday": [
             {
@@ -11,7 +11,7 @@
             {
                 "key": "tue",
                 "label": "火",
-                "count": 54
+                "count": 53
             },
             {
                 "key": "wed",
@@ -21,17 +21,17 @@
             {
                 "key": "thu",
                 "label": "木",
-                "count": 66
+                "count": 57
             },
             {
                 "key": "fri",
                 "label": "金",
-                "count": 71
+                "count": 62
             },
             {
                 "key": "other",
                 "label": "他",
-                "count": 39
+                "count": 33
             }
         ],
         "period": [
@@ -43,17 +43,17 @@
             {
                 "key": "2",
                 "label": "2",
-                "count": 64
+                "count": 59
             },
             {
                 "key": "3",
                 "label": "3",
-                "count": 59
+                "count": 58
             },
             {
                 "key": "4",
                 "label": "4",
-                "count": 96
+                "count": 84
             },
             {
                 "key": "5",
@@ -63,7 +63,7 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 39
+                "count": 33
             }
         ],
         "classPeriod": [
@@ -105,7 +105,7 @@
             {
                 "key": "tue-3",
                 "label": "火3",
-                "count": 18
+                "count": 17
             },
             {
                 "key": "tue-4",
@@ -145,7 +145,7 @@
             {
                 "key": "thu-2",
                 "label": "木2",
-                "count": 14
+                "count": 11
             },
             {
                 "key": "thu-3",
@@ -155,7 +155,7 @@
             {
                 "key": "thu-4",
                 "label": "木4",
-                "count": 40
+                "count": 34
             },
             {
                 "key": "thu-5",
@@ -170,7 +170,7 @@
             {
                 "key": "fri-2",
                 "label": "金2",
-                "count": 11
+                "count": 9
             },
             {
                 "key": "fri-3",
@@ -180,7 +180,7 @@
             {
                 "key": "fri-4",
                 "label": "金4",
-                "count": 40
+                "count": 34
             },
             {
                 "key": "fri-5",
@@ -190,15 +190,10 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 39
+                "count": 33
             }
         ],
         "regularOrIntensive": [
-            {
-                "key": "4b43e459b3d6",
-                "label": "実学基礎科目",
-                "count": 6
-            },
             {
                 "key": "f7105decd13d",
                 "label": "実学基礎科目ウェルビーイング",
@@ -230,11 +225,6 @@
                 "count": 12
             },
             {
-                "key": "08d22cf12876",
-                "label": "専門教育科目",
-                "count": 4
-            },
-            {
                 "key": "97ab616056d9",
                 "label": "専門教育科目スキル",
                 "count": 23
@@ -258,22 +248,12 @@
                 "key": "351f70234f4e",
                 "label": "専門教育科目専門",
                 "count": 29
-            },
-            {
-                "key": "40b5f6ac517e",
-                "label": "教養教育科目",
-                "count": 15
             }
         ],
         "lecturer": [
             {
                 "key": "082b2db5af3f",
                 "label": "キャンベル，Ａ",
-                "count": 1
-            },
-            {
-                "key": "437047731b3b",
-                "label": "キャンベル，Ａ(教養学環)",
                 "count": 1
             },
             {
@@ -332,19 +312,9 @@
                 "count": 61
             },
             {
-                "key": "35c77d6d7e04",
-                "label": "勝浦寿美(教養学環)",
-                "count": 14
-            },
-            {
                 "key": "5f0a30c2247b",
                 "label": "原田和大",
                 "count": 3
-            },
-            {
-                "key": "9491e5ab1e31",
-                "label": "原田和大(兼任講師)",
-                "count": 2
             },
             {
                 "key": "86a84091a3d2",
@@ -365,11 +335,6 @@
                 "key": "b2e9bd1eb0d4",
                 "label": "吉永和久",
                 "count": 3
-            },
-            {
-                "key": "319ce4c544c6",
-                "label": "吉永和久(兼任講師)",
-                "count": 2
             },
             {
                 "key": "8d4281212c85",
@@ -502,11 +467,6 @@
                 "count": 3
             },
             {
-                "key": "8a2610fa17ef",
-                "label": "楠元洋子(教養学環)",
-                "count": 3
-            },
-            {
                 "key": "daa90c2a014e",
                 "label": "樋口泰行",
                 "count": 2
@@ -567,29 +527,14 @@
                 "count": 3
             },
             {
-                "key": "6773a764ac67",
-                "label": "石動和香子(兼任講師)",
-                "count": 2
-            },
-            {
                 "key": "fc8f0fd4a9b8",
                 "label": "石塚美佳",
                 "count": 1
             },
             {
-                "key": "a79a267a311a",
-                "label": "石塚美佳(教養学環)",
-                "count": 2
-            },
-            {
                 "key": "95ba0c632714",
                 "label": "石山慎治",
                 "count": 3
-            },
-            {
-                "key": "200fadb6b18d",
-                "label": "石山慎治(兼任講師)",
-                "count": 2
             },
             {
                 "key": "8f7d751ba4cd",
@@ -635,11 +580,6 @@
                 "key": "52cd45791b03",
                 "label": "藤澤幸太郎",
                 "count": 2
-            },
-            {
-                "key": "7de6576d3678",
-                "label": "藤澤幸太郎(教養学環)",
-                "count": 1
             },
             {
                 "key": "39166706c79c",
@@ -699,16 +639,6 @@
         ],
         "courseStart": [
             {
-                "key": "2024-first",
-                "label": "2024年度前期",
-                "count": 6
-            },
-            {
-                "key": "2024-second",
-                "label": "2024年度後期",
-                "count": 19
-            },
-            {
                 "key": "2026-first",
                 "label": "2026年度前期",
                 "count": 108
@@ -723,39 +653,39 @@
             {
                 "key": "1",
                 "label": "1年",
-                "count": 97
+                "count": 90
             },
             {
                 "key": "2",
                 "label": "2年",
-                "count": 196
+                "count": 171
             },
             {
                 "key": "3",
                 "label": "3年",
-                "count": 227
+                "count": 202
             },
             {
                 "key": "4",
                 "label": "4年",
-                "count": 237
+                "count": 212
             }
         ],
         "courseType": [
             {
                 "key": "4ab0c6a3f107",
                 "label": "実習科目",
-                "count": 35
+                "count": 29
             },
             {
                 "key": "3beabbaa9998",
                 "label": "演習科目",
-                "count": 152
+                "count": 134
             },
             {
                 "key": "dd5e37aedc2b",
                 "label": "講義科目",
-                "count": 50
+                "count": 49
             }
         ]
     },
@@ -1155,49 +1085,6 @@
             ],
             "courseStartKey": "2026-first",
             "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "R1161",
-            "courseName": "コンピュータ概論II[デザイン2023以前入学生]",
-            "lecturer": [
-                "藤澤幸太郎(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１０１４教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R1161.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "7de6576d3678"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
                 "2",
                 "3",
                 "4"
@@ -1652,208 +1539,6 @@
                 "95ba0c632714"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "S2081",
-            "courseName": "スキル演習（撮影・画像加工）［木曜Aクラス］",
-            "lecturer": [
-                "原田和大(兼任講師)",
-                "石山慎治(兼任講師)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木",
-                "木2"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１１１４デザインクリエーションルーム１",
-                "３１４０２撮影スタジオ",
-                "３１４１３専門演習室２"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/S2081.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "9491e5ab1e31",
-                "200fadb6b18d"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "S2082",
-            "courseName": "スキル演習（撮影・画像加工）［木曜Bクラス］",
-            "lecturer": [
-                "原田和大(兼任講師)",
-                "石山慎治(兼任講師)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木",
-                "木2"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１１１４デザインクリエーションルーム１",
-                "３１４０２撮影スタジオ",
-                "３１４１３専門演習室２"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/S2082.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "9491e5ab1e31",
-                "200fadb6b18d"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "S2083",
-            "courseName": "スキル演習（撮影・画像加工）［金曜Aクラス］",
-            "lecturer": [
-                "石動和香子(兼任講師)",
-                "吉永和久(兼任講師)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "金",
-                "金2"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１１１４デザインクリエーションルーム１",
-                "３１１１５デザインクリエーションルーム２",
-                "３１４０２撮影スタジオ",
-                "３１４１３専門演習室２"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/S2083.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "6773a764ac67",
-                "319ce4c544c6"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "S2084",
-            "courseName": "スキル演習（撮影・画像加工）［金曜Bクラス］",
-            "lecturer": [
-                "石動和香子(兼任講師)",
-                "吉永和久(兼任講師)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "金",
-                "金2"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科視覚デザイン専攻",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１１１４デザインクリエーションルーム１",
-                "３１１１５デザインクリエーションルーム２",
-                "３１４０２撮影スタジオ",
-                "３１４１３専門演習室２"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/S2084.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "6773a764ac67",
-                "319ce4c544c6"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "2",
                 "3",
@@ -8163,53 +7848,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "R1260",
-            "courseName": "海外実習II[ベトナムインターンシップ］2025春・DS",
-            "lecturer": [
-                "楠元洋子(教養学環)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R1260.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "8a2610fa17ef"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
             "lectureCode": "R1261",
             "courseName": "海外実習II[ベトナムインターンシップ］2027年春実施・デザイン",
             "lecturer": [
@@ -8246,53 +7884,6 @@
                 "f73d7f2cb0e9"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "R1282",
-            "courseName": "海外研修II[ロサンゼルス]2025春・DS",
-            "lecturer": [
-                "キャンベル，Ａ(教養学環)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R1282.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "437047731b3b"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -8347,53 +7938,6 @@
             "courseTypeKey": "4ab0c6a3f107"
         },
         {
-            "lectureCode": "R1281",
-            "courseName": "海外研修II[台湾]2025春・DS",
-            "lecturer": [
-                "石塚美佳(教養学環)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R1281.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "a79a267a311a"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
             "lectureCode": "R1272",
             "courseName": "海外研修I[シンガポール]2026年夏実施・デザイン",
             "lecturer": [
@@ -8430,53 +7974,6 @@
                 "082b2db5af3f"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "R1271",
-            "courseName": "海外研修I[韓国]2024年夏・DS",
-            "lecturer": [
-                "楠元洋子(教養学環)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R1271.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "8a2610fa17ef"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -8612,100 +8109,6 @@
                 "f73d7f2cb0e9"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "R1111",
-            "courseName": "海外語学研修II［イギリス］2025春・DS",
-            "lecturer": [
-                "楠元洋子(教養学環)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R1111.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "8a2610fa17ef"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "R1112",
-            "courseName": "海外語学研修II［ベトナム］2025春・DS",
-            "lecturer": [
-                "石塚美佳(教養学環)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R1112.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "a79a267a311a"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -10406,591 +9809,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "R206A",
-            "courseName": "英語インテンシブII［デザイン10］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３１２教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R206A.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "thu-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R206C",
-            "courseName": "英語インテンシブII［デザイン12］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３１１教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R206C.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "thu-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R2061",
-            "courseName": "英語インテンシブII［デザイン1］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３０２教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R2061.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "fri-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R2062",
-            "courseName": "英語インテンシブII［デザイン2］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３０１教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R2062.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "thu-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R2063",
-            "courseName": "英語インテンシブII［デザイン3］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３０３教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R2063.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "fri-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R2064",
-            "courseName": "英語インテンシブII［デザイン4］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３０２教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R2064.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "thu-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R2065",
-            "courseName": "英語インテンシブII［デザイン5］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３１３教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R2065.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "fri-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R2066",
-            "courseName": "英語インテンシブII［デザイン6］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３０３教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R2066.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "thu-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R2067",
-            "courseName": "英語インテンシブII［デザイン7］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３１２教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R2067.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "fri-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R2068",
-            "courseName": "英語インテンシブII［デザイン8］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３１３教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R2068.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "thu-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R2069",
-            "courseName": "英語インテンシブII［デザイン9］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３１１教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R2069.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "fri-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R206B",
-            "courseName": "英語インテンシブII［デザインTOEIC］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金4"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０２０２教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R206B.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "fri-4"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R206F",
-            "courseName": "英語インテンシブII［デザイン再履修クラス］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "火3"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０３１２教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R206F.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "tue-3"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "R3020",
             "courseName": "英語インテンシブIV[デザイン]",
             "lecturer": [
@@ -11657,51 +10475,6 @@
                 "fa5f94c00d49"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "R205F",
-            "courseName": "英語インテンシブI［デザイン再履修クラス］",
-            "lecturer": [
-                "勝浦寿美(教養学環)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木2"
-            ],
-            "targetDepartment": "デザイン学部デザイン学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "３０２０１教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/R205F.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "35c77d6d7e04"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "2",
                 "3",

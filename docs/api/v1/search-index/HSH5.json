@@ -1,37 +1,37 @@
 {
     "department": "HSH5",
-    "count": 116,
+    "count": 75,
     "filters": {
         "weekday": [
             {
                 "key": "mon",
                 "label": "月",
-                "count": 11
+                "count": 8
             },
             {
                 "key": "tue",
                 "label": "火",
-                "count": 14
+                "count": 11
             },
             {
                 "key": "wed",
                 "label": "水",
-                "count": 10
+                "count": 7
             },
             {
                 "key": "thu",
                 "label": "木",
-                "count": 15
+                "count": 13
             },
             {
                 "key": "fri",
                 "label": "金",
-                "count": 18
+                "count": 13
             },
             {
                 "key": "other",
                 "label": "他",
-                "count": 55
+                "count": 26
             }
         ],
         "period": [
@@ -43,27 +43,27 @@
             {
                 "key": "2",
                 "label": "2",
-                "count": 21
+                "count": 18
             },
             {
                 "key": "3",
                 "label": "3",
-                "count": 29
+                "count": 24
             },
             {
                 "key": "4",
                 "label": "4",
-                "count": 28
+                "count": 23
             },
             {
                 "key": "5",
                 "label": "5",
-                "count": 24
+                "count": 20
             },
             {
                 "key": "other",
                 "label": "他",
-                "count": 52
+                "count": 23
             }
         ],
         "classPeriod": [
@@ -75,22 +75,22 @@
             {
                 "key": "mon-2",
                 "label": "月2",
-                "count": 5
+                "count": 3
             },
             {
                 "key": "mon-3",
                 "label": "月3",
-                "count": 6
+                "count": 5
             },
             {
                 "key": "mon-4",
                 "label": "月4",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "mon-5",
                 "label": "月5",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "tue-1",
@@ -100,12 +100,12 @@
             {
                 "key": "tue-2",
                 "label": "火2",
-                "count": 6
+                "count": 5
             },
             {
                 "key": "tue-3",
                 "label": "火3",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "tue-4",
@@ -130,16 +130,11 @@
             {
                 "key": "wed-3",
                 "label": "水3",
-                "count": 3
+                "count": 2
             },
             {
                 "key": "wed-4",
                 "label": "水4",
-                "count": 3
-            },
-            {
-                "key": "wed-5",
-                "label": "水5",
                 "count": 1
             },
             {
@@ -150,7 +145,7 @@
             {
                 "key": "thu-2",
                 "label": "木2",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "thu-3",
@@ -180,17 +175,17 @@
             {
                 "key": "fri-3",
                 "label": "金3",
-                "count": 6
+                "count": 4
             },
             {
                 "key": "fri-4",
                 "label": "金4",
-                "count": 9
+                "count": 7
             },
             {
                 "key": "fri-5",
                 "label": "金5",
-                "count": 8
+                "count": 6
             },
             {
                 "key": "other-3",
@@ -210,19 +205,19 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 52
+                "count": 23
             }
         ],
         "regularOrIntensive": [
             {
                 "key": "a8b2666aa3df",
                 "label": "専門基礎科目",
-                "count": 20
+                "count": 16
             },
             {
                 "key": "63707e8fb9ad",
                 "label": "専門科目",
-                "count": 96
+                "count": 59
             }
         ],
         "lecturer": [
@@ -237,19 +232,9 @@
                 "count": 6
             },
             {
-                "key": "15d9b7cbad3d",
-                "label": "三上あかね(医療保健学部臨床検査学科)",
-                "count": 3
-            },
-            {
                 "key": "0e2af5a908d2",
                 "label": "今村倫敦",
                 "count": 2
-            },
-            {
-                "key": "c5e2c108c2ad",
-                "label": "今村倫敦(兼任講師)",
-                "count": 1
             },
             {
                 "key": "963d0e49d014",
@@ -262,19 +247,9 @@
                 "count": 5
             },
             {
-                "key": "384af1c70609",
-                "label": "佐々木聰(医療保健学部臨床検査学科)",
-                "count": 2
-            },
-            {
                 "key": "d0bd402bc7ce",
                 "label": "佐藤瑞穂",
                 "count": 7
-            },
-            {
-                "key": "87056a625e3f",
-                "label": "佐藤瑞穂(医療保健学部臨床検査学科)",
-                "count": 2
             },
             {
                 "key": "2b903f924a11",
@@ -292,16 +267,6 @@
                 "count": 7
             },
             {
-                "key": "6caa0b0dd5b3",
-                "label": "吉田祥子(医療保健学部臨床検査学科)",
-                "count": 3
-            },
-            {
-                "key": "a013f3e95d52",
-                "label": "國枝泰希(医療保健学部臨床検査学科)",
-                "count": 4
-            },
-            {
                 "key": "cc290567d870",
                 "label": "坂本大",
                 "count": 1
@@ -315,11 +280,6 @@
                 "key": "33146c62cc8a",
                 "label": "奥橋佑基",
                 "count": 6
-            },
-            {
-                "key": "9956605abb2a",
-                "label": "奥橋佑基(医療保健学部臨床検査学科)",
-                "count": 4
             },
             {
                 "key": "1923bcbb4527",
@@ -337,34 +297,14 @@
                 "count": 11
             },
             {
-                "key": "c0232231077f",
-                "label": "岡崎充宏(医療保健学部臨床検査学科)",
-                "count": 4
-            },
-            {
                 "key": "fb0b754ef731",
                 "label": "岸野吏志",
                 "count": 1
             },
             {
-                "key": "50feea41fbda",
-                "label": "岸野吏志(兼任講師)",
-                "count": 1
-            },
-            {
-                "key": "c7bed0c40a7f",
-                "label": "川又紀彦(医療保健学部臨床検査学科)",
-                "count": 3
-            },
-            {
                 "key": "6bbc3acc4c20",
                 "label": "廣田雅子",
                 "count": 6
-            },
-            {
-                "key": "b19cc49b73af",
-                "label": "廣田雅子(医療保健学部臨床検査学科)",
-                "count": 3
             },
             {
                 "key": "efb7ff5ded6a",
@@ -377,29 +317,14 @@
                 "count": 13
             },
             {
-                "key": "cf58f92db173",
-                "label": "栗原由利子(医療保健学部臨床検査学科)",
-                "count": 8
-            },
-            {
                 "key": "50d36595f5f7",
                 "label": "榎本みのり",
                 "count": 7
             },
             {
-                "key": "2413a71de5aa",
-                "label": "榎本みのり(医療保健学部臨床検査学科)",
-                "count": 2
-            },
-            {
                 "key": "c3660390a8cb",
                 "label": "横田恭子",
                 "count": 4
-            },
-            {
-                "key": "c11a23fcefe3",
-                "label": "横田浩充(兼任講師)",
-                "count": 1
             },
             {
                 "key": "65432f951c4c",
@@ -412,29 +337,14 @@
                 "count": 6
             },
             {
-                "key": "4f98f5f7dd4b",
-                "label": "水野元貴(医療保健学部臨床検査学科)",
-                "count": 3
-            },
-            {
                 "key": "b08048659122",
                 "label": "清水潤",
-                "count": 1
-            },
-            {
-                "key": "62623cf68120",
-                "label": "篠原一彦(医療保健学部臨床工学科)",
                 "count": 1
             },
             {
                 "key": "611d265a2f2c",
                 "label": "花尾麻美",
                 "count": 4
-            },
-            {
-                "key": "0c948e6621dc",
-                "label": "花尾麻美(医療保健学部臨床検査学科)",
-                "count": 2
             },
             {
                 "key": "e42f27f50fbe",
@@ -464,26 +374,6 @@
         ],
         "courseStart": [
             {
-                "key": "2024-first",
-                "label": "2024年度前期",
-                "count": 18
-            },
-            {
-                "key": "2024-second",
-                "label": "2024年度後期",
-                "count": 19
-            },
-            {
-                "key": "2025-first",
-                "label": "2025年度前期",
-                "count": 2
-            },
-            {
-                "key": "2025-second",
-                "label": "2025年度後期",
-                "count": 2
-            },
-            {
                 "key": "2026-first",
                 "label": "2026年度前期",
                 "count": 45
@@ -498,44 +388,44 @@
             {
                 "key": "1",
                 "label": "1年",
-                "count": 16
+                "count": 15
             },
             {
                 "key": "2",
                 "label": "2年",
-                "count": 43
+                "count": 37
             },
             {
                 "key": "3",
                 "label": "3年",
-                "count": 58
+                "count": 49
             },
             {
                 "key": "4",
                 "label": "4年",
-                "count": 115
+                "count": 75
             }
         ],
         "courseType": [
             {
                 "key": "4ab0c6a3f107",
                 "label": "実習科目",
-                "count": 21
+                "count": 19
             },
             {
                 "key": "3beabbaa9998",
                 "label": "演習科目",
-                "count": 48
+                "count": 19
             },
             {
                 "key": "37f77488a9ce",
                 "label": "講義・実習科目",
-                "count": 2
+                "count": 1
             },
             {
                 "key": "dd5e37aedc2b",
                 "label": "講義科目",
-                "count": 45
+                "count": 36
             }
         ]
     },
@@ -727,47 +617,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "U54020",
-            "courseName": "保健医療福祉総論[臨検]",
-            "lecturer": [
-                "今村倫敦(兼任講師)"
-            ],
-            "regularOrIntensive": "専門基礎科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水3"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０２１１教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/U54020.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "wed-3"
-            ],
-            "regularOrIntensiveKey": "a8b2666aa3df",
-            "lecturerKeys": [
-                "c5e2c108c2ad"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "W5405",
             "courseName": "健康食品総論",
             "lecturer": [
@@ -803,91 +652,6 @@
                 "74fa0fa2ccda"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "W54050",
-            "courseName": "健康食品総論",
-            "lecturer": [
-                "栗原由利子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金5"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０２０１教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W54050.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "fri-5"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "cf58f92db173"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "W54070",
-            "courseName": "先端医療総合講義",
-            "lecturer": [
-                "篠原一彦(医療保健学部臨床工学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水4",
-                "水5"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０２１１教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W54070.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "4",
-                "5"
-            ],
-            "classPeriodKeys": [
-                "wed-4",
-                "wed-5"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "62623cf68120"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "4"
             ],
@@ -1083,102 +847,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "U5206",
-            "courseName": "公衆衛生学実習[臨検2021年以前]",
-            "lecturer": [
-                "三上あかね(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門基礎科目",
-            "courseType": "実習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "月3",
-                "月4",
-                "月5"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/U5206.json",
-            "weekdayKeys": [
-                "mon"
-            ],
-            "periodKeys": [
-                "3",
-                "4",
-                "5"
-            ],
-            "classPeriodKeys": [
-                "mon-3",
-                "mon-4",
-                "mon-5"
-            ],
-            "regularOrIntensiveKey": "a8b2666aa3df",
-            "lecturerKeys": [
-                "15d9b7cbad3d"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "W5221",
-            "courseName": "医動物学（含む実習）[2021年以前]",
-            "lecturer": [
-                "岡崎充宏(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義・実習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "金3",
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０２０２教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W5221.json",
-            "weekdayKeys": [
-                "fri",
-                "other"
-            ],
-            "periodKeys": [
-                "3",
-                "other"
-            ],
-            "classPeriodKeys": [
-                "fri-3",
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "c0232231077f"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "37f77488a9ce"
-        },
-        {
             "lectureCode": "U5107",
             "courseName": "医学概論[臨検]",
             "lecturer": [
@@ -1370,54 +1038,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "U54010",
-            "courseName": "医療リスクマネジメント[2021年以前]",
-            "lecturer": [
-                "岡崎充宏(医療保健学部臨床検査学科)",
-                "横田浩充(兼任講師)"
-            ],
-            "regularOrIntensive": "専門基礎科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "月",
-                "月2",
-                "木",
-                "木2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１００３教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/U54010.json",
-            "weekdayKeys": [
-                "mon",
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "mon-2",
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "a8b2666aa3df",
-            "lecturerKeys": [
-                "c0232231077f",
-                "c11a23fcefe3"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "W5310",
             "courseName": "医療リスクマネジメント実習",
             "lecturer": [
@@ -1500,221 +1120,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "W54040",
-            "courseName": "医療情報処理演習II",
-            "lecturer": [
-                "奥橋佑基(医療保健学部臨床検査学科)",
-                "國枝泰希(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "火2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "Ｍ３１０臨床検査実習室１"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W54040.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "tue-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "9956605abb2a",
-                "a013f3e95d52"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W5222",
-            "courseName": "医療情報処理演習I[2021年以前]",
-            "lecturer": [
-                "奥橋佑基(医療保健学部臨床検査学科)",
-                "國枝泰希(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W5222.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "9956605abb2a",
-                "a013f3e95d52"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540910",
-            "courseName": "卒業研究II[MT10]",
-            "lecturer": [
-                "水野元貴(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540910.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "4f98f5f7dd4b"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540911",
-            "courseName": "卒業研究II[MT11]",
-            "lecturer": [
-                "吉田祥子(医療保健学部臨床検査学科)",
-                "佐藤瑞穂(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540911.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "6caa0b0dd5b3",
-                "87056a625e3f"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540912",
-            "courseName": "卒業研究II[MT12]",
-            "lecturer": [
-                "川又紀彦(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540912.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "c7bed0c40a7f"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "W540913",
             "courseName": "卒業研究II[MT13]",
             "lecturer": [
@@ -1748,47 +1153,6 @@
                 "2b903f924a11"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540901",
-            "courseName": "卒業研究II[MT1]",
-            "lecturer": [
-                "榎本みのり(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540901.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "2413a71de5aa"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "4"
             ],
@@ -1830,252 +1194,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "W540902",
-            "courseName": "卒業研究II[MT2]",
-            "lecturer": [
-                "岡崎充宏(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540902.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "c0232231077f"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540903",
-            "courseName": "卒業研究II[MT3]",
-            "lecturer": [
-                "奥橋佑基(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540903.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "9956605abb2a"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540904",
-            "courseName": "卒業研究II[MT4]",
-            "lecturer": [
-                "國枝泰希(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540904.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "a013f3e95d52"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540905",
-            "courseName": "卒業研究II[MT5]",
-            "lecturer": [
-                "栗原由利子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540905.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "cf58f92db173"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540906",
-            "courseName": "卒業研究II[MT6]",
-            "lecturer": [
-                "佐々木聰(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540906.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "384af1c70609"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540907",
-            "courseName": "卒業研究II[MT7]",
-            "lecturer": [
-                "花尾麻美(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540907.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "0c948e6621dc"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "W540908",
             "courseName": "卒業研究II[MT8]",
             "lecturer": [
@@ -2109,541 +1227,6 @@
                 "a136902225e9"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540909",
-            "courseName": "卒業研究II[MT9]",
-            "lecturer": [
-                "三上あかね(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540909.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "15d9b7cbad3d"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540810",
-            "courseName": "卒業研究I[MT10]",
-            "lecturer": [
-                "水野元貴(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540810.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "4f98f5f7dd4b"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540811",
-            "courseName": "卒業研究I[MT11]",
-            "lecturer": [
-                "吉田祥子(医療保健学部臨床検査学科)",
-                "佐藤瑞穂(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540811.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "6caa0b0dd5b3",
-                "87056a625e3f"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540812",
-            "courseName": "卒業研究I[MT12]",
-            "lecturer": [
-                "川又紀彦(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540812.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "c7bed0c40a7f"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540801",
-            "courseName": "卒業研究I[MT1]",
-            "lecturer": [
-                "榎本みのり(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540801.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "2413a71de5aa"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540802",
-            "courseName": "卒業研究I[MT2]",
-            "lecturer": [
-                "岡崎充宏(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540802.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "c0232231077f"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540803",
-            "courseName": "卒業研究I[MT3]",
-            "lecturer": [
-                "奥橋佑基(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540803.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "9956605abb2a"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540804",
-            "courseName": "卒業研究I[MT4]",
-            "lecturer": [
-                "國枝泰希(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540804.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "a013f3e95d52"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540805",
-            "courseName": "卒業研究I[MT5]",
-            "lecturer": [
-                "栗原由利子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540805.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "cf58f92db173"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540806",
-            "courseName": "卒業研究I[MT6]",
-            "lecturer": [
-                "佐々木聰(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540806.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "384af1c70609"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540807",
-            "courseName": "卒業研究I[MT7]",
-            "lecturer": [
-                "花尾麻美(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540807.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "0c948e6621dc"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540808",
-            "courseName": "卒業研究I[MT8]",
-            "lecturer": [
-                "廣田雅子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540808.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "b19cc49b73af"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W540809",
-            "courseName": "卒業研究I[MT9]",
-            "lecturer": [
-                "三上あかね(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W540809.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "15d9b7cbad3d"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "4"
             ],
@@ -4174,98 +2757,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "W54010",
-            "courseName": "病態解析学",
-            "lecturer": [
-                "栗原由利子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "月2"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０２１１教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W54010.json",
-            "weekdayKeys": [
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "cf58f92db173"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "U5110",
-            "courseName": "病理学[2021年以前]",
-            "lecturer": [
-                "吉田祥子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門基礎科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "火3",
-                "金4"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３１０１４教室"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/U5110.json",
-            "weekdayKeys": [
-                "fri",
-                "tue"
-            ],
-            "periodKeys": [
-                "3",
-                "4"
-            ],
-            "classPeriodKeys": [
-                "fri-4",
-                "tue-3"
-            ],
-            "regularOrIntensiveKey": "a8b2666aa3df",
-            "lecturerKeys": [
-                "6caa0b0dd5b3"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "W5101",
             "courseName": "病理検査学I",
             "lecturer": [
@@ -4600,49 +3091,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "W5320",
-            "courseName": "臨床化学検査学III[2021年以前]",
-            "lecturer": [
-                "栗原由利子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/W5320.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "cf58f92db173"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "W5208",
             "courseName": "臨床化学検査学実習",
             "lecturer": [
@@ -4695,99 +3143,6 @@
                 "4"
             ],
             "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "W5321",
-            "courseName": "臨床化学検査学実習II[2021年以前]",
-            "lecturer": [
-                "栗原由利子(医療保健学部臨床検査学科)",
-                "水野元貴(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "実習科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "金3",
-                "金4",
-                "金5"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "Ｍ３０７臨床検査実習室４",
-                "Ｍ３０８臨床検査実習室５"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/W5321.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "3",
-                "4",
-                "5"
-            ],
-            "classPeriodKeys": [
-                "fri-3",
-                "fri-4",
-                "fri-5"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "cf58f92db173",
-                "4f98f5f7dd4b"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "W5201",
-            "courseName": "臨床医学総論",
-            "lecturer": [
-                "川又紀彦(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "金"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３０２１２教室"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/W5201.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "c7bed0c40a7f"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
         },
         {
             "lectureCode": "U5403",
@@ -4919,45 +3274,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "W54020",
-            "courseName": "臨床検査総合演習II",
-            "lecturer": [
-                "栗原由利子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "火",
-                "木"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "Ｍ３１０臨床検査実習室１"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W54020.json",
-            "weekdayKeys": [
-                "thu",
-                "tue"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "cf58f92db173"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "W5403",
             "courseName": "臨床検査総合演習II",
             "lecturer": [
@@ -4994,133 +3310,6 @@
             ],
             "courseStartKey": "2026-second",
             "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W54030",
-            "courseName": "臨床検査総合演習III",
-            "lecturer": [
-                "栗原由利子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W54030.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "cf58f92db173"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W5322",
-            "courseName": "臨床検査総合演習I[2019-21年]",
-            "lecturer": [
-                "廣田雅子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/W5322.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "b19cc49b73af"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "W5323",
-            "courseName": "臨床検査総合演習[2018年以前]",
-            "lecturer": [
-                "廣田雅子(医療保健学部臨床検査学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W5323.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "b19cc49b73af"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "3",
                 "4"
             ],
             "courseTypeKey": "3beabbaa9998"
@@ -5208,51 +3397,6 @@
                 "fb0b754ef731"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "W54060",
-            "courseName": "薬理学",
-            "lecturer": [
-                "岸野吏志(兼任講師)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "水4"
-            ],
-            "targetDepartment": "医療保健学部",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "３Ｂ１１０大講義室（地下ホール）"
-            ],
-            "updateAt": "2024\/12\/09",
-            "path": "\/api\/v1\/all\/W54060.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "wed-4"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "50feea41fbda"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "2",
                 "3",

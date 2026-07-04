@@ -1,37 +1,37 @@
 {
     "department": "X3",
-    "count": 1038,
+    "count": 913,
     "filters": {
         "weekday": [
             {
                 "key": "mon",
                 "label": "月",
-                "count": 27
+                "count": 23
             },
             {
                 "key": "tue",
                 "label": "火",
-                "count": 33
+                "count": 25
             },
             {
                 "key": "wed",
                 "label": "水",
-                "count": 24
+                "count": 20
             },
             {
                 "key": "thu",
                 "label": "木",
-                "count": 30
+                "count": 23
             },
             {
                 "key": "fri",
                 "label": "金",
-                "count": 33
+                "count": 26
             },
             {
                 "key": "other",
                 "label": "他",
-                "count": 891
+                "count": 796
             }
         ],
         "period": [
@@ -43,17 +43,17 @@
             {
                 "key": "2",
                 "label": "2",
-                "count": 66
+                "count": 53
             },
             {
                 "key": "3",
                 "label": "3",
-                "count": 28
+                "count": 20
             },
             {
                 "key": "4",
                 "label": "4",
-                "count": 10
+                "count": 9
             },
             {
                 "key": "5",
@@ -63,7 +63,7 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 891
+                "count": 796
             }
         ],
         "classPeriod": [
@@ -75,12 +75,12 @@
             {
                 "key": "mon-2",
                 "label": "月2",
-                "count": 13
+                "count": 11
             },
             {
                 "key": "mon-3",
                 "label": "月3",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "mon-4",
@@ -95,12 +95,12 @@
             {
                 "key": "tue-2",
                 "label": "火2",
-                "count": 13
+                "count": 11
             },
             {
                 "key": "tue-3",
                 "label": "火3",
-                "count": 7
+                "count": 4
             },
             {
                 "key": "tue-4",
@@ -115,12 +115,12 @@
             {
                 "key": "wed-2",
                 "label": "水2",
-                "count": 12
+                "count": 10
             },
             {
                 "key": "wed-3",
                 "label": "水3",
-                "count": 3
+                "count": 2
             },
             {
                 "key": "wed-4",
@@ -140,12 +140,12 @@
             {
                 "key": "thu-2",
                 "label": "木2",
-                "count": 14
+                "count": 10
             },
             {
                 "key": "thu-3",
                 "label": "木3",
-                "count": 7
+                "count": 5
             },
             {
                 "key": "thu-4",
@@ -160,17 +160,17 @@
             {
                 "key": "fri-2",
                 "label": "金2",
-                "count": 14
+                "count": 11
             },
             {
                 "key": "fri-3",
                 "label": "金3",
-                "count": 6
+                "count": 5
             },
             {
                 "key": "fri-4",
                 "label": "金4",
-                "count": 3
+                "count": 2
             },
             {
                 "key": "fri-5",
@@ -180,19 +180,14 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 891
+                "count": 796
             }
         ],
         "regularOrIntensive": [
             {
                 "key": "8c46c4d06a13",
                 "label": "ジェネリックスキル科目",
-                "count": 9
-            },
-            {
-                "key": "63707e8fb9ad",
-                "label": "専門科目",
-                "count": 26
+                "count": 4
             },
             {
                 "key": "00c251006ce1",
@@ -215,11 +210,6 @@
                 "count": 27
             },
             {
-                "key": "4c04bd93b7ba",
-                "label": "研究・プロジェクト科目",
-                "count": 91
-            },
-            {
                 "key": "f689ac5c39fd",
                 "label": "研究・プロジェクト科目コンピュータサイエンス専攻",
                 "count": 108
@@ -240,22 +230,12 @@
                 "count": 224
             },
             {
-                "key": "4c96ef91d7ba",
-                "label": "総合科目",
-                "count": 3
-            },
-            {
                 "key": "22770bd1c9bf",
                 "label": "総合科目サステイナブル工学専攻",
                 "count": 6
             }
         ],
         "lecturer": [
-            {
-                "key": "6a4983ccce9a",
-                "label": "ノスンタク(メディア学部メディア学科)",
-                "count": 1
-            },
             {
                 "key": "96cecd021141",
                 "label": "三上浩司",
@@ -265,11 +245,6 @@
                 "key": "75ae4b3a9b11",
                 "label": "三田俊裕",
                 "count": 8
-            },
-            {
-                "key": "115276d18238",
-                "label": "三田俊裕(工学部機械工学科)",
-                "count": 5
             },
             {
                 "key": "59a782a3efaf",
@@ -297,29 +272,14 @@
                 "count": 5
             },
             {
-                "key": "ea31f7e42b74",
-                "label": "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 6
-            },
-            {
                 "key": "bea6ee98178a",
                 "label": "井上亮文",
                 "count": 5
             },
             {
-                "key": "0bdcc4b95f29",
-                "label": "井上亮文(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 3
-            },
-            {
                 "key": "5197c26e3dce",
                 "label": "伊澤千尋",
                 "count": 8
-            },
-            {
-                "key": "2798123ab263",
-                "label": "伊澤千尋(応用生物学部応用生物学科)",
-                "count": 1
             },
             {
                 "key": "bee3fa74daa6",
@@ -332,19 +292,9 @@
                 "count": 5
             },
             {
-                "key": "f101b021b564",
-                "label": "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 4
-            },
-            {
                 "key": "11f64126b809",
                 "label": "伝保昭彦",
                 "count": 5
-            },
-            {
-                "key": "ce22c6934258",
-                "label": "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 2
             },
             {
                 "key": "3a6725b46fb4",
@@ -352,19 +302,9 @@
                 "count": 5
             },
             {
-                "key": "b74b00d4fd71",
-                "label": "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 3
-            },
-            {
                 "key": "f326ddea0932",
                 "label": "佐藤公則",
                 "count": 4
-            },
-            {
-                "key": "444291ebe9c4",
-                "label": "佐藤公則(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 5
             },
             {
                 "key": "e9133f513de9",
@@ -375,11 +315,6 @@
                 "key": "5c96a30a39bf",
                 "label": "佐藤淳",
                 "count": 9
-            },
-            {
-                "key": "d266e18b03cd",
-                "label": "佐藤淳(応用生物学部応用生物学科)",
-                "count": 5
             },
             {
                 "key": "88b520aa3b45",
@@ -397,16 +332,6 @@
                 "count": 9
             },
             {
-                "key": "5a9bb208d469",
-                "label": "前田就彦(工学部電気電子工学科)",
-                "count": 1
-            },
-            {
-                "key": "7ae6690e8857",
-                "label": "前田憲寿(応用生物学部応用生物学科)",
-                "count": 1
-            },
-            {
                 "key": "4288c1b87ce6",
                 "label": "加柴美里",
                 "count": 9
@@ -422,16 +347,6 @@
                 "count": 9
             },
             {
-                "key": "c9579afb5633",
-                "label": "加藤輝(応用生物学部応用生物学科)",
-                "count": 1
-            },
-            {
-                "key": "4148930f819a",
-                "label": "加藤邦拓(メディア学部メディア学科)",
-                "count": 1
-            },
-            {
                 "key": "8e819b8e3f93",
                 "label": "北村美穂",
                 "count": 8
@@ -445,11 +360,6 @@
                 "key": "d9d654b99f23",
                 "label": "古井光明",
                 "count": 13
-            },
-            {
-                "key": "bb8d9414409d",
-                "label": "古井光明(工学部機械工学科)",
-                "count": 2
             },
             {
                 "key": "a762e8138fa7",
@@ -472,11 +382,6 @@
                 "count": 9
             },
             {
-                "key": "070546042d51",
-                "label": "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 3
-            },
-            {
                 "key": "7422b5f352f8",
                 "label": "多田雄一",
                 "count": 10
@@ -497,29 +402,14 @@
                 "count": 5
             },
             {
-                "key": "ccf4362f2f97",
-                "label": "大石邦夫(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 2
-            },
-            {
                 "key": "79652a8db817",
                 "label": "大野澄雄",
                 "count": 5
             },
             {
-                "key": "650a01149215",
-                "label": "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 4
-            },
-            {
                 "key": "3fd8eedbb87e",
                 "label": "大野由美子",
                 "count": 5
-            },
-            {
-                "key": "3c5890745ebb",
-                "label": "大野由美子(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 2
             },
             {
                 "key": "a4d91482181b",
@@ -537,11 +427,6 @@
                 "count": 5
             },
             {
-                "key": "b84dfbb6bfb7",
-                "label": "宇田隆哉(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 3
-            },
-            {
                 "key": "db6f5f7ce586",
                 "label": "安川然太",
                 "count": 9
@@ -552,11 +437,6 @@
                 "count": 9
             },
             {
-                "key": "6037f6f9c89a",
-                "label": "山下俊(工学部応用化学科)",
-                "count": 7
-            },
-            {
                 "key": "d336a64bcee7",
                 "label": "山元進",
                 "count": 5
@@ -565,11 +445,6 @@
                 "key": "a6e2d8527074",
                 "label": "山口淳",
                 "count": 5
-            },
-            {
-                "key": "6d4768f19dd7",
-                "label": "山口淳(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 2
             },
             {
                 "key": "93fd745ec4e7",
@@ -592,11 +467,6 @@
                 "count": 5
             },
             {
-                "key": "444db9c13392",
-                "label": "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 4
-            },
-            {
                 "key": "4896a89e4b9b",
                 "label": "岩渕徳郎",
                 "count": 9
@@ -607,11 +477,6 @@
                 "count": 5
             },
             {
-                "key": "c96b1a79a2af",
-                "label": "布田裕一(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 4
-            },
-            {
                 "key": "57fcdfe5a7fc",
                 "label": "後藤早希",
                 "count": 9
@@ -620,11 +485,6 @@
                 "key": "f23742d93b81",
                 "label": "戀津魁",
                 "count": 9
-            },
-            {
-                "key": "2065efd80d91",
-                "label": "戀津魁(メディア学部メディア学科)",
-                "count": 1
             },
             {
                 "key": "db0a56499872",
@@ -662,11 +522,6 @@
                 "count": 5
             },
             {
-                "key": "0b0fe59ee0d4",
-                "label": "松下宗一郎(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 2
-            },
-            {
                 "key": "2530c87c06b5",
                 "label": "松井徹",
                 "count": 9
@@ -682,19 +537,9 @@
                 "count": 10
             },
             {
-                "key": "176a0900032e",
-                "label": "松吉俊(メディア学部メディア学科)",
-                "count": 1
-            },
-            {
                 "key": "8ca86cde8ff4",
                 "label": "松岡丈平",
                 "count": 5
-            },
-            {
-                "key": "509e43c4ecfc",
-                "label": "松岡丈平(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 4
             },
             {
                 "key": "e786a248bf55",
@@ -705,11 +550,6 @@
                 "key": "7d13f8a2e8a8",
                 "label": "柴田雅史",
                 "count": 9
-            },
-            {
-                "key": "2db371853bdf",
-                "label": "柴田雅史(応用生物学部応用生物学科)",
-                "count": 1
             },
             {
                 "key": "fa205eff7755",
@@ -727,11 +567,6 @@
                 "count": 9
             },
             {
-                "key": "c90b012dddb9",
-                "label": "森本樹(工学部応用化学科)",
-                "count": 6
-            },
-            {
                 "key": "f24600613084",
                 "label": "椿郁子",
                 "count": 9
@@ -747,11 +582,6 @@
                 "count": 8
             },
             {
-                "key": "9f1a90d6dcd7",
-                "label": "榊俊吾(メディア学部メディア学科)",
-                "count": 1
-            },
-            {
                 "key": "26822611bc81",
                 "label": "榎本美香",
                 "count": 9
@@ -760,11 +590,6 @@
                 "key": "cc8b6626c66b",
                 "label": "横山憲二",
                 "count": 9
-            },
-            {
-                "key": "56fc357aa011",
-                "label": "横山憲二(応用生物学部応用生物学科)",
-                "count": 1
             },
             {
                 "key": "a317f5dd4efd",
@@ -777,19 +602,9 @@
                 "count": 5
             },
             {
-                "key": "17741fd3901b",
-                "label": "欅リベカ(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 2
-            },
-            {
                 "key": "c4fd4d1eccac",
                 "label": "武博",
                 "count": 5
-            },
-            {
-                "key": "9b20363ca9a7",
-                "label": "武博(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 4
             },
             {
                 "key": "f159e1589b50",
@@ -817,19 +632,9 @@
                 "count": 5
             },
             {
-                "key": "bde7756bad26",
-                "label": "渡辺昌洋(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 2
-            },
-            {
                 "key": "b303a2f9bcd2",
                 "label": "瀬之口潤輔",
                 "count": 5
-            },
-            {
-                "key": "d6a2f04ae883",
-                "label": "片桐利真(工学部応用化学科)",
-                "count": 1
             },
             {
                 "key": "35c38046dac8",
@@ -837,19 +642,9 @@
                 "count": 5
             },
             {
-                "key": "cf653555c5b4",
-                "label": "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 4
-            },
-            {
                 "key": "5dc955298537",
                 "label": "盛川浩志",
                 "count": 9
-            },
-            {
-                "key": "ea1ebda026c4",
-                "label": "盛川浩志(メディア学部メディア学科)",
-                "count": 1
             },
             {
                 "key": "8f7bfb58e8a6",
@@ -867,11 +662,6 @@
                 "count": 5
             },
             {
-                "key": "17bfb2bfbe0c",
-                "label": "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 4
-            },
-            {
                 "key": "e90baabe3475",
                 "label": "禹珍碩",
                 "count": 9
@@ -887,19 +677,9 @@
                 "count": 9
             },
             {
-                "key": "ef3aed8bedcd",
-                "label": "竹島由里子(メディア学部メディア学科)",
-                "count": 1
-            },
-            {
                 "key": "5c78a1871394",
                 "label": "細野繁",
                 "count": 6
-            },
-            {
-                "key": "a3cc61f15d80",
-                "label": "細野繁(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 3
             },
             {
                 "key": "ee92b79e8bec",
@@ -907,19 +687,9 @@
                 "count": 9
             },
             {
-                "key": "1edf1561165a",
-                "label": "羽田久一(メディア学部メディア学科)",
-                "count": 1
-            },
-            {
                 "key": "b1340ce767b3",
                 "label": "荒川貴博",
                 "count": 9
-            },
-            {
-                "key": "c691423049a0",
-                "label": "荒川貴博(工学部電気電子工学科)",
-                "count": 1
             },
             {
                 "key": "8170e3ddfe8a",
@@ -929,11 +699,6 @@
             {
                 "key": "74137582d125",
                 "label": "菊池眞之",
-                "count": 5
-            },
-            {
-                "key": "e9af3f5d9932",
-                "label": "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)",
                 "count": 5
             },
             {
@@ -1002,11 +767,6 @@
                 "count": 9
             },
             {
-                "key": "b2d16c34d2f3",
-                "label": "関洋子(応用生物学部応用生物学科)",
-                "count": 1
-            },
-            {
                 "key": "d3f388a122fc",
                 "label": "陳海茵",
                 "count": 8
@@ -1015,11 +775,6 @@
                 "key": "14fe0201964e",
                 "label": "青山一真",
                 "count": 9
-            },
-            {
-                "key": "4c2aa1741614",
-                "label": "青木輝勝(コンピュータサイエンス学部コンピュータサイエンス学科)",
-                "count": 5
             },
             {
                 "key": "dcdc65177189",
@@ -1037,19 +792,9 @@
                 "count": 8
             },
             {
-                "key": "ce62f4883e9b",
-                "label": "高木茂行(工学部電気電子工学科)",
-                "count": 1
-            },
-            {
                 "key": "150042064f66",
                 "label": "高本綺架",
                 "count": 5
-            },
-            {
-                "key": "4cf259981eeb",
-                "label": "高橋秀智(工学部機械工学科)",
-                "count": 1
             },
             {
                 "key": "cb135e8ebf82",
@@ -1058,16 +803,6 @@
             }
         ],
         "courseStart": [
-            {
-                "key": "2024-first",
-                "label": "2024年度前期",
-                "count": 47
-            },
-            {
-                "key": "2024-second",
-                "label": "2024年度後期",
-                "count": 78
-            },
             {
                 "key": "2026-first",
                 "label": "2026年度前期",
@@ -1083,19 +818,19 @@
             {
                 "key": "1",
                 "label": "1年",
-                "count": 596
+                "count": 515
             },
             {
                 "key": "2",
                 "label": "2年",
-                "count": 1037
+                "count": 912
             }
         ],
         "courseType": [
             {
                 "key": "dd5e37aedc2b",
                 "label": "講義科目",
-                "count": 1038
+                "count": 913
             }
         ]
     },
@@ -1264,49 +999,6 @@
                 "57cfd6562794"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGM12601",
-            "courseName": "Webアプリケーション技術特論",
-            "lecturer": [
-                "戀津魁(メディア学部メディア学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金4"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "講義実験棟２０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGM12601.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "4"
-            ],
-            "classPeriodKeys": [
-                "fri-4"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "2065efd80d91"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -1572,49 +1264,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGM13201",
-            "courseName": "インタフェース・デザイン特論",
-            "lecturer": [
-                "加藤邦拓(メディア学部メディア学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水3"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ２０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGM13201.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "wed-3"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "4148930f819a"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGC10101",
             "courseName": "ウェアラブルコンピュータ",
             "lecturer": [
@@ -1692,49 +1341,6 @@
                 "93fd745ec4e7"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGM13101",
-            "courseName": "エルゴノミクスデザイン特論",
-            "lecturer": [
-                "盛川浩志(メディア学部メディア学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０４"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGM13101.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "ea1ebda026c4"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -4214,498 +3820,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGC90302",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "青木輝勝(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90302.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "4c2aa1741614"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90303",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90303.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "cf653555c5b4"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90305",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90305.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "444db9c13392"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90306",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90306.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "9b20363ca9a7"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90307",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "宇田隆哉(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90307.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "b84dfbb6bfb7"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90309",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90309.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "650a01149215"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90311",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90311.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "e9af3f5d9932"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90312",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90312.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "ea31f7e42b74"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90315",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "佐藤公則(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90315.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "444291ebe9c4"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90317",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90317.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "17bfb2bfbe0c"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90319",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "布田裕一(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90319.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c96b1a79a2af"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90321",
-            "courseName": "コンピュータサイエンス研究II",
-            "lecturer": [
-                "松岡丈平(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90321.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "509e43c4ecfc"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGC90402",
             "courseName": "コンピュータサイエンス研究III",
             "lecturer": [
@@ -6812,2710 +5926,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGC90352",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "青木輝勝(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90352.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "4c2aa1741614"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90353",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90353.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "cf653555c5b4"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90354",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "井上亮文(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90354.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "0bdcc4b95f29"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90355",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90355.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "444db9c13392"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90356",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90356.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "9b20363ca9a7"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90357",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "宇田隆哉(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90357.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "b84dfbb6bfb7"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90358",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "大石邦夫(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90358.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "ccf4362f2f97"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90359",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90359.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "650a01149215"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90360",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "大野由美子(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90360.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "3c5890745ebb"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90361",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90361.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "e9af3f5d9932"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90362",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90362.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "ea31f7e42b74"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90363",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "欅リベカ(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90363.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "17741fd3901b"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90364",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90364.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "b74b00d4fd71"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90365",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "佐藤公則(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90365.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "444291ebe9c4"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90366",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90366.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "070546042d51"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90367",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90367.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "ce22c6934258"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90368",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90368.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "17bfb2bfbe0c"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90369",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90369.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "f101b021b564"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90370",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "布田裕一(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90370.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c96b1a79a2af"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90371",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "細野繁(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90371.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "a3cc61f15d80"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90372",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "松岡丈平(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90372.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "509e43c4ecfc"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90373",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "松下宗一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90373.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "0b0fe59ee0d4"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90374",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "山口淳(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90374.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "6d4768f19dd7"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90375",
-            "courseName": "コンピュータサイエンス研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "渡辺昌洋(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90375.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "bde7756bad26"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90102",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "青木輝勝(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90102.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "4c2aa1741614"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90103",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90103.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "cf653555c5b4"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90104",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "井上亮文(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90104.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "0bdcc4b95f29"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90105",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90105.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "444db9c13392"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90106",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90106.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "9b20363ca9a7"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90109",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90109.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "650a01149215"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90111",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90111.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "e9af3f5d9932"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90112",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90112.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "ea31f7e42b74"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90114",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90114.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "b74b00d4fd71"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90115",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "佐藤公則(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90115.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "444291ebe9c4"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90117",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90117.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "17bfb2bfbe0c"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90118",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90118.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "f101b021b564"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90119",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "布田裕一(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90119.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c96b1a79a2af"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90120",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "細野繁(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90120.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "a3cc61f15d80"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90121",
-            "courseName": "コンピュータサイエンス研究企画",
-            "lecturer": [
-                "松岡丈平(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90121.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "509e43c4ecfc"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90152",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "青木輝勝(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90152.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "4c2aa1741614"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90153",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "生野壮一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90153.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "cf653555c5b4"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90154",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "井上亮文(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90154.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "0bdcc4b95f29"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90155",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "岩下志乃(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90155.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "444db9c13392"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90156",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "武博(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90156.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "9b20363ca9a7"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90157",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "宇田隆哉(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90157.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "b84dfbb6bfb7"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90158",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "大石邦夫(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90158.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "ccf4362f2f97"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90159",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "大野澄雄(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90159.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "650a01149215"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90160",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "大野由美子(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90160.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "3c5890745ebb"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90161",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90161.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "e9af3f5d9932"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90162",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90162.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "ea31f7e42b74"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90163",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "欅リベカ(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90163.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "17741fd3901b"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90164",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "佐々木亮平(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90164.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "b74b00d4fd71"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90165",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "佐藤公則(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90165.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "444291ebe9c4"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90166",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90166.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "070546042d51"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90167",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "伝保昭彦(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90167.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "ce22c6934258"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90168",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "福西広晃(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90168.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "17bfb2bfbe0c"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90169",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90169.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "f101b021b564"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90170",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "布田裕一(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90170.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c96b1a79a2af"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90171",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "細野繁(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90171.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "a3cc61f15d80"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90172",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "松岡丈平(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90172.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "509e43c4ecfc"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90173",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "松下宗一郎(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90173.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "0b0fe59ee0d4"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90174",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "山口淳(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90174.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "6d4768f19dd7"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC90175",
-            "courseName": "コンピュータサイエンス研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "渡辺昌洋(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC90175.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "bde7756bad26"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGM10701",
-            "courseName": "コンピュータビジュアリゼーション特論",
-            "lecturer": [
-                "竹島由里子(メディア学部メディア学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "火3"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGM10701.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "tue-3"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "ef3aed8bedcd"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGM13701",
             "courseName": "コンピュータビジュアリゼーション特論",
             "lecturer": [
@@ -9552,45 +5962,6 @@
                 "db741abbef67"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC11201",
-            "courseName": "コンピュータビジョン",
-            "lecturer": [
-                "青木輝勝(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "火"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ２０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC11201.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "4c2aa1741614"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -9723,299 +6094,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGZ00103",
-            "courseName": "サイエンスプレゼンテーション英語[初級クラスC]",
-            "lecturer": [
-                "佐藤淳(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "ジェネリックスキル科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻,バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻,バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGZ00103.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "8c46c4d06a13",
-            "lecturerKeys": [
-                "d266e18b03cd"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGZ00104",
-            "courseName": "サイエンスプレゼンテーション英語[初級クラスD]",
-            "lecturer": [
-                "佐藤淳(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "ジェネリックスキル科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻,バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻,バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGZ00104.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "8c46c4d06a13",
-            "lecturerKeys": [
-                "d266e18b03cd"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGZ00105",
-            "courseName": "サイエンスプレゼンテーション英語[初級クラスE]",
-            "lecturer": [
-                "佐藤淳(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "ジェネリックスキル科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻,バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻,バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGZ00105.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "8c46c4d06a13",
-            "lecturerKeys": [
-                "d266e18b03cd"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGZ00106",
-            "courseName": "サイエンスプレゼンテーション英語[初級クラスF]",
-            "lecturer": [
-                "佐藤淳(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "ジェネリックスキル科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "金3"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻,バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻,バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGZ00106.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "fri-3"
-            ],
-            "regularOrIntensiveKey": "8c46c4d06a13",
-            "lecturerKeys": [
-                "d266e18b03cd"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE101301",
-            "courseName": "サステイナブルデバイス工学特論",
-            "lecturer": [
-                "前田就彦(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "水"
-            ],
-            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０４"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE101301.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "5a9bb208d469"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE000301",
-            "courseName": "サステイナブルパワーエレクトロニクス特論",
-            "lecturer": [
-                "高木茂行(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "総合科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "火3"
-            ],
-            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE000301.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "tue-3"
-            ],
-            "regularOrIntensiveKey": "4c96ef91d7ba",
-            "lecturerKeys": [
-                "ce62f4883e9b"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE000201",
-            "courseName": "サステイナブルマニュファクチャリング特論",
-            "lecturer": [
-                "高橋秀智(工学部機械工学科)"
-            ],
-            "regularOrIntensive": "総合科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金"
-            ],
-            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ２０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE000201.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "4c96ef91d7ba",
-            "lecturerKeys": [
-                "4cf259981eeb"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GE103701",
             "courseName": "サステイナブル工学先端特論",
             "lecturer": [
@@ -10095,51 +6173,6 @@
                 "9e5fbe77b790"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE103001",
-            "courseName": "サステイナブル工学特別講義I",
-            "lecturer": [
-                "古井光明(工学部機械工学科)",
-                "荒川貴博(工学部電気電子工学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE103001.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "bb8d9414409d",
-                "c691423049a0"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -11292,135 +7325,6 @@
                 "f184b1823ccc"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200229",
-            "courseName": "サステイナブル工学研究I",
-            "lecturer": [
-                "三田俊裕(工学部機械工学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200229.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "115276d18238"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200230",
-            "courseName": "サステイナブル工学研究I",
-            "lecturer": [
-                "森本樹(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200230.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c90b012dddb9"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200231",
-            "courseName": "サステイナブル工学研究I",
-            "lecturer": [
-                "山下俊(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200231.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "6037f6f9c89a"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -13588,88 +9492,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GE200330",
-            "courseName": "サステイナブル工学研究II",
-            "lecturer": [
-                "森本樹(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200330.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c90b012dddb9"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200331",
-            "courseName": "サステイナブル工学研究II",
-            "lecturer": [
-                "山下俊(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200331.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "6037f6f9c89a"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GE200352",
             "courseName": "サステイナブル工学研究II",
             "lecturer": [
@@ -15776,129 +11598,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GE200429",
-            "courseName": "サステイナブル工学研究III",
-            "lecturer": [
-                "三田俊裕(工学部機械工学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200429.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "115276d18238"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200430",
-            "courseName": "サステイナブル工学研究III",
-            "lecturer": [
-                "森本樹(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200430.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c90b012dddb9"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200431",
-            "courseName": "サステイナブル工学研究III",
-            "lecturer": [
-                "山下俊(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200431.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "6037f6f9c89a"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GE200452",
             "courseName": "サステイナブル工学研究III",
             "lecturer": [
@@ -16946,129 +12645,6 @@
                 "f184b1823ccc"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200379",
-            "courseName": "サステイナブル工学研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "三田俊裕(工学部機械工学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200379.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "115276d18238"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200380",
-            "courseName": "サステイナブル工学研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "森本樹(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200380.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c90b012dddb9"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200381",
-            "courseName": "サステイナブル工学研究II（半期ずれ：後期履修用）",
-            "lecturer": [
-                "山下俊(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "2年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200381.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "6037f6f9c89a"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "2"
             ],
@@ -18182,92 +13758,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GE200130",
-            "courseName": "サステイナブル工学研究企画",
-            "lecturer": [
-                "森本樹(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200130.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c90b012dddb9"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200131",
-            "courseName": "サステイナブル工学研究企画",
-            "lecturer": [
-                "山下俊(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200131.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "6037f6f9c89a"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GE200152",
             "courseName": "サステイナブル工学研究企画",
             "lecturer": [
@@ -19368,135 +14858,6 @@
                 "f184b1823ccc"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200179",
-            "courseName": "サステイナブル工学研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "三田俊裕(工学部機械工学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200179.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "115276d18238"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200180",
-            "courseName": "サステイナブル工学研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "森本樹(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200180.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "c90b012dddb9"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE200181",
-            "courseName": "サステイナブル工学研究企画（半期ずれ：後期履修用）",
-            "lecturer": [
-                "山下俊(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "研究・プロジェクト科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE200181.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c04bd93b7ba",
-            "lecturerKeys": [
-                "6037f6f9c89a"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -29981,135 +25342,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGY00201",
-            "courseName": "ビジネスシミュレーション特論",
-            "lecturer": [
-                "榊俊吾(メディア学部メディア学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "火2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻,バイオ・情報メディア研究科修士課程アントレプレナー専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGY00201.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "tue-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "9f1a90d6dcd7"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGM13301",
-            "courseName": "ビジュアルコンピューティング特論",
-            "lecturer": [
-                "ノスンタク(メディア学部メディア学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木3"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ２０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGM13301.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "thu-3"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "6a4983ccce9a"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC13601",
-            "courseName": "ビッグデータ工学特論",
-            "lecturer": [
-                "伏見卓恭(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "月3"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ２０１"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC13601.json",
-            "weekdayKeys": [
-                "mon"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "mon-3"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "f101b021b564"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGC13901",
             "courseName": "ビッグデータ工学特論",
             "lecturer": [
@@ -30230,49 +25462,6 @@
                 "8170e3ddfe8a"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGB12001",
-            "courseName": "ヘルスケア工学特論",
-            "lecturer": [
-                "横山憲二(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "金2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGB12001.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "56fc357aa011"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -39926,49 +35115,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GE000801",
-            "courseName": "企業探究",
-            "lecturer": [
-                "古井光明(工学部機械工学科)"
-            ],
-            "regularOrIntensive": "総合科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE000801.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "4c96ef91d7ba",
-            "lecturerKeys": [
-                "bb8d9414409d"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGM10301",
             "courseName": "先端ゲームデザイン特論",
             "lecturer": [
@@ -40227,88 +35373,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGC12701",
-            "courseName": "分散システム",
-            "lecturer": [
-                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "月"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０４"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC12701.json",
-            "weekdayKeys": [
-                "mon"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "ea31f7e42b74"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC70101",
-            "courseName": "創成プロジェクト",
-            "lecturer": [
-                "串田高幸(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC70101.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "ea31f7e42b74"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGB13901",
             "courseName": "化学バイオテクノロジー特論",
             "lecturer": [
@@ -40352,49 +35416,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGB10101",
-            "courseName": "化学生物工学特論",
-            "lecturer": [
-                "加藤輝(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "月2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGB10101.json",
-            "weekdayKeys": [
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "c9579afb5633"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGB12201",
             "courseName": "化粧品原料化学特論",
             "lecturer": [
@@ -40431,135 +35452,6 @@
                 "eef0a191a10e"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGB12101",
-            "courseName": "化粧品科学特論",
-            "lecturer": [
-                "前田憲寿(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGB12101.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "wed-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "7ae6690e8857"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGB12301",
-            "courseName": "化粧品設計学特論",
-            "lecturer": [
-                "柴田雅史(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ２０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGB12301.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "2db371853bdf"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGM10901",
-            "courseName": "実世界メディアテクノロジー特論",
-            "lecturer": [
-                "羽田久一(メディア学部メディア学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGM10901.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "1edf1561165a"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -40689,49 +35581,6 @@
                 "852de1103bc6"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC11501",
-            "courseName": "情報計測システム工学",
-            "lecturer": [
-                "佐藤公則(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木3"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "研究棟Ａ４０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC11501.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "thu-3"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "444291ebe9c4"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -41126,45 +35975,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGB10301",
-            "courseName": "材料化学特論",
-            "lecturer": [
-                "伊澤千尋(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGB10301.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "2798123ab263"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGB11101",
             "courseName": "核酸工学特論",
             "lecturer": [
@@ -41201,49 +36011,6 @@
                 "013b2c9bb243"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE100701",
-            "courseName": "模型実験特論",
-            "lecturer": [
-                "三田俊裕(工学部機械工学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "火3"
-            ],
-            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０４"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE100701.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "tue-3"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "115276d18238"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -41459,45 +36226,6 @@
                 "f184b1823ccc"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE101701",
-            "courseName": "物理有機化学概論",
-            "lecturer": [
-                "片桐利真(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "火"
-            ],
-            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０４"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE101701.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "d6a2f04ae883"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -41978,45 +36706,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGC13101",
-            "courseName": "知能数理特論",
-            "lecturer": [
-                "塩野康徳(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "木"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ３０４"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC13101.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "070546042d51"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GE000601",
             "courseName": "研究リテラシー",
             "lecturer": [
@@ -42146,49 +36835,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGZ00301",
-            "courseName": "社会参加プログラムI",
-            "lecturer": [
-                "佐藤淳(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "ジェネリックスキル科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGZ00301.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "8c46c4d06a13",
-            "lecturerKeys": [
-                "d266e18b03cd"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGM14101",
             "courseName": "神経工学特論",
             "lecturer": [
@@ -42268,49 +36914,6 @@
                 "c4f4748e9963"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGM12901",
-            "courseName": "自然言語処理特論",
-            "lecturer": [
-                "松吉俊(メディア学部メディア学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程メディアサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ１０４"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGM12901.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "fri-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "176a0900032e"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -42483,49 +37086,6 @@
                 "11f64126b809"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GGC11301",
-            "courseName": "視覚認知機構",
-            "lecturer": [
-                "菊池眞之(コンピュータサイエンス学部コンピュータサイエンス学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "月2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程コンピュータサイエンス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ２０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGC11301.json",
-            "weekdayKeys": [
-                "mon"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "mon-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "e9af3f5d9932"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"
@@ -43086,49 +37646,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "GGB13101",
-            "courseName": "食品加工学特論",
-            "lecturer": [
-                "関洋子(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "火2"
-            ],
-            "targetDepartment": "バイオ・情報メディア研究科博士前期課程バイオニクス専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ２０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GGB13101.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "tue-2"
-            ],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "b2d16c34d2f3"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "GGB13501",
             "courseName": "食品産業学特論",
             "lecturer": [
@@ -43165,45 +37682,6 @@
                 "db6f5f7ce586"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "GE102001",
-            "courseName": "高分子材料特論",
-            "lecturer": [
-                "山下俊(工学部応用化学科)"
-            ],
-            "regularOrIntensive": "専門科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "火"
-            ],
-            "targetDepartment": "工学研究科博士前期課程サステイナブル工学専攻",
-            "targetGrade": [
-                "1年",
-                "2年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ２０１"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/GE102001.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "63707e8fb9ad",
-            "lecturerKeys": [
-                "6037f6f9c89a"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2"

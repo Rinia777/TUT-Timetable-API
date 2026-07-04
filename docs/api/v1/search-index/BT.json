@@ -1,6 +1,6 @@
 {
     "department": "BT",
-    "count": 246,
+    "count": 223,
     "filters": {
         "weekday": [
             {
@@ -11,27 +11,27 @@
             {
                 "key": "tue",
                 "label": "火",
-                "count": 31
+                "count": 29
             },
             {
                 "key": "wed",
                 "label": "水",
-                "count": 79
+                "count": 64
             },
             {
                 "key": "thu",
                 "label": "木",
-                "count": 54
+                "count": 53
             },
             {
                 "key": "fri",
                 "label": "金",
-                "count": 26
+                "count": 25
             },
             {
                 "key": "other",
                 "label": "他",
-                "count": 60
+                "count": 56
             }
         ],
         "period": [
@@ -43,12 +43,12 @@
             {
                 "key": "2",
                 "label": "2",
-                "count": 42
+                "count": 40
             },
             {
                 "key": "3",
                 "label": "3",
-                "count": 37
+                "count": 32
             },
             {
                 "key": "4",
@@ -58,12 +58,12 @@
             {
                 "key": "5",
                 "label": "5",
-                "count": 51
+                "count": 43
             },
             {
                 "key": "other",
                 "label": "他",
-                "count": 60
+                "count": 56
             }
         ],
         "classPeriod": [
@@ -100,12 +100,12 @@
             {
                 "key": "tue-2",
                 "label": "火2",
-                "count": 11
+                "count": 10
             },
             {
                 "key": "tue-3",
                 "label": "火3",
-                "count": 6
+                "count": 5
             },
             {
                 "key": "tue-4",
@@ -130,7 +130,7 @@
             {
                 "key": "wed-3",
                 "label": "水3",
-                "count": 9
+                "count": 6
             },
             {
                 "key": "wed-4",
@@ -140,7 +140,7 @@
             {
                 "key": "wed-5",
                 "label": "水5",
-                "count": 10
+                "count": 2
             },
             {
                 "key": "thu-1",
@@ -150,7 +150,7 @@
             {
                 "key": "thu-2",
                 "label": "木2",
-                "count": 5
+                "count": 4
             },
             {
                 "key": "thu-3",
@@ -180,7 +180,7 @@
             {
                 "key": "fri-3",
                 "label": "金3",
-                "count": 12
+                "count": 11
             },
             {
                 "key": "fri-4",
@@ -195,15 +195,10 @@
             {
                 "key": "other",
                 "label": "他",
-                "count": 60
+                "count": 56
             }
         ],
         "regularOrIntensive": [
-            {
-                "key": "4b43e459b3d6",
-                "label": "実学基礎科目",
-                "count": 4
-            },
             {
                 "key": "b9662cf29d68",
                 "label": "実学基礎科目情報・数理",
@@ -213,11 +208,6 @@
                 "key": "c4d6d67e1655",
                 "label": "実学基礎科目社会人基礎",
                 "count": 36
-            },
-            {
-                "key": "2a9e64dc442e",
-                "label": "専門基礎教育科目",
-                "count": 7
             },
             {
                 "key": "af2fcf0012e5",
@@ -238,11 +228,6 @@
                 "key": "a06c9baaed5f",
                 "label": "専門基礎教育科目講義付き実験",
                 "count": 16
-            },
-            {
-                "key": "08d22cf12876",
-                "label": "専門教育科目",
-                "count": 11
             },
             {
                 "key": "8519938227f1",
@@ -277,11 +262,6 @@
             {
                 "key": "a4fe07bf2009",
                 "label": "専門教育科目食品・化粧品専門科目",
-                "count": 1
-            },
-            {
-                "key": "40b5f6ac517e",
-                "label": "教養教育科目",
                 "count": 1
             },
             {
@@ -327,19 +307,9 @@
                 "count": 4
             },
             {
-                "key": "9fa24ba885e0",
-                "label": "加柴美里(教養学環)",
-                "count": 1
-            },
-            {
                 "key": "5e1bf8b47bae",
                 "label": "加藤輝",
                 "count": 10
-            },
-            {
-                "key": "7c4b67228f8c",
-                "label": "各教員(所属なし)",
-                "count": 2
             },
             {
                 "key": "013b2c9bb243",
@@ -347,19 +317,9 @@
                 "count": 10
             },
             {
-                "key": "7d706525d303",
-                "label": "吉田亘(応用生物学部応用生物学科)",
-                "count": 4
-            },
-            {
                 "key": "bb1173d7858a",
                 "label": "吉田雅紀",
                 "count": 10
-            },
-            {
-                "key": "f129034b99f9",
-                "label": "吉田雅紀(応用生物学部応用生物学科)",
-                "count": 1
             },
             {
                 "key": "7144867b8b98",
@@ -407,19 +367,9 @@
                 "count": 9
             },
             {
-                "key": "367c9bc42d5a",
-                "label": "岡田麻衣子(応用生物学部応用生物学科)",
-                "count": 1
-            },
-            {
                 "key": "4896a89e4b9b",
                 "label": "岩渕徳郎",
                 "count": 5
-            },
-            {
-                "key": "6ab2fb00f34c",
-                "label": "岩渕徳郎(応用生物学部応用生物学科)",
-                "count": 1
             },
             {
                 "key": "57fcdfe5a7fc",
@@ -432,11 +382,6 @@
                 "count": 8
             },
             {
-                "key": "d5c24413aed8",
-                "label": "未定(所属なし)",
-                "count": 1
-            },
-            {
                 "key": "f89ea5352320",
                 "label": "杉山友康",
                 "count": 10
@@ -445,11 +390,6 @@
                 "key": "f78a28a56482",
                 "label": "村上優子",
                 "count": 16
-            },
-            {
-                "key": "e690096cb842",
-                "label": "村上優子(応用生物学部応用生物学科)",
-                "count": 2
             },
             {
                 "key": "c8abd75ddc49",
@@ -462,11 +402,6 @@
                 "count": 10
             },
             {
-                "key": "575200a6dd71",
-                "label": "松井徹(応用生物学部応用生物学科)",
-                "count": 1
-            },
-            {
                 "key": "fb6521ea91fb",
                 "label": "松井毅",
                 "count": 11
@@ -477,34 +412,14 @@
                 "count": 1
             },
             {
-                "key": "cf879700de20",
-                "label": "松永栄一(兼任講師)",
-                "count": 1
-            },
-            {
                 "key": "7d13f8a2e8a8",
                 "label": "柴田雅史",
                 "count": 11
             },
             {
-                "key": "2db371853bdf",
-                "label": "柴田雅史(応用生物学部応用生物学科)",
-                "count": 1
-            },
-            {
-                "key": "0cd6fbb1dec0",
-                "label": "梶原一人(兼任講師)",
-                "count": 1
-            },
-            {
                 "key": "cc8b6626c66b",
                 "label": "横山憲二",
                 "count": 11
-            },
-            {
-                "key": "56fc357aa011",
-                "label": "横山憲二(応用生物学部応用生物学科)",
-                "count": 1
             },
             {
                 "key": "f159e1589b50",
@@ -537,29 +452,14 @@
                 "count": 17
             },
             {
-                "key": "2c01d0fb8dfc",
-                "label": "秋元卓央(応用生物学部応用生物学科)",
-                "count": 1
-            },
-            {
                 "key": "eef0a191a10e",
                 "label": "藤沢章雄",
                 "count": 15
             },
             {
-                "key": "b76e707bcb3c",
-                "label": "藤沢章雄(応用生物学部応用生物学科)",
-                "count": 1
-            },
-            {
                 "key": "6172c364a27a",
                 "label": "西良太郎",
                 "count": 17
-            },
-            {
-                "key": "38e8aed97b28",
-                "label": "西良太郎(応用生物学部応用生物学科)",
-                "count": 1
             },
             {
                 "key": "bfbff6d7d45c",
@@ -582,37 +482,12 @@
                 "count": 8
             },
             {
-                "key": "b2d16c34d2f3",
-                "label": "関洋子(応用生物学部応用生物学科)",
-                "count": 2
-            },
-            {
                 "key": "9d4da717ab9f",
                 "label": "飯田沙也加",
                 "count": 8
             }
         ],
         "courseStart": [
-            {
-                "key": "2024-first",
-                "label": "2024年度前期",
-                "count": 3
-            },
-            {
-                "key": "2024-second",
-                "label": "2024年度後期",
-                "count": 8
-            },
-            {
-                "key": "2025-first",
-                "label": "2025年度前期",
-                "count": 3
-            },
-            {
-                "key": "2025-second",
-                "label": "2025年度後期",
-                "count": 9
-            },
             {
                 "key": "2026-first",
                 "label": "2026年度前期",
@@ -628,22 +503,22 @@
             {
                 "key": "1",
                 "label": "1年",
-                "count": 93
+                "count": 85
             },
             {
                 "key": "2",
                 "label": "2年",
-                "count": 123
+                "count": 115
             },
             {
                 "key": "3",
                 "label": "3年",
-                "count": 190
+                "count": 173
             },
             {
                 "key": "4",
                 "label": "4年",
-                "count": 242
+                "count": 222
             }
         ],
         "courseType": [
@@ -655,7 +530,7 @@
             {
                 "key": "4ab0c6a3f107",
                 "label": "実習科目",
-                "count": 2
+                "count": 1
             },
             {
                 "key": "7714d9c10dfc",
@@ -665,12 +540,12 @@
             {
                 "key": "c592a381d4ee",
                 "label": "実験科目",
-                "count": 65
+                "count": 62
             },
             {
                 "key": "3beabbaa9998",
                 "label": "演習科目",
-                "count": 62
+                "count": 50
             },
             {
                 "key": "cf890b164e23",
@@ -685,7 +560,7 @@
             {
                 "key": "dd5e37aedc2b",
                 "label": "講義科目",
-                "count": 73
+                "count": 66
             }
         ]
     },
@@ -728,49 +603,6 @@
             "courseStartKey": "2026-second",
             "targetGradeKeys": [
                 "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "4ab0c6a3f107"
-        },
-        {
-            "lectureCode": "11058B1",
-            "courseName": "インターンシップI[BS]",
-            "lecturer": [
-                "松井徹(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "教養教育科目",
-            "courseType": "実習科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/11058B1.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "40b5f6ac517e",
-            "lecturerKeys": [
-                "575200a6dd71"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
                 "3",
                 "4"
             ],
@@ -1482,50 +1314,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "11051B19",
-            "courseName": "フレッシャーズゼミII[18]BS",
-            "lecturer": [
-                "吉田亘(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "水"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "講義実験棟１０３",
-                "講義実験棟１０４"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/11051B19.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "7d706525d303"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "11051B01",
             "courseName": "フレッシャーズゼミII[1]BS",
             "lecturer": [
@@ -1566,49 +1354,6 @@
                 "ba4f68eed227"
             ],
             "courseStartKey": "2026-second",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "11051B20",
-            "courseName": "フレッシャーズゼミII[20]BS",
-            "lecturer": [
-                "吉田亘(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "水"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ４０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/11051B20.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "7d706525d303"
-            ],
-            "courseStartKey": "2024-second",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -2435,49 +2180,6 @@
             "courseTypeKey": "3beabbaa9998"
         },
         {
-            "lectureCode": "11050B19",
-            "courseName": "フレッシャーズゼミI[18]BS",
-            "lecturer": [
-                "吉田亘(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "水"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "講義実験棟３０８"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/11050B19.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "7d706525d303"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
             "lectureCode": "11050B01",
             "courseName": "フレッシャーズゼミI[1]BS",
             "lecturer": [
@@ -2517,49 +2219,6 @@
                 "ba4f68eed227"
             ],
             "courseStartKey": "2026-first",
-            "targetGradeKeys": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "11050B20",
-            "courseName": "フレッシャーズゼミI[20]BS",
-            "lecturer": [
-                "吉田亘(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "実学基礎科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "片柳研究所Ｅ４０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/11050B20.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [],
-            "classPeriodKeys": [],
-            "regularOrIntensiveKey": "4b43e459b3d6",
-            "lecturerKeys": [
-                "7d706525d303"
-            ],
-            "courseStartKey": "2024-first",
             "targetGradeKeys": [
                 "1",
                 "2",
@@ -3472,350 +3131,6 @@
                 "4"
             ],
             "courseTypeKey": "c592a381d4ee"
-        },
-        {
-            "lectureCode": "ES00201",
-            "courseName": "創成課題II[BS]",
-            "lecturer": [
-                "各教員(所属なし)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "水5"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "メディアホール"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/ES00201.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "wed-5"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "7c4b67228f8c"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "ES00227",
-            "courseName": "創成課題II[BS]",
-            "lecturer": [
-                "岩渕徳郎(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "水5"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "メディアホール"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/ES00227.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "wed-5"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "6ab2fb00f34c"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "ES00228",
-            "courseName": "創成課題II[BS]",
-            "lecturer": [
-                "岡田麻衣子(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "水5"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "メディアホール"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/ES00228.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "wed-5"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "367c9bc42d5a"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "ES00232",
-            "courseName": "創成課題II[BS]",
-            "lecturer": [
-                "加柴美里(教養学環)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "水5"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "メディアホール"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/ES00232.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "wed-5"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "9fa24ba885e0"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "ES00233",
-            "courseName": "創成課題II[BS]",
-            "lecturer": [
-                "横山憲二(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "水5"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "メディアホール"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/ES00233.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "wed-5"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "56fc357aa011"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "ES00243",
-            "courseName": "創成課題II[BS]",
-            "lecturer": [
-                "村上優子(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "水5"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "メディアホール"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/ES00243.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "wed-5"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "e690096cb842"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "ES00246",
-            "courseName": "創成課題II[BS]",
-            "lecturer": [
-                "西良太郎(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "水5"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "メディアホール"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/ES00246.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "wed-5"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "38e8aed97b28"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "ES00247",
-            "courseName": "創成課題II[BS]",
-            "lecturer": [
-                "吉田雅紀(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "演習科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "水5"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 1,
-            "classroom": [
-                "メディアホール"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/ES00247.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "5"
-            ],
-            "classPeriodKeys": [
-                "wed-5"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "f129034b99f9"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "3beabbaa9998"
         },
         {
             "lectureCode": "ES00101",
@@ -5778,47 +5093,6 @@
             "courseTypeKey": "c592a381d4ee"
         },
         {
-            "lectureCode": "ES00308",
-            "courseName": "卒業課題I",
-            "lecturer": [
-                "関洋子(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度前期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/ES00308.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "b2d16c34d2f3"
-            ],
-            "courseStartKey": "2025-first",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
             "lectureCode": "ES00309",
             "courseName": "卒業課題I",
             "lecturer": [
@@ -6794,47 +6068,6 @@
             "courseTypeKey": "c592a381d4ee"
         },
         {
-            "lectureCode": "ES00408",
-            "courseName": "卒業課題II",
-            "lecturer": [
-                "関洋子(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/ES00408.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "b2d16c34d2f3"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
             "lectureCode": "ES00409",
             "courseName": "卒業課題II",
             "lecturer": [
@@ -7615,47 +6848,6 @@
             "courseTypeKey": "c592a381d4ee"
         },
         {
-            "lectureCode": "ES00350",
-            "courseName": "卒業課題I[後期]",
-            "lecturer": [
-                "各教員(所属なし)"
-            ],
-            "regularOrIntensive": "専門教育科目",
-            "courseType": "実験科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "他"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "4年"
-            ],
-            "numberOfCredits": 4,
-            "classroom": [
-                ""
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/ES00350.json",
-            "weekdayKeys": [
-                "other"
-            ],
-            "periodKeys": [
-                "other"
-            ],
-            "classPeriodKeys": [
-                "other"
-            ],
-            "regularOrIntensiveKey": "08d22cf12876",
-            "lecturerKeys": [
-                "7c4b67228f8c"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "4"
-            ],
-            "courseTypeKey": "c592a381d4ee"
-        },
-        {
             "lectureCode": "B31101",
             "courseName": "地球環境実験I",
             "lecturer": [
@@ -7954,96 +7146,6 @@
                 "4"
             ],
             "courseTypeKey": "3beabbaa9998"
-        },
-        {
-            "lectureCode": "B20102",
-            "courseName": "微分積分II[2]BS",
-            "lecturer": [
-                "松永栄一(兼任講師)"
-            ],
-            "regularOrIntensive": "専門基礎教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水3"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義棟Ａ３０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/B20102.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "wed-3"
-            ],
-            "regularOrIntensiveKey": "2a9e64dc442e",
-            "lecturerKeys": [
-                "cf879700de20"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "B20103",
-            "courseName": "微分積分II[3]BS",
-            "lecturer": [
-                "秋元卓央(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門基礎教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度前期",
-            "classPeriod": [
-                "水3"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "講義棟Ａ３０４"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/B20103.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "wed-3"
-            ],
-            "regularOrIntensiveKey": "2a9e64dc442e",
-            "lecturerKeys": [
-                "2c01d0fb8dfc"
-            ],
-            "courseStartKey": "2024-first",
-            "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
         },
         {
             "lectureCode": "B20101",
@@ -8894,47 +7996,6 @@
             "courseTypeKey": "dd5e37aedc2b"
         },
         {
-            "lectureCode": "B21204",
-            "courseName": "有機化学I[2]BS（2024年度入学者用）",
-            "lecturer": [
-                "藤沢章雄(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門基礎教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "木2"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "1年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "片柳研究所Ｅ４０３"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/B21204.json",
-            "weekdayKeys": [
-                "thu"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "thu-2"
-            ],
-            "regularOrIntensiveKey": "2a9e64dc442e",
-            "lecturerKeys": [
-                "b76e707bcb3c"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
             "lectureCode": "B21203",
             "courseName": "有機化学I[再]BS",
             "lecturer": [
@@ -9280,92 +8341,6 @@
             "courseStartKey": "2026-second",
             "targetGradeKeys": [
                 "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "B21002",
-            "courseName": "無機化学（2024年度入学者用）",
-            "lecturer": [
-                "柴田雅史(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門基礎教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "火3"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "1年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "片柳研究所Ｅ４０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/B21002.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "tue-3"
-            ],
-            "regularOrIntensiveKey": "2a9e64dc442e",
-            "lecturerKeys": [
-                "2db371853bdf"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "B22501",
-            "courseName": "熱力学",
-            "lecturer": [
-                "梶原一人(兼任講師)"
-            ],
-            "regularOrIntensive": "専門基礎教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "火2"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "片柳研究所Ｅ１０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/B22501.json",
-            "weekdayKeys": [
-                "tue"
-            ],
-            "periodKeys": [
-                "2"
-            ],
-            "classPeriodKeys": [
-                "tue-2"
-            ],
-            "regularOrIntensiveKey": "2a9e64dc442e",
-            "lecturerKeys": [
-                "0cd6fbb1dec0"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
                 "2",
                 "3",
                 "4"
@@ -9817,53 +8792,6 @@
             ],
             "courseStartKey": "2026-first",
             "targetGradeKeys": [
-                "2",
-                "3",
-                "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "B10503",
-            "courseName": "生命科学II[3]",
-            "lecturer": [
-                "未定(所属なし)"
-            ],
-            "regularOrIntensive": "専門基礎教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2025年度後期",
-            "classPeriod": [
-                "水3"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "1年",
-                "2年",
-                "3年",
-                "4年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "片柳研究所Ｅ４０２"
-            ],
-            "updateAt": "2025\/03\/21",
-            "path": "\/api\/v1\/all\/B10503.json",
-            "weekdayKeys": [
-                "wed"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "wed-3"
-            ],
-            "regularOrIntensiveKey": "2a9e64dc442e",
-            "lecturerKeys": [
-                "d5c24413aed8"
-            ],
-            "courseStartKey": "2025-second",
-            "targetGradeKeys": [
-                "1",
                 "2",
                 "3",
                 "4"
@@ -11278,47 +10206,6 @@
                 "2",
                 "3",
                 "4"
-            ],
-            "courseTypeKey": "dd5e37aedc2b"
-        },
-        {
-            "lectureCode": "B22302",
-            "courseName": "生理学（2024年度入学者用）",
-            "lecturer": [
-                "村上優子(応用生物学部応用生物学科)"
-            ],
-            "regularOrIntensive": "専門基礎教育科目",
-            "courseType": "講義科目",
-            "courseStart": "2024年度後期",
-            "classPeriod": [
-                "金3"
-            ],
-            "targetDepartment": "応用生物学部応用生物学科",
-            "targetGrade": [
-                "1年"
-            ],
-            "numberOfCredits": 2,
-            "classroom": [
-                "片柳研究所Ｅ４０２"
-            ],
-            "updateAt": "2024\/09\/13",
-            "path": "\/api\/v1\/all\/B22302.json",
-            "weekdayKeys": [
-                "fri"
-            ],
-            "periodKeys": [
-                "3"
-            ],
-            "classPeriodKeys": [
-                "fri-3"
-            ],
-            "regularOrIntensiveKey": "2a9e64dc442e",
-            "lecturerKeys": [
-                "e690096cb842"
-            ],
-            "courseStartKey": "2024-second",
-            "targetGradeKeys": [
-                "1"
             ],
             "courseTypeKey": "dd5e37aedc2b"
         },
