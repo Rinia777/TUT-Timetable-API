@@ -1,7 +1,7 @@
 # ====================================================
 # 開発環境用のスクリプト
 # ====================================================
-from functions import get_lecture_code, get_timetable
+from src import get_lecture_code, get_timetable
 import os
 import tqdm
 import json

@@ -7,7 +7,7 @@ import shutil
 from selenium import webdriver
 import tqdm
 
-from functions import get_lecture_code, get_timetable
+from src import get_lecture_code, get_timetable
 
 try:
     from get_chrome_driver import GetChromeDriver
