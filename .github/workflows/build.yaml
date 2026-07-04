@@ -130,7 +130,7 @@ jobs:
       - name: Pull latest changes
         run: git pull
 
-      - name: Build API indexes
+      - name: Build search indexes
         run: python generate.py --type=indexes
 
       - name: Check diff
@@ -148,5 +148,5 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .
-          git commit --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" -m "Automatically committed - API indexes"
+          git commit --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" -m "Automatically committed - search indexes"
           git push

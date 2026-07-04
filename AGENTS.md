@@ -12,10 +12,8 @@
 - `output/lecture_codes_by_year.json`: 年度別の時間割コード一覧です。通常実行では現在年度を更新し、過去年度は `--year` 指定で手動更新します。
 - `docs/api/v1/{department}/*.json`: 学部指定 API 用の生成済み講義 JSON です。
 - `docs/api/v1/all/*.json`: 全体検索 API 用の生成済み講義 JSON です。
-- `docs/api/v1/index.json`, `docs/api/v1/index/...`: 現在データの曜日・時限・授業科目区分・教員名・開講時期・対象学年・科目区分別インデックスです。講義 JSON から再生成できる派生データです。
-- `docs/api/v1/search-index/{department}.json`: 現在データの学部別サーチインデックスです。講義名、教員名、授業科目区分、単位数、詳細 JSON への `path` を含みます。
+- `docs/api/v1/search-index/{department}.json`: 現在データの学部別サーチインデックスです。講義名、教員名、曜日・時限、絞り込み用キー、詳細 JSON への `path` を含みます。
 - `docs/api/v1/archive/{year}/{department}/*.json`: 年度指定 API 用の生成済み講義 JSON です。過去データは削除しません。
-- `docs/api/v1/archive/{year}/index.json`, `docs/api/v1/archive/{year}/index/...`: 年度別アーカイブの絞り込み用インデックスです。講義 JSON から再生成できる派生データです。
 - `docs/api/v1/archive/{year}/search-index/{department}.json`: 年度別アーカイブの学部別サーチインデックスです。
 - `.github/workflows/build.yaml`: 3 か月ごとの定期更新と手動実行のワークフローです。
 
@@ -54,7 +52,7 @@ python generate.py --type=lecture_codes --year=2025
 python generate.py --type=lecture_data --department=CS --year=2025
 ```
 
-曜日・時限・`regularOrIntensive`・教員名・開講時期・対象学年・科目区分の絞り込み用インデックスと、学部別サーチインデックスを再生成します。
+学部別サーチインデックスを再生成します。曜日・時限・`regularOrIntensive`・教員名・開講時期・対象学年・科目区分の絞り込み用キーは、サーチインデックスに含まれます。
 
 ```sh
 python generate.py --type=indexes
@@ -78,7 +76,7 @@ python main.py
 - API レスポンスのキーは利用者向けの契約です。特に `courceDetails` はスペルミスに見えますが、既存 API のキーなので、互換性の意図なしに `courseDetails` へ変更しないでください。
 - 現在年度のデータは `docs/api/v1/{department}` と `docs/api/v1/all` にも書き込みます。年度別データは常に `docs/api/v1/archive/{year}` に書き込みます。
 - 過去データは削除しない方針です。生成ロジックを変える場合も、明示的な依頼なしに `docs/api/v1/archive` 配下の古い年度を消さないでください。
-- `index` と `search-index` 配下のファイルは講義 JSON から作り直せる派生データです。索引生成では古い `index` / `search-index` ディレクトリだけを削除して再生成しますが、講義 JSON 本体は削除しません。
+- `search-index` 配下のファイルは講義 JSON から作り直せる派生データです。索引生成では古い `search-index` ディレクトリだけを削除して再生成しますが、講義 JSON 本体は削除しません。
 - `output/lecture_codes_by_year.json` は講義データ生成の主な入力です。講義コード取得ロジックを変更したときは、このファイルと従来互換用の `output/lecture_codes.json` の差分を確認してください。
 - `src/get_timetable.py` は年度指定がない場合、現在年を基準にシラバス URL を作り、1 月から 3 月は前年度を取得します。年度境界の変更ではこの挙動に注意してください。
 - 現行の検索画面は iframe ではなく、年度は `input#nendo`、所属は `select#jikanwariShozokuCd`、詳細リンクは `viewSyllabus('/syllabus/{year}/{department}/{department}_{lectureCode}_ja_JP.html')` 形式です。旧 URL 形式への後方互換は `get_timetable.py` に残しています。
@@ -102,7 +100,7 @@ python generate.py --type=lecture_data --department=GF
 
 1. `fetch_lecture_codes` job が `python generate.py --type=lecture_codes` を実行し、現在年度分の講義コードを取得します。
 2. `fetch_lecture_data` job が学部 matrix ごとに `python generate.py --type=lecture_data --department=...` を実行し、現在年度分の講義データを取得します。
-3. `build_indexes` job が `python generate.py --type=indexes` を実行し、現在データと年度別アーカイブの絞り込み用インデックスと学部別サーチインデックスを生成します。絞り込み対象は曜日、時限、曜日時限、`regularOrIntensive`、教員名、開講時期、対象学年、科目区分です。
+3. `build_indexes` job が `python generate.py --type=indexes` を実行し、現在データと年度別アーカイブの学部別サーチインデックスを生成します。絞り込み対象の曜日、時限、曜日時限、`regularOrIntensive`、教員名、開講時期、対象学年、科目区分はサーチインデックス内のキーとして出力します。
 4. 差分があれば job ごとにコミットします。
 
 workflow や学部リストを変える場合は、README の API 仕様に書かれた学部一覧も合わせて更新してください。

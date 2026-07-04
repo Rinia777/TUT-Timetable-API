@@ -16,6 +16,9 @@ https://tut-timetable-api.pages.dev/api/v1/all/{時間割コード}.json
 ```
 
 #### 学部指定検索(GET)
+> [!WARNING]
+> 学部指定の詳細JSONは廃止予定です。新規実装では `search-index` から `lectureCode` を取得し、`/api/v1/all/{時間割コード}.json` を参照してください。
+
 `{時間割コード}`は、一意に講義を特定できる英数字のコードです。(例: `11040C1`)  
 `{学部名}`は、学内で広く認知されている略称を使用し指定します。  
 
@@ -34,76 +37,9 @@ https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/all/{時間割コー
 https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/{学部名}/{時間割コード}.json
 ```
 
-#### 絞り込み検索(GET)
-曜日・時限・授業科目区分・教員名・開講時期・対象学年・科目区分ごとの講義一覧を取得できます。  
-一覧レスポンスは講義詳細そのものではなく、講義概要と詳細JSONへの `path` を返します。
-
-まず、利用可能なキーと件数を `index.json` で確認できます。
-
-```
-https://tut-timetable-api.pages.dev/api/v1/index.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/index.json
-```
-
-曜日は `{曜日キー}` に `mon`, `tue`, `wed`, `thu`, `fri`, `sat`, `sun`, `other` を指定します。
-
-```
-https://tut-timetable-api.pages.dev/api/v1/index/weekday/{曜日キー}.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/index/weekday/{曜日キー}.json
-```
-
-時限は `{時限}` に `1`, `2`, `3`, ... または `other` を指定します。
-
-```
-https://tut-timetable-api.pages.dev/api/v1/index/period/{時限}.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/index/period/{時限}.json
-```
-
-曜日と時限の組み合わせは `{曜日時限キー}` に `mon-1`, `wed-2`, `fri-5`, `other` などを指定します。
-
-```
-https://tut-timetable-api.pages.dev/api/v1/index/class-period/{曜日時限キー}.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/index/class-period/{曜日時限キー}.json
-```
-
-`regularOrIntensive` は日本語文字列が長いため、`index.json` の `regularOrIntensive[].key` を指定します。
-
-```
-https://tut-timetable-api.pages.dev/api/v1/index/regularOrIntensive/{regularOrIntensiveキー}.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/index/regularOrIntensive/{regularOrIntensiveキー}.json
-```
-
-教員名は `index.json` の `lecturer[].key` を指定します。
-
-```
-https://tut-timetable-api.pages.dev/api/v1/index/lecturer/{教員キー}.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/index/lecturer/{教員キー}.json
-```
-
-開講時期は `index.json` の `courseStart[].key` を指定します。通常は `2026-first` が `2026年度前期`、`2026-second` が `2026年度後期` です。
-
-```
-https://tut-timetable-api.pages.dev/api/v1/index/course-start/{開講時期キー}.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/index/course-start/{開講時期キー}.json
-```
-
-対象学年は `index.json` の `targetGrade[].key` を指定します。通常は `1`, `2`, `3`, `4` です。
-
-```
-https://tut-timetable-api.pages.dev/api/v1/index/target-grade/{対象学年キー}.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/index/target-grade/{対象学年キー}.json
-```
-
-科目区分は `index.json` の `courseType[].key` を指定します。
-
-```
-https://tut-timetable-api.pages.dev/api/v1/index/course-type/{科目区分キー}.json
-https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/index/course-type/{科目区分キー}.json
-```
-
 #### 学部別サーチインデックス(GET)
 クライアント側で講義検索を行うための軽量な学部別一覧です。  
-講義名、教員名、授業科目区分、単位数、詳細JSONへの `path` を返します。
+講義名、教員名、曜日・時限、対象学年、教室、絞り込み用キー、詳細JSONへの `path` を返します。曜日・時限・授業科目区分・教員名・開講時期・対象学年・科目区分の絞り込みは、このレスポンス内の `filters` と各講義の `*Key` / `*Keys` を使用してください。
 
 ```
 https://tut-timetable-api.pages.dev/api/v1/search-index/{学部名}.json
@@ -156,14 +92,20 @@ https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/search-index/{学部
 > 404 Not Foundが返却された場合は、時間割コードが存在しないか、指定された学部名が存在しない可能性があります。
 > また、その他のエラーはCloudFlare Pagesのエラーページが返却されます。
 
-#### 絞り込み検索成功時
+#### 学部別サーチインデックス成功時
 ```
 {
-    "filters": {
-        "weekday": "水",
-        "weekdayKey": "wed"
-    },
+    "department": "<学部名>",
     "count": 1,
+    "filters": {
+        "weekday": [
+            {
+                "key": "mon",
+                "label": "月",
+                "count": 1
+            }
+        ]
+    },
     "lectures": [
         {
             "lectureCode": "<時間割コード>",
@@ -186,26 +128,25 @@ https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/search-index/{学部
                 "<教室>"
             ],
             "updateAt": "<レコード更新日>",
-            "path": "<詳細JSONのパス>"
-        }
-    ]
-}
-```
-
-#### 学部別サーチインデックス成功時
-```
-{
-    "department": "<学部名>",
-    "count": 1,
-    "lectures": [
-        {
-            "courseName": "<講義名>",
-            "lecturer": [
-                "<担当教員>"
+            "path": "<詳細JSONのパス>",
+            "weekdayKeys": [
+                "<曜日キー>"
             ],
-            "regularOrIntensive": "<科目種別>",
-            "numberOfCredits": <単位数>,
-            "path": "<詳細JSONのパス>"
+            "periodKeys": [
+                "<時限キー>"
+            ],
+            "classPeriodKeys": [
+                "<曜日時限キー>"
+            ],
+            "regularOrIntensiveKey": "<授業科目区分キー>",
+            "lecturerKeys": [
+                "<教員キー>"
+            ],
+            "courseStartKey": "<開講時期キー>",
+            "targetGradeKeys": [
+                "<対象学年キー>"
+            ],
+            "courseTypeKey": "<科目区分キー>"
         }
     ]
 }
@@ -226,7 +167,7 @@ Build output directory: docs
 
 定期実行では現在年度分のみ更新します。過去年度を再取得する場合は `--year` で年度を明示して手動実行します。年度別アーカイブに保存された過去データは削除せず、`docs/api/v1/archive/{年度}/...` に残します。
 
-講義データ更新後に、曜日・時限・`regularOrIntensive`・教員名・開講時期・対象学年・科目区分の絞り込み用インデックスを `docs/api/v1/index...` と `docs/api/v1/archive/{年度}/index...` に生成します。また、学部別サーチインデックスを `docs/api/v1/search-index/{学部名}.json` と `docs/api/v1/archive/{年度}/search-index/{学部名}.json` に生成します。
+講義データ更新後に、学部別サーチインデックスを `docs/api/v1/search-index/{学部名}.json` と `docs/api/v1/archive/{年度}/search-index/{学部名}.json` に生成します。曜日・時限・`regularOrIntensive`・教員名・開講時期・対象学年・科目区分の絞り込み用キーはサーチインデックスに含まれます。
 
 ## 貢献
 バグの報告や機能の提案、コードの改善など、どんな形でも貢献を歓迎します。

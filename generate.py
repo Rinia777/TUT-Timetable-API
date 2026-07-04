@@ -20,7 +20,6 @@ API_ROOT = "docs/api/v1"
 ARCHIVE_ROOT = f"{API_ROOT}/archive"
 LECTURE_CODES_FILE = "output/lecture_codes.json"
 LECTURE_CODES_BY_YEAR_FILE = "output/lecture_codes_by_year.json"
-INDEX_DIRECTORY = "index"
 SEARCH_INDEX_DIRECTORY = "search-index"
 
 WEEKDAY_KEYS = {
@@ -43,21 +42,6 @@ WEEKDAY_LABELS = {
     "sun": "日",
     "other": "他",
 }
-SUMMARY_FIELDS = [
-    "lectureCode",
-    "courseName",
-    "lecturer",
-    "regularOrIntensive",
-    "courseType",
-    "courseStart",
-    "classPeriod",
-    "targetDepartment",
-    "targetGrade",
-    "numberOfCredits",
-    "classroom",
-    "updateAt",
-]
-
 def _driver_init():
     if GetChromeDriver is not None:
         get_driver = GetChromeDriver()
@@ -201,18 +185,6 @@ def _get_target_grade_id(value: str) -> str:
 
     return match.group(1)
 
-def _get_lecture_summary(lecture_data: dict, api_prefix: str) -> dict:
-    summary = {
-        field: lecture_data.get(field)
-        for field in SUMMARY_FIELDS
-        if field in lecture_data
-    }
-    lecture_code = lecture_data.get("lectureCode")
-    if lecture_code:
-        summary["path"] = f"{api_prefix}/all/{lecture_code}.json"
-
-    return summary
-
 def _get_filter_keys(lecture_data: dict) -> dict:
     weekdays, periods, class_periods = _get_schedule_keys(_as_list(lecture_data.get("classPeriod")))
     regular_or_intensive = lecture_data.get("regularOrIntensive") or ""
@@ -236,7 +208,7 @@ def _get_filter_keys(lecture_data: dict) -> dict:
         "courseTypeKey": _get_hashed_id(course_type),
     }
 
-def _get_search_index_entry(lecture_data: dict, api_prefix: str, department: str, lecture_code: str) -> dict:
+def _get_search_index_entry(lecture_data: dict, api_prefix: str, lecture_code: str) -> dict:
     entry = {
         "lectureCode": lecture_data.get("lectureCode") or lecture_code,
         "courseName": lecture_data.get("courseName"),
@@ -346,243 +318,6 @@ def _build_search_filter_metadata(lectures: list[dict]) -> dict:
 
     return metadata
 
-def _sort_lecture_summaries(lectures: dict) -> list[dict]:
-    return sorted(
-        lectures.values(),
-        key=lambda lecture: (
-            str(lecture.get("courseStart") or ""),
-            str(lecture.get("classPeriod") or ""),
-            str(lecture.get("lectureCode") or ""),
-        )
-    )
-
-def _build_filter_response(filters: dict, lectures: dict) -> dict:
-    sorted_lectures = _sort_lecture_summaries(lectures)
-    return {
-        "filters": filters,
-        "count": len(sorted_lectures),
-        "lectures": sorted_lectures,
-    }
-
-def _add_to_index(indexes: dict, index_key: str, lecture_summary: dict) -> None:
-    lecture_code = lecture_summary.get("lectureCode")
-    if not lecture_code:
-        return
-
-    indexes.setdefault(index_key, {})[lecture_code] = lecture_summary
-
-def _write_named_indexes(
-    index_root: str,
-    api_prefix: str,
-    directory_name: str,
-    index_data: dict,
-    filter_name: str,
-    label_getter,
-    sort_key_getter=None,
-) -> list[dict]:
-    items = []
-
-    if sort_key_getter is None:
-        sort_key_getter = lambda key: key
-
-    for key in sorted(index_data, key=sort_key_getter):
-        label = label_getter(key)
-        path = f"{api_prefix}/{INDEX_DIRECTORY}/{directory_name}/{key}.json"
-        lectures = index_data[key]
-        _dump_json(
-            f"{index_root}/{directory_name}/{key}.json",
-            _build_filter_response({filter_name: label, f"{filter_name}Key": key}, lectures)
-        )
-        items.append({
-            "key": key,
-            "label": label,
-            "count": len(lectures),
-            "path": path,
-        })
-
-    return items
-
-def _build_indexes_for_base(base_path: str, api_prefix: str) -> bool:
-    all_directory = f"{base_path}/all"
-    if not os.path.isdir(all_directory):
-        print(f"Skip indexes: {all_directory} is not found.")
-        return False
-
-    index_root = f"{base_path}/{INDEX_DIRECTORY}"
-    if os.path.isdir(index_root):
-        shutil.rmtree(index_root)
-
-    weekday_indexes = {}
-    period_indexes = {}
-    class_period_indexes = {}
-    regular_or_intensive_indexes = {}
-    regular_or_intensive_labels = {}
-    lecturer_indexes = {}
-    lecturer_labels = {}
-    course_start_indexes = {}
-    course_start_labels = {}
-    target_grade_indexes = {}
-    target_grade_labels = {}
-    course_type_indexes = {}
-    course_type_labels = {}
-
-    for file_name in sorted(os.listdir(all_directory)):
-        if not file_name.endswith(".json"):
-            continue
-
-        lecture_path = f"{all_directory}/{file_name}"
-        lecture_data = _load_json(lecture_path, None)
-        if lecture_data is None:
-            continue
-
-        lecture_summary = _get_lecture_summary(lecture_data, api_prefix)
-        weekdays, periods, class_periods = _get_schedule_keys(_as_list(lecture_data.get("classPeriod")))
-
-        for weekday in weekdays:
-            _add_to_index(weekday_indexes, weekday, lecture_summary)
-
-        for period in periods:
-            _add_to_index(period_indexes, period, lecture_summary)
-
-        for class_period in class_periods:
-            _add_to_index(class_period_indexes, class_period, lecture_summary)
-
-        regular_or_intensive = lecture_data.get("regularOrIntensive") or ""
-        regular_or_intensive_id = _get_regular_or_intensive_id(regular_or_intensive)
-        regular_or_intensive_labels[regular_or_intensive_id] = regular_or_intensive
-        _add_to_index(regular_or_intensive_indexes, regular_or_intensive_id, lecture_summary)
-
-        for lecturer in _as_list(lecture_data.get("lecturer")):
-            lecturer = str(lecturer or "")
-            lecturer_id = _get_hashed_id(lecturer)
-            lecturer_labels[lecturer_id] = lecturer
-            _add_to_index(lecturer_indexes, lecturer_id, lecture_summary)
-
-        course_start = lecture_data.get("courseStart") or ""
-        course_start_id = _get_course_start_id(course_start)
-        course_start_labels[course_start_id] = course_start
-        _add_to_index(course_start_indexes, course_start_id, lecture_summary)
-
-        for target_grade in _as_list(lecture_data.get("targetGrade")):
-            target_grade = str(target_grade or "")
-            target_grade_id = _get_target_grade_id(target_grade)
-            target_grade_labels[target_grade_id] = target_grade
-            _add_to_index(target_grade_indexes, target_grade_id, lecture_summary)
-
-        course_type = lecture_data.get("courseType") or ""
-        course_type_id = _get_hashed_id(course_type)
-        course_type_labels[course_type_id] = course_type
-        _add_to_index(course_type_indexes, course_type_id, lecture_summary)
-
-    weekday_items = _write_named_indexes(
-        index_root,
-        api_prefix,
-        "weekday",
-        weekday_indexes,
-        "weekday",
-        lambda key: WEEKDAY_LABELS.get(key, key),
-    )
-    period_items = _write_named_indexes(
-        index_root,
-        api_prefix,
-        "period",
-        period_indexes,
-        "period",
-        lambda key: "他" if key == "other" else key,
-    )
-    class_period_items = _write_named_indexes(
-        index_root,
-        api_prefix,
-        "class-period",
-        class_period_indexes,
-        "classPeriod",
-        lambda key: "他" if key == "other" else f"{WEEKDAY_LABELS[key.split('-')[0]]}{key.split('-')[1]}",
-    )
-
-    regular_or_intensive_items = []
-    for key in sorted(regular_or_intensive_indexes, key=lambda item: regular_or_intensive_labels.get(item, "")):
-        regular_or_intensive = regular_or_intensive_labels[key]
-        lectures = regular_or_intensive_indexes[key]
-        path = f"{api_prefix}/{INDEX_DIRECTORY}/regularOrIntensive/{key}.json"
-        _dump_json(
-            f"{index_root}/regularOrIntensive/{key}.json",
-            _build_filter_response(
-                {
-                    "regularOrIntensive": regular_or_intensive,
-                    "regularOrIntensiveKey": key,
-                },
-                lectures,
-            )
-        )
-        regular_or_intensive_items.append({
-            "key": key,
-            "label": regular_or_intensive,
-            "count": len(lectures),
-            "path": path,
-        })
-
-    lecturer_items = _write_named_indexes(
-        index_root,
-        api_prefix,
-        "lecturer",
-        lecturer_indexes,
-        "lecturer",
-        lambda key: lecturer_labels.get(key, ""),
-        lambda key: lecturer_labels.get(key, ""),
-    )
-    course_start_items = _write_named_indexes(
-        index_root,
-        api_prefix,
-        "course-start",
-        course_start_indexes,
-        "courseStart",
-        lambda key: course_start_labels.get(key, ""),
-        lambda key: course_start_labels.get(key, ""),
-    )
-    target_grade_items = _write_named_indexes(
-        index_root,
-        api_prefix,
-        "target-grade",
-        target_grade_indexes,
-        "targetGrade",
-        lambda key: target_grade_labels.get(key, ""),
-        lambda key: int(key) if key.isdigit() else 9999,
-    )
-    course_type_items = _write_named_indexes(
-        index_root,
-        api_prefix,
-        "course-type",
-        course_type_indexes,
-        "courseType",
-        lambda key: course_type_labels.get(key, ""),
-        lambda key: course_type_labels.get(key, ""),
-    )
-
-    metadata = {
-        "endpoints": {
-            "weekday": f"{api_prefix}/{INDEX_DIRECTORY}/weekday/{{weekdayKey}}.json",
-            "period": f"{api_prefix}/{INDEX_DIRECTORY}/period/{{period}}.json",
-            "classPeriod": f"{api_prefix}/{INDEX_DIRECTORY}/class-period/{{classPeriodKey}}.json",
-            "regularOrIntensive": f"{api_prefix}/{INDEX_DIRECTORY}/regularOrIntensive/{{regularOrIntensiveKey}}.json",
-            "lecturer": f"{api_prefix}/{INDEX_DIRECTORY}/lecturer/{{lecturerKey}}.json",
-            "courseStart": f"{api_prefix}/{INDEX_DIRECTORY}/course-start/{{courseStartKey}}.json",
-            "targetGrade": f"{api_prefix}/{INDEX_DIRECTORY}/target-grade/{{targetGradeKey}}.json",
-            "courseType": f"{api_prefix}/{INDEX_DIRECTORY}/course-type/{{courseTypeKey}}.json",
-        },
-        "weekday": weekday_items,
-        "period": period_items,
-        "classPeriod": class_period_items,
-        "regularOrIntensive": regular_or_intensive_items,
-        "lecturer": lecturer_items,
-        "courseStart": course_start_items,
-        "targetGrade": target_grade_items,
-        "courseType": course_type_items,
-    }
-    _dump_json(f"{base_path}/index.json", metadata)
-
-    print(f"Built indexes: {api_prefix}")
-    return True
-
 def _build_search_indexes_for_base(base_path: str, api_prefix: str) -> bool:
     search_index_root = f"{base_path}/{SEARCH_INDEX_DIRECTORY}"
     if os.path.isdir(search_index_root):
@@ -604,7 +339,7 @@ def _build_search_indexes_for_base(base_path: str, api_prefix: str) -> bool:
             if lecture_data is None:
                 continue
 
-            lectures.append(_get_search_index_entry(lecture_data, api_prefix, department, lecture_code))
+            lectures.append(_get_search_index_entry(lecture_data, api_prefix, lecture_code))
 
         lectures.sort(key=lambda lecture: (
             str(lecture.get("courseName") or ""),
@@ -636,17 +371,12 @@ def _get_archive_years() -> list[int]:
 
 def _build_indexes(requested_year: int | None = None) -> None:
     if requested_year is None:
-        _build_indexes_for_base(API_ROOT, "/api/v1")
         _build_search_indexes_for_base(API_ROOT, "/api/v1")
         target_years = _get_archive_years()
     else:
         target_years = [requested_year]
 
     for academic_year in target_years:
-        _build_indexes_for_base(
-            f"{ARCHIVE_ROOT}/{academic_year}",
-            f"/api/v1/archive/{academic_year}",
-        )
         _build_search_indexes_for_base(
             f"{ARCHIVE_ROOT}/{academic_year}",
             f"/api/v1/archive/{academic_year}",
