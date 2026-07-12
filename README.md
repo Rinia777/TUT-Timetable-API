@@ -36,6 +36,17 @@ https://tut-timetable-api.pages.dev/api/v1/search-index/{学部名}.json
 https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/search-index/{学部名}.json
 ```
 
+#### サーチインデックス manifest (GET)
+現行年度の学部別サーチインデックスが更新されたかを、インデックス本体を取得せずに確認するための一覧です。
+
+```
+https://tut-timetable-api.pages.dev/api/v1/search-index/manifest.json
+```
+
+`schemaVersion` は manifest 形式のバージョン、`academicYear` は大学年度、`indexes` は生成できた学部別インデックスの情報です。各学部の `path` はインデックスの API パス、`count` は収録講義数、`sha256` は出力済みインデックス JSON の実バイト列から計算した SHA-256 です。クライアントは `sha256` の変化をインデックスの更新判定に利用できます。`unavailableDepartments` には、講義コード一覧を取得できずインデックスを生成できなかった学部が入ります。
+
+manifest は現行年度だけで提供します。年度別アーカイブには manifest は存在せず、過年度データは不変として扱います。
+
 ### レスポンス
 レスポンスボディにステータスコード等は含めていません。ステータスコードで200が返却された場合は成功です。  
 時間割コードに対応するページデータが1対1で返却されます。
@@ -142,6 +153,25 @@ https://tut-timetable-api.pages.dev/api/v1/archive/{年度}/search-index/{学部
 }
 ```
 
+#### サーチインデックス manifest 成功時
+```
+{
+    "schemaVersion": 1,
+    "academicYear": 2026,
+    "indexes": {
+        "CS": {
+            "path": "/api/v1/search-index/CS.json",
+            "count": 327,
+            "sha256": "<64文字の小文字16進SHA-256>"
+        }
+    },
+    "unavailableDepartments": [
+        "HSH3",
+        "HSH4"
+    ]
+}
+```
+
 ## 公開設定
 Cloudflare Pages で静的APIとして配信します。Pages プロジェクトを以下の設定で作成してください。
 
@@ -157,7 +187,7 @@ Build output directory: docs
 
 定期実行では現在年度から 2 年前までのデータのみ更新します。年度別アーカイブは現在年度から 2 年前までを保持し、3 年前以前の `docs/api/v1/archive/{年度}/...` と年度別講義コードは古い年度から削除します。保持対象内の過去年度を再取得する場合は `--year` で年度を明示して手動実行します。
 
-講義データ更新後に、学部別サーチインデックスを `docs/api/v1/search-index/{学部名}.json` と `docs/api/v1/archive/{年度}/search-index/{学部名}.json` に生成します。曜日・時限・`regularOrIntensive`・教員名・開講時期・対象学年・科目区分の絞り込み用キーはサーチインデックスに含まれます。
+講義データ更新後に、学部別サーチインデックスを `docs/api/v1/search-index/{学部名}.json` と `docs/api/v1/archive/{年度}/search-index/{学部名}.json` に生成します。曜日・時限・`regularOrIntensive`・教員名・開講時期・対象学年・科目区分の絞り込み用キーはサーチインデックスに含まれます。現行年度については、同時に `docs/api/v1/search-index/manifest.json` も再生成します。
 
 ## 貢献
 バグの報告や機能の提案、コードの改善など、どんな形でも貢献を歓迎します。

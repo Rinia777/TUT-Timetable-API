@@ -1,0 +1,95 @@
+{
+    "schemaVersion": 1,
+    "academicYear": 2026,
+    "indexes": {
+        "BT": {
+            "path": "\/api\/v1\/search-index\/BT.json",
+            "count": 223,
+            "sha256": "150775fef0b48d6cfe0f5dd06bd62e5bee3f895b3ea13668152ec2e253d181fe"
+        },
+        "CS": {
+            "path": "\/api\/v1\/search-index\/CS.json",
+            "count": 294,
+            "sha256": "cc930bb0dd7baae570536b35ef3c257329372c1bd8ef1967872a599f004373fb"
+        },
+        "MS": {
+            "path": "\/api\/v1\/search-index\/MS.json",
+            "count": 988,
+            "sha256": "836ccd6a8ffdc77d4b5e8cacbe7f34b46f189e733947cbdf314bd6d83eb484d4"
+        },
+        "ES": {
+            "path": "\/api\/v1\/search-index\/ES.json",
+            "count": 493,
+            "sha256": "004017bead550b2138a006ddbc4e3301a6193d95b0d35348ed2f796ff38d6cd8"
+        },
+        "ESE5": {
+            "path": "\/api\/v1\/search-index\/ESE5.json",
+            "count": 117,
+            "sha256": "5493bdcdf3c5c814fbaad436eddba2ecbdede6516a561c4a4f4420a6aff6a3ac"
+        },
+        "ESE6": {
+            "path": "\/api\/v1\/search-index\/ESE6.json",
+            "count": 122,
+            "sha256": "d956a0f6dba105437d40c1fe25995790ac569bd7fe6a53a9107a9296a152ac4f"
+        },
+        "ESE7": {
+            "path": "\/api\/v1\/search-index\/ESE7.json",
+            "count": 183,
+            "sha256": "b96a2c6a1740d0800f252730a781af383f56655f5eeebddd3f63c0a12d49e39c"
+        },
+        "X1": {
+            "path": "\/api\/v1\/search-index\/X1.json",
+            "count": 565,
+            "sha256": "5686ee55f9d934af619a1a4db251170171964fda6bda7fb4e217367bcf7db976"
+        },
+        "DS": {
+            "path": "\/api\/v1\/search-index\/DS.json",
+            "count": 212,
+            "sha256": "a9f69fb51e66a3b82bf071406e27abb17993934869b2761947ea71ddda624fdb"
+        },
+        "HS": {
+            "path": "\/api\/v1\/search-index\/HS.json",
+            "count": 638,
+            "sha256": "0afe42215f0dbab0a54f998f0576616cbb4cf59d6fff1a6471ff71ad1cd2d753"
+        },
+        "HSH1": {
+            "path": "\/api\/v1\/search-index\/HSH1.json",
+            "count": 140,
+            "sha256": "141a284b49d2dcd67d5ab9710026b27e134be1f6305326b3e0c38940258e6d4c"
+        },
+        "HSH2": {
+            "path": "\/api\/v1\/search-index\/HSH2.json",
+            "count": 89,
+            "sha256": "4b623df1d3957934c319a687ccbd511b4bdfbb8410b4f52fc8d57b0578b46783"
+        },
+        "HSH5": {
+            "path": "\/api\/v1\/search-index\/HSH5.json",
+            "count": 75,
+            "sha256": "0943ee313d25cd6f9d7d5603ab9c8506cbfc94c6b42754bab1631f588831412c"
+        },
+        "HSH6": {
+            "path": "\/api\/v1\/search-index\/HSH6.json",
+            "count": 212,
+            "sha256": "3f52615f50032703717a1b7379c0c6d842f127635b3bdfa0f1bf5e5303d3b40a"
+        },
+        "X3": {
+            "path": "\/api\/v1\/search-index\/X3.json",
+            "count": 913,
+            "sha256": "c4c17cf2d86e2119823e141f25f918b4008e879a5558889e73febc5577ef3915"
+        },
+        "GF": {
+            "path": "\/api\/v1\/search-index\/GF.json",
+            "count": 12,
+            "sha256": "ffab1da4b5cde375c28c7e612d6ee40e2b1a261a75d900dc1bbfdfb2b723581e"
+        },
+        "GH": {
+            "path": "\/api\/v1\/search-index\/GH.json",
+            "count": 25,
+            "sha256": "8bb0d755f09be188ce8c024017ef8f37aee2f03dfc7668bbe419d95a26c13ca5"
+        }
+    },
+    "unavailableDepartments": [
+        "HSH3",
+        "HSH4"
+    ]
+}

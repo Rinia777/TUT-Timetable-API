@@ -76,6 +76,8 @@ python main.py
 - 現在年度の詳細データは `docs/api/v1/all` に書き込みます。年度別の詳細データは `docs/api/v1/archive/{year}/all` に書き込みます。学部別詳細 JSON は廃止済みです。
 - 年度別アーカイブは現在年度から 2 年前までだけを保持します。生成ロジックでは 3 年前以前の `docs/api/v1/archive/{year}` と `output/lecture_codes_by_year.json` の該当年度を古い年度から削除します。
 - `search-index` 配下のファイルは講義 JSON から作り直せる派生データです。索引生成では古い `search-index` ディレクトリだけを削除して再生成しますが、講義 JSON 本体は削除しません。
+- `search-index/manifest.json` は現行年度だけに生成し、年度別アーカイブには追加しません。search-index を変更したときは manifest も同時に再生成してください。
+- manifest の `sha256` はメモリ上のデータではなく、出力済み search-index JSON の実バイト列から計算します。生成日時など実行のたびに変わる値は追加せず、同一入力から同一 manifest が生成されることを検証してください。
 - `output/lecture_codes_by_year.json` は講義データ生成の主な入力です。講義コード取得ロジックを変更したときは、このファイルと従来互換用の `output/lecture_codes.json` の差分を確認してください。
 - `src/get_timetable.py` は年度指定がない場合、現在年を基準にシラバス URL を作り、1 月から 3 月は前年度を取得します。年度境界の変更ではこの挙動に注意してください。
 - 現行の検索画面は iframe ではなく、年度は `input#nendo`、所属は `select#jikanwariShozokuCd`、詳細リンクは `viewSyllabus('/syllabus/{year}/{department}/{department}_{lectureCode}_ja_JP.html')` 形式です。旧 URL 形式への後方互換は `get_timetable.py` に残しています。

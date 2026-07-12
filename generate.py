@@ -88,6 +88,14 @@ def _dump_json(file_path: str, data) -> None:
     with open(file_path, 'w') as f:
         ujson.dump(data, f, ensure_ascii=False, indent=4, encode_html_chars=True)
 
+def _calculate_file_sha256(file_path: str) -> str:
+    digest = hashlib.sha256()
+    with open(file_path, 'rb') as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b''):
+            digest.update(chunk)
+
+    return digest.hexdigest()
+
 def _load_lecture_codes_by_year() -> dict:
     lecture_codes_by_year = _load_json(LECTURE_CODES_BY_YEAR_FILE, {})
 
@@ -355,20 +363,22 @@ def _build_search_filter_metadata(lectures: list[dict]) -> dict:
 
     return metadata
 
-def _build_search_indexes_for_base(base_path: str, api_prefix: str, lecture_codes: dict) -> bool:
+def _build_search_indexes_for_base(base_path: str, api_prefix: str, lecture_codes: dict) -> tuple[dict, list[str]]:
     all_directory = f"{base_path}/all"
     if not os.path.isdir(all_directory):
         print(f"Skip search indexes: {all_directory} is not found.")
-        return False
+        return {}, []
 
     search_index_root = f"{base_path}/{SEARCH_INDEX_DIRECTORY}"
     if os.path.isdir(search_index_root):
         shutil.rmtree(search_index_root)
 
-    built_count = 0
+    indexes = {}
+    unavailable_departments = []
     for department in DEPARTMENT:
         department_lecture_codes = lecture_codes.get(department)
         if department_lecture_codes is None:
+            unavailable_departments.append(department)
             continue
 
         lectures = []
@@ -383,19 +393,22 @@ def _build_search_indexes_for_base(base_path: str, api_prefix: str, lecture_code
             str(lecture.get("courseName") or ""),
             str(lecture.get("path") or ""),
         ))
-        _dump_json(
-            f"{search_index_root}/{department}.json",
-            {
-                "department": department,
-                "count": len(lectures),
-                "filters": _build_search_filter_metadata(lectures),
-                "lectures": lectures,
-            }
-        )
-        built_count += 1
+        index_path = f"{search_index_root}/{department}.json"
+        index_data = {
+            "department": department,
+            "count": len(lectures),
+            "filters": _build_search_filter_metadata(lectures),
+            "lectures": lectures,
+        }
+        _dump_json(index_path, index_data)
+        indexes[department] = {
+            "path": f"{api_prefix}/{SEARCH_INDEX_DIRECTORY}/{department}.json",
+            "count": index_data["count"],
+            "sha256": _calculate_file_sha256(index_path),
+        }
 
-    print(f"Built search indexes: {api_prefix} ({built_count} departments)")
-    return built_count > 0
+    print(f"Built search indexes: {api_prefix} ({len(indexes)} departments)")
+    return indexes, unavailable_departments
 
 def _get_archive_years() -> list[int]:
     if not os.path.isdir(ARCHIVE_ROOT):
@@ -415,10 +428,19 @@ def _build_indexes(requested_year: int | None = None) -> None:
 
     if requested_year is None:
         current_year = _get_current_academic_year()
-        _build_search_indexes_for_base(
+        indexes, unavailable_departments = _build_search_indexes_for_base(
             API_ROOT,
             "/api/v1",
             lecture_codes_by_year.get(str(current_year), {}),
+        )
+        _dump_json(
+            f"{API_ROOT}/{SEARCH_INDEX_DIRECTORY}/manifest.json",
+            {
+                "schemaVersion": 1,
+                "academicYear": current_year,
+                "indexes": indexes,
+                "unavailableDepartments": unavailable_departments,
+            },
         )
         target_years = _get_archive_years()
     else:
